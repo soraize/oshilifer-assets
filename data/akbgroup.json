@@ -1,8 +1,6 @@
 {
   "agencyId": "akbgroup",
   "agency": "AKBグループ",
-  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
-  "imageExtension": "jpg",
   "groups": [
     {
       "uuid": "A7DA2FCB-DD32-5453-830F-79583D1B2A6F",

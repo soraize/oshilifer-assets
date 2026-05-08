@@ -1,8 +1,6 @@
 {
   "agencyId": "sakamichi",
   "agency": "坂道シリーズ",
-  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
-  "imageExtension": "jpg",
   "groups": [
     {
       "uuid": "09D9C4BE-F505-5CFA-8E50-CBF578976A5D",

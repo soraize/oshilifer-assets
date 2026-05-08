@@ -1,8 +1,6 @@
 {
   "agencyId": "kawaiilab",
   "agency": "KAWAII LAB.",
-  "imageBaseURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/",
-  "imageExtension": "jpg",
   "groups": [
     {
       "uuid": "D11B1A3E-5F3F-41A6-A7F8-DCD285E8F131",

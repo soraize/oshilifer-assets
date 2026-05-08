@@ -1,0 +1,634 @@
+{
+  "agencyId": "kawaiilab",
+  "agency": "KAWAII LAB.",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "FCE736A0-E9AC-4223-B000-4E1A42FC789E",
+      "masterId": "heroines_fruits_zipper",
+      "name": "フルーツジッパー",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/FRUITS_ZIPPER",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/fruits_zipper",
+        "instagram": "https://www.instagram.com/fruits_zipper/",
+        "tiktok": "https://www.tiktok.com/@fruits_zipper",
+        "youtube": "https://www.youtube.com/@UCQG8tNnV4hKetLhMb4MopHQ"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "C8CB95C5-943D-4D41-9959-DED51707608D",
+          "masterId": "heroines_fruits_zipper_tsukiashi_amane",
+          "name": "月足天音",
+          "profileURL": "https://jpop.fandom.com/wiki/Tsukiashi_Amane",
+          "isGraduated": false,
+          "colorHex": "#C95956",
+          "birthday": "10-26",
+          "sns": {
+            "twitter": "https://x.com/amane_fz1026",
+            "instagram": "https://www.instagram.com/am1026_official/",
+            "tiktok": "https://www.tiktok.com/@am1026_official"
+          }
+        },
+        {
+          "uuid": "973886D5-784D-499A-8156-BC0631EE58B3",
+          "masterId": "heroines_fruits_zipper_matsumoto_karen",
+          "name": "松本かれん",
+          "profileURL": "https://jpop.fandom.com/wiki/Matsumoto_Karen",
+          "isGraduated": false,
+          "colorHex": "#F1AFC8",
+          "birthday": "03-28",
+          "sns": {
+            "twitter": "https://x.com/karen_fz0328",
+            "instagram": "https://www.instagram.com/__matsumotokaren/",
+            "tiktok": "https://www.tiktok.com/@__matsumotokaren"
+          }
+        },
+        {
+          "uuid": "AF3F225F-5578-4FB8-A5B9-0A0FB74475B3",
+          "masterId": "heroines_fruits_zipper_manaka_mana",
+          "name": "真中まな",
+          "profileURL": "https://jpop.fandom.com/wiki/Manaka_Mana",
+          "isGraduated": false,
+          "colorHex": "#81B8D9",
+          "birthday": "04-22",
+          "sns": {
+            "twitter": "https://x.com/manafy_fz0422",
+            "instagram": "https://www.instagram.com/manafy_baby/",
+            "tiktok": "https://www.tiktok.com/@manafy_fz0422"
+          }
+        },
+        {
+          "uuid": "6922D87D-5C48-4F12-B341-A2645A9897B7",
+          "masterId": "heroines_fruits_zipper_sakurai_yui_fruits_zipper",
+          "name": "櫻井優衣",
+          "profileURL": "https://jpop.fandom.com/wiki/Sakurai_Yui_(FRUITS_ZIPPER)",
+          "isGraduated": false,
+          "colorHex": "#84CCA8",
+          "birthday": "02-21",
+          "sns": {
+            "twitter": "https://x.com/yui_fz0221",
+            "instagram": "https://www.instagram.com/yui.sakurai_7/",
+            "tiktok": "https://www.tiktok.com/@sakuraiyui2"
+          }
+        },
+        {
+          "uuid": "8155C36A-827F-4664-B8C9-3AAD30DFA842",
+          "masterId": "heroines_fruits_zipper_hayase_noel",
+          "name": "早瀬ノエル",
+          "profileURL": "https://jpop.fandom.com/wiki/Hayase_Noel",
+          "isGraduated": false,
+          "colorHex": "#E8EA6C",
+          "birthday": "12-29",
+          "sns": {
+            "twitter": "https://x.com/noel_fz1229",
+            "instagram": "https://www.instagram.com/noel_hayase/",
+            "tiktok": "https://www.tiktok.com/@hysnl1229"
+          }
+        },
+        {
+          "uuid": "289F9384-E70F-44B7-A4DB-C33CF7762DC2",
+          "masterId": "heroines_fruits_zipper_nakagawa_luna",
+          "name": "仲川瑠夏",
+          "profileURL": "https://jpop.fandom.com/wiki/Nakagawa_Luna",
+          "isGraduated": false,
+          "colorHex": "#ABA7E6",
+          "birthday": "07-03",
+          "sns": {
+            "twitter": "https://x.com/luna_fz0703",
+            "instagram": "https://www.instagram.com/luna_7373/",
+            "tiktok": "https://www.tiktok.com/@luna_luna073"
+          }
+        },
+        {
+          "uuid": "14AB8FCF-63AE-488E-9444-487273AAA289",
+          "masterId": "heroines_fruits_zipper_chinzei_suzuka",
+          "name": "鎮西寿々歌",
+          "profileURL": "https://jpop.fandom.com/wiki/Chinzei_Suzuka",
+          "isGraduated": false,
+          "colorHex": "#F9A476",
+          "birthday": "11-24",
+          "sns": {
+            "twitter": "https://x.com/suzuka_fz1124",
+            "instagram": "https://www.instagram.com/tarasuzuka24/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A8E2B538-3023-4057-90C5-E75661974743",
+      "masterId": "heroines_candy_tune",
+      "name": "CANDY TUNE",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/CANDY_TUNE",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/CANDY_TUNE_",
+        "instagram": "https://www.instagram.com/candy__tune/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@candy_tune"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "9F185E6A-75BB-4F56-BA23-719C93615705",
+          "masterId": "heroines_candy_tune_fukuyama_rino",
+          "name": "福山梨乃",
+          "profileURL": "https://jpop.fandom.com/wiki/Fukuyama_Rino",
+          "isGraduated": false,
+          "colorHex": "#7ED1ED",
+          "birthday": "12-24",
+          "sns": {
+            "twitter": "https://x.com/rino_ct1224",
+            "instagram": "https://www.instagram.com/rinomaru_/",
+            "tiktok": "https://www.tiktok.com/@rinomaru_"
+          }
+        },
+        {
+          "uuid": "EBF48212-D537-4691-B6DD-1E2FE9843912",
+          "masterId": "heroines_candy_tune_kirihara_mizuki",
+          "name": "桐原美月",
+          "profileURL": "https://jpop.fandom.com/wiki/Kirihara_Mizuki",
+          "isGraduated": false,
+          "colorHex": "#2C73D5",
+          "birthday": "02-21",
+          "sns": {
+            "twitter": "https://x.com/mizuki_ct0221",
+            "instagram": "https://www.instagram.com/kirihara_mizuki/",
+            "tiktok": "https://www.tiktok.com/@kirihara_mizuki"
+          }
+        },
+        {
+          "uuid": "6D373DEC-0A88-4B61-B045-C6C8433D3955",
+          "masterId": "heroines_candy_tune_minami_natsu",
+          "name": "南なつ",
+          "profileURL": "https://jpop.fandom.com/wiki/Minami_Natsu",
+          "isGraduated": false,
+          "colorHex": "#ED573D",
+          "birthday": "03-17",
+          "sns": {
+            "twitter": "https://x.com/natsu_ct0317",
+            "instagram": "https://www.instagram.com/nattanntan/",
+            "tiktok": "https://www.tiktok.com/@nattanntan"
+          }
+        },
+        {
+          "uuid": "AE1BD861-2364-449C-A1B5-02748CFCCB95",
+          "masterId": "heroines_candy_tune_ogawa_nanako",
+          "name": "小川奈々子",
+          "profileURL": "https://jpop.fandom.com/wiki/Ogawa_Nanako",
+          "isGraduated": false,
+          "colorHex": "#52B0A7",
+          "birthday": "10-01",
+          "sns": {
+            "twitter": "https://x.com/nachico_ct1001",
+            "instagram": "https://www.instagram.com/__nchisan__/",
+            "tiktok": "https://www.tiktok.com/@__nachisan__"
+          }
+        },
+        {
+          "uuid": "7FDEA5A7-E81B-47E6-BE89-C8B9A3BA1F4E",
+          "masterId": "heroines_candy_tune_murakawa_bibian",
+          "name": "村川緋杏",
+          "profileURL": "https://jpop.fandom.com/wiki/Murakawa_Bibian",
+          "isGraduated": false,
+          "colorHex": "#D0608F",
+          "birthday": "12-03",
+          "sns": {
+            "twitter": "https://x.com/bibian_ct1203",
+            "instagram": "https://www.instagram.com/murakawabibiann/",
+            "tiktok": "https://www.tiktok.com/@murakawabibiann"
+          }
+        },
+        {
+          "uuid": "6AF1CED0-1A8E-475B-8515-E0EFC1AAA90F",
+          "masterId": "heroines_candy_tune_miyano_shizuka",
+          "name": "宮野静",
+          "profileURL": "https://jpop.fandom.com/wiki/Miyano_Shizuka",
+          "isGraduated": false,
+          "colorHex": "#935CC0",
+          "birthday": "05-30",
+          "sns": {
+            "twitter": "https://x.com/shizuka_ct0530",
+            "instagram": "https://www.instagram.com/myn_szk_ct/",
+            "tiktok": "https://www.tiktok.com/@miyano_shicha"
+          }
+        },
+        {
+          "uuid": "0BDD84C3-45C1-41C0-8787-2867FE27B724",
+          "masterId": "heroines_candy_tune_tachibana_kotomi",
+          "name": "立花琴未",
+          "profileURL": "https://jpop.fandom.com/wiki/Tachibana_Kotomi",
+          "isGraduated": false,
+          "colorHex": "#D44048",
+          "birthday": "05-25",
+          "sns": {
+            "twitter": "https://x.com/kotomi_ct0525",
+            "instagram": "https://www.instagram.com/kotomi_5chan/",
+            "tiktok": "https://www.tiktok.com/@kotomi_5chan"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "DC2A66B7-54C6-4C93-915D-4FB48BBDEE6A",
+      "masterId": "heroines_sweet_steady",
+      "name": "SWEET STEADY",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/SWEET_STEADY",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/SWEET_STEADY",
+        "instagram": "https://www.instagram.com/sweet_steady_/",
+        "tiktok": "https://www.tiktok.com/@sweet_steady",
+        "youtube": "https://www.youtube.com/@SWEET_STEADY"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "DDD3921A-5B45-4CCE-8891-794BC6F4D22F",
+          "masterId": "heroines_sweet_steady_okuda_ayu",
+          "name": "奥田彩友",
+          "profileURL": "https://jpop.fandom.com/wiki/Okuda_Ayu",
+          "isGraduated": false,
+          "colorHex": "#1866B1",
+          "birthday": "01-07",
+          "sns": {
+            "twitter": "https://x.com/ayu_ss0107",
+            "instagram": "https://www.instagram.com/okudaayu/",
+            "tiktok": "https://www.tiktok.com/@okudaayu"
+          }
+        },
+        {
+          "uuid": "6704A324-A927-48EE-8A7D-7FA1F493993C",
+          "masterId": "heroines_sweet_steady_otoi_yui",
+          "name": "音井結衣",
+          "profileURL": "https://jpop.fandom.com/wiki/Otoi_Yui",
+          "isGraduated": false,
+          "colorHex": "#7DCBF1",
+          "birthday": "01-09",
+          "sns": {
+            "twitter": "https://x.com/yui_ss0109",
+            "instagram": "https://www.instagram.com/otoi_yui_19/",
+            "tiktok": "https://www.tiktok.com/@otoi_yui_19"
+          }
+        },
+        {
+          "uuid": "99B6EEB1-5AA7-4D8C-80A0-B9946335A5F3",
+          "masterId": "heroines_sweet_steady_kurita_natsuka",
+          "name": "栗田なつか",
+          "profileURL": "https://jpop.fandom.com/wiki/Kurita_Natsuka",
+          "isGraduated": false,
+          "colorHex": "#F1B0CE",
+          "birthday": "07-19",
+          "sns": {
+            "twitter": "https://x.com/natsuka_ss0719",
+            "instagram": "https://www.instagram.com/n_wanwan3/",
+            "tiktok": "https://www.tiktok.com/@n_wanwan3"
+          }
+        },
+        {
+          "uuid": "BF37E655-4EEF-4355-8327-210AF052FEFF",
+          "masterId": "heroines_sweet_steady_shiokawa_rise",
+          "name": "塩川莉世",
+          "profileURL": "https://jpop.fandom.com/wiki/Shiokawa_Rise",
+          "isGraduated": false,
+          "colorHex": "#C3A0CA",
+          "birthday": "07-31",
+          "sns": {
+            "twitter": "https://x.com/rise_ss0731",
+            "instagram": "https://www.instagram.com/rise_shio/",
+            "tiktok": "https://www.tiktok.com/@rise_7"
+          }
+        },
+        {
+          "uuid": "F7575E39-9B8F-4EFA-95BB-28520EDEADA0",
+          "masterId": "heroines_sweet_steady_shoji_nagisa",
+          "name": "庄司なぎさ",
+          "profileURL": "https://jpop.fandom.com/wiki/Shoji_Nagisa",
+          "isGraduated": false,
+          "colorHex": "#EB6029",
+          "birthday": "10-29",
+          "sns": {
+            "twitter": "https://x.com/nagisa_ss1029",
+            "instagram": "https://www.instagram.com/nagyuuu_official/",
+            "tiktok": "https://www.tiktok.com/@nagyu_official"
+          }
+        },
+        {
+          "uuid": "2ECB6FDA-850B-43FB-B7FE-C471116139BE",
+          "masterId": "heroines_sweet_steady_shiraishi_mayumi",
+          "name": "白石まゆみ",
+          "profileURL": "https://jpop.fandom.com/wiki/Shiraishi_Mayumi",
+          "isGraduated": false,
+          "colorHex": "#E93B45",
+          "birthday": "12-27",
+          "sns": {
+            "twitter": "https://x.com/mayumi_ss1227",
+            "instagram": "https://www.instagram.com/mayumi.1227/",
+            "tiktok": "https://www.tiktok.com/@shiraishi_mayumi"
+          }
+        },
+        {
+          "uuid": "4976714D-8646-4070-A9BA-F64E4DD56D08",
+          "masterId": "heroines_sweet_steady_yamauchi_sakina",
+          "name": "山内咲奈",
+          "profileURL": "https://jpop.fandom.com/wiki/Yamauchi_Sakina",
+          "isGraduated": false,
+          "colorHex": "#F9CA56",
+          "birthday": "02-29",
+          "sns": {
+            "twitter": "https://x.com/sakina_ss0229",
+            "instagram": "https://www.instagram.com/sakina_yamauchi/",
+            "tiktok": "https://www.tiktok.com/@sakina_yamauchi"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "BA3E74C2-7503-491A-B8AE-992DA5488DEE",
+      "masterId": "heroines_cutie_street",
+      "name": "CUTIE STREET",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/CUTIE_STREET",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/CUTIE_STREET_",
+        "instagram": "https://www.instagram.com/cutie_street_/",
+        "tiktok": "https://www.tiktok.com/@cutie_street",
+        "youtube": "https://www.youtube.com/@UCEz-AFAg3EUKsxraad1puQA"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "7BCC7DC6-1737-490C-BA23-D0683AC22F66",
+          "masterId": "heroines_cutie_street_furusawa_risa",
+          "name": "古澤里紗",
+          "profileURL": "https://jpop.fandom.com/wiki/Furusawa_Risa",
+          "isGraduated": false,
+          "colorHex": "#FED023",
+          "birthday": "11-08",
+          "sns": {
+            "twitter": "https://x.com/risa_cs1108",
+            "instagram": "https://www.instagram.com/fuuuuu_ri/",
+            "tiktok": "https://www.tiktok.com/@fuuuuu_ri"
+          }
+        },
+        {
+          "uuid": "17F3CD75-CADA-4061-A1B8-84403B63C455",
+          "masterId": "heroines_cutie_street_sano_aika",
+          "name": "佐野愛花",
+          "profileURL": "https://jpop.fandom.com/wiki/Sano_Aika",
+          "isGraduated": false,
+          "colorHex": "#DC1F41",
+          "birthday": "11-26",
+          "sns": {
+            "twitter": "https://x.com/aika_cs1126",
+            "instagram": "https://www.instagram.com/aika.sano_official/",
+            "tiktok": "https://www.tiktok.com/@aika_sano_"
+          }
+        },
+        {
+          "uuid": "CF7472CF-0760-493C-9845-761C34DB5916",
+          "masterId": "heroines_cutie_street_itakura_kana",
+          "name": "板倉可奈",
+          "profileURL": "https://jpop.fandom.com/wiki/Itakura_Kana",
+          "isGraduated": false,
+          "colorHex": "#95CCAC",
+          "birthday": "11-11",
+          "sns": {
+            "twitter": "https://x.com/kana_cs1111",
+            "instagram": "https://www.instagram.com/kana.sii.i/",
+            "tiktok": "https://www.tiktok.com/@kana.sii.i"
+          }
+        },
+        {
+          "uuid": "40628AD7-32F9-4AFA-89F3-01A07BA9566B",
+          "masterId": "heroines_cutie_street_masuda_ayano",
+          "name": "増田彩乃",
+          "profileURL": "https://jpop.fandom.com/wiki/Masuda_Ayano",
+          "isGraduated": false,
+          "colorHex": "#0066A4",
+          "birthday": "05-26",
+          "sns": {
+            "twitter": "https://x.com/ayano_cs0526",
+            "instagram": "https://www.instagram.com/m_ayano26/",
+            "tiktok": "https://www.tiktok.com/@m_ayano26"
+          }
+        },
+        {
+          "uuid": "FA0258F2-4A05-4882-8821-95F670E914EB",
+          "masterId": "heroines_cutie_street_kawamoto_emiru",
+          "name": "川本笑瑠",
+          "profileURL": "https://jpop.fandom.com/wiki/Kawamoto_Emiru",
+          "isGraduated": false,
+          "colorHex": "#E9833E",
+          "birthday": "04-22",
+          "sns": {
+            "twitter": "https://x.com/emiru_cs0422",
+            "instagram": "https://www.instagram.com/_emiru._/",
+            "tiktok": "https://www.tiktok.com/@_emiru._"
+          }
+        },
+        {
+          "uuid": "5F1BFF0D-2DFE-43B4-8DE9-DB94D05F3C99",
+          "masterId": "heroines_cutie_street_umeda_miyu",
+          "name": "梅田みゆ",
+          "profileURL": "https://jpop.fandom.com/wiki/Umeda_Miyu",
+          "isGraduated": false,
+          "colorHex": "#5EC5E1",
+          "birthday": "09-13",
+          "sns": {
+            "twitter": "https://x.com/miyu_cs0913",
+            "instagram": "https://www.instagram.com/miyu_.0913/",
+            "tiktok": "https://www.tiktok.com/@miyu_ume"
+          }
+        },
+        {
+          "uuid": "5EBFAE99-E1D3-45EE-A696-3C739486D097",
+          "masterId": "heroines_cutie_street_manabe_nagisa",
+          "name": "真鍋凪咲",
+          "profileURL": "https://jpop.fandom.com/wiki/Manabe_Nagisa",
+          "isGraduated": false,
+          "colorHex": "#9E87AF",
+          "birthday": "06-28",
+          "sns": {
+            "twitter": "https://x.com/nagisa_cs0628",
+            "instagram": "https://www.instagram.com/nagisa_manabe/",
+            "tiktok": "https://www.tiktok.com/@nagisa_manabe"
+          }
+        },
+        {
+          "uuid": "64439303-EB6A-4742-AE21-01E54416223A",
+          "masterId": "heroines_cutie_street_sakuraba_haruka",
+          "name": "桜庭遥花",
+          "profileURL": "https://jpop.fandom.com/wiki/Sakuraba_Haruka",
+          "isGraduated": false,
+          "colorHex": "#E893B4",
+          "birthday": "01-29",
+          "sns": {
+            "twitter": "https://x.com/haruka_cs0129",
+            "instagram": "https://www.instagram.com/pa___.ru/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9C5FE051-6CA5-42FE-80AD-320DBF53591C",
+      "masterId": "heroines_more_star",
+      "name": "MORE STAR",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/MORE_STAR",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/MORE_STAR_",
+        "instagram": "https://www.instagram.com/more_star__/",
+        "tiktok": "https://www.tiktok.com/@more_star_",
+        "youtube": "https://www.youtube.com/@MORE_STAR1212"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "5FBEDC4F-31E0-4F6F-B6BF-D66F4F3B0FB7",
+          "masterId": "heroines_more_star_arai_cocona",
+          "name": "新井心菜",
+          "profileURL": "https://jpop.fandom.com/wiki/Arai_Cocona",
+          "isGraduated": false,
+          "colorHex": "#FF964F",
+          "birthday": "12-18",
+          "sns": {
+            "twitter": "https://x.com/cocona_ms1218",
+            "instagram": "https://www.instagram.com/coconadayo25/",
+            "tiktok": "https://www.tiktok.com/@coconadayo25"
+          }
+        },
+        {
+          "uuid": "A0FF7996-71DC-43DB-8B13-3E43C97E0851",
+          "masterId": "heroines_more_star_endo_marin",
+          "name": "遠藤まりん",
+          "profileURL": "https://jpop.fandom.com/wiki/Endo_Marin",
+          "isGraduated": false,
+          "colorHex": "#0000FF",
+          "birthday": "03-29",
+          "sns": {
+            "twitter": "https://x.com/marin_ms_0329",
+            "instagram": "https://www.instagram.com/endo__marin/",
+            "tiktok": "https://www.tiktok.com/@marin_____3"
+          }
+        },
+        {
+          "uuid": "99DCE030-AA25-4CBC-945E-9197BC9969DF",
+          "masterId": "heroines_more_star_sasahara_nanaka",
+          "name": "笹原なな花",
+          "profileURL": "https://jpop.fandom.com/wiki/Sasahara_Nanaka",
+          "isGraduated": false,
+          "colorHex": "#FDFD96",
+          "birthday": "07-07",
+          "sns": {
+            "twitter": "https://x.com/nanaka_ms0707",
+            "instagram": "https://www.instagram.com/nanaka_ms0707/",
+            "tiktok": "https://www.tiktok.com/@ruushia_"
+          }
+        },
+        {
+          "uuid": "8BFF435F-C786-49F5-BC8A-B68B80DD2E90",
+          "masterId": "heroines_more_star_suzuki_karin",
+          "name": "鈴木花梨",
+          "profileURL": "https://jpop.fandom.com/wiki/Suzuki_Karin",
+          "isGraduated": false,
+          "colorHex": "#98FB98",
+          "birthday": "09-10",
+          "sns": {
+            "twitter": "https://x.com/karin_KLM0910",
+            "instagram": "https://www.instagram.com/suzuki.karin0910/",
+            "tiktok": "https://www.tiktok.com/@suzuki_karin"
+          }
+        },
+        {
+          "uuid": "FD3799F8-7FED-4D5E-A601-86A2B517CCA3",
+          "masterId": "heroines_more_star_takanashi_yuna",
+          "name": "高梨ゆな",
+          "profileURL": "https://jpop.fandom.com/wiki/Takanashi_Yuna",
+          "isGraduated": false,
+          "colorHex": "#ADD8E6",
+          "birthday": "09-18",
+          "sns": {
+            "twitter": "https://x.com/yuna_ms0918",
+            "instagram": "https://www.instagram.com/yuna_takanashi/",
+            "tiktok": "https://www.tiktok.com/@yuna4_0918"
+          }
+        },
+        {
+          "uuid": "3F2A79B7-A543-4E11-81DE-0D136414E230",
+          "masterId": "heroines_more_star_nakayama_kohaku",
+          "name": "中山こはく",
+          "profileURL": "https://jpop.fandom.com/wiki/Nakayama_Kohaku",
+          "isGraduated": false,
+          "colorHex": "#C0C0C0",
+          "birthday": "07-30",
+          "sns": {
+            "twitter": "https://x.com/kohaku_ms0730",
+            "instagram": "https://www.instagram.com/kohaku_si2/",
+            "tiktok": "https://www.tiktok.com/@kohaku_si2"
+          }
+        },
+        {
+          "uuid": "0C299E45-E69D-448B-BCED-243C631EF032",
+          "masterId": "heroines_more_star_hagita_sora",
+          "name": "萩田そら",
+          "profileURL": "https://jpop.fandom.com/wiki/Hagita_Sora",
+          "isGraduated": false,
+          "colorHex": "#C3B1E1",
+          "birthday": "08-16",
+          "sns": {
+            "twitter": "https://x.com/sora_ms0816",
+            "instagram": "https://www.instagram.com/hagita_sora_/",
+            "tiktok": "https://www.tiktok.com/@hagita_sora_"
+          }
+        },
+        {
+          "uuid": "4FE25BF6-884D-4B3C-B986-8A420B337BBE",
+          "masterId": "heroines_more_star_morita_ami",
+          "name": "森田あみ",
+          "profileURL": "https://jpop.fandom.com/wiki/Morita_Ami",
+          "isGraduated": false,
+          "colorHex": "#FFC5D3",
+          "birthday": "02-06",
+          "sns": {
+            "twitter": "https://x.com/ami_ms0206",
+            "instagram": "https://www.instagram.com/ami__morita/",
+            "tiktok": "https://www.tiktok.com/@ami_morita_"
+          }
+        },
+        {
+          "uuid": "9A3E42CC-DA94-4127-9C65-EAFAED95C041",
+          "masterId": "heroines_more_star_yamamoto_rushia",
+          "name": "山本るしあ",
+          "profileURL": "https://jpop.fandom.com/wiki/Yamamoto_Rushia",
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "10-13",
+          "sns": {
+            "twitter": "https://x.com/rushia_ms1013",
+            "instagram": "https://www.instagram.com/ruushia_/",
+            "tiktok": "https://www.tiktok.com/@ruushia_"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -21,7 +21,9 @@
           "masterId": "stardust_momoiro_clover_z_momotakanako",
           "name": "百田夏菜子",
           "isGraduated": false,
-          "colorHex": "#FF3300",
+          "colorHex": [
+            "#FF3300"
+          ],
           "birthday": "07-12",
           "sns": {
             "twitter": null,
@@ -35,7 +37,9 @@
           "masterId": "stardust_momoiro_clover_z_tamaishiori",
           "name": "玉井詩織",
           "isGraduated": false,
-          "colorHex": "#FFCC33",
+          "colorHex": [
+            "#FFCC33"
+          ],
           "birthday": "06-04",
           "sns": {
             "twitter": null,
@@ -49,7 +53,9 @@
           "masterId": "stardust_momoiro_clover_z_sasakiayaka",
           "name": "佐々木彩夏",
           "isGraduated": false,
-          "colorHex": "#FF98CC",
+          "colorHex": [
+            "#FF98CC"
+          ],
           "birthday": "06-11",
           "sns": {
             "twitter": null,
@@ -63,7 +69,9 @@
           "masterId": "stardust_momoiro_clover_z_takagireni",
           "name": "高城れに",
           "isGraduated": false,
-          "colorHex": "#A757A8",
+          "colorHex": [
+            "#A757A8"
+          ],
           "birthday": "06-21",
           "sns": {
             "twitter": null,
@@ -94,7 +102,9 @@
           "masterId": "stardust_cho_tokimeki_sendenbu_tsujinokanami",
           "name": "辻野かなみ",
           "isGraduated": false,
-          "colorHex": "#66CCFF",
+          "colorHex": [
+            "#66CCFF"
+          ],
           "birthday": "06-02",
           "sns": {
             "twitter": null,
@@ -108,7 +118,9 @@
           "masterId": "stardust_cho_tokimeki_sendenbu_koizumiharuka",
           "name": "小泉遥香",
           "isGraduated": false,
-          "colorHex": "#FF5CC3",
+          "colorHex": [
+            "#FF5CC3"
+          ],
           "birthday": "01-05",
           "sns": {
             "twitter": null,
@@ -122,7 +134,9 @@
           "masterId": "stardust_cho_tokimeki_sendenbu_sakaihitoka",
           "name": "坂井仁香",
           "isGraduated": false,
-          "colorHex": "#E3304E",
+          "colorHex": [
+            "#E3304E"
+          ],
           "birthday": "07-25",
           "sns": {
             "twitter": null,
@@ -136,7 +150,9 @@
           "masterId": "stardust_cho_tokimeki_sendenbu_yoshikawahiyori",
           "name": "吉川ひより",
           "isGraduated": false,
-          "colorHex": "#84F086",
+          "colorHex": [
+            "#84F086"
+          ],
           "birthday": "08-12",
           "sns": {
             "twitter": null,
@@ -150,7 +166,9 @@
           "masterId": "stardust_cho_tokimeki_sendenbu_sudaaki",
           "name": "菅田愛貴",
           "isGraduated": false,
-          "colorHex": "#F9FF59",
+          "colorHex": [
+            "#F9FF59"
+          ],
           "birthday": "12-20",
           "sns": {
             "twitter": null,
@@ -181,7 +199,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_mayamarika",
           "name": "真山りか",
           "isGraduated": false,
-          "colorHex": "#800080",
+          "colorHex": [
+            "#800080"
+          ],
           "birthday": "12-16",
           "sns": {
             "twitter": "https://twitter.com/ebichu_staff",
@@ -195,7 +215,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_yasumotoayaka",
           "name": "安本彩花",
           "isGraduated": false,
-          "colorHex": "#008000",
+          "colorHex": [
+            "#008000"
+          ],
           "birthday": "06-27",
           "sns": {
             "twitter": null,
@@ -209,7 +231,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_nakayamariko",
           "name": "中山莉子",
           "isGraduated": false,
-          "colorHex": "#00BFFF",
+          "colorHex": [
+            "#00BFFF"
+          ],
           "birthday": "10-28",
           "sns": {
             "twitter": "https://twitter.com/ebichu_staff",
@@ -223,7 +247,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_sakuragicocona",
           "name": "桜木心菜",
           "isGraduated": false,
-          "colorHex": "#FF0000",
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "09-14",
           "sns": {
             "twitter": null,
@@ -237,7 +263,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_kokuboyuno",
           "name": "小久保柚乃",
           "isGraduated": false,
-          "colorHex": "#90C132",
+          "colorHex": [
+            "#90C132"
+          ],
           "birthday": "03-20",
           "sns": {
             "twitter": "https://twitter.com/ebichu_staff",
@@ -251,7 +279,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_kazaminonoka",
           "name": "風見和香",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "08-25",
           "sns": {
             "twitter": "https://twitter.com/ebichu_staff",
@@ -265,7 +295,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_sakuraiemma",
           "name": "桜井えま",
           "isGraduated": false,
-          "colorHex": "#F8C46E",
+          "colorHex": [
+            "#F8C46E"
+          ],
           "birthday": "09-05",
           "sns": {
             "twitter": "https://twitter.com/ebichu_staff",
@@ -279,7 +311,9 @@
           "masterId": "stardust_shiritsu_ebisu_chugaku_nakamurayuna",
           "name": "仲村悠菜",
           "isGraduated": false,
-          "colorHex": "#DAC4AA",
+          "colorHex": [
+            "#DAC4AA"
+          ],
           "birthday": "05-29",
           "sns": {
             "twitter": "https://twitter.com/ebichu_staff",
@@ -310,7 +344,9 @@
           "masterId": "stardust_iginari_tohokusan_tachibanakaren",
           "name": "橘花怜",
           "isGraduated": false,
-          "colorHex": "#FF69A3",
+          "colorHex": [
+            "#FF69A3"
+          ],
           "birthday": "10-21",
           "sns": {
             "twitter": null,
@@ -324,7 +360,9 @@
           "masterId": "stardust_iginari_tohokusan_ristukihikaru",
           "name": "律月ひかる",
           "isGraduated": false,
-          "colorHex": "#FFFFFF",
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "07-31",
           "sns": {
             "twitter": null,
@@ -338,7 +376,9 @@
           "masterId": "stardust_iginari_tohokusan_kitamirine",
           "name": "北美梨寧",
           "isGraduated": false,
-          "colorHex": "#800080",
+          "colorHex": [
+            "#800080"
+          ],
           "birthday": "05-28",
           "sns": {
             "twitter": null,
@@ -352,7 +392,9 @@
           "masterId": "stardust_iginari_tohokusan_yasumoriwaka",
           "name": "安杜羽加",
           "isGraduated": false,
-          "colorHex": "#FFFF00",
+          "colorHex": [
+            "#FFFF00"
+          ],
           "birthday": "10-30",
           "sns": {
             "twitter": null,
@@ -366,7 +408,9 @@
           "masterId": "stardust_iginari_tohokusan_kichiseshinjyu",
           "name": "吉瀬真珠",
           "isGraduated": false,
-          "colorHex": "#008000",
+          "colorHex": [
+            "#008000"
+          ],
           "birthday": "06-22",
           "sns": {
             "twitter": null,
@@ -380,7 +424,9 @@
           "masterId": "stardust_iginari_tohokusan_sakurahinano",
           "name": "桜ひなの",
           "isGraduated": false,
-          "colorHex": "#FFA500",
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": "05-06",
           "sns": {
             "twitter": null,
@@ -394,7 +440,9 @@
           "masterId": "stardust_iginari_tohokusan_fujitanimiu",
           "name": "藤谷美海",
           "isGraduated": false,
-          "colorHex": "#00FFFF",
+          "colorHex": [
+            "#00FFFF"
+          ],
           "birthday": "03-09",
           "sns": {
             "twitter": null,
@@ -408,7 +456,9 @@
           "masterId": "stardust_iginari_tohokusan_datekaya",
           "name": "伊達花彩",
           "isGraduated": false,
-          "colorHex": "#FF0000",
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "03-21",
           "sns": {
             "twitter": null,
@@ -422,7 +472,9 @@
           "masterId": "stardust_iginari_tohokusan_hazukiyuna",
           "name": "葉月結菜",
           "isGraduated": false,
-          "colorHex": "#0000FF",
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": "09-15",
           "sns": {
             "twitter": null,
@@ -453,7 +505,9 @@
           "masterId": "stardust_batten_girls_kiyamaai",
           "name": "希山愛",
           "isGraduated": false,
-          "colorHex": "#228B22",
+          "colorHex": [
+            "#228B22"
+          ],
           "birthday": "01-10",
           "sns": {
             "twitter": "https://x.com/kiyamaai_BG",
@@ -467,7 +521,9 @@
           "masterId": "stardust_batten_girls_uedariko",
           "name": "上田理子",
           "isGraduated": false,
-          "colorHex": "#FF0000",
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "11-26",
           "sns": {
             "twitter": "https://x.com/uedariko_BG",
@@ -481,7 +537,9 @@
           "masterId": "stardust_batten_girls_harunokiina",
           "name": "春乃きいな",
           "isGraduated": false,
-          "colorHex": "#FFD700",
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "07-18",
           "sns": {
             "twitter": "https://x.com/harunokiina_BG",
@@ -495,7 +553,9 @@
           "masterId": "stardust_batten_girls_aoirirua",
           "name": "蒼井りるあ",
           "isGraduated": false,
-          "colorHex": "#EE82EE",
+          "colorHex": [
+            "#EE82EE"
+          ],
           "birthday": "12-10",
           "sns": {
             "twitter": "https://x.com/aoirirua_BG",
@@ -509,7 +569,9 @@
           "masterId": "stardust_batten_girls_yanagimiyu",
           "name": "柳美舞",
           "isGraduated": false,
-          "colorHex": "#87CEFA",
+          "colorHex": [
+            "#87CEFA"
+          ],
           "birthday": "05-10",
           "sns": {
             "twitter": null,
@@ -523,7 +585,9 @@
           "masterId": "stardust_batten_girls_airimiu",
           "name": "逢里みう",
           "isGraduated": false,
-          "colorHex": "#A09BD8",
+          "colorHex": [
+            "#A09BD8"
+          ],
           "birthday": "06-07",
           "sns": {
             "twitter": null,
@@ -537,7 +601,9 @@
           "masterId": "stardust_batten_girls_hinamikokona",
           "name": "日南心那",
           "isGraduated": false,
-          "colorHex": "#0067C0",
+          "colorHex": [
+            "#0067C0"
+          ],
           "birthday": "08-30",
           "sns": {
             "twitter": null,

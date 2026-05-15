@@ -179,10 +179,12 @@
       "members": [
         {
           "uuid": "478F288C-D7F4-5C95-871D-5006652F2FF2",
-          "masterId": "twin_planet_karenna_ivory_nanasa_odagiri",
-          "name": "小田桐ななさ",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_nanasa_odagiri",
+                    "name": "小田桐ななさ",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#EE7800"
+                    ],
           "birthday": "07-21",
           "sns": {
             "twitter": null,
@@ -193,10 +195,12 @@
         },
         {
           "uuid": "E9AC22B4-0E55-5F55-9FE3-09A05F68E6AC",
-          "masterId": "twin_planet_karenna_ivory_yuria_takazawa",
-          "name": "高澤百合愛",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_yuria_takazawa",
+                    "name": "高澤百合愛",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#FF1493"
+                    ],
           "birthday": "04-08",
           "sns": {
             "twitter": null,
@@ -207,10 +211,12 @@
         },
         {
           "uuid": "6F82A330-75CD-56D1-BB0A-EB5050D8088C",
-          "masterId": "twin_planet_karenna_ivory_remi_tsuchiya",
-          "name": "土屋玲実",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_remi_tsuchiya",
+                    "name": "土屋玲実",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#008000"
+                    ],
           "birthday": "02-19",
           "sns": {
             "twitter": null,
@@ -221,10 +227,12 @@
         },
         {
           "uuid": "E48AEE53-D99C-5D66-A52B-51672194F583",
-          "masterId": "twin_planet_karenna_ivory_rie_teramoto",
-          "name": "寺本理絵",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_rie_teramoto",
+                    "name": "寺本理絵",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#FF0000"
+                    ],
           "birthday": "03-24",
           "sns": {
             "twitter": null,
@@ -235,10 +243,12 @@
         },
         {
           "uuid": "B1962F01-5655-5420-9BC7-48A0133B70E0",
-          "masterId": "twin_planet_karenna_ivory_rio_nagao",
-          "name": "永尾梨央",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_rio_nagao",
+                    "name": "永尾梨央",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#0000FF"
+                    ],
           "birthday": "06-15",
           "sns": {
             "twitter": null,
@@ -249,10 +259,12 @@
         },
         {
           "uuid": "44319CF7-12B9-5831-B2F7-7DBE86EF792D",
-          "masterId": "twin_planet_karenna_ivory_miharu_hazama",
-          "name": "波左間美晴",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_miharu_hazama",
+                    "name": "波左間美晴",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#FFC0CB"
+                    ],
           "birthday": "04-27",
           "sns": {
             "twitter": null,
@@ -263,10 +275,12 @@
         },
         {
           "uuid": "88BDE141-CD11-5CA8-BB92-D2BDA7E34598",
-          "masterId": "twin_planet_karenna_ivory_hinata_fukuda",
-          "name": "福田ひなた",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_hinata_fukuda",
+                    "name": "福田ひなた",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#FFF100"
+                    ],
           "birthday": "09-14",
           "sns": {
             "twitter": null,
@@ -277,10 +291,12 @@
         },
         {
           "uuid": "936CD5B6-A661-59EB-8613-2CB011D73275",
-          "masterId": "twin_planet_karenna_ivory_nao_ichinose",
-          "name": "一ノ瀬直緒",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_nao_ichinose",
+                    "name": "一ノ瀬直緒",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#65BBE9"
+                    ],
           "birthday": "09-08",
           "sns": {
             "twitter": null,
@@ -291,10 +307,12 @@
         },
         {
           "uuid": "6EA5118D-8BE9-5BF7-9563-A75D5FAC5E56",
-          "masterId": "twin_planet_karenna_ivory_cocoyu_kawai",
-          "name": "河合ここゆ",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_cocoyu_kawai",
+                    "name": "河合ここゆ",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#ADFF2F"
+                    ],
           "birthday": "09-05",
           "sns": {
             "twitter": null,
@@ -305,10 +323,12 @@
         },
         {
           "uuid": "9B08FBDC-6D6F-5D6D-AC6C-E1793D03DA95",
-          "masterId": "twin_planet_karenna_ivory_miku_tachibana",
-          "name": "橘美空",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_miku_tachibana",
+                    "name": "橘美空",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#9768B9"
+                    ],
           "birthday": "11-11",
           "sns": {
             "twitter": null,
@@ -319,10 +339,12 @@
         },
         {
           "uuid": "9361F643-921B-5B8B-B427-BE227CEEA09C",
-          "masterId": "twin_planet_karenna_ivory_yura_nishihara",
-          "name": "西原悠桜",
-          "isGraduated": false,
-          "colorHex": null,
+                    "masterId": "twin_planet_karenna_ivory_yura_nishihara",
+                    "name": "西原悠桜",
+                    "isGraduated": false,
+                    "colorHex": [
+                        "#89C997"
+                    ],
           "birthday": "11-26",
           "sns": {
             "twitter": null,

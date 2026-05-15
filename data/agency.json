@@ -33,5 +33,10 @@
     "agencyId": "stardust",
     "name": "スターダスト系",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stardust.json"
+  },
+  {
+    "agencyId": "twin_planet",
+    "name": "TWIN PLANET",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/twin_planet.json"
   }
 ]

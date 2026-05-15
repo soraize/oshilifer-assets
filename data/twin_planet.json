@@ -1,0 +1,433 @@
+{
+  "agencyId": "twin_planet",
+  "agency": "TWIN PLANET",
+  "groups": [
+    {
+      "uuid": "288B919F-09B9-5434-B585-406299A48921",
+      "masterId": "twin_planet_takane_no_nadeshiko",
+      "name": "高嶺のなでしこ",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/takanenofficial",
+        "instagram": "https://www.instagram.com/takanenofficial/",
+        "tiktok": "https://www.tiktok.com/@takanenofficial",
+        "youtube": "https://www.youtube.com/channel/UCoR4zZDvWvUIqgEWz4HS-sA"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "CE41C59C-6AF8-5781-9D79-5953ADFBFFD1",
+          "masterId": "twin_planet_takane_no_nadeshiko_nao_kizuki",
+          "name": "城月 菜央",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/nao_kizuki",
+            "instagram": "https://www.instagram.com/nao_kizuki_/",
+            "tiktok": "https://www.tiktok.com/@nao_kizuki"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/nao_kizuki/"
+        },
+        {
+          "uuid": "687537DD-6375-5FBE-AC8E-5952FE6FBC3D",
+          "masterId": "twin_planet_takane_no_nadeshiko_su_suzumi",
+          "name": "涼海 すう",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/su_suzumi_",
+            "instagram": "https://www.instagram.com/su_suzumi_/",
+            "tiktok": "https://www.tiktok.com/@suu._.suu"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/su_suzumi/"
+        },
+        {
+          "uuid": "9AFF29B4-4C42-5E7E-BC84-459836DDD9C3",
+          "masterId": "twin_planet_takane_no_nadeshiko_momoko_hashimoto",
+          "name": "橋本 桃呼",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/MomokoHashimoto",
+            "instagram": "https://www.instagram.com/momoko__3628/",
+            "tiktok": "https://www.tiktok.com/@momoko_hashimoto"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/momoko_hashimoto/"
+        },
+        {
+          "uuid": "B5F2DE0B-1386-5856-97CB-4E3B57292235",
+          "masterId": "twin_planet_takane_no_nadeshiko_saara_hazuki",
+          "name": "葉月 紗蘭",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/saara_hazuki",
+            "instagram": "https://www.instagram.com/saara_hazuki/",
+            "tiktok": "https://www.tiktok.com/@saara_hazuki"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/saara_hazuki/"
+        },
+        {
+          "uuid": "9036BBF1-1202-5B0C-9500-00B70159254E",
+          "masterId": "twin_planet_takane_no_nadeshiko_erisa_higashiyama",
+          "name": "東山 恵里沙",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/erisahigasiyama",
+            "instagram": "https://www.instagram.com/erisa_higashiyama/",
+            "tiktok": "https://www.tiktok.com/@erisahigasiyama"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/erisa_higashiyama/"
+        },
+        {
+          "uuid": "D8A33985-828E-574A-B006-6F9D512B9A23",
+          "masterId": "twin_planet_takane_no_nadeshiko_hina_hinahata",
+          "name": "日向端 ひな",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/hina_hinahata",
+            "instagram": "https://www.instagram.com/hinatama18",
+            "tiktok": "https://www.tiktok.com/@hinatam_18"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/hina_hinahata/"
+        },
+        {
+          "uuid": "25E17737-9B88-5BA6-B25D-EFB89FB69FED",
+          "masterId": "twin_planet_takane_no_nadeshiko_mikuru_hoshitani",
+          "name": "星谷 美来",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/mikuru_hositani",
+            "instagram": "https://www.instagram.com/mikuru_1106/",
+            "tiktok": "https://www.tiktok.com/@mikurun33/"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/mikuru_hoshitani/"
+        },
+        {
+          "uuid": "32253C0F-C6CA-50FA-91FD-242F7AC0E445",
+          "masterId": "twin_planet_takane_no_nadeshiko_momona_matsumoto",
+          "name": "松本 ももな",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/momonamatsumoto",
+            "instagram": "https://www.instagram.com/momona.1012/",
+            "tiktok": "https://www.tiktok.com/@momona.1012"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/momona_matsumoto/"
+        },
+        {
+          "uuid": "CA17C43B-47E3-5A9A-A59A-227634E71063",
+          "masterId": "twin_planet_takane_no_nadeshiko_himeri_momiyama",
+          "name": "籾山 ひめり",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://mobile.twitter.com/himeri_momiyama",
+            "instagram": "https://www.instagram.com/momichan_hime/",
+            "tiktok": "https://www.tiktok.com/@momichan_hime/"
+          },
+          "profileURL": "https://takanenonadeshiko.jp/himeri_momiyama/"
+        }
+      ],
+      "profileURL": "https://takanenonadeshiko.jp/"
+    },
+    {
+      "uuid": "66A684F2-8A75-53C7-AF7E-1E4C0554565B",
+      "masterId": "twin_planet_karenna_ivory",
+      "name": "可憐なアイボリー",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "478F288C-D7F4-5C95-871D-5006652F2FF2",
+          "masterId": "twin_planet_karenna_ivory_nanasa_odagiri",
+          "name": "小田桐ななさ",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "E9AC22B4-0E55-5F55-9FE3-09A05F68E6AC",
+          "masterId": "twin_planet_karenna_ivory_yuria_takazawa",
+          "name": "高澤百合愛",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "6F82A330-75CD-56D1-BB0A-EB5050D8088C",
+          "masterId": "twin_planet_karenna_ivory_remi_tsuchiya",
+          "name": "土屋玲実",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "E48AEE53-D99C-5D66-A52B-51672194F583",
+          "masterId": "twin_planet_karenna_ivory_rie_teramoto",
+          "name": "寺本理絵",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "B1962F01-5655-5420-9BC7-48A0133B70E0",
+          "masterId": "twin_planet_karenna_ivory_rio_nagao",
+          "name": "永尾梨央",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "44319CF7-12B9-5831-B2F7-7DBE86EF792D",
+          "masterId": "twin_planet_karenna_ivory_miharu_hazama",
+          "name": "波左間美晴",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "88BDE141-CD11-5CA8-BB92-D2BDA7E34598",
+          "masterId": "twin_planet_karenna_ivory_hinata_fukuda",
+          "name": "福田ひなた",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "936CD5B6-A661-59EB-8613-2CB011D73275",
+          "masterId": "twin_planet_karenna_ivory_nao_ichinose",
+          "name": "一ノ瀬直緒",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "6EA5118D-8BE9-5BF7-9563-A75D5FAC5E56",
+          "masterId": "twin_planet_karenna_ivory_cocoyu_kawai",
+          "name": "河合ここゆ",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "9B08FBDC-6D6F-5D6D-AC6C-E1793D03DA95",
+          "masterId": "twin_planet_karenna_ivory_miku_tachibana",
+          "name": "橘美空",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "9361F643-921B-5B8B-B427-BE227CEEA09C",
+          "masterId": "twin_planet_karenna_ivory_yura_nishihara",
+          "name": "西原悠桜",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        }
+      ],
+      "profileURL": "https://karennaivory.jp/profile/"
+    },
+    {
+      "uuid": "671EA1AA-6D0B-5FA2-AFC4-99CD71A7FD88",
+      "masterId": "twin_planet_dramatic_record",
+      "name": "ドラマチックレコード",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/DMRC_info",
+        "instagram": "https://www.instagram.com/dmrc_official/",
+        "tiktok": "https://www.tiktok.com/@dmrc_official",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "948B8028-9D01-57F0-9383-544660640F58",
+          "masterId": "twin_planet_dramatic_record_nii_ayumi",
+          "name": "新居歩美",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "E1D35ACC-58F7-5AA2-9DA1-D3293764994F",
+          "masterId": "twin_planet_dramatic_record_takanashi_arisa",
+          "name": "高梨有咲",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "C3F49A0A-345E-5547-BD41-3FE9856FFAC7",
+          "masterId": "twin_planet_dramatic_record_kasai_shiori",
+          "name": "河西栞",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "0B9DBF2D-0117-5504-8F11-FA6CBD9290F9",
+          "masterId": "twin_planet_dramatic_record_ono_riri",
+          "name": "小野莉々",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "60738FB8-86DA-5026-83C7-FCDFADFAD3CC",
+          "masterId": "twin_planet_dramatic_record_oguri_miyuu",
+          "name": "小栗美結",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        },
+        {
+          "uuid": "5C08E7E0-12E6-5B73-A930-E9FA6F978898",
+          "masterId": "twin_planet_dramatic_record_matsumoto_meru",
+          "name": "松本芽留",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": null
+        }
+      ],
+      "profileURL": "https://dmrc.me/"
+    }
+  ]
+}

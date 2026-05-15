@@ -652,6 +652,159 @@
         }
       ],
       "profileURL": "https://appare-official.jp/profiles"
+    },
+    {
+      "uuid": "5E1D76F8-34EC-5238-A855-23A9DC6677D2",
+      "masterId": "other_idols_neo_japonism",
+      "name": "NEO JAPONISM",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "25522D1A-EBE8-5C11-A12B-96EE76B0DED9",
+      "masterId": "other_idols_devil_anthem",
+      "name": "Devil ANTHEM.",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "F82B42B0-9CA1-531D-9C3A-2AC1B60C1B85",
+      "masterId": "other_idols_title_mitei",
+      "name": "タイトル未定",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "8DB1F5D0-2289-59EF-BF7E-B0897D2B64D0",
+      "masterId": "other_idols_yosugala",
+      "name": "yosugala",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "3A7B7A1D-A55F-5A5E-93D9-EC67CD89FD2B",
+      "masterId": "other_idols_eisei_to_karatea",
+      "name": "衛星とカラテア",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "CE02B8E5-689C-5086-BD74-2ABB9739B2F1",
+      "masterId": "other_idols_nanimono",
+      "name": "NANIMONO",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "924CA1B5-7B47-5CA5-9385-1C8664587B22",
+      "masterId": "other_idols_sweet_alley",
+      "name": "Sweet Alley",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "567DA070-01E7-573B-B264-EFC71E2178EE",
+      "masterId": "other_idols_namidairo_no_keshigomu",
+      "name": "なみだ色の消しごむ",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
+    },
+    {
+      "uuid": "5D14B4FB-AB7E-5B0C-B010-937E31A0EB7D",
+      "masterId": "other_idols_rough_x_laugh",
+      "name": "ラフ×ラフ",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [],
+      "profileURL": null
     }
   ]
 }

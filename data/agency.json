@@ -28,5 +28,10 @@
     "agencyId": "hello_project",
     "name": "ハロー！プロジェクト",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/hello_project.json"
+  },
+  {
+    "agencyId": "stardust",
+    "name": "スターダスト系",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stardust.json"
   }
 ]

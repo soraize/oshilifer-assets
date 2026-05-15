@@ -1,0 +1,553 @@
+{
+  "agencyId": "stardust",
+  "agency": "スターダスト系",
+  "groups": [
+    {
+      "uuid": "34BFBCA2-8FD5-5765-B588-730E3A3D9070",
+      "masterId": "stardust_momoiro_clover_z",
+      "name": "ももいろクローバーZ",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/mcz517_official",
+        "instagram": "https://www.instagram.com/mcz517_official/",
+        "tiktok": "https://www.tiktok.com/@mcz517_official/",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "EF869359-798E-505C-A3AF-FCE48C786D99",
+          "masterId": "stardust_momoiro_clover_z_momotakanako",
+          "name": "百田夏菜子",
+          "isGraduated": false,
+          "colorHex": "#FF3300",
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kanakomomota_official/",
+            "tiktok": null
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/momotakanako/"
+        },
+        {
+          "uuid": "36DB9907-0706-5605-8F53-FF10D27E2CCC",
+          "masterId": "stardust_momoiro_clover_z_tamaishiori",
+          "name": "玉井詩織",
+          "isGraduated": false,
+          "colorHex": "#FFCC33",
+          "birthday": "06-04",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shioritamai_official/",
+            "tiktok": null
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/tamaishiori/"
+        },
+        {
+          "uuid": "A84B446B-5D0E-55F2-B045-57B26CABB71B",
+          "masterId": "stardust_momoiro_clover_z_sasakiayaka",
+          "name": "佐々木彩夏",
+          "isGraduated": false,
+          "colorHex": "#FF98CC",
+          "birthday": "06-11",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ayaka_sasaki_official/?utm_medium=copy_link",
+            "tiktok": null
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/sasakiayaka/"
+        },
+        {
+          "uuid": "D435916F-16A6-5A48-ABDF-12A360532469",
+          "masterId": "stardust_momoiro_clover_z_takagireni",
+          "name": "高城れに",
+          "isGraduated": false,
+          "colorHex": "#A757A8",
+          "birthday": "06-21",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/takagireni_official/",
+            "tiktok": "https://www.tiktok.com/@reni_takagi"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/takagireni/"
+        }
+      ],
+      "profileURL": "https://www.stardust.co.jp/talent/starplanet/momoclo/"
+    },
+    {
+      "uuid": "FB7E56A2-ACD2-5801-B716-9383F5CF2749",
+      "masterId": "stardust_cho_tokimeki_sendenbu",
+      "name": "超ときめき♡宣伝部",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/sendenbu_staff",
+        "instagram": "https://www.instagram.com/tokisen_sd",
+        "tiktok": "https://www.tiktok.com/@tokisen_official",
+        "youtube": "https://www.youtube.com/channel/UCPO-HYS3fdDIKlMMgpcCzdg"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "FE46070E-9ADC-5D2F-B12C-88A71F522484",
+          "masterId": "stardust_cho_tokimeki_sendenbu_tsujinokanami",
+          "name": "辻野かなみ",
+          "isGraduated": false,
+          "colorHex": "#66CCFF",
+          "birthday": "06-02",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kanami_tsujino_official/",
+            "tiktok": "https://www.tiktok.com/@kanami_tsujino_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/tsujinokanami/"
+        },
+        {
+          "uuid": "8968E297-CB93-5942-A1E9-A623058E8433",
+          "masterId": "stardust_cho_tokimeki_sendenbu_koizumiharuka",
+          "name": "小泉遥香",
+          "isGraduated": false,
+          "colorHex": "#FF5CC3",
+          "birthday": "01-05",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/haruka_koizumi_official/",
+            "tiktok": "https://www.tiktok.com/@haruka_koizumi_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/koizumiharuka/"
+        },
+        {
+          "uuid": "67A8CD55-1124-5847-A452-1329F79C3BAE",
+          "masterId": "stardust_cho_tokimeki_sendenbu_sakaihitoka",
+          "name": "坂井仁香",
+          "isGraduated": false,
+          "colorHex": "#E3304E",
+          "birthday": "07-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/accounts/login/?next=/hitoka_sakai_official/",
+            "tiktok": "https://vt.tiktok.com/ZSdACEVJ8/"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/sakaihitoka/"
+        },
+        {
+          "uuid": "9A01382B-588A-5E60-9604-CDB104B9A895",
+          "masterId": "stardust_cho_tokimeki_sendenbu_yoshikawahiyori",
+          "name": "吉川ひより",
+          "isGraduated": false,
+          "colorHex": "#84F086",
+          "birthday": "08-12",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hiyori_yoshikawa_official/",
+            "tiktok": "https://www.tiktok.com/@hiyoriyoshikawa_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/yoshikawahiyori/"
+        },
+        {
+          "uuid": "9A328939-1D01-5918-A1C2-F494D2034D66",
+          "masterId": "stardust_cho_tokimeki_sendenbu_sudaaki",
+          "name": "菅田愛貴",
+          "isGraduated": false,
+          "colorHex": "#F9FF59",
+          "birthday": "12-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/akisudaofficial/",
+            "tiktok": "https://www.tiktok.com/@akisudaofficial"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/sudaaki/"
+        }
+      ],
+      "profileURL": "https://www.stardust.co.jp/talent/section3/sendenbu/"
+    },
+    {
+      "uuid": "AD097F6F-58FE-52C4-8C50-C4F21230535B",
+      "masterId": "stardust_shiritsu_ebisu_chugaku",
+      "name": "私立恵比寿中学",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ebichu_staff",
+        "instagram": "https://www.instagram.com/shiritsuebisuchugaku/",
+        "tiktok": "https://www.tiktok.com/@ebichu_official",
+        "youtube": "https://www.youtube.com/ebichusmej"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "4AEB3D22-64BF-5105-9694-4E53E20C59E9",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_mayamarika",
+          "name": "真山りか",
+          "isGraduated": false,
+          "colorHex": "#800080",
+          "birthday": "12-16",
+          "sns": {
+            "twitter": "https://twitter.com/ebichu_staff",
+            "instagram": "https://www.instagram.com/ma_yama_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/mayamarika/"
+        },
+        {
+          "uuid": "9AF835A0-BD3A-549D-96CB-C273DEE66857",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_yasumotoayaka",
+          "name": "安本彩花",
+          "isGraduated": false,
+          "colorHex": "#008000",
+          "birthday": "06-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yasumoto_ayaka_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/yasumotoayaka/"
+        },
+        {
+          "uuid": "FE9EBFF5-3E70-553E-92AF-D8252B61AA9E",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_nakayamariko",
+          "name": "中山莉子",
+          "isGraduated": false,
+          "colorHex": "#00BFFF",
+          "birthday": "10-28",
+          "sns": {
+            "twitter": "https://twitter.com/ebichu_staff",
+            "instagram": "https://www.instagram.com/nakayama_riko_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/nakayamariko/"
+        },
+        {
+          "uuid": "0AF0288F-CF92-53C7-B477-8EF59CEADD09",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_sakuragicocona",
+          "name": "桜木心菜",
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sakuragi_cocona_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/sakuragicocona/"
+        },
+        {
+          "uuid": "C1B7F086-6BE2-5323-9745-E7EB51C7D48C",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_kokuboyuno",
+          "name": "小久保柚乃",
+          "isGraduated": false,
+          "colorHex": "#90C132",
+          "birthday": "03-20",
+          "sns": {
+            "twitter": "https://twitter.com/ebichu_staff",
+            "instagram": "https://www.instagram.com/kokubo_yuno_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/kokuboyuno/"
+        },
+        {
+          "uuid": "A8CB9E31-A30E-56DF-AC4C-3AB56F6302B9",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_kazaminonoka",
+          "name": "風見和香",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "08-25",
+          "sns": {
+            "twitter": "https://twitter.com/ebichu_staff",
+            "instagram": "https://www.instagram.com/nonoka_kazami_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/kazaminonoka/"
+        },
+        {
+          "uuid": "0012A4D8-B4CD-5399-887D-7D830B169F17",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_sakuraiemma",
+          "name": "桜井えま",
+          "isGraduated": false,
+          "colorHex": "#F8C46E",
+          "birthday": "09-05",
+          "sns": {
+            "twitter": "https://twitter.com/ebichu_staff",
+            "instagram": "https://www.instagram.com/emma_sakurai_official/",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/sakuraiemma/"
+        },
+        {
+          "uuid": "F24F7B6A-133C-5357-AF85-8899364D723D",
+          "masterId": "stardust_shiritsu_ebisu_chugaku_nakamurayuna",
+          "name": "仲村悠菜",
+          "isGraduated": false,
+          "colorHex": "#DAC4AA",
+          "birthday": "05-29",
+          "sns": {
+            "twitter": "https://twitter.com/ebichu_staff",
+            "instagram": "https://www.instagram.com/nakamura_yuna_official",
+            "tiktok": "https://www.tiktok.com/@ebichu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/nakamurayuna/"
+        }
+      ],
+      "profileURL": "https://www.shiritsuebichu.jp/official/pc/"
+    },
+    {
+      "uuid": "4B17D85F-1E1A-5874-833F-D798E7569314",
+      "masterId": "stardust_iginari_tohokusan",
+      "name": "いぎなり東北産",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/madeintohoku",
+        "instagram": "https://www.instagram.com/the_made_in_tohoku/",
+        "tiktok": "https://www.tiktok.com/@the_made_in_tohoku",
+        "youtube": "https://www.youtube.com/channel/UCuCBILJrBdU9bFEykEW0STA"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "951C18BA-56D4-5680-A327-3C6F9775F781",
+          "masterId": "stardust_iginari_tohokusan_tachibanakaren",
+          "name": "橘花怜",
+          "isGraduated": false,
+          "colorHex": "#FF69A3",
+          "birthday": "10-21",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tachibana_karen_official/",
+            "tiktok": "https://www.tiktok.com/@tachibana_karen_official?is_from_webapp=1&amp;sender_device=pc"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/tachibanakaren/"
+        },
+        {
+          "uuid": "7FC1DE5C-0FF6-5CFE-BB07-8E18689D4853",
+          "masterId": "stardust_iginari_tohokusan_ristukihikaru",
+          "name": "律月ひかる",
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "07-31",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ritsuki_hikaru_official/",
+            "tiktok": "https://www.tiktok.com/@_ritsuki_hikaru?is_from_webapp=1&amp;sender_device=pc"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/ristukihikaru/"
+        },
+        {
+          "uuid": "AB0734F7-0D2A-5D89-8249-3EA2E675A219",
+          "masterId": "stardust_iginari_tohokusan_kitamirine",
+          "name": "北美梨寧",
+          "isGraduated": false,
+          "colorHex": "#800080",
+          "birthday": "05-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://instagram.com/rine5__28?igshid=YmMyMTA2M2Y=",
+            "tiktok": "https://www.tiktok.com/@rine_kitami_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/kitamirine/"
+        },
+        {
+          "uuid": "45974019-3859-57C6-9B61-D96217EBE877",
+          "masterId": "stardust_iginari_tohokusan_yasumoriwaka",
+          "name": "安杜羽加",
+          "isGraduated": false,
+          "colorHex": "#FFFF00",
+          "birthday": "10-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yasumori_waka_official/",
+            "tiktok": null
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/yasumoriwaka/"
+        },
+        {
+          "uuid": "82AE796F-CEBC-5C6C-80B9-0880E916D7D7",
+          "masterId": "stardust_iginari_tohokusan_kichiseshinjyu",
+          "name": "吉瀬真珠",
+          "isGraduated": false,
+          "colorHex": "#008000",
+          "birthday": "06-22",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shinju_hello/",
+            "tiktok": "https://www.tiktok.com/@shinju_hello?lang=ja-JP"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/kichiseshinjyu/"
+        },
+        {
+          "uuid": "544369F7-DF96-57AA-B0E0-272ED4AE920F",
+          "masterId": "stardust_iginari_tohokusan_sakurahinano",
+          "name": "桜ひなの",
+          "isGraduated": false,
+          "colorHex": "#FFA500",
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hinano_sakura_official/",
+            "tiktok": "https://www.tiktok.com/@sakura_hinano56?is_from_webapp=1&amp;sender_device=pc"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/sakurahinano/"
+        },
+        {
+          "uuid": "F4E4D71A-855C-5BA3-BB36-A6878DADE21C",
+          "masterId": "stardust_iginari_tohokusan_fujitanimiu",
+          "name": "藤谷美海",
+          "isGraduated": false,
+          "colorHex": "#00FFFF",
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/lucky_39_official/",
+            "tiktok": "https://www.tiktok.com/@lucky_39_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section3/fujitanimiu/"
+        },
+        {
+          "uuid": "83FE7EE7-4471-5EF3-B9F0-93811582E95C",
+          "masterId": "stardust_iginari_tohokusan_datekaya",
+          "name": "伊達花彩",
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "03-21",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/date_kahya_official/",
+            "tiktok": "https://www.tiktok.com/@date_kahya?is_from_webapp=1&amp;sender_device=pc"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/datekaya/"
+        },
+        {
+          "uuid": "68D8A2D4-BFE8-53FA-96FC-891B28CEE88D",
+          "masterId": "stardust_iginari_tohokusan_hazukiyuna",
+          "name": "葉月結菜",
+          "isGraduated": false,
+          "colorHex": "#0000FF",
+          "birthday": "09-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yuna_hazuki_0915/",
+            "tiktok": "https://www.tiktok.com/@yunahazuki_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/hazukiyuna/"
+        }
+      ],
+      "profileURL": "https://madeintohoku.com/"
+    },
+    {
+      "uuid": "1F8D0E8B-A031-5E6B-803C-705440092ABB",
+      "masterId": "stardust_batten_girls",
+      "name": "ばってん少女隊",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/battengirls_jp",
+        "instagram": "https://www.instagram.com/battengirls_jp/",
+        "tiktok": "https://www.tiktok.com/@batten_official",
+        "youtube": "https://www.youtube.com/@BATTENGIRLS"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "92915239-92DC-5F00-9CCD-2CF43128D346",
+          "masterId": "stardust_batten_girls_kiyamaai",
+          "name": "希山愛",
+          "isGraduated": false,
+          "colorHex": "#228B22",
+          "birthday": "01-10",
+          "sns": {
+            "twitter": "https://x.com/kiyamaai_BG",
+            "instagram": "https://www.instagram.com/kiyama_ai_official/",
+            "tiktok": "https://www.tiktok.com/@kiyama_ai_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/kiyamaai/"
+        },
+        {
+          "uuid": "0D17A3C9-8DB2-516A-9C20-0CF803CDA0B7",
+          "masterId": "stardust_batten_girls_uedariko",
+          "name": "上田理子",
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "11-26",
+          "sns": {
+            "twitter": "https://x.com/uedariko_BG",
+            "instagram": "https://www.instagram.com/ueda_riko_official/",
+            "tiktok": "https://www.tiktok.com/@ueda_riko_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/uedariko/"
+        },
+        {
+          "uuid": "A4C7A273-2634-52BF-9AC6-4FC6F5979DC8",
+          "masterId": "stardust_batten_girls_harunokiina",
+          "name": "春乃きいな",
+          "isGraduated": false,
+          "colorHex": "#FFD700",
+          "birthday": "07-18",
+          "sns": {
+            "twitter": "https://x.com/harunokiina_BG",
+            "instagram": "https://www.instagram.com/haruno_kiina_official/",
+            "tiktok": "https://www.tiktok.com/@haruno_kiina_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/harunokiina/"
+        },
+        {
+          "uuid": "D0604114-23C6-561B-9D72-2E6B33969890",
+          "masterId": "stardust_batten_girls_aoirirua",
+          "name": "蒼井りるあ",
+          "isGraduated": false,
+          "colorHex": "#EE82EE",
+          "birthday": "12-10",
+          "sns": {
+            "twitter": "https://x.com/aoirirua_BG",
+            "instagram": "https://www.instagram.com/aoi_rirua_official/",
+            "tiktok": "https://www.tiktok.com/@aoi_rirua_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/aoirirua/"
+        },
+        {
+          "uuid": "1C21A55D-A2D8-5261-8783-A929188E6115",
+          "masterId": "stardust_batten_girls_yanagimiyu",
+          "name": "柳美舞",
+          "isGraduated": false,
+          "colorHex": "#87CEFA",
+          "birthday": "05-10",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yanagi_miyu_official/",
+            "tiktok": "https://www.tiktok.com/@yanagi_miyu_official"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/yanagimiyu/"
+        },
+        {
+          "uuid": "BBA1475B-A775-5967-866C-1C9A6E68271E",
+          "masterId": "stardust_batten_girls_airimiu",
+          "name": "逢里みう",
+          "isGraduated": false,
+          "colorHex": "#A09BD8",
+          "birthday": "06-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/miu_airi_official?igsh=MXNuOTcyeXBlZzdibQ==",
+            "tiktok": "https://www.tiktok.com/@miu_airi_official?_t=8r1enZPg9ma&amp;_r=1"
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/starplanet/airimiu/"
+        },
+        {
+          "uuid": "2DDBA43E-D98C-5588-A298-3FCAD7C5F98B",
+          "masterId": "stardust_batten_girls_hinamikokona",
+          "name": "日南心那",
+          "isGraduated": false,
+          "colorHex": "#0067C0",
+          "birthday": "08-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hinami_kokona_official/",
+            "tiktok": null
+          },
+          "profileURL": "https://www.stardust.co.jp/talent/section1/hinamikokona/"
+        }
+      ],
+      "profileURL": "https://battengirls.com/"
+    }
+  ]
+}

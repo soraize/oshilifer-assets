@@ -22,7 +22,9 @@
           "masterId": "dearstage_kyurushite_shimamurauta",
           "name": "島村嬉唄",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "06-24",
           "sns": {
             "twitter": "https://twitter.com/uta__0624",
@@ -36,7 +38,9 @@
           "masterId": "dearstage_kyurushite_tamakiyane",
           "name": "環やね",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF"
+          ],
           "birthday": "07-30",
           "sns": {
             "twitter": "https://twitter.com/yanemint",
@@ -50,7 +54,9 @@
           "masterId": "dearstage_kyurushite_chibayuna",
           "name": "チバゆな",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4"
+          ],
           "birthday": "03-04",
           "sns": {
             "twitter": "https://twitter.com/uba_va__3",
@@ -64,7 +70,9 @@
           "masterId": "dearstage_kyurushite_nigemizuamu",
           "name": "逃げ水あむ",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "10-10",
           "sns": {
             "twitter": "https://twitter.com/_mochizou_",
@@ -96,7 +104,9 @@
           "masterId": "dearstage_cynhn_aoyagitooru",
           "name": "青柳透",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": "05-26",
           "sns": {
             "twitter": "https://twitter.com/ds_toru17",
@@ -110,7 +120,9 @@
           "masterId": "dearstage_cynhn_ayaseshiki",
           "name": "綾瀬志希",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#000000"
+          ],
           "birthday": "03-14",
           "sns": {
             "twitter": "https://twitter.com/_shiki_ayase",
@@ -124,7 +136,9 @@
           "masterId": "dearstage_cynhn_tsukumoneru",
           "name": "月雲ねる",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#E6E6FA"
+          ],
           "birthday": "09-15",
           "sns": {
             "twitter": "https://twitter.com/tsukumoneru",
@@ -138,7 +152,9 @@
           "masterId": "dearstage_cynhn_hiroseminori",
           "name": "広瀬みのり",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#98FF98"
+          ],
           "birthday": "09-08",
           "sns": {
             "twitter": "https://twitter.com/minori_hirose",
@@ -170,7 +186,9 @@
           "masterId": "dearstage_2zicon_aoyamauta",
           "name": "青山詩",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "02-21",
           "sns": {
             "twitter": "https://x.com/aoyama_uta",
@@ -184,7 +202,9 @@
           "masterId": "dearstage_2zicon_ishihamamei",
           "name": "石浜芽衣",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#00A651"
+          ],
           "birthday": "07-28",
           "sns": {
             "twitter": "https://twitter.com/ishihama_mei",
@@ -198,7 +218,9 @@
           "masterId": "dearstage_2zicon_ichimiyayui",
           "name": "一宮ゆい",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#8000FF"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/yui_ichimiya",
@@ -212,7 +234,9 @@
           "masterId": "dearstage_2zicon_itomai",
           "name": "伊藤舞依",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#1F3A93"
+          ],
           "birthday": "06-05",
           "sns": {
             "twitter": "https://x.com/ito___mai",
@@ -226,7 +250,9 @@
           "masterId": "dearstage_2zicon_obayashiyuika",
           "name": "尾林結花",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": "10-22",
           "sns": {
             "twitter": "https://twitter.com/obayashi_yuika",
@@ -240,7 +266,9 @@
           "masterId": "dearstage_2zicon_kawabatayuu",
           "name": "川端優",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "12-03",
           "sns": {
             "twitter": "https://twitter.com/kawabata__yu",
@@ -254,7 +282,9 @@
           "masterId": "dearstage_2zicon_kumamotomarina",
           "name": "隈本茉莉奈",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#1F3A93"
+          ],
           "birthday": "07-27",
           "sns": {
             "twitter": "https://twitter.com/kumamoto_marina",
@@ -268,7 +298,9 @@
           "masterId": "dearstage_2zicon_kuriharamayu",
           "name": "栗原舞優",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "06-24",
           "sns": {
             "twitter": "https://twitter.com/kurihara_mayu",
@@ -282,7 +314,9 @@
           "masterId": "dearstage_2zicon_tsudukishiyori",
           "name": "都月しより",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFC0CB"
+          ],
           "birthday": "01-11",
           "sns": {
             "twitter": "https://x.com/tsuduki_shiyori",
@@ -296,7 +330,9 @@
           "masterId": "dearstage_2zicon_maejimaano",
           "name": "前嶋杏乃",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFC0CB"
+          ],
           "birthday": "07-31",
           "sns": {
             "twitter": "https://x.com/maejima_ano?s=21",
@@ -310,7 +346,9 @@
           "masterId": "dearstage_2zicon_matobakarin",
           "name": "的場華鈴",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFD700"
+          ],
           "birthday": "12-30",
           "sns": {
             "twitter": "https://twitter.com/matoba_karin",
@@ -324,7 +362,9 @@
           "masterId": "dearstage_2zicon_yagiharuka",
           "name": "八木遥叶",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": "04-07",
           "sns": {
             "twitter": "https://x.com/yagi_haruka",

@@ -23,5 +23,10 @@
     "agencyId": "akbgroup",
     "name": "AKBグループ",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/akbgroup.json"
+  },
+  {
+    "agencyId": "hello_project",
+    "name": "ハロー！プロジェクト",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/hello_project.json"
   }
 ]

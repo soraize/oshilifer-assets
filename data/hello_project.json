@@ -1,0 +1,1504 @@
+{
+  "agencyId": "hello_project",
+  "agency": "ハロー！プロジェクト",
+  "groups": [
+    {
+      "uuid": "0E7A04B2-0E58-4E95-8B1A-0930D3B4A001",
+      "masterId": "hello_project_morning_musume_26",
+      "name": "モーニング娘。'26",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/MorningMusumeMg",
+        "instagram": "https://www.instagram.com/morningmusume_official/",
+        "tiktok": "https://www.tiktok.com/@morningmusume_uf",
+        "youtube": "https://www.youtube.com/@morningmusume"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "C2856B34-CFAA-542A-8A19-6C786FA9E692",
+          "masterId": "hello_project_morning_musume_26_miki_nonaka",
+          "name": "野中美希",
+          "isGraduated": false,
+          "colorHex": [
+            "#582C83"
+          ],
+          "birthday": "10-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/miki_nonaka.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/miki_nonaka/"
+        },
+        {
+          "uuid": "2D66B927-B644-5A0B-A912-876F3655A223",
+          "masterId": "hello_project_morning_musume_26_sakura_oda",
+          "name": "小田さくら",
+          "isGraduated": false,
+          "colorHex": [
+            "#A05EB5"
+          ],
+          "birthday": "03-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/sakura_oda/"
+        },
+        {
+          "uuid": "6BBADD0D-C6CE-5853-BEF3-86BECA672FAC",
+          "masterId": "hello_project_morning_musume_26_maria_makino",
+          "name": "牧野真莉愛",
+          "isGraduated": false,
+          "colorHex": [
+            "#F57EB6"
+          ],
+          "birthday": "02-02",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/maria_makino.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/maria_makino/"
+        },
+        {
+          "uuid": "A330E111-64C3-590F-BB94-F58A57381F9A",
+          "masterId": "hello_project_morning_musume_26_homare_okamura",
+          "name": "岡村ほまれ",
+          "isGraduated": false,
+          "colorHex": [
+            "#FDDA24"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/homare__okamura.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/homare_okamura/"
+        },
+        {
+          "uuid": "5EE28CAD-0CB8-50E9-9CA0-DB694FBAFCAF",
+          "masterId": "hello_project_morning_musume_26_mei_yamazaki",
+          "name": "山﨑愛生",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B140"
+          ],
+          "birthday": "06-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/mei_yamazaki.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/mei_yamazaki/"
+        },
+        {
+          "uuid": "5F1565FC-685B-5E19-B824-25744D5C11E0",
+          "masterId": "hello_project_morning_musume_26_rio_sakurai",
+          "name": "櫻井梨央",
+          "isGraduated": false,
+          "colorHex": [
+            "#D3BBA8"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/rio_sakurai.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/rio_sakurai/"
+        },
+        {
+          "uuid": "6281FB25-D4B1-5B2D-8006-9B4369083782",
+          "masterId": "hello_project_morning_musume_26_haruka_inoue",
+          "name": "井上春華",
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/haruka_inoue/"
+        },
+        {
+          "uuid": "1ED472E7-A232-5430-91A6-748C361EE04B",
+          "masterId": "hello_project_morning_musume_26_ako_yumigeta",
+          "name": "弓桁朱琴",
+          "isGraduated": false,
+          "colorHex": [
+            "#DB0025"
+          ],
+          "birthday": "07-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/ako_yumigeta/"
+        },
+        {
+          "uuid": "2EA48579-CE39-5789-948D-1D188EDAEC67",
+          "masterId": "hello_project_morning_musume_26_meisa_sugihara",
+          "name": "杉原明紗",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/morningmusume/meisa_sugihara/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/morningmusume/"
+    },
+    {
+      "uuid": "40F8A86D-48C6-4A11-B0D0-9F11C8E0A002",
+      "masterId": "hello_project_angerme",
+      "name": "アンジュルム",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/angerme_upfront",
+        "instagram": "https://www.instagram.com/angerme_official/",
+        "tiktok": "https://www.tiktok.com/@angerme_uf",
+        "youtube": "https://www.youtube.com/@angerme"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "1FF3A97E-5AC2-5DEF-864B-9DC951C93BEB",
+          "masterId": "hello_project_angerme_layla_ise",
+          "name": "伊勢鈴蘭",
+          "isGraduated": false,
+          "colorHex": [
+            "#FC4C02"
+          ],
+          "birthday": "01-19",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/layla_ise.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/layla_ise/"
+        },
+        {
+          "uuid": "E14488D2-6072-5888-B1E3-EEE30C8296A5",
+          "masterId": "hello_project_angerme_shion_tamenaga",
+          "name": "為永幸音",
+          "isGraduated": false,
+          "colorHex": [
+            "#F57EB6"
+          ],
+          "birthday": "02-09",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shion_tamenaga.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/shion_tamenaga/"
+        },
+        {
+          "uuid": "D64CF710-6BD6-54E5-9A0A-D6CE33FC96C4",
+          "masterId": "hello_project_angerme_rin_hashisako",
+          "name": "橋迫鈴",
+          "isGraduated": false,
+          "colorHex": [
+            "#E70033"
+          ],
+          "birthday": "10-06",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/rin_hashisako.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/rin_hashisako/"
+        },
+        {
+          "uuid": "1CA3FDD6-4FE0-50FE-AE17-AD6E79D0CEB8",
+          "masterId": "hello_project_angerme_rin_kawana",
+          "name": "川名凜",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B140"
+          ],
+          "birthday": "12-06",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/rin_kawana.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/rin_kawana/"
+        },
+        {
+          "uuid": "1578646F-7DF7-5035-ABE8-0BEC11544B5C",
+          "masterId": "hello_project_angerme_wakana_matsumoto",
+          "name": "松本わかな",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/wakana_matsumoto.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/wakana_matsumoto/"
+        },
+        {
+          "uuid": "D2658499-BAA4-5D43-AF5D-68DED5C8750A",
+          "masterId": "hello_project_angerme_yuki_hirayama",
+          "name": "平山遊季",
+          "isGraduated": false,
+          "colorHex": [
+            "#D0DF00"
+          ],
+          "birthday": "07-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yuki_hirayama.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/yuki_hirayama/"
+        },
+        {
+          "uuid": "2408989C-AFA8-5BF2-900C-6ED288307766",
+          "masterId": "hello_project_angerme_yukiho_shimoitani",
+          "name": "下井谷幸穂",
+          "isGraduated": false,
+          "colorHex": [
+            "#DA1884"
+          ],
+          "birthday": "08-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/yukiho_shimoitani/"
+        },
+        {
+          "uuid": "6DA24EB6-2CD3-59F6-B7FA-9D9131F21EA1",
+          "masterId": "hello_project_angerme_hana_goto",
+          "name": "後藤花",
+          "isGraduated": false,
+          "colorHex": [
+            "#59CBE8"
+          ],
+          "birthday": "06-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/hana_goto/"
+        },
+        {
+          "uuid": "47682B1E-8868-5FCE-A5F1-1E0AC0851E9F",
+          "masterId": "hello_project_angerme_momoha_nagano",
+          "name": "長野桃羽",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7EA48"
+          ],
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/angerme/momoha_nagano/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/angerme/"
+    },
+    {
+      "uuid": "9332F38C-1A08-4F40-9F9B-25DE2620A003",
+      "masterId": "hello_project_juice_juice",
+      "name": "Juice=Juice",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/JuiceJuice_uf",
+        "instagram": "https://www.instagram.com/juice_juice_official/",
+        "tiktok": "https://www.tiktok.com/@juicejuice_uf",
+        "youtube": "https://www.youtube.com/@juicejuice"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "87613B73-4146-5C87-9767-730D77F18852",
+          "masterId": "hello_project_juice_juice_ruru_dambara",
+          "name": "段原瑠々",
+          "isGraduated": false,
+          "colorHex": [
+            "#FC4C02"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ruru_dambara.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/ruru_dambara/"
+        },
+        {
+          "uuid": "43B8B4DD-AC8D-5D05-AE77-EAB655F0AA9F",
+          "masterId": "hello_project_juice_juice_rei_inoue",
+          "name": "井上玲音",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "07-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/rei_inoue.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/rei_inoue/"
+        },
+        {
+          "uuid": "1D20F1F9-EA76-5940-9870-640692445C3A",
+          "masterId": "hello_project_juice_juice_yume_kudou",
+          "name": "工藤由愛",
+          "isGraduated": false,
+          "colorHex": [
+            "#F57EB6"
+          ],
+          "birthday": "09-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yume_kudo.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/yume_kudou/"
+        },
+        {
+          "uuid": "42108C29-F6ED-5F87-921F-08FA76276C7F",
+          "masterId": "hello_project_juice_juice_riai_matsunaga",
+          "name": "松永里愛",
+          "isGraduated": false,
+          "colorHex": [
+            "#0033A0"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/riai_matsunaga.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/riai_matsunaga/"
+        },
+        {
+          "uuid": "F4A4AC37-22D1-5A91-833E-A97228213746",
+          "masterId": "hello_project_juice_juice_ichika_arisawa",
+          "name": "有澤一華",
+          "isGraduated": false,
+          "colorHex": [
+            "#B9D9EB"
+          ],
+          "birthday": "12-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ichika_arisawa.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/ichika_arisawa/"
+        },
+        {
+          "uuid": "08EEF2F3-1A49-5919-8360-3E84D62C6DF0",
+          "masterId": "hello_project_juice_juice_risa_irie",
+          "name": "入江里咲",
+          "isGraduated": false,
+          "colorHex": [
+            "#C1A7E2"
+          ],
+          "birthday": "10-18",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/risa_irie.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/risa_irie/"
+        },
+        {
+          "uuid": "FDD23C98-1200-57E6-8B76-51B143FA096F",
+          "masterId": "hello_project_juice_juice_kisaki_ebata",
+          "name": "江端妃咲",
+          "isGraduated": false,
+          "colorHex": [
+            "#FDDA24"
+          ],
+          "birthday": "01-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kisaki_ebata.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/kisaki_ebata/"
+        },
+        {
+          "uuid": "08A81A68-340F-5E6C-929D-DDD6E7CDACE2",
+          "masterId": "hello_project_juice_juice_sakura_ishiyama",
+          "name": "石山咲良",
+          "isGraduated": false,
+          "colorHex": [
+            "#582C83"
+          ],
+          "birthday": "02-22",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sakura.ishiyama_official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/sakura_ishiyama/"
+        },
+        {
+          "uuid": "370BE357-79CD-5EF1-AD0C-A1CA1A4DE946",
+          "masterId": "hello_project_juice_juice_akari_endo",
+          "name": "遠藤彩加里",
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "04-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/akari_endo/"
+        },
+        {
+          "uuid": "6B118F1F-53A6-50E2-AA2E-D1D63F82CD71",
+          "masterId": "hello_project_juice_juice_mifu_kawashima",
+          "name": "川嶋美楓",
+          "isGraduated": false,
+          "colorHex": [
+            "#E70033"
+          ],
+          "birthday": "12-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/mifu_kawashima/"
+        },
+        {
+          "uuid": "C98C2F79-FAE0-5A6F-BE64-194E23F737E9",
+          "masterId": "hello_project_juice_juice_niina_hayashi",
+          "name": "林仁愛",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B140"
+          ],
+          "birthday": "06-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/juicejuice/niina_hayashi/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/juicejuice/"
+    },
+    {
+      "uuid": "E0B6A66F-68AD-4C1A-9E89-484D32D8A004",
+      "masterId": "hello_project_tsubaki_factory",
+      "name": "つばきファクトリー",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/tsubakifac_uf",
+        "instagram": "https://www.instagram.com/tsubakifactory_official/",
+        "tiktok": "https://www.tiktok.com/@tsubakifactory_uf",
+        "youtube": "https://www.youtube.com/@tsubakifactory"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "7BC29BFF-54F4-539C-AFED-8E0CDDE890C9",
+          "masterId": "hello_project_tsubaki_factory_ami_tanimoto",
+          "name": "谷本安美",
+          "isGraduated": false,
+          "colorHex": [
+            "#C1A7E2"
+          ],
+          "birthday": "11-16",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ami_tanimoto.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/ami_tanimoto/"
+        },
+        {
+          "uuid": "914A1256-2DE8-5CE5-B297-95C681DDBA1B",
+          "masterId": "hello_project_tsubaki_factory_mizuho_ono",
+          "name": "小野瑞歩",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B2A9"
+          ],
+          "birthday": "09-29",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/mizuho_ono.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/mizuho_ono/"
+        },
+        {
+          "uuid": "C17C9D57-7FBB-5E5C-A6C7-7EAB1F9F42B4",
+          "masterId": "hello_project_tsubaki_factory_saori_onoda",
+          "name": "小野田紗栞",
+          "isGraduated": false,
+          "colorHex": [
+            "#F99FC9"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/saori_onoda.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/saori_onoda/"
+        },
+        {
+          "uuid": "70E9EBA0-D59F-5C36-889D-ECB04804353E",
+          "masterId": "hello_project_tsubaki_factory_mao_akiyama",
+          "name": "秋山眞緒",
+          "isGraduated": false,
+          "colorHex": [
+            "#E70033"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/mao__akiyama.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/mao_akiyama/"
+        },
+        {
+          "uuid": "56D9C92A-6BF0-5867-9037-04DF973B892C",
+          "masterId": "hello_project_tsubaki_factory_yuumi_kasai",
+          "name": "河西結心",
+          "isGraduated": false,
+          "colorHex": [
+            "#582C83"
+          ],
+          "birthday": "07-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yuumi__kasai.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/yuumi_kasai/"
+        },
+        {
+          "uuid": "C070100A-A80A-5F60-9CF2-64A0517ACD67",
+          "masterId": "hello_project_tsubaki_factory_marine_fukuda",
+          "name": "福田真琳",
+          "isGraduated": false,
+          "colorHex": [
+            "#0033A0"
+          ],
+          "birthday": "10-18",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/marine_fukuda.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/marine_fukuda/"
+        },
+        {
+          "uuid": "2BA93691-05F5-559D-BAE7-EF7FAECDC6C7",
+          "masterId": "hello_project_tsubaki_factory_runo_yofu",
+          "name": "豫風瑠乃",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFCD00"
+          ],
+          "birthday": "12-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/runo_yofu/"
+        },
+        {
+          "uuid": "2DB8895E-00E6-58A5-B10B-CF68B7906136",
+          "masterId": "hello_project_tsubaki_factory_mihane_ishii",
+          "name": "石井泉羽",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "10-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/mihane_ishii/"
+        },
+        {
+          "uuid": "F77D4C00-23E1-5BB1-B36B-951CC286C03A",
+          "masterId": "hello_project_tsubaki_factory_yuu_murata",
+          "name": "村田結生",
+          "isGraduated": false,
+          "colorHex": [
+            "#F2D4D7"
+          ],
+          "birthday": "03-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/yuu_murata/"
+        },
+        {
+          "uuid": "5BA3AAB9-3C20-50A1-895F-1556C54E9EEB",
+          "masterId": "hello_project_tsubaki_factory_fuka_doi",
+          "name": "土居楓奏",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B140"
+          ],
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/fuka_doi/"
+        },
+        {
+          "uuid": "61CD534D-20C3-510B-8CFC-6013EF33BABC",
+          "masterId": "hello_project_tsubaki_factory_itsuki_nishimura",
+          "name": "西村乙輝",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7EA48"
+          ],
+          "birthday": "10-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/tsubakifactory/itsuki_nishimura/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/tsubakifactory/"
+    },
+    {
+      "uuid": "A0C0906A-4E98-44A4-8B20-EF076B6BA005",
+      "masterId": "hello_project_beyooooonds",
+      "name": "BEYOOOOONDS",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/BEYOOOOONDS_",
+        "instagram": "https://www.instagram.com/beyooooonds_official/",
+        "tiktok": "https://www.tiktok.com/@beyooooonds_uf",
+        "youtube": "https://www.youtube.com/@beyooooonds"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "9B44D97F-1246-59EB-8C12-36A2C5B42362",
+          "masterId": "hello_project_beyooooonds_shiori_nishida",
+          "name": "西田汐里",
+          "isGraduated": false,
+          "colorHex": [
+            "#DA1884"
+          ],
+          "birthday": "06-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shiori_nishida.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/shiori_nishida/"
+        },
+        {
+          "uuid": "F90F094D-D1F2-55C0-BDFF-811A265CF7B5",
+          "masterId": "hello_project_beyooooonds_saya_eguchi",
+          "name": "江口紗耶",
+          "isGraduated": false,
+          "colorHex": [
+            "#FDDA24"
+          ],
+          "birthday": "08-01",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/saya_eguchi.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/saya_eguchi/"
+        },
+        {
+          "uuid": "433240D4-2322-5514-A690-059218A03121",
+          "masterId": "hello_project_beyooooonds_kurumi_takase",
+          "name": "高瀬くるみ",
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "03-16",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kurumi_takase.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/kurumi_takase/"
+        },
+        {
+          "uuid": "D012AFE9-A718-534F-B9FC-D2E2F8A1AB4D",
+          "masterId": "hello_project_beyooooonds_kokoro_maeda",
+          "name": "前田こころ",
+          "isGraduated": false,
+          "colorHex": [
+            "#59CBE8"
+          ],
+          "birthday": "06-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kokoro_maeda.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/kokoro_maeda/"
+        },
+        {
+          "uuid": "B3C43922-44E5-5BB9-9694-F49943867AAB",
+          "masterId": "hello_project_beyooooonds_minami_okamura",
+          "name": "岡村美波",
+          "isGraduated": false,
+          "colorHex": [
+            "#F57EB6"
+          ],
+          "birthday": "10-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/minami_okamura.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/minami_okamura/"
+        },
+        {
+          "uuid": "26E7ABE4-B10F-57F5-A86F-5F1D33C7DAB0",
+          "masterId": "hello_project_beyooooonds_momohime_kiyono",
+          "name": "清野桃々姫",
+          "isGraduated": false,
+          "colorHex": [
+            "#FC4C02"
+          ],
+          "birthday": "12-22",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/momohime_kiyono.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/momohime_kiyono/"
+        },
+        {
+          "uuid": "6CE48A51-0D90-552C-BDB9-FC4F350E18DE",
+          "masterId": "hello_project_beyooooonds_miyo_hirai",
+          "name": "平井美葉",
+          "isGraduated": false,
+          "colorHex": [
+            "#582C83"
+          ],
+          "birthday": "12-11",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/miyo_hirai.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/miyo_hirai/"
+        },
+        {
+          "uuid": "68C637CD-A01E-5069-9650-4AF11CE02FBD",
+          "masterId": "hello_project_beyooooonds_honoka_kobayashi",
+          "name": "小林萌花",
+          "isGraduated": false,
+          "colorHex": [
+            "#007749"
+          ],
+          "birthday": "08-16",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/honoka_kobayashi.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/honoka_kobayashi/"
+        },
+        {
+          "uuid": "66CA1097-3916-5D05-A0D9-7FBC642241CE",
+          "masterId": "hello_project_beyooooonds_utano_satoyoshi",
+          "name": "里吉うたの",
+          "isGraduated": false,
+          "colorHex": [
+            "#005EB8"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/utano_satoyoshi.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/beyooooonds/utano_satoyoshi/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/beyooooonds/"
+    },
+    {
+      "uuid": "A73E6D8A-6E24-468D-AF59-2D76B81EA006",
+      "masterId": "hello_project_ocha_norma",
+      "name": "OCHA NORMA",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ocha_norma",
+        "instagram": "https://www.instagram.com/ocha_norma_official/",
+        "tiktok": "https://www.tiktok.com/@ocha_norma_uf",
+        "youtube": "https://www.youtube.com/@ocha_norma"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "6E6D7E4C-62C5-54A6-AB5F-9D5B73C1E927",
+          "masterId": "hello_project_ocha_norma_madoka_saito",
+          "name": "斉藤円香",
+          "isGraduated": false,
+          "colorHex": [
+            "#59CBE8"
+          ],
+          "birthday": "10-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/madoka_saito.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/madoka_saito/"
+        },
+        {
+          "uuid": "1256075C-F6D7-50A5-BF07-B62403D10507",
+          "masterId": "hello_project_ocha_norma_ruli_hiromoto",
+          "name": "広本瑠璃",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7EA48"
+          ],
+          "birthday": "06-18",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ruli_hiromoto.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/ruli_hiromoto/"
+        },
+        {
+          "uuid": "F5598604-2F4A-5849-A717-27711BF414EB",
+          "masterId": "hello_project_ocha_norma_kirara_yonemura",
+          "name": "米村姫良々",
+          "isGraduated": false,
+          "colorHex": [
+            "#E70033"
+          ],
+          "birthday": "04-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kirara_yonemura.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/kirara_yonemura/"
+        },
+        {
+          "uuid": "FADFF030-1078-5987-9613-D3BC11506113",
+          "masterId": "hello_project_ocha_norma_nanami_kubota",
+          "name": "窪田七海",
+          "isGraduated": false,
+          "colorHex": [
+            "#F57EB6"
+          ],
+          "birthday": "07-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/nanami_kubota.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/nanami_kubota/"
+        },
+        {
+          "uuid": "07EE4C82-0ECD-5C8D-905A-9CD60085036D",
+          "masterId": "hello_project_ocha_norma_natsume_nakayama",
+          "name": "中山夏月姫",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "07-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/natsume_nakayama.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/natsume_nakayama/"
+        },
+        {
+          "uuid": "BF041439-D247-5230-8DC9-F77D171F9672",
+          "masterId": "hello_project_ocha_norma_miku_nishizaki",
+          "name": "西﨑美空",
+          "isGraduated": false,
+          "colorHex": [
+            "#582C83"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/miku_nishizaki.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/miku_nishizaki/"
+        },
+        {
+          "uuid": "47DF8CF5-E504-575B-A92D-A43F6D9BCC99",
+          "masterId": "hello_project_ocha_norma_momo_kitahara",
+          "name": "北原もも",
+          "isGraduated": false,
+          "colorHex": [
+            "#D0DF00"
+          ],
+          "birthday": "08-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/momo_kitahara.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/momo_kitahara/"
+        },
+        {
+          "uuid": "878F4F1D-EA66-5F39-9844-BD896956AB28",
+          "masterId": "hello_project_ocha_norma_roko_tsutsui",
+          "name": "筒井澪心",
+          "isGraduated": false,
+          "colorHex": [
+            "#0033A0"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/roko_tsutsui.official",
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/ochanorma/roko_tsutsui/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/ochanorma/"
+    },
+    {
+      "uuid": "C4FA1B47-12BC-4BE0-9EF8-FEAF8A6EA007",
+      "masterId": "hello_project_rose_chronicle",
+      "name": "ロージークロニクル",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Rosy_Chronicle",
+        "instagram": "https://www.instagram.com/rosy_chronicle_official/",
+        "tiktok": "https://www.tiktok.com/@rosy_chronicle_uf",
+        "youtube": "https://www.youtube.com/@rosy_chronicle"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "07F52587-1CE4-5683-8391-B2C0A1BC76B4",
+          "masterId": "hello_project_rose_chronicle_honoka_hashida",
+          "name": "橋田歩果",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "10-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/honoka_hashida/"
+        },
+        {
+          "uuid": "7A12F70C-75A8-5269-B729-9C19A69C430C",
+          "masterId": "hello_project_rose_chronicle_hinoha_yoshida",
+          "name": "吉田姫杷",
+          "isGraduated": false,
+          "colorHex": [
+            "#E70033"
+          ],
+          "birthday": "07-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/hinoha_yoshida/"
+        },
+        {
+          "uuid": "D10EE9F0-419A-5838-9D6F-FAB2FA16DE70",
+          "masterId": "hello_project_rose_chronicle_karin_onoda",
+          "name": "小野田華凜",
+          "isGraduated": false,
+          "colorHex": [
+            "#F57EB6"
+          ],
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/karin_onoda/"
+        },
+        {
+          "uuid": "5EBC40D6-ADFE-5F84-90F5-9094F7E32CCA",
+          "masterId": "hello_project_rose_chronicle_ayana_murakoshi",
+          "name": "村越彩菜",
+          "isGraduated": false,
+          "colorHex": [
+            "#C1A7E2"
+          ],
+          "birthday": "02-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/ayana_murakoshi/"
+        },
+        {
+          "uuid": "0732FE82-A760-573D-8208-24A8C758F59A",
+          "masterId": "hello_project_rose_chronicle_hasumi_uemura",
+          "name": "植村葉純",
+          "isGraduated": false,
+          "colorHex": [
+            "#FC4C02"
+          ],
+          "birthday": "02-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/hasumi_uemura/"
+        },
+        {
+          "uuid": "1CFD1422-862D-5869-952C-B69DDDDE742D",
+          "masterId": "hello_project_rose_chronicle_yulia_matsubara",
+          "name": "松原ユリヤ",
+          "isGraduated": false,
+          "colorHex": [
+            "#B9D9EB"
+          ],
+          "birthday": "02-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/yulia_matsubara/"
+        },
+        {
+          "uuid": "A5982FB8-FD3F-5CD8-802B-8034FB43E159",
+          "masterId": "hello_project_rose_chronicle_hana_shimakawa",
+          "name": "島川波菜",
+          "isGraduated": false,
+          "colorHex": [
+            "#00B140"
+          ],
+          "birthday": "04-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/hana_shimakawa/"
+        },
+        {
+          "uuid": "1778E7C5-45A0-5B65-92BD-8E6754A0B11F",
+          "masterId": "hello_project_rose_chronicle_rena_kamimura",
+          "name": "上村麗菜",
+          "isGraduated": false,
+          "colorHex": [
+            "#F7EA48"
+          ],
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/rena_kamimura/"
+        },
+        {
+          "uuid": "1A0A3897-A9A3-58F3-815F-82BC92DDE993",
+          "masterId": "hello_project_rose_chronicle_yume_soma",
+          "name": "相馬優芽",
+          "isGraduated": false,
+          "colorHex": [
+            "#005EB8"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/rosychronicle/yume_soma/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/rosychronicle/"
+    },
+    {
+      "uuid": "80F8A86D-48C6-4A11-B0D0-9F11C8E0A008",
+      "masterId": "hello_project_helloprokenshusei",
+      "name": "ハロプロ研修生",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "E017A6EC-6829-5FCB-92F5-97AB0F373F40",
+          "masterId": "hello_project_helloprokenshusei_chihiro_miyakoshi",
+          "name": "宮越千尋",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/chihiro_miyakoshi/"
+        },
+        {
+          "uuid": "2CBB7812-2A40-5172-BAE9-694D28600C17",
+          "masterId": "hello_project_helloprokenshusei_mano_otsubo",
+          "name": "大坪茉乃",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/mano_otsubo/"
+        },
+        {
+          "uuid": "FBB39170-3D1A-56A8-95B5-EF8C4FF8A035",
+          "masterId": "hello_project_helloprokenshusei_hikari_yoshida",
+          "name": "吉田光里",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/hikari_yoshida/"
+        },
+        {
+          "uuid": "E11E9144-E9F1-5850-B943-18DD7E45D614",
+          "masterId": "hello_project_helloprokenshusei_rua_hattori",
+          "name": "服部琉愛",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/rua_hattori/"
+        },
+        {
+          "uuid": "5E707836-5892-5F57-B004-FFB4FC9323DE",
+          "masterId": "hello_project_helloprokenshusei_aoi_sakamoto",
+          "name": "坂本葵花",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/aoi_sakamoto/"
+        },
+        {
+          "uuid": "9748A619-4A78-5EC3-98FA-05997DADD41D",
+          "masterId": "hello_project_helloprokenshusei_moa_suzuki",
+          "name": "鈴木もあ",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/moa_suzuki/"
+        },
+        {
+          "uuid": "63B8AF67-C398-5F93-A30E-42859E75AE26",
+          "masterId": "hello_project_helloprokenshusei_hanano_ishikawa",
+          "name": "石川華望",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/hanano_ishikawa/"
+        },
+        {
+          "uuid": "03518EED-69DF-5797-AB43-40CB54C7598B",
+          "masterId": "hello_project_helloprokenshusei_yuna_aoki",
+          "name": "青木優奈",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/yuna_aoki/"
+        },
+        {
+          "uuid": "FF418DF6-D635-59DE-BB16-AF0EA38A23B9",
+          "masterId": "hello_project_helloprokenshusei_karin_nemoto",
+          "name": "根本花凛",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/karin_nemoto/"
+        },
+        {
+          "uuid": "56E31E05-5DE7-506E-8BFE-BE7602FFE19A",
+          "masterId": "hello_project_helloprokenshusei_riho_miyazaki",
+          "name": "宮﨑理帆",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/riho_miyazaki/"
+        },
+        {
+          "uuid": "566A74E6-406F-575F-92CB-96A8C0A00B00",
+          "masterId": "hello_project_helloprokenshusei_airi_ohno",
+          "name": "大野愛莉",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/airi_ohno/"
+        },
+        {
+          "uuid": "F59E7429-35E8-5361-838D-6156C371B0D6",
+          "masterId": "hello_project_helloprokenshusei_aika_higuchi",
+          "name": "樋口愛海",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/aika_higuchi/"
+        },
+        {
+          "uuid": "0D24BACF-F84C-56BC-A213-A98DF950C71A",
+          "masterId": "hello_project_helloprokenshusei_sara_someya",
+          "name": "染谷彩良",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/sara_someya/"
+        },
+        {
+          "uuid": "0420CD82-83E0-5767-B9BD-1F6F75714778",
+          "masterId": "hello_project_helloprokenshusei_kotomi_suzuki",
+          "name": "鈴木琴美",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/kotomi_suzuki/"
+        },
+        {
+          "uuid": "8437F141-FFF4-52C6-8098-7C626E164DB5",
+          "masterId": "hello_project_helloprokenshusei_yurika_saito",
+          "name": "斎藤ゆり夏",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/yurika_saito/"
+        },
+        {
+          "uuid": "CC1CAEA2-6CD2-5E8C-B75B-F75FE920A050",
+          "masterId": "hello_project_helloprokenshusei_momoka_kishida",
+          "name": "岸田桃果",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/momoka_kishida/"
+        },
+        {
+          "uuid": "82DF31E5-3B6C-5961-AB32-35787295C70E",
+          "masterId": "hello_project_helloprokenshusei_nana_tamura",
+          "name": "田村梛々",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/nana_tamura/"
+        },
+        {
+          "uuid": "31D4CF73-917E-5D97-ACFF-DEBE59BA8C66",
+          "masterId": "hello_project_helloprokenshusei_riina_nagai",
+          "name": "長井莉依那",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/riina_nagai/"
+        },
+        {
+          "uuid": "4929810D-63C0-5D47-A17A-F7DB4A94A54D",
+          "masterId": "hello_project_helloprokenshusei_shiori_sakata",
+          "name": "坂田しおり",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/shiori_sakata/"
+        },
+        {
+          "uuid": "4127CF64-D22C-54E4-B2B7-9B313F12045B",
+          "masterId": "hello_project_helloprokenshusei_ayane_sato",
+          "name": "佐藤絢音",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/ayane_sato/"
+        },
+        {
+          "uuid": "FCC367AC-1404-5210-86DB-93F763FDF0C3",
+          "masterId": "hello_project_helloprokenshusei_sara_karibe",
+          "name": "苅部咲良",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/sara_karibe/"
+        },
+        {
+          "uuid": "1FF3C244-FE07-5AB2-B789-3BF6F9C378C6",
+          "masterId": "hello_project_helloprokenshusei_shiharu_saeki",
+          "name": "佐伯詩春",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          },
+          "profileURL": "https://www.helloproject.com/helloprokenshusei/shiharu_saeki/"
+        }
+      ],
+      "profileURL": "https://www.helloproject.com/helloprokenshusei/"
+    }
+  ]
+}

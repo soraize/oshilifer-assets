@@ -1032,7 +1032,7 @@
           "colorHex": null,
           "birthday": null,
           "sns": {
-            "twitter": "https://x.com/srp_staff?s=21&t=o_0LtVap4P4k_PaqrIOHDQ",
+            "twitter": "https://twitter.com/nanaka_karatea",
             "instagram": "https://www.instagram.com/nanaka_kukita/",
             "tiktok": "https://www.tiktok.com/@nanaka_kukita?lang=ja-JP",
             "youtube": "https://www.youtube.com/@kukitananakadesu"
@@ -1259,7 +1259,9 @@
           "uuid": "76171FA5-10C1-59BD-94F4-9026B5F6BDBE",
           "masterId": "other_idols_sweet_alley_ikari_ayana",
           "name": "猪狩 彩奈",
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Ayana__SwAl?s=21",
@@ -1274,7 +1276,9 @@
           "uuid": "949C62E6-F0C2-514A-B224-EF8E7B3DD982",
           "masterId": "other_idols_sweet_alley_korere",
           "name": "瑚苓",
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Korere_SwAl",
@@ -1289,7 +1293,9 @@
           "uuid": "4111984F-5BCB-56BA-88FB-20CBEDF793EF",
           "masterId": "other_idols_sweet_alley_sasaki_riona",
           "name": "笹木 里緒菜",
-          "colorHex": null,
+          "colorHex": [
+            "#008000"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Riona_SwAl",
@@ -1304,7 +1310,9 @@
           "uuid": "00EEEFB0-7886-59DE-B6EF-78D5305B0121",
           "masterId": "other_idols_sweet_alley_shimada_natsumi",
           "name": "島田 菜津美",
-          "colorHex": null,
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Natsumi_SwAl",
@@ -1319,7 +1327,9 @@
           "uuid": "15C06211-D5E5-5299-869F-1A3D1D3BA2D0",
           "masterId": "other_idols_sweet_alley_hamakoshi_saori",
           "name": "濱越 さおり",
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Saori_SwAl",
@@ -1334,7 +1344,9 @@
           "uuid": "CF161605-31BE-5C7D-B311-3C5D00748C53",
           "masterId": "other_idols_sweet_alley_fukae_arie",
           "name": "深江 有恵",
-          "colorHex": null,
+          "colorHex": [
+            "#F3BFD7"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Arie_SwAl",
@@ -1349,7 +1361,9 @@
           "uuid": "6EC2073D-51E9-53EC-9A07-A226877F7101",
           "masterId": "other_idols_sweet_alley_yoshida_emu",
           "name": "吉田 笑夢",
-          "colorHex": null,
+          "colorHex": [
+            "#800080"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/Emu_SwAl",
@@ -1364,7 +1378,9 @@
           "uuid": "85B3E09D-B691-5FAE-9076-40A1604395AE",
           "masterId": "other_idols_sweet_alley_amichi",
           "name": "あみち。",
-          "colorHex": null,
+          "colorHex": [
+            "#FD699C"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/ami_SwAl",
@@ -1551,7 +1567,9 @@
           "uuid": "762C5A46-DBB1-52E5-B740-90B65B98867C",
           "masterId": "other_idols_rough_laugh_saito_arisa",
           "name": "齋藤有紗",
-          "colorHex": null,
+          "colorHex": [
+            "#800080"
+          ],
           "birthday": "03-29",
           "sns": {
             "twitter": "https://twitter.com/saito_arisa_",
@@ -1566,7 +1584,9 @@
           "uuid": "806B6399-0B2E-57DC-8308-29431BAE7B38",
           "masterId": "other_idols_rough_laugh_sasaki_fuuna",
           "name": "佐々木楓菜",
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": "06-24",
           "sns": {
             "twitter": "https://twitter.com/sasaki_fuuna",
@@ -1581,7 +1601,9 @@
           "uuid": "35A1A4CA-002D-5D6C-998B-B14B55FF5153",
           "masterId": "other_idols_rough_laugh_takanashi_yui",
           "name": "高梨結",
-          "colorHex": null,
+          "colorHex": [
+            "#008000"
+          ],
           "birthday": "07-19",
           "sns": {
             "twitter": "https://twitter.com/yui_takanashi__",
@@ -1596,7 +1618,9 @@
           "uuid": "C630F0EE-3E2B-52C4-82DE-7CF4A652250E",
           "masterId": "other_idols_rough_laugh_nagamatsu_haru",
           "name": "永松波留",
-          "colorHex": null,
+          "colorHex": [
+            "#00B379"
+          ],
           "birthday": "02-12",
           "sns": {
             "twitter": "https://twitter.com/nagamatsu_haru",
@@ -1611,7 +1635,9 @@
           "uuid": "38414E2F-DE4E-5F43-BC0E-21DC81A3F40D",
           "masterId": "other_idols_rough_laugh_natsume_ryoka",
           "name": "夏目涼風",
-          "colorHex": null,
+          "colorHex": [
+            "#49BDF0"
+          ],
           "birthday": "05-19",
           "sns": {
             "twitter": "https://twitter.com/natumeryoka",
@@ -1626,7 +1652,9 @@
           "uuid": "2F20C45E-D5CB-5DE6-BEF2-ED3A7E684972",
           "masterId": "other_idols_rough_laugh_hibino_meina",
           "name": "日比野芽奈",
-          "colorHex": null,
+          "colorHex": [
+            "#FF69B4"
+          ],
           "birthday": "06-27",
           "sns": {
             "twitter": "https://twitter.com/hibino_meina",
@@ -1641,7 +1669,9 @@
           "uuid": "D8E98189-460D-506C-A9CF-4B92B4B5AD08",
           "masterId": "other_idols_rough_laugh_fujisaki_miku",
           "name": "藤崎未来",
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": "11-14",
           "sns": {
             "twitter": "https://twitter.com/_mikufujisaki_",
@@ -1656,7 +1686,9 @@
           "uuid": "BA9C7C8A-78F9-52AF-9E47-D3171E4B1467",
           "masterId": "other_idols_rough_laugh_yoshimura_monami",
           "name": "吉村萌南",
-          "colorHex": null,
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": "05-16",
           "sns": {
             "twitter": "https://twitter.com/monamin_y",

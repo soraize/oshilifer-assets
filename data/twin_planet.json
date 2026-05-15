@@ -21,7 +21,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_nao_kizuki",
           "name": "城月 菜央",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFF00"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/nao_kizuki",
@@ -35,7 +37,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_su_suzumi",
           "name": "涼海 すう",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#ADD8E6"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/su_suzumi_",
@@ -49,7 +53,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_momoko_hashimoto",
           "name": "橋本 桃呼",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF1493"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/MomokoHashimoto",
@@ -63,7 +69,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_saara_hazuki",
           "name": "葉月 紗蘭",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFFFFF"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/saara_hazuki",
@@ -77,7 +85,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_erisa_higashiyama",
           "name": "東山 恵里沙",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFA500"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/erisahigasiyama",
@@ -91,7 +101,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_hina_hinahata",
           "name": "日向端 ひな",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#800080"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/hina_hinahata",
@@ -105,7 +117,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_mikuru_hoshitani",
           "name": "星谷 美来",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/mikuru_hositani",
@@ -119,7 +133,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_momona_matsumoto",
           "name": "松本 ももな",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#FFB6C1"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://twitter.com/momonamatsumoto",
@@ -133,7 +149,9 @@
           "masterId": "twin_planet_takane_no_nadeshiko_himeri_momiyama",
           "name": "籾山 ひめり",
           "isGraduated": false,
-          "colorHex": null,
+          "colorHex": [
+            "#0000FF"
+          ],
           "birthday": null,
           "sns": {
             "twitter": "https://mobile.twitter.com/himeri_momiyama",

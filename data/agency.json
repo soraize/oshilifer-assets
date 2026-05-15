@@ -43,5 +43,10 @@
     "agencyId": "dearstage",
     "name": "ディアステージ",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/dearstage.json"
+  },
+  {
+    "agencyId": "other_idols",
+    "name": "その他アイドル",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/other_idols.json"
   }
 ]

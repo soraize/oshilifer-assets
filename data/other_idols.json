@@ -16,8 +16,60 @@
       },
       "timeTreeURL": null,
       "scheduleURL": null,
-      "members": [],
-      "profileURL": "https://taskhavefun.net/"
+      "members": [
+        {
+          "uuid": "8E29074E-1A37-590C-9901-8B3273868A2C",
+          "masterId": "other_idols_task_have_fun_kumazawa_fuka",
+          "name": "熊澤風花",
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "07-02",
+          "sns": {
+            "twitter": "https://twitter.com/Task_fuuka",
+            "instagram": "https://www.instagram.com/fuka_kumazawa/",
+            "tiktok": "https://www.tiktok.com/@kumazawafuka",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://taskhavefun.net/profiles"
+        },
+        {
+          "uuid": "4000BBD9-CF59-52EE-ADFB-AD8CBCF98C37",
+          "masterId": "other_idols_task_have_fun_shiraoka_kyoka",
+          "name": "白岡今日花",
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "06-25",
+          "sns": {
+            "twitter": "https://twitter.com/Task_kyouka",
+            "instagram": "https://www.instagram.com/kyoka_shiraoka/",
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://taskhavefun.net/profiles"
+        },
+        {
+          "uuid": "5CE9F6C1-8BAC-5932-A9E6-DAA28ADBE814",
+          "masterId": "other_idols_task_have_fun_satonaka_natsuki",
+          "name": "里仲菜月",
+          "colorHex": [
+            "#00A651"
+          ],
+          "birthday": "07-10",
+          "sns": {
+            "twitter": "https://twitter.com/Task_Natsuki",
+            "instagram": "https://www.instagram.com/natsuki_satonaka/",
+            "tiktok": "https://www.tiktok.com/@okomenatsuki",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://taskhavefun.net/profiles"
+        }
+      ],
+      "profileURL": "https://taskhavefun.net/profiles"
     },
     {
       "uuid": "0F305185-492E-5460-985E-98489A76CF9A",
@@ -33,8 +85,128 @@
       },
       "timeTreeURL": null,
       "scheduleURL": null,
-      "members": [],
-      "profileURL": "https://jamscollection.jp/"
+      "members": [
+        {
+          "uuid": "68E1438A-14F5-50E9-B383-ABA356E19869",
+          "masterId": "other_idols_jams_collection_tsushiro_mizuki",
+          "name": "津代美月",
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "10-16",
+          "sns": {
+            "twitter": "https://twitter.com/mizuki_jams",
+            "instagram": "https://www.instagram.com/__tsushiromizuki/",
+            "tiktok": "https://www.tiktok.com/@__tsushiro",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/0"
+        },
+        {
+          "uuid": "55E5150F-A924-5179-AF5B-7412C91EADB6",
+          "masterId": "other_idols_jams_collection_hoshina_rin",
+          "name": "保科凜",
+          "colorHex": [
+            "#50C878"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": "https://twitter.com/HoshinaLin_jams",
+            "instagram": "https://www.instagram.com/tottoko_lin/",
+            "tiktok": "https://www.tiktok.com/@yahhoshina",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/1"
+        },
+        {
+          "uuid": "BE6CAECA-C71B-50BE-8C6F-701A8BFAE8DC",
+          "masterId": "other_idols_jams_collection_minase_sarara",
+          "name": "水瀬さらら",
+          "colorHex": [
+            "#ADD8E6"
+          ],
+          "birthday": "02-09",
+          "sns": {
+            "twitter": "https://twitter.com/sarara_Jams",
+            "instagram": "https://www.instagram.com/minase_sarara/",
+            "tiktok": "https://www.tiktok.com/@sarara_minase",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/2"
+        },
+        {
+          "uuid": "E7BB4910-E055-5B00-94ED-B2BF48055F1A",
+          "masterId": "other_idols_jams_collection_okonogi_ruka",
+          "name": "小此木流花",
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": "https://twitter.com/ruka_jams",
+            "instagram": "https://www.instagram.com/okonogi_ruka/",
+            "tiktok": "https://www.tiktok.com/@okonogi_ruka",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/3"
+        },
+        {
+          "uuid": "FDBD94BB-BDB4-5E79-A20A-C39CB0987DC2",
+          "masterId": "other_idols_jams_collection_hanasaka_tamaki",
+          "name": "花坂環",
+          "colorHex": [
+            "#FFD700"
+          ],
+          "birthday": "03-23",
+          "sns": {
+            "twitter": "https://x.com/tamaki_jams",
+            "instagram": "https://www.instagram.com/hanatama_jams/",
+            "tiktok": "https://www.tiktok.com/@tamaki_jams",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/4"
+        },
+        {
+          "uuid": "FD2BAFFB-30D9-51B1-8EA7-8946E36CCAAC",
+          "masterId": "other_idols_jams_collection_kitano_saku",
+          "name": "北乃咲久",
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "09-13",
+          "sns": {
+            "twitter": "https://x.com/saku_jams",
+            "instagram": "https://www.instagram.com/kitano_saku/",
+            "tiktok": "https://www.tiktok.com/@sakusaku_13",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/5"
+        },
+        {
+          "uuid": "6B91D23C-4AB8-5847-B807-2584F31A2926",
+          "masterId": "other_idols_jams_collection_mineshima_komaki",
+          "name": "峰島こまき",
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "11-17",
+          "sns": {
+            "twitter": "https://x.com/komaki_jams",
+            "instagram": "https://www.instagram.com/mineshima_komaki/",
+            "tiktok": "https://www.tiktok.com/@mineshima_komaki",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://jamscollection.jp/#/profile/6"
+        }
+      ],
+      "profileURL": "https://jamscollection.jp/#/profile/"
     },
     {
       "uuid": "C0AAF64A-78DB-56E6-8F8F-984D3F3F988C",
@@ -50,8 +222,128 @@
       },
       "timeTreeURL": null,
       "scheduleURL": null,
-      "members": [],
-      "profileURL": null
+      "members": [
+        {
+          "uuid": "FEC06ECF-057F-536D-8F9A-0344AF2CAF53",
+          "masterId": "other_idols_peel_the_apple_asahara_rin",
+          "name": "浅原凜",
+          "colorHex": [
+            "#87CEEB"
+          ],
+          "birthday": "07-28",
+          "sns": {
+            "twitter": "https://x.com/PtA_rin",
+            "instagram": "https://www.instagram.com/rinogsd728/",
+            "tiktok": "https://www.tiktok.com/@rinogsd728",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/0"
+        },
+        {
+          "uuid": "E570A91E-642E-54B8-BEF3-82B14BFD1B9C",
+          "masterId": "other_idols_peel_the_apple_sano_kokone",
+          "name": "佐野心音",
+          "colorHex": [
+            "#FFCC33"
+          ],
+          "birthday": "08-28",
+          "sns": {
+            "twitter": "https://x.com/PtA_kokone",
+            "instagram": "https://www.instagram.com/kokone_sano/",
+            "tiktok": "https://www.tiktok.com/@chi_maruru",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/1"
+        },
+        {
+          "uuid": "A549D42A-538F-51D0-A6FD-4CF719BA0E64",
+          "masterId": "other_idols_peel_the_apple_yamazaki_reina",
+          "name": "山崎玲奈",
+          "colorHex": [
+            "#FF8C00"
+          ],
+          "birthday": "05-24",
+          "sns": {
+            "twitter": "https://x.com/pta_reina",
+            "instagram": "https://www.instagram.com/yamazaki_reina",
+            "tiktok": "https://www.tiktok.com/@reinayamazaki",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/2"
+        },
+        {
+          "uuid": "5C3FE5F0-2217-5AFB-BEF5-8AADE2202E93",
+          "masterId": "other_idols_peel_the_apple_amamiya_kei",
+          "name": "天宮けい",
+          "colorHex": [
+            "#FF4500"
+          ],
+          "birthday": "12-21",
+          "sns": {
+            "twitter": "https://x.com/PtA_kei",
+            "instagram": "https://www.instagram.com/piruapo_kei",
+            "tiktok": "https://www.tiktok.com/@piruapo_kei?is_from_webapp=1&sender_device=pc",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/3"
+        },
+        {
+          "uuid": "E63BF44E-8DE4-5AE0-B704-B7C02B30E7D7",
+          "masterId": "other_idols_peel_the_apple_iwashita_miyu",
+          "name": "岩下美友",
+          "colorHex": [
+            "#98FF98"
+          ],
+          "birthday": "02-20",
+          "sns": {
+            "twitter": "https://x.com/PtA_miyu",
+            "instagram": "https://www.instagram.com/miyuyun._._/",
+            "tiktok": "https://www.tiktok.com/@iwasitamiyu?is_from_webapp=1&sender_device=pc",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/4"
+        },
+        {
+          "uuid": "AD09744E-B5F1-53E0-8009-7A5A963508E2",
+          "masterId": "other_idols_peel_the_apple_kishigami_io",
+          "name": "岸上いお",
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": "https://x.com/PtA_io",
+            "instagram": "https://www.instagram.com/iotan_0210/",
+            "tiktok": "https://www.tiktok.com/@iochan_0210?is_from_webapp=1&sender_device=pc",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/5"
+        },
+        {
+          "uuid": "2EDF2795-BA3F-59A9-BADF-1854AE329597",
+          "masterId": "other_idols_peel_the_apple_takatsuki_rina",
+          "name": "髙月りな",
+          "colorHex": [
+            "#FFB7C5"
+          ],
+          "birthday": "02-15",
+          "sns": {
+            "twitter": "https://x.com/PtA_rina",
+            "instagram": "https://www.instagram.com/takatsuki_rina/",
+            "tiktok": "https://www.tiktok.com/@takatsuki_rina",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://peel-the-apple.com/#/profile/6"
+        }
+      ],
+      "profileURL": "https://peel-the-apple.com/#/profile/"
     },
     {
       "uuid": "5800B48B-B8C1-5EC7-9597-2B1700FCECD5",
@@ -67,8 +359,128 @@
       },
       "timeTreeURL": null,
       "scheduleURL": null,
-      "members": [],
-      "profileURL": null
+      "members": [
+        {
+          "uuid": "505AF563-BCC3-50E4-B91D-FDB6C5F2554B",
+          "masterId": "other_idols_fes_tive_yoda_riona",
+          "name": "与田理央那",
+          "colorHex": [
+            "#FFD700"
+          ],
+          "birthday": "03-21",
+          "sns": {
+            "twitter": "https://twitter.com/Riona_FESTIVE",
+            "instagram": "https://www.instagram.com/riona_321/",
+            "tiktok": "https://www.tiktok.com/@riona_0321",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/0"
+        },
+        {
+          "uuid": "3D4D65BD-1A2E-57CF-A9B4-77D68F56FB42",
+          "masterId": "other_idols_fes_tive_nishina_maaya",
+          "name": "仁科茉彩",
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "05-08",
+          "sns": {
+            "twitter": "https://x.com/Maaya_FESTIVE",
+            "instagram": "https://www.instagram.com/58maaya58",
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/1"
+        },
+        {
+          "uuid": "CBF11D68-2EDB-5587-B99A-146EC070ACB2",
+          "masterId": "other_idols_fes_tive_hoshino_nanami",
+          "name": "星乃ななみ",
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "01-09",
+          "sns": {
+            "twitter": "https://x.com/Nanami_FESTIVE",
+            "instagram": "https://www.instagram.com/nanami_festive/",
+            "tiktok": "https://www.tiktok.com/@nanami_festive",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/2"
+        },
+        {
+          "uuid": "2578DAF9-198A-53EA-92EA-F33BE06BB04F",
+          "masterId": "other_idols_fes_tive_koshiba_airi",
+          "name": "小柴あいり",
+          "colorHex": [
+            "#FF8C00"
+          ],
+          "birthday": "08-07",
+          "sns": {
+            "twitter": "https://x.com/Airi_FESTIVE",
+            "instagram": "https://www.instagram.com/festive_airi",
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/3"
+        },
+        {
+          "uuid": "D0CD66B0-9253-53EA-8F8D-AE7C3DC9D7CF",
+          "masterId": "other_idols_fes_tive_nanase_ai",
+          "name": "七瀬あい",
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "09-09",
+          "sns": {
+            "twitter": "https://x.com/Ai_FESTIVE",
+            "instagram": "https://www.instagram.com/nns__ai/",
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/4"
+        },
+        {
+          "uuid": "B42604C7-33B8-59EF-9358-218E441BF829",
+          "masterId": "other_idols_fes_tive_kawai_rena",
+          "name": "カワイレナ",
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "11-19",
+          "sns": {
+            "twitter": "https://x.com/Rena_FESTIVE",
+            "instagram": "https://www.instagram.com/kawai_rena/",
+            "tiktok": "https://www.tiktok.com/@kawai_rena",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/5"
+        },
+        {
+          "uuid": "A0CD8239-BD85-58F1-B2C2-4A05572CBEAC",
+          "masterId": "other_idols_fes_tive_shiromiya_runa",
+          "name": "白宮瑠夏",
+          "colorHex": [
+            "#00A651"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": "https://x.com/Runa_FESTIVE",
+            "instagram": "https://www.instagram.com/shiromiya_runa/",
+            "tiktok": "https://www.tiktok.com/@152cm_0709",
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://fstv.rizepro.net/#/profile/6"
+        }
+      ],
+      "profileURL": "https://fstv.rizepro.net/#/profile"
     },
     {
       "uuid": "351BAB0E-4E22-587A-B186-C1BEB650901C",
@@ -84,8 +496,162 @@
       },
       "timeTreeURL": null,
       "scheduleURL": null,
-      "members": [],
-      "profileURL": "https://appare-official.jp/"
+      "members": [
+        {
+          "uuid": "17E27F43-FB08-59B6-A105-0963BBE88FDA",
+          "masterId": "other_idols_appare_asahina_rei",
+          "name": "朝比奈れい",
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": "https://twitter.com/appare_rei",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "C2BB12B5-D984-55BC-987A-BC364EDFA1A7",
+          "masterId": "other_idols_appare_nagahori_yume",
+          "name": "永堀ゆめ",
+          "colorHex": [
+            "#98FF98"
+          ],
+          "birthday": "11-06",
+          "sns": {
+            "twitter": "https://twitter.com/appare_yume",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "5B4536B4-3406-59AE-A2C1-E50B4766125E",
+          "masterId": "other_idols_appare_fujimiya_mei",
+          "name": "藤宮めい",
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": "https://twitter.com/appare_may",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "CFEB2FA3-BED1-5878-8028-952675135E7D",
+          "masterId": "other_idols_appare_nanase_rea",
+          "name": "七瀬れあ",
+          "colorHex": [
+            "#FFD700"
+          ],
+          "birthday": "03-29",
+          "sns": {
+            "twitter": "https://twitter.com/appare_rea",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "C1E0B15D-7BCA-5E4C-8D08-72C8ABF2F51A",
+          "masterId": "other_idols_appare_aii_suzu",
+          "name": "藍井すず",
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "12-07",
+          "sns": {
+            "twitter": "https://twitter.com/appare_suzz",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "E5713E05-BB9B-505D-9040-4F2503602AF1",
+          "masterId": "other_idols_appare_hashimoto_ami",
+          "name": "橋本あみ",
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "11-24",
+          "sns": {
+            "twitter": "https://twitter.com/appare_ami",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "3423EEEC-8AC6-5D78-97CA-B56223AB5E22",
+          "masterId": "other_idols_appare_kitano_amu",
+          "name": "北野あむ",
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "08-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "018D5BAC-8282-5D50-9491-633F0A727FE9",
+          "masterId": "other_idols_appare_morikawa_natsu",
+          "name": "森川なつ",
+          "colorHex": [
+            "#FF8C00"
+          ],
+          "birthday": "08-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        },
+        {
+          "uuid": "B3FF6167-AC6C-5B12-88BA-A70BAD454454",
+          "masterId": "other_idols_appare_sakamoto_risa",
+          "name": "坂本りさ",
+          "colorHex": [
+            "#7FDFFF"
+          ],
+          "birthday": "06-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null,
+            "youtube": null
+          },
+          "isGraduated": false,
+          "profileURL": "https://appare-official.jp/profiles"
+        }
+      ],
+      "profileURL": "https://appare-official.jp/profiles"
     }
   ]
 }

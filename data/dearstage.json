@@ -1,0 +1,340 @@
+{
+  "agencyId": "dearstage",
+  "agency": "ディアステージ",
+  "groups": [
+    {
+      "uuid": "D5564D3E-E43F-5689-84DC-D6881F48EE89",
+      "masterId": "dearstage_kyurushite",
+      "name": "きゅるりんってしてみて",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/KYURUSHITE",
+        "instagram": "https://www.instagram.com/KYURUSHITE/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UC38ULbpGgiA7t6i-lbLu9VQ"
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "4F6DD206-58DC-5B1C-A2FE-B2ECE2C9100B",
+          "masterId": "dearstage_kyurushite_shimamurauta",
+          "name": "島村嬉唄",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": "https://twitter.com/uta__0624",
+            "instagram": "https://www.instagram.com/uta_0624/",
+            "tiktok": "https://www.tiktok.com/@uta_0624"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/shimamurauta/?parent_id=2489"
+        },
+        {
+          "uuid": "D10B4F4A-D665-59BC-A17B-84BD8397805F",
+          "masterId": "dearstage_kyurushite_tamakiyane",
+          "name": "環やね",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-30",
+          "sns": {
+            "twitter": "https://twitter.com/yanemint",
+            "instagram": "https://www.instagram.com/yanemint/",
+            "tiktok": "https://www.tiktok.com/@yanemint"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/tamakiyane/?parent_id=2489"
+        },
+        {
+          "uuid": "E2F2512F-1E51-53BE-A203-D4C35765AB94",
+          "masterId": "dearstage_kyurushite_chibayuna",
+          "name": "チバゆな",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-04",
+          "sns": {
+            "twitter": "https://twitter.com/uba_va__3",
+            "instagram": "https://www.instagram.com/uba_va__/",
+            "tiktok": "https://www.tiktok.com/@uba_va__3"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/chibayuna/?parent_id=2489"
+        },
+        {
+          "uuid": "17A05406-E72A-538F-A988-9B8E6ED1E7CF",
+          "masterId": "dearstage_kyurushite_nigemizuamu",
+          "name": "逃げ水あむ",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-10",
+          "sns": {
+            "twitter": "https://twitter.com/_mochizou_",
+            "instagram": "https://www.instagram.com/i_am_am_way/",
+            "tiktok": "https://www.tiktok.com/@amsan3150"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/nigemizuamu/?parent_id=2489"
+        }
+      ],
+      "profileURL": "https://kyurushite.com/"
+    },
+    {
+      "uuid": "8F3E441C-2FD1-5FF1-846D-C6C1AF1532C1",
+      "masterId": "dearstage_cynhn",
+      "name": "CYNHN",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/CYNHN_DS",
+        "instagram": "https://www.instagram.com/cynhn_ds/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UC7yhKIisiNOgpYmsOgl0MjA"
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "62799A9B-E7E8-54F3-A79C-09B4D4E7CB89",
+          "masterId": "dearstage_cynhn_aoyagitooru",
+          "name": "青柳透",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-26",
+          "sns": {
+            "twitter": "https://twitter.com/ds_toru17",
+            "instagram": "https://www.instagram.com/ds_toru17/",
+            "tiktok": "https://www.tiktok.com/@ds_toru17"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/aoyagitooru/?parent_id=819"
+        },
+        {
+          "uuid": "5A49F7DA-8072-545C-96C9-FCC9E03B2C4F",
+          "masterId": "dearstage_cynhn_ayaseshiki",
+          "name": "綾瀬志希",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-14",
+          "sns": {
+            "twitter": "https://twitter.com/_shiki_ayase",
+            "instagram": "https://www.instagram.com/shikinobu/",
+            "tiktok": "https://www.tiktok.com/@_shiki_ayase"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/ayaseshiki/?parent_id=819"
+        },
+        {
+          "uuid": "5854F868-60DF-5002-A507-64D656573A85",
+          "masterId": "dearstage_cynhn_tsukumoneru",
+          "name": "月雲ねる",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-15",
+          "sns": {
+            "twitter": "https://twitter.com/tsukumoneru",
+            "instagram": "https://www.instagram.com/neruneruworld/",
+            "tiktok": "https://www.tiktok.com/@neruneruworld"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/tsukumoneru/?parent_id=819"
+        },
+        {
+          "uuid": "61C3C2BB-FF30-5D34-B0EA-F082F0F95F4C",
+          "masterId": "dearstage_cynhn_hiroseminori",
+          "name": "広瀬みのり",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-08",
+          "sns": {
+            "twitter": "https://twitter.com/minori_hirose",
+            "instagram": "https://www.instagram.com/hirose_minori/",
+            "tiktok": "https://www.tiktok.com/@hirose_minori"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/hiroseminori/?parent_id=819"
+        }
+      ],
+      "profileURL": "https://cynhn.com/"
+    },
+    {
+      "uuid": "1D61B524-7222-5AF5-A28D-F040A688C996",
+      "masterId": "dearstage_2zicon",
+      "name": "虹のコンキスタドール",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/2zicon",
+        "instagram": "https://www.instagram.com/2zicon/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/user/2zicon"
+      },
+      "timeTreeURL": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "DD365386-7C45-5672-88E9-E4AB9E664A75",
+          "masterId": "dearstage_2zicon_aoyamauta",
+          "name": "青山詩",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-21",
+          "sns": {
+            "twitter": "https://x.com/aoyama_uta",
+            "instagram": "https://www.instagram.com/uta__0221/",
+            "tiktok": "https://www.tiktok.com/@uta_0221?_t=ZS-8ufjtVW3tBv&_r=1"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/aoyamauta/?parent_id=807"
+        },
+        {
+          "uuid": "1C163C8F-09AC-5332-9A95-4DE6BF1D14C0",
+          "masterId": "dearstage_2zicon_ishihamamei",
+          "name": "石浜芽衣",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-28",
+          "sns": {
+            "twitter": "https://twitter.com/ishihama_mei",
+            "instagram": "https://www.instagram.com/ishihama_mei/",
+            "tiktok": "https://www.tiktok.com/@ishihama_mei"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/ishihamamei/?parent_id=807"
+        },
+        {
+          "uuid": "E7F78602-B9C6-56D0-BE2C-6C7E69DA5920",
+          "masterId": "dearstage_2zicon_ichimiyayui",
+          "name": "一宮ゆい",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/yui_ichimiya",
+            "instagram": "https://www.instagram.com/yui_ichimiya/",
+            "tiktok": "https://www.tiktok.com/@yui_ichimiya0830"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/ichimiyayui/?parent_id=807"
+        },
+        {
+          "uuid": "66400AAF-2FD7-5441-BA39-A0EF017DD4EF",
+          "masterId": "dearstage_2zicon_itomai",
+          "name": "伊藤舞依",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-05",
+          "sns": {
+            "twitter": "https://x.com/ito___mai",
+            "instagram": "https://www.instagram.com/ito_mai_?igsh=MnozZmo3bWJpNjl4",
+            "tiktok": "https://www.tiktok.com/@ito___mai?_t=ZS-8ufk60XpYpu&_r=1"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/itomai/?parent_id=807"
+        },
+        {
+          "uuid": "7D2A746D-C041-542D-BA25-4741EF9FD313",
+          "masterId": "dearstage_2zicon_obayashiyuika",
+          "name": "尾林結花",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-22",
+          "sns": {
+            "twitter": "https://twitter.com/obayashi_yuika",
+            "instagram": "https://www.instagram.com/obayashi_yuika/",
+            "tiktok": "https://www.tiktok.com/@obayashi_yuika"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/obayashiyuika/?parent_id=807"
+        },
+        {
+          "uuid": "33A9AF11-5229-5230-8A76-FA11C9DB75BB",
+          "masterId": "dearstage_2zicon_kawabatayuu",
+          "name": "川端優",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-03",
+          "sns": {
+            "twitter": "https://twitter.com/kawabata__yu",
+            "instagram": "https://www.instagram.com/kawabata__yu/",
+            "tiktok": null
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/kawabatayuu/?parent_id=807"
+        },
+        {
+          "uuid": "59C73A98-D0BE-5AA3-B960-A909B22EAE92",
+          "masterId": "dearstage_2zicon_kumamotomarina",
+          "name": "隈本茉莉奈",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-27",
+          "sns": {
+            "twitter": "https://twitter.com/kumamoto_marina",
+            "instagram": "https://www.instagram.com/kumamoto_marina/",
+            "tiktok": "https://www.tiktok.com/@kumamoto_marina"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/kumamotomarina/?parent_id=807"
+        },
+        {
+          "uuid": "BA0F5593-A5BE-5DFB-B1E7-B3D8F6B60C84",
+          "masterId": "dearstage_2zicon_kuriharamayu",
+          "name": "栗原舞優",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-24",
+          "sns": {
+            "twitter": "https://twitter.com/kurihara_mayu",
+            "instagram": "https://www.instagram.com/kurihara__mayu/",
+            "tiktok": "https://www.tiktok.com/@kurihara_mayu"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/kuriharamayu/?parent_id=807"
+        },
+        {
+          "uuid": "DD36DC46-99BF-5375-9D77-B2C6FA7FD88D",
+          "masterId": "dearstage_2zicon_tsudukishiyori",
+          "name": "都月しより",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-11",
+          "sns": {
+            "twitter": "https://x.com/tsuduki_shiyori",
+            "instagram": "https://www.instagram.com/tsuduki_shiyori",
+            "tiktok": "https://www.tiktok.com/@tsuduki_shiyori"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/tsudukishiyori/?parent_id=807"
+        },
+        {
+          "uuid": "D9CD459F-DB8A-5A93-A51D-072734CA6017",
+          "masterId": "dearstage_2zicon_maejimaano",
+          "name": "前嶋杏乃",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-31",
+          "sns": {
+            "twitter": "https://x.com/maejima_ano?s=21",
+            "instagram": "https://www.instagram.com/maejima_ano?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+            "tiktok": "https://www.tiktok.com/@maejima_ano?is_from_webapp=1&sender_device=pc"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/maejimaano/?parent_id=807"
+        },
+        {
+          "uuid": "166DA952-A4A2-592A-BEFC-290C9243F79F",
+          "masterId": "dearstage_2zicon_matobakarin",
+          "name": "的場華鈴",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-30",
+          "sns": {
+            "twitter": "https://twitter.com/matoba_karin",
+            "instagram": "https://www.instagram.com/matoba_karin/",
+            "tiktok": "https://www.tiktok.com/@matoba_karin"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/matobakarin/?parent_id=807"
+        },
+        {
+          "uuid": "53DD6B11-E43F-57CF-9FA7-3FB073B74CE0",
+          "masterId": "dearstage_2zicon_yagiharuka",
+          "name": "八木遥叶",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-07",
+          "sns": {
+            "twitter": "https://x.com/yagi_haruka",
+            "instagram": "https://www.instagram.com/yagi_haruka_?igsh=d3k2YW5samZ0ZjF4",
+            "tiktok": "https://www.tiktok.com/@y4gi_7?_t=ZS-8ufk50YBRIt&_r=1"
+          },
+          "profileURL": "https://dearstage.co.jp/artistall/yagiharuka/?parent_id=807"
+        }
+      ],
+      "profileURL": "https://2zicon.tokyo/"
+    }
+  ]
+}

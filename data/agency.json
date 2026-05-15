@@ -38,5 +38,10 @@
     "agencyId": "twin_planet",
     "name": "TWIN PLANET",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/twin_planet.json"
+  },
+  {
+    "agencyId": "dearstage",
+    "name": "ディアステージ",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/dearstage.json"
   }
 ]

@@ -15,6 +15,36 @@
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stpr.json"
   },
   {
+    "agencyId": "starto",
+    "name": "STARTO ENTERTAINMENT",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/starto.json"
+  },
+  {
+    "agencyId": "ldh",
+    "name": "LDH",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/ldh.json"
+  },
+  {
+    "agencyId": "ebidan",
+    "name": "EBiDAN",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/ebidan.json"
+  },
+  {
+    "agencyId": "lapone",
+    "name": "LAPONE ENTERTAINMENT",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/lapone.json"
+  },
+  {
+    "agencyId": "bmsg",
+    "name": "BMSG",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/bmsg.json"
+  },
+  {
+    "agencyId": "tobe",
+    "name": "TOBE",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/tobe.json"
+  },
+  {
     "agencyId": "sakamichi",
     "name": "坂道シリーズ",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/sakamichi.json"

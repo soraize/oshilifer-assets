@@ -1,0 +1,1735 @@
+{
+  "agencyId": "starto",
+  "agency": "STARTO ENTERTAINMENT",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "CF674D76-A5DC-5EBA-A443-809CAD7E0328",
+      "masterId": "starto_20thcentury",
+      "name": "20th Century",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/57/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/57",
+        "twitter": "https://twitter.com/20thCentury_SIN",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@20thCentury_SIN"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=57",
+      "members": [
+        {
+          "uuid": "63BFDF2D-9863-5699-8280-081F7BC677DF",
+          "masterId": "starto_20thcentury_138",
+          "name": "坂本昌行",
+          "profileURL": "https://starto.jp/s/p/artist/57/profile#id_138",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "07-24",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ma_sa_sakamoto",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63DC70D5-1DBF-5BA8-B066-079EB89D43BC",
+          "masterId": "starto_20thcentury_139",
+          "name": "長野博",
+          "profileURL": "https://starto.jp/s/p/artist/57/profile#id_139",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "10-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4F6574F-9944-550D-A886-3CCEF06073C9",
+          "masterId": "starto_20thcentury_140",
+          "name": "井ノ原快彦",
+          "profileURL": "https://starto.jp/s/p/artist/57/profile#id_140",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "05-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6F8D0D3A-172C-5E2F-8DC7-6D8AF6A8C0BA",
+      "masterId": "starto_news",
+      "name": "NEWS",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/12/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/12",
+        "twitter": "https://twitter.com/NEWS0915_music",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@news0915_official",
+        "youtube": "https://www.youtube.com/@NEWS0915_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=12",
+      "members": [
+        {
+          "uuid": "4B527DE6-9B10-5CCA-B953-D930687C41D1",
+          "masterId": "starto_news_68",
+          "name": "小山慶一郎",
+          "profileURL": "https://starto.jp/s/p/artist/12/profile#id_68",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "05-01",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/keiichiro.koyama",
+            "tiktok": "https://www.tiktok.com/@keiichiro.koyama_0501"
+          }
+        },
+        {
+          "uuid": "53EB938B-ECD7-52D0-BB6C-1E256261E067",
+          "masterId": "starto_news_69",
+          "name": "加藤シゲアキ",
+          "profileURL": "https://starto.jp/s/p/artist/12/profile#id_69",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "07-11",
+          "sns": {
+            "twitter": "https://twitter.com/Shige_no_hitori",
+            "instagram": "https://www.instagram.com/shigeaki_kato_whoiam",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E514684-F3D1-592C-9ECF-1700AFC721A4",
+          "masterId": "starto_news_70",
+          "name": "増田貴久",
+          "profileURL": "https://starto.jp/s/p/artist/12/profile#id_70",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "07-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A61C118B-FFFE-5A45-B7C8-7E6007965F77",
+      "masterId": "starto_super_eight",
+      "name": "SUPER EIGHT",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/13/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/13",
+        "twitter": "https://twitter.com/Infinity_rJP",
+        "instagram": "https://www.instagram.com/super_eight_official",
+        "tiktok": "https://www.tiktok.com/@supereight_infinity_r",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=13",
+      "members": [
+        {
+          "uuid": "A8EE158E-B5E3-5AD2-8527-6D70A51E051E",
+          "masterId": "starto_super_eight_71",
+          "name": "横山裕",
+          "profileURL": "https://starto.jp/s/p/artist/13/profile#id_71",
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "813DF9F6-1BA1-5A62-8FE8-056110A536F1",
+          "masterId": "starto_super_eight_72",
+          "name": "村上信五",
+          "profileURL": "https://starto.jp/s/p/artist/13/profile#id_72",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "01-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9FD0825-CC54-5339-9127-188F9CAD358C",
+          "masterId": "starto_super_eight_73",
+          "name": "丸山隆平",
+          "profileURL": "https://starto.jp/s/p/artist/13/profile#id_73",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "11-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E72B4B4B-FB7F-5C7A-ADAE-0AF08CC351D6",
+          "masterId": "starto_super_eight_74",
+          "name": "安田章大",
+          "profileURL": "https://starto.jp/s/p/artist/13/profile#id_74",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "09-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FEE717D4-8E96-54A6-971E-40917F68DD16",
+          "masterId": "starto_super_eight_75",
+          "name": "大倉忠義",
+          "profileURL": "https://starto.jp/s/p/artist/13/profile#id_75",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "0D73A60C-8D92-59CE-A48F-314ED481C974",
+      "masterId": "starto_hey_say_jump",
+      "name": "Hey! Say! JUMP",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/15/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/15",
+        "twitter": "https://twitter.com/JUMP_Storm",
+        "instagram": "https://www.instagram.com/heysayjump_official/",
+        "tiktok": "https://www.tiktok.com/@heysayjump_storm",
+        "youtube": "https://www.youtube.com/channel/UCFzXU6-djdXlDvXI3-2Appw"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=15",
+      "members": [
+        {
+          "uuid": "0D147602-905F-518C-A16C-EC5AC0007498",
+          "masterId": "starto_hey_say_jump_79",
+          "name": "山田涼介",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_79",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ryosuke_yamada059",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8C7343C-D49C-5BAD-9759-A0FCD80E0562",
+          "masterId": "starto_hey_say_jump_80",
+          "name": "知念侑李",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_80",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "11-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DA4AD616-6DBC-5A89-A4AB-63710DA54EE6",
+          "masterId": "starto_hey_say_jump_82",
+          "name": "有岡大貴",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_82",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/daiki.arioka_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "43D2113F-CC94-5BAA-A0F8-D4EBCA2C0136",
+          "masterId": "starto_hey_say_jump_83",
+          "name": "髙木雄也",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_83",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "03-26",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yuya.takaki_0326/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "386C7CE9-7F6A-551E-BC32-142EBD25E11E",
+          "masterId": "starto_hey_say_jump_84",
+          "name": "伊野尾慧",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_84",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "06-22",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kei_inoo.0622",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EB81F604-E056-524A-BD8E-33D43A18D241",
+          "masterId": "starto_hey_say_jump_85",
+          "name": "八乙女光",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_85",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": "https://x.com/_HikaruYaotome_",
+            "instagram": "https://www.instagram.com/hikaru.yaotome1202",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C49B136E-B360-5D41-A044-04BDE4DCAB91",
+          "masterId": "starto_hey_say_jump_86",
+          "name": "薮宏太",
+          "profileURL": "https://starto.jp/s/p/artist/15/profile#id_86",
+          "isGraduated": false,
+          "colorHex": [
+            "#9ACD32"
+          ],
+          "birthday": "01-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B71A4456-7305-5A77-9306-4C4904F47CEF",
+      "masterId": "starto_kis_my_ft2",
+      "name": "Kis-My-Ft2",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/17/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/17",
+        "twitter": "https://twitter.com/KMF2_0810MENT",
+        "instagram": null,
+        "tiktok": "https://tiktok.com/@kismyft2_mentrecording",
+        "youtube": "https://www.youtube.com/channel/UCwVX4BFoELC1lfOFMzbJlOg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=17",
+      "members": [
+        {
+          "uuid": "477C2877-B085-5674-AD72-5D45642CB160",
+          "masterId": "starto_kis_my_ft2_88",
+          "name": "千賀健永",
+          "profileURL": "https://starto.jp/s/p/artist/17/profile#id_88",
+          "isGraduated": false,
+          "colorHex": [
+            "#00FFFF"
+          ],
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kentosenga_0323",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C90403BD-BB9A-58EB-9509-7E3FBD8A6157",
+          "masterId": "starto_kis_my_ft2_89",
+          "name": "宮田俊哉",
+          "profileURL": "https://starto.jp/s/p/artist/17/profile#id_89",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": "https://twitter.com/t_miyata_kmf2",
+            "instagram": "https://www.instagram.com/toshiya_miyata_kmf2",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "011BC73F-0277-55F5-8416-1D2B8C27EDCB",
+          "masterId": "starto_kis_my_ft2_90",
+          "name": "横尾渉",
+          "profileURL": "https://starto.jp/s/p/artist/17/profile#id_90",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/what_the_tel86",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7246EDD9-3584-52AE-AD61-B08D338204FD",
+          "masterId": "starto_kis_my_ft2_91",
+          "name": "藤ヶ谷太輔",
+          "profileURL": "https://starto.jp/s/p/artist/17/profile#id_91",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF00FF"
+          ],
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/taisuke.fujigaya625",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8E440139-CE4E-5DC5-BAF5-85A8D2D321C0",
+          "masterId": "starto_kis_my_ft2_92",
+          "name": "玉森裕太",
+          "profileURL": "https://starto.jp/s/p/artist/17/profile#id_92",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yuta_tamamori_kmf2",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4DC647CC-B471-5028-B7FC-A3EFDDD3138B",
+          "masterId": "starto_kis_my_ft2_93",
+          "name": "二階堂高嗣",
+          "profileURL": "https://starto.jp/s/p/artist/17/profile#id_93",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "08-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "53741959-4947-5515-A447-A5F60CA7E947",
+      "masterId": "starto_timelesz",
+      "name": "timelesz",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/24/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/24",
+        "twitter": "https://twitter.com/OVTT_official",
+        "instagram": "https://www.instagram.com/timelesz_official/",
+        "tiktok": "https://www.tiktok.com/@timelesz_overthetop",
+        "youtube": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=24",
+      "members": [
+        {
+          "uuid": "A0388CF2-8A8F-5A82-96BA-97C57D8E0573",
+          "masterId": "starto_timelesz_94",
+          "name": "佐藤勝利",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_94",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "10-30",
+          "sns": {
+            "twitter": "https://x.com/all_about_shori",
+            "instagram": "https://www.instagram.com/shori_sato_official",
+            "tiktok": "https://www.tiktok.com/@all_about_shori"
+          }
+        },
+        {
+          "uuid": "D1D32BDB-B2AF-591C-A82A-1E8206A7733A",
+          "masterId": "starto_timelesz_96",
+          "name": "菊池風磨",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_96",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "03-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/fumakikuchiiinsta___official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02E8A7EE-B801-579D-A84D-715CAECE8D2B",
+          "masterId": "starto_timelesz_97",
+          "name": "松島聡",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_97",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/so.matsushima_19971127",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4A00B395-1BFB-548F-9E6D-B5B0C51D30EA",
+          "masterId": "starto_timelesz_164",
+          "name": "橋本将生",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_164",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "10-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/masaki.hashimoto.1017",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87BD970B-D2BF-5B93-8B1D-47C8086B65B3",
+          "masterId": "starto_timelesz_165",
+          "name": "猪俣周杜",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_165",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "08-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/inomata_shuto_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BC43ABE6-6031-5BBA-97C8-3FBE1165E9F8",
+          "masterId": "starto_timelesz_166",
+          "name": "篠塚大輝",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_166",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/taiki_shinozuka0709.official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "89AE2C29-33B8-5AAD-89C9-3CC463C2952B",
+          "masterId": "starto_timelesz_54",
+          "name": "寺西拓人",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_54",
+          "isGraduated": false,
+          "colorHex": [
+            "#87CEEB"
+          ],
+          "birthday": "12-31",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/takuto_teranishi",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B7F0413-2B42-56A5-8CC2-FA805CFB3805",
+          "masterId": "starto_timelesz_55",
+          "name": "原嘉孝",
+          "profileURL": "https://starto.jp/s/p/artist/24/profile#id_55",
+          "isGraduated": false,
+          "colorHex": [
+            "#9ACD32"
+          ],
+          "birthday": "09-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9551C4C6-1B19-539F-8384-2B301FC9EABF",
+      "masterId": "starto_abc_z",
+      "name": "A.B.C-Z",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/26/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/26",
+        "twitter": "https://twitter.com/abcz_official",
+        "instagram": "https://www.instagram.com/abcz_official_0201",
+        "tiktok": "https://www.tiktok.com/@abcz_zproject",
+        "youtube": "https://www.youtube.com/channel/UC-ifW8mHzfsZVGHY8vxqrjA"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=26",
+      "members": [
+        {
+          "uuid": "DF90CD4B-E956-5630-AB46-15DDACCCFA39",
+          "masterId": "starto_abc_z_98",
+          "name": "橋本良亮",
+          "profileURL": "https://starto.jp/s/p/artist/26/profile#id_98",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "07-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "65EF888F-6125-5A35-BE3E-1F3E302FFC80",
+          "masterId": "starto_abc_z_99",
+          "name": "戸塚祥太",
+          "profileURL": "https://starto.jp/s/p/artist/26/profile#id_99",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF00FF"
+          ],
+          "birthday": "11-13",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shota.totsuka_102",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "261FA1F6-7BE2-5774-8FAB-5E47D1339CFE",
+          "masterId": "starto_abc_z_101",
+          "name": "五関晃一",
+          "profileURL": "https://starto.jp/s/p/artist/26/profile#id_101",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "06-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2614043F-0978-5078-927A-5093E685474E",
+          "masterId": "starto_abc_z_102",
+          "name": "塚田僚一",
+          "profileURL": "https://starto.jp/s/p/artist/26/profile#id_102",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "12-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A088B4A0-BF9F-59EC-9361-6B1BE37C172F",
+      "masterId": "starto_west",
+      "name": "WEST.",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/29/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/29",
+        "twitter": "https://twitter.com/WEareWEST7",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@wearewest7",
+        "youtube": "https://www.youtube.com/@WEareWEST7"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=29",
+      "members": [
+        {
+          "uuid": "9A9D7FB6-298D-57CA-9FCD-34A94F166B18",
+          "masterId": "starto_west_103",
+          "name": "重岡大毅",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_103",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "08-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BB40B2A5-005C-5313-85F2-887432C00F49",
+          "masterId": "starto_west_104",
+          "name": "桐山照史",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_104",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "08-31",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/akito.kiriyama_0831",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1FB1AA95-66B4-5124-A223-C01FCD531D0C",
+          "masterId": "starto_west_105",
+          "name": "中間淳太",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_105",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "10-21",
+          "sns": {
+            "twitter": "https://twitter.com/j_nakama_w7_3",
+            "instagram": "https://www.instagram.com/junta_nakama_w7_3",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B95F9B2-5117-54F0-B2B9-6852292BB55E",
+          "masterId": "starto_west_106",
+          "name": "神山智洋",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_106",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "07-01",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tomohiro.kamiyama_71",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12B36D85-770D-5CF5-84F0-DCDCC0234A52",
+          "masterId": "starto_west_107",
+          "name": "藤井流星",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_107",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "08-18",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ryuseifujii818/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28942673-8B7F-5ED9-B72F-D3334C913B44",
+          "masterId": "starto_west_108",
+          "name": "濵田崇裕",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_108",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "12-19",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/west.takahiro_hamada",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2060C5EC-84C1-5E1E-B106-973AD780AA56",
+          "masterId": "starto_west_109",
+          "name": "小瀧望",
+          "profileURL": "https://starto.jp/s/p/artist/29/profile#id_109",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "07-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "123B4AD3-C8CF-5892-BC7C-C8C9EE850F94",
+      "masterId": "starto_sixtones",
+      "name": "SixTONES",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/42/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/42",
+        "twitter": "https://twitter.com/SixTONES_SME",
+        "instagram": "https://www.instagram.com/sixtones_official/",
+        "tiktok": "https://www.tiktok.com/@sixtones_sme",
+        "youtube": "https://www.youtube.com/c/SixTONES_official/"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=42",
+      "members": [
+        {
+          "uuid": "76B24BAC-573A-572E-BED1-BD8A2D8576D3",
+          "masterId": "starto_sixtones_116",
+          "name": "ジェシー",
+          "profileURL": "https://starto.jp/s/p/artist/42/profile#id_116",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "06-11",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/jesse_essej_0611",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "756DA7FE-7788-5044-A0B5-3C6BB026ECEC",
+          "masterId": "starto_sixtones_117",
+          "name": "京本大我",
+          "profileURL": "https://starto.jp/s/p/artist/42/profile#id_117",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "12-03",
+          "sns": {
+            "twitter": "https://twitter.com/TAIGA_KYOMO33",
+            "instagram": "https://www.instagram.com/kyomoto_art_put",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFEB2523-5E09-5A40-80B1-611828F03342",
+          "masterId": "starto_sixtones_118",
+          "name": "松村北斗",
+          "profileURL": "https://starto.jp/s/p/artist/42/profile#id_118",
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "06-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "574893B3-28BA-52F3-B45A-2894B973B13D",
+          "masterId": "starto_sixtones_119",
+          "name": "髙地優吾",
+          "profileURL": "https://starto.jp/s/p/artist/42/profile#id_119",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "03-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4694C05B-D137-5F96-AFE2-D905E5563796",
+          "masterId": "starto_sixtones_120",
+          "name": "森本慎太郎",
+          "profileURL": "https://starto.jp/s/p/artist/42/profile#id_120",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "07-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76D3D9E4-12E3-5D4B-A3BA-68B22D8451DA",
+          "masterId": "starto_sixtones_121",
+          "name": "田中樹",
+          "profileURL": "https://starto.jp/s/p/artist/42/profile#id_121",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "DFDE4DBB-456D-5A9F-9BEC-6AC51A5E8B33",
+      "masterId": "starto_snow_man",
+      "name": "Snow Man",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/43/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/43",
+        "twitter": "https://twitter.com/SN__20200122",
+        "instagram": "https://www.instagram.com/snowman.official.9",
+        "tiktok": "https://www.tiktok.com/@snowman_mentrecording_s",
+        "youtube": "https://www.youtube.com/@SnowMan.official.9"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=43",
+      "members": [
+        {
+          "uuid": "38A07DF6-2BAC-5A8B-8CC8-A99D35D6D37B",
+          "masterId": "starto_snow_man_122",
+          "name": "岩本照",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_122",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "05-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hikaru.iwamoto_sn_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "07C2F7FA-5D5C-50C3-8EB5-4244D853424A",
+          "masterId": "starto_snow_man_123",
+          "name": "深澤辰哉",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_123",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sn_tatsuya.fukazawa_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D79C6C92-E227-5D40-8BAF-29415878915E",
+          "masterId": "starto_snow_man_124",
+          "name": "ラウール",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_124",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "06-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/raul_official_sn",
+            "tiktok": "https://www.tiktok.com/@raul_official_sn"
+          }
+        },
+        {
+          "uuid": "1741412A-43CF-5A4D-8853-EE711FA43BA0",
+          "masterId": "starto_snow_man_125",
+          "name": "渡辺翔太",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_125",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "11-05",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shota_watanabe_sn_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DAD0AFB5-AC27-5506-BC60-382DD6A040FB",
+          "masterId": "starto_snow_man_126",
+          "name": "向井康二",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_126",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "06-21",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sn_kojimukai_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3396908D-86AB-5674-9549-D15E3EDFDE8B",
+          "masterId": "starto_snow_man_127",
+          "name": "阿部亮平",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_127",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sn_ryohei.abe_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "97028339-7521-5D7D-8D59-D94710A1BDE2",
+          "masterId": "starto_snow_man_128",
+          "name": "目黒蓮",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_128",
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "02-16",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sn_meguro.ren_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C637135B-F043-5FC7-8228-DEF722BC174E",
+          "masterId": "starto_snow_man_129",
+          "name": "宮舘涼太",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_129",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ryota.miyadate0325_sn_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "632A2A1C-7A57-5406-AFB2-C58B5ABCD2E1",
+          "masterId": "starto_snow_man_130",
+          "name": "佐久間大介",
+          "profileURL": "https://starto.jp/s/p/artist/43/profile#id_130",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF00FF"
+          ],
+          "birthday": "07-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "244A946D-A1F9-5FA2-868B-883022003EBA",
+      "masterId": "starto_naniwa_danshi",
+      "name": "なにわ男子",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/56/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/56",
+        "twitter": "https://twitter.com/728_Storm",
+        "instagram": "https://www.instagram.com/naniwadanshi728official/",
+        "tiktok": "https://www.tiktok.com/@naniwadanshi_storm/",
+        "youtube": "https://www.youtube.com/c/naniwadanshi"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=56",
+      "members": [
+        {
+          "uuid": "8561C08F-4FC3-59BB-A90B-D5A7ABC153DD",
+          "masterId": "starto_naniwa_danshi_131",
+          "name": "西畑大吾",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_131",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "01-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4312C520-3AAB-5E39-A912-175CD6494627",
+          "masterId": "starto_naniwa_danshi_132",
+          "name": "大西流星",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_132",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "08-07",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/08.07_ryuche",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "924FF80E-5226-5C21-A705-20867510169D",
+          "masterId": "starto_naniwa_danshi_133",
+          "name": "道枝駿佑",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_133",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "07-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/michieda_725_shunsuke",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EB3196E9-BFE2-562F-8C3F-A2BE764DA02D",
+          "masterId": "starto_naniwa_danshi_134",
+          "name": "高橋恭平",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_134",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "02-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kyohei.takahashi.official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F7960378-9222-56F7-B091-AD7A62F6027E",
+          "masterId": "starto_naniwa_danshi_135",
+          "name": "長尾謙杜",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_135",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "08-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kento.nagao_0815",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C802B53C-EAF2-52AE-82FF-B13667487D7A",
+          "masterId": "starto_naniwa_danshi_136",
+          "name": "藤原丈一郎",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_136",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8F00AD6B-F404-53A7-A7C8-DD779B8DDC49",
+          "masterId": "starto_naniwa_danshi_137",
+          "name": "大橋和也",
+          "profileURL": "https://starto.jp/s/p/artist/56/profile#id_137",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "08-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "35D60791-A511-5A5F-A2C1-86EA897FD2F8",
+      "masterId": "starto_travis_japan",
+      "name": "Travis Japan",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/60/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/60",
+        "twitter": "https://twitter.com/TravisJapan_cr",
+        "instagram": "https://www.instagram.com/travis_japan_official/",
+        "tiktok": "https://www.tiktok.com/@travisjapan_capitol",
+        "youtube": "https://www.youtube.com/@TravisJapan_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=60",
+      "members": [
+        {
+          "uuid": "22F60BD2-AFAB-51CE-BAC3-D10A043054C6",
+          "masterId": "starto_travis_japan_141",
+          "name": "宮近海斗",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_141",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": "https://x.com/Miyachika_TJ",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@chaka_dance_tj"
+          }
+        },
+        {
+          "uuid": "09DA0875-018C-54D1-9679-93227B72392A",
+          "masterId": "starto_travis_japan_142",
+          "name": "中村海人",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_142",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tj_u_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB4762BF-4505-5EEC-8195-157831072893",
+          "masterId": "starto_travis_japan_143",
+          "name": "七五三掛龍也",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_143",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF00FF"
+          ],
+          "birthday": "06-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ryuya_shimekake_tj",
+            "tiktok": "https://www.tiktok.com/@shime_tj_623"
+          }
+        },
+        {
+          "uuid": "09872290-6C1D-5A90-A9FA-156B051CE791",
+          "masterId": "starto_travis_japan_144",
+          "name": "川島如恵留",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_144",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "11-22",
+          "sns": {
+            "twitter": "https://x.com/noesukiofficial",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AC3FB461-E754-5BEB-B967-6AD641CAE775",
+          "masterId": "starto_travis_japan_145",
+          "name": "吉澤閑也",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_145",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shizuya.yoshizawa_tj",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F1C829CE-DC1D-599E-BDE1-C8A7B227012A",
+          "masterId": "starto_travis_japan_146",
+          "name": "松田元太",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_146",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tj_gentamatsuda_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "75CA3355-94CA-50E2-8969-7FD4CE48F899",
+          "masterId": "starto_travis_japan_147",
+          "name": "松倉海斗",
+          "profileURL": "https://starto.jp/s/p/artist/60/profile#id_147",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "11-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "99905C32-9FFE-5930-B287-E2D339A7C90A",
+      "masterId": "starto_ae_group",
+      "name": "Aぇ! group",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/157/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/157",
+        "twitter": "https://twitter.com/Aegroupofficial",
+        "instagram": "https://www.instagram.com/aegroup_official_0515",
+        "tiktok": "https://www.tiktok.com/@aegroup_official",
+        "youtube": "https://www.youtube.com/@Aegroup_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=157",
+      "members": [
+        {
+          "uuid": "E94530FB-8624-5D27-8B34-0CB5DF827C9E",
+          "masterId": "starto_ae_group_158",
+          "name": "正門良規",
+          "profileURL": "https://starto.jp/s/p/artist/157/profile#id_158",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "11-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kadostagram_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B22D155-50E0-5196-B517-0099A66AB30C",
+          "masterId": "starto_ae_group_159",
+          "name": "末澤誠也",
+          "profileURL": "https://starto.jp/s/p/artist/157/profile#id_159",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "08-24",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/suezawa.seiya.0824",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1727EAD4-6C17-5423-A2E2-CEAAF8F0C588",
+          "masterId": "starto_ae_group_161",
+          "name": "小島健",
+          "profileURL": "https://starto.jp/s/p/artist/157/profile#id_161",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kozzy.s_boss",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "284C9EF3-8068-5A9B-99C7-449B91E0AB5D",
+          "masterId": "starto_ae_group_162",
+          "name": "佐野晶哉",
+          "profileURL": "https://starto.jp/s/p/artist/157/profile#id_162",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "03-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "70CA656B-FBC8-5C15-85F5-70C97D37F82B",
+      "masterId": "starto_arashi",
+      "name": "嵐",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/10/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/10",
+        "twitter": "https://twitter.com/arashi5official",
+        "instagram": "https://www.instagram.com/arashi_5_official/",
+        "tiktok": "https://www.tiktok.com/@arashi_5_official",
+        "youtube": "https://www.youtube.com/c/ARASHI_5_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=10",
+      "members": [
+        {
+          "uuid": "8324EC7C-4F39-5184-A41F-CC76B0470DB5",
+          "masterId": "starto_arashi_148",
+          "name": "相葉雅紀",
+          "profileURL": "https://starto.jp/s/p/artist/10/profile#id_148",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "943D5238-5C80-504D-A6A2-031CD6E84915",
+          "masterId": "starto_arashi_149",
+          "name": "松本潤",
+          "profileURL": "https://starto.jp/s/p/artist/10/profile#id_149",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "08-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4505180-A553-59C2-AF95-7510566E9305",
+          "masterId": "starto_arashi_150",
+          "name": "二宮和也",
+          "profileURL": "https://starto.jp/s/p/artist/10/profile#id_150",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "06-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E27A7FFD-18CC-5282-9B97-5CE82F9E113D",
+          "masterId": "starto_arashi_151",
+          "name": "大野智",
+          "profileURL": "https://starto.jp/s/p/artist/10/profile#id_151",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "11-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "08542D0F-F957-5C16-AA1D-F73D868EEEA7",
+          "masterId": "starto_arashi_152",
+          "name": "櫻井翔",
+          "profileURL": "https://starto.jp/s/p/artist/10/profile#id_152",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "01-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "15B99758-9467-5500-981A-4490E962EFF3",
+      "masterId": "starto_king_prince",
+      "name": "King ＆ Prince",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/41/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/41",
+        "twitter": "https://twitter.com/kp_official0523",
+        "instagram": "https://www.instagram.com/kp_official_523",
+        "tiktok": "https://www.tiktok.com/@kingandprince_um",
+        "youtube": "https://www.youtube.com/@kp_official_523"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=41",
+      "members": [
+        {
+          "uuid": "6431BE39-6FEF-502D-ADA4-7EEDAA771DCD",
+          "masterId": "starto_king_prince_114",
+          "name": "永瀬廉",
+          "profileURL": "https://starto.jp/s/p/artist/41/profile#id_114",
+          "isGraduated": false,
+          "colorHex": [
+            "#0A0017"
+          ],
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ren.nagase.official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D482B141-3AF9-5F21-93B7-D29CCE05B394",
+          "masterId": "starto_king_prince_115",
+          "name": "髙橋海人",
+          "profileURL": "https://starto.jp/s/p/artist/41/profile#id_115",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD800"
+          ],
+          "birthday": "04-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F69D5F80-4ED4-51EE-B712-98EA98EECCE7",
+      "masterId": "starto_foyu",
+      "name": "ふぉ～ゆ～",
+      "isActive": true,
+      "profileURL": "https://starto.jp/s/p/artist/39/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starto.jp/s/p/artist/39",
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@4U_YouTube"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=39",
+      "members": [
+        {
+          "uuid": "0D6F9900-D7B0-5F03-B84E-44E66ED9AEF5",
+          "masterId": "starto_foyu_110",
+          "name": "福田悠太",
+          "profileURL": "https://starto.jp/s/p/artist/39/profile#id_110",
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "11-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/4u.fukuchan_1115",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "32CA5176-F291-5F7F-A509-F4C0E57AC11E",
+          "masterId": "starto_foyu_111",
+          "name": "辰巳雄大",
+          "profileURL": "https://starto.jp/s/p/artist/39/profile#id_111",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "11-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yudai_tatsumi__1125",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A1002133-8C7B-5ED7-8002-F403BF37FD87",
+          "masterId": "starto_foyu_112",
+          "name": "越岡裕貴",
+          "profileURL": "https://starto.jp/s/p/artist/39/profile#id_112",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yuki.koshioka_54u",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AFED5DA2-EE01-5BF7-BCDA-1C2BB8F8B18D",
+          "masterId": "starto_foyu_113",
+          "name": "松崎祐介",
+          "profileURL": "https://starto.jp/s/p/artist/39/profile#id_113",
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "10-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

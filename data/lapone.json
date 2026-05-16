@@ -2,5 +2,749 @@
   "agencyId": "lapone",
   "agency": "LAPONE ENTERTAINMENT",
   "isActive": true,
-  "groups": []
+  "groups": [
+    {
+      "uuid": "743FF795-3025-58C4-85ED-FE0F3395E71A",
+      "masterId": "lapone_jo1",
+      "name": "JO1",
+      "isActive": true,
+      "profileURL": "https://jo1.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://jo1.jp",
+        "twitter": "https://twitter.com/official_JO1",
+        "instagram": "https://instagram.com/official_jo1/",
+        "tiktok": "https://www.tiktok.com/@jo1_gotothetop",
+        "youtube": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://jo1.jp/schedule/list/",
+      "members": [
+        {
+          "uuid": "1858CAEC-645B-5E30-BC40-D25855B62EC7",
+          "masterId": "lapone_jo1_ohira_shosei",
+          "name": "大平 祥生",
+          "profileURL": "https://jo1.jp/feature/profile_ohira-shosei",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFDC00"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC15EF5B-F808-5410-8217-537BB7ACFA06",
+          "masterId": "lapone_jo1_kawashiri_ren",
+          "name": "川尻 蓮",
+          "profileURL": "https://jo1.jp/feature/profile_kawashiri-ren",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0075C2"
+          ],
+          "birthday": "03-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EBD8BDA5-F7E5-5A86-993D-DBC1B54B5365",
+          "masterId": "lapone_jo1_kawanishi_takumi",
+          "name": "川西 拓実",
+          "profileURL": "https://jo1.jp/feature/profile_kawanishi-takumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5B1AA"
+          ],
+          "birthday": "06-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "471A2C68-CDB3-584B-8448-2AAC08B7C12C",
+          "masterId": "lapone_jo1_kimata_syoya",
+          "name": "木全 翔也",
+          "profileURL": "https://jo1.jp/feature/profile_kimata-syoya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DDA0DD"
+          ],
+          "birthday": "04-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35FCBA05-F795-5330-9036-F7016984E1EC",
+          "masterId": "lapone_jo1_kinjo_sukai",
+          "name": "金城 碧海",
+          "profileURL": "https://jo1.jp/feature/profile_kinjo-sukai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7E73D0B-BBBA-52D4-9ACC-690CA9BB4EAF",
+          "masterId": "lapone_jo1_kono_junki",
+          "name": "河野 純喜",
+          "profileURL": "https://jo1.jp/feature/profile_kono-junki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ADD8E6"
+          ],
+          "birthday": "01-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F242F35-E601-592A-850E-8B29B6FABC5A",
+          "masterId": "lapone_jo1_sato_keigo",
+          "name": "佐藤 景瑚",
+          "profileURL": "https://jo1.jp/feature/profile_sato-keigo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BB8D5F"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB7F007B-DA36-544E-9DB4-0BF8DF90E3B6",
+          "masterId": "lapone_jo1_shiroiwa_ruki",
+          "name": "白岩 瑠姫",
+          "profileURL": "https://jo1.jp/feature/profile_shiroiwa-ruki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "11-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B76639A9-DC70-5F69-A539-207808C8D2FA",
+          "masterId": "lapone_jo1_mamehara_issei",
+          "name": "豆原 一成",
+          "profileURL": "https://jo1.jp/feature/profile_mamehara-issei",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "05-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7D0FAD01-6BCD-5E4E-BD10-33C82910AC62",
+          "masterId": "lapone_jo1_yonashiro_sho",
+          "name": "與那城 奨",
+          "profileURL": "https://jo1.jp/feature/profile_yonashiro-sho",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A760"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "495FE743-FF1C-5CA2-968B-0ACFDECFCDBC",
+      "masterId": "lapone_ini",
+      "name": "INI",
+      "isActive": true,
+      "profileURL": "https://ini-official.com/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://ini-official.com/",
+        "twitter": "https://twitter.com/official__INI",
+        "instagram": "https://www.instagram.com/official__ini/",
+        "tiktok": "https://www.tiktok.com/@official__ini",
+        "youtube": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA/featured"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://ini-official.com/schedule/list/",
+      "members": [
+        {
+          "uuid": "41B0A178-491F-5470-B556-E50FD1E24243",
+          "masterId": "lapone_ini_ikezaki_rihito",
+          "name": "池﨑 理人",
+          "profileURL": "https://ini-official.com/feature/profile_ikezaki-rihito",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000080"
+          ],
+          "birthday": "08-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E9D3E37E-A20F-54E8-8E0F-6D60AB89ECEE",
+          "masterId": "lapone_ini_ozaki_takumi",
+          "name": "尾崎 匠海",
+          "profileURL": "https://ini-official.com/feature/profile_ozaki-takumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "06-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A288A378-1506-530E-8B06-BD9058B19A57",
+          "masterId": "lapone_ini_kimura_masaya",
+          "name": "木村 柾哉",
+          "profileURL": "https://ini-official.com/feature/profile_kimura-masaya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "10-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B1A26804-446B-572D-A215-13CDE8F03CAD",
+          "masterId": "lapone_ini_goto_takeru",
+          "name": "後藤 威尊",
+          "profileURL": "https://ini-official.com/feature/profile_goto-takeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "06-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "75CD2C4D-75D3-593B-94F9-9D6DC9D4F0D7",
+          "masterId": "lapone_ini_sano_yudai",
+          "name": "佐野 雄大",
+          "profileURL": "https://ini-official.com/feature/profile_sano-yudai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "10-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A9A50B8C-620E-5057-A855-BD9C73B06E46",
+          "masterId": "lapone_ini_xu_fengfan",
+          "name": "許 豊凡",
+          "profileURL": "https://ini-official.com/feature/profile_xu-fengfan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#800080"
+          ],
+          "birthday": "06-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D7EEC0A4-FD91-5CB3-B910-23A8E7BCF248",
+          "masterId": "lapone_ini_takatsuka_hiromu",
+          "name": "髙塚 大夢",
+          "profileURL": "https://ini-official.com/feature/profile_takatsuka-hiromu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#87CEEB"
+          ],
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C2790795-56DA-5431-90AB-75982B494306",
+          "masterId": "lapone_ini_tajima_shogo",
+          "name": "田島 将吾",
+          "profileURL": "https://ini-official.com/feature/profile_tajima-shogo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#008000"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C0942104-6199-5977-AF7B-3704698983B3",
+          "masterId": "lapone_ini_nishi_hiroto",
+          "name": "西 洸人",
+          "profileURL": "https://ini-official.com/feature/profile_nishi-hiroto",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "06-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A0CD9CE0-8B21-5C52-A646-E11532B39873",
+          "masterId": "lapone_ini_fujimaki_kyosuke",
+          "name": "藤牧 京介",
+          "profileURL": "https://ini-official.com/feature/profile_fujimaki-kyosuke",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76D75576-60E3-56FA-B679-CB4EEBB48DC0",
+          "masterId": "lapone_ini_matsuda_jin",
+          "name": "松田 迅",
+          "profileURL": "https://ini-official.com/feature/profile_matsuda-jin",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "10-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "743F8653-8374-57A1-8FD2-C50815B20F1F",
+      "masterId": "lapone_dxteen",
+      "name": "DXTEEN",
+      "isActive": true,
+      "profileURL": "https://dxteen.com/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://dxteen.com/",
+        "twitter": "https://www.twitter.com/official_DXTEEN",
+        "instagram": "https://www.instagram.com/dxteen_official/",
+        "tiktok": "https://www.tiktok.com/@official_dxteen",
+        "youtube": "https://www.youtube.com/@DXTEEN"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://dxteen.com/schedule/list/",
+      "members": [
+        {
+          "uuid": "E008DC5B-71BC-541E-B684-734A69E464F1",
+          "masterId": "lapone_dxteen_okubo_nalu",
+          "name": "大久保 波留",
+          "profileURL": "https://dxteen.com/feature/profile_okubo_nalu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5B1AA"
+          ],
+          "birthday": "07-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F7DAEC70-63F5-5C7B-B1D6-286D968B2791",
+          "masterId": "lapone_dxteen_tanaka_shotaro",
+          "name": "田中 笑太郎",
+          "profileURL": "https://dxteen.com/feature/profile_tanaka_shotaro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DDA0DD"
+          ],
+          "birthday": "10-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ACD02B1F-3BEB-5C74-8167-08782803F0FB",
+          "masterId": "lapone_dxteen_taniguchi_taichi",
+          "name": "谷口 太一",
+          "profileURL": "https://dxteen.com/feature/profile_taniguchi_taichi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "07-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D7C1979-84D9-5A04-AB09-491A46DB5AEB",
+          "masterId": "lapone_dxteen_terao_koshin",
+          "name": "寺尾 香信",
+          "profileURL": "https://dxteen.com/feature/profile_terao_koshin",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A760"
+          ],
+          "birthday": "08-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9D58D7D4-072B-5D6E-A421-02E65BF09930",
+          "masterId": "lapone_dxteen_hiramoto_ken",
+          "name": "平本 健",
+          "profileURL": "https://dxteen.com/feature/profile_hiramoto_ken",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0075C2"
+          ],
+          "birthday": "12-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "872CE61E-073A-5DC5-A196-D2F62973EC80",
+          "masterId": "lapone_dxteen_fukuda_ayuta",
+          "name": "福田 歩汰",
+          "profileURL": "https://dxteen.com/feature/profile_fukuda_ayuta",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFDC00"
+          ],
+          "birthday": "03-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "C70168AA-0E83-584D-BC29-0EFA6258B0A2",
+      "masterId": "lapone_me_i",
+      "name": "ME:I",
+      "isActive": true,
+      "profileURL": "https://me-i.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://me-i.jp/",
+        "twitter": "https://twitter.com/official__ME_I_",
+        "instagram": "https://www.instagram.com/official_me_i_/",
+        "tiktok": "https://www.tiktok.com/@official_me_i_",
+        "youtube": "https://www.youtube.com/@official_me_i_"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://me-i.jp/schedule/list/",
+      "members": [
+        {
+          "uuid": "CCE5EBC0-D8B7-5A68-A20E-FD5F0B5BC0EB",
+          "masterId": "lapone_me_i_miu",
+          "name": "MIU",
+          "profileURL": "https://me-i.jp/feature/profile_miu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9077B4"
+          ],
+          "birthday": "01-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8DFCED7C-A365-5EF7-AF87-C0223E5A3E6D",
+          "masterId": "lapone_me_i_momona",
+          "name": "MOMONA",
+          "profileURL": "https://me-i.jp/feature/profile_momona",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "10-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED4DE4A0-E387-5C9E-98E0-18DBB96EA152",
+          "masterId": "lapone_me_i_ayane",
+          "name": "AYANE",
+          "profileURL": "https://me-i.jp/feature/profile_ayane",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFDC00"
+          ],
+          "birthday": "05-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CE4F670D-8D39-5AA5-A0FE-AF5613C7D374",
+          "masterId": "lapone_me_i_keiko",
+          "name": "KEIKO",
+          "profileURL": "https://me-i.jp/feature/profile_keiko",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#808080"
+          ],
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4861DFE3-5AFB-5D94-8AE4-17BFD115E44A",
+          "masterId": "lapone_me_i_rinon",
+          "name": "RINON",
+          "profileURL": "https://me-i.jp/feature/profile_rinon",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF1493"
+          ],
+          "birthday": "09-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62AA1BC2-AD22-5B8A-A709-34F37E0C771A",
+          "masterId": "lapone_me_i_suzu",
+          "name": "SUZU",
+          "profileURL": "https://me-i.jp/feature/profile_suzu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD1DC"
+          ],
+          "birthday": "12-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "14C6B8D9-8487-5AF2-8E55-B8B50355D0B4",
+          "masterId": "lapone_me_i_tsuzumi",
+          "name": "TSUZUMI",
+          "profileURL": "https://me-i.jp/feature/profile_tsuzumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E45E00"
+          ],
+          "birthday": "01-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "782F43C1-BBE7-543A-A0C3-B10DDFCBF4AE",
+      "masterId": "lapone_is_sue",
+      "name": "IS:SUE",
+      "isActive": true,
+      "profileURL": "https://is-sue.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://is-sue.jp/",
+        "twitter": "https://twitter.com/issue_is_coming",
+        "instagram": "https://www.instagram.com/issue_is_coming/",
+        "tiktok": "https://www.tiktok.com/@issue_is_coming",
+        "youtube": "https://www.youtube.com/@issue_is_coming"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://is-sue.jp/schedule/list/",
+      "members": [
+        {
+          "uuid": "5ECFC839-D4D8-5505-B40C-DD2BC47EBC2D",
+          "masterId": "lapone_is_sue_nano",
+          "name": "NANO",
+          "profileURL": "https://is-sue.jp/feature/profile_nano",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "11A96620-F26D-5D1D-94CF-28C25E0C26BD",
+          "masterId": "lapone_is_sue_rino",
+          "name": "RINO",
+          "profileURL": "https://is-sue.jp/feature/profile_rino",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2CFA496A-A222-523A-8A35-FC107373E398",
+          "masterId": "lapone_is_sue_yuuki",
+          "name": "YUUKI",
+          "profileURL": "https://is-sue.jp/feature/profile_yuuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "444F54CC-26C8-5962-B75B-D69E1CB39674",
+          "masterId": "lapone_is_sue_rin",
+          "name": "RIN",
+          "profileURL": "https://is-sue.jp/feature/profile_rin",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
 }

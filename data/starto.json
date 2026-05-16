@@ -20,13 +20,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=57&word=20th+Century",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=57&list[]=57",
       "members": [
         {
           "uuid": "63BFDF2D-9863-5699-8280-081F7BC677DF",
           "masterId": "starto_20thcentury_138",
           "name": "坂本昌行",
           "profileURL": "https://starto.jp/s/p/artist/57/profile#id_138",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=57&list[]=138",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -43,6 +44,7 @@
           "masterId": "starto_20thcentury_139",
           "name": "長野博",
           "profileURL": "https://starto.jp/s/p/artist/57/profile#id_139",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=57&list[]=139",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -59,6 +61,7 @@
           "masterId": "starto_20thcentury_140",
           "name": "井ノ原快彦",
           "profileURL": "https://starto.jp/s/p/artist/57/profile#id_140",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=57&list[]=140",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -89,13 +92,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=12&word=NEWS",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=12&list[]=12",
       "members": [
         {
           "uuid": "4B527DE6-9B10-5CCA-B953-D930687C41D1",
           "masterId": "starto_news_68",
           "name": "小山慶一郎",
           "profileURL": "https://starto.jp/s/p/artist/12/profile#id_68",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=12&list[]=68",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -112,6 +116,7 @@
           "masterId": "starto_news_69",
           "name": "加藤シゲアキ",
           "profileURL": "https://starto.jp/s/p/artist/12/profile#id_69",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=12&list[]=69",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -128,6 +133,7 @@
           "masterId": "starto_news_70",
           "name": "増田貴久",
           "profileURL": "https://starto.jp/s/p/artist/12/profile#id_70",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=12&list[]=70",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -158,13 +164,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&word=SUPER+EIGHT",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&list[]=13",
       "members": [
         {
           "uuid": "A8EE158E-B5E3-5AD2-8527-6D70A51E051E",
           "masterId": "starto_super_eight_71",
           "name": "横山裕",
           "profileURL": "https://starto.jp/s/p/artist/13/profile#id_71",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&list[]=71",
           "isGraduated": false,
           "colorHex": [
             "#000000"
@@ -181,6 +188,7 @@
           "masterId": "starto_super_eight_72",
           "name": "村上信五",
           "profileURL": "https://starto.jp/s/p/artist/13/profile#id_72",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&list[]=72",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -197,6 +205,7 @@
           "masterId": "starto_super_eight_73",
           "name": "丸山隆平",
           "profileURL": "https://starto.jp/s/p/artist/13/profile#id_73",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&list[]=73",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -213,6 +222,7 @@
           "masterId": "starto_super_eight_74",
           "name": "安田章大",
           "profileURL": "https://starto.jp/s/p/artist/13/profile#id_74",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&list[]=74",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -229,6 +239,7 @@
           "masterId": "starto_super_eight_75",
           "name": "大倉忠義",
           "profileURL": "https://starto.jp/s/p/artist/13/profile#id_75",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&list[]=75",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -259,13 +270,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&word=Hey%21+Say%21+JUMP",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=15",
       "members": [
         {
           "uuid": "0D147602-905F-518C-A16C-EC5AC0007498",
           "masterId": "starto_hey_say_jump_79",
           "name": "山田涼介",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_79",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=79",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -282,6 +294,7 @@
           "masterId": "starto_hey_say_jump_80",
           "name": "知念侑李",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_80",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=80",
           "isGraduated": false,
           "colorHex": [
             "#FFC0CB"
@@ -298,6 +311,7 @@
           "masterId": "starto_hey_say_jump_82",
           "name": "有岡大貴",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_82",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=82",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -314,6 +328,7 @@
           "masterId": "starto_hey_say_jump_83",
           "name": "髙木雄也",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_83",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=83",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -330,6 +345,7 @@
           "masterId": "starto_hey_say_jump_84",
           "name": "伊野尾慧",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_84",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=84",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -346,6 +362,7 @@
           "masterId": "starto_hey_say_jump_85",
           "name": "八乙女光",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_85",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=85",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -362,6 +379,7 @@
           "masterId": "starto_hey_say_jump_86",
           "name": "薮宏太",
           "profileURL": "https://starto.jp/s/p/artist/15/profile#id_86",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&list[]=86",
           "isGraduated": false,
           "colorHex": [
             "#9ACD32"
@@ -392,13 +410,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&word=Kis-My-Ft2",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=17",
       "members": [
         {
           "uuid": "477C2877-B085-5674-AD72-5D45642CB160",
           "masterId": "starto_kis_my_ft2_88",
           "name": "千賀健永",
           "profileURL": "https://starto.jp/s/p/artist/17/profile#id_88",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=88",
           "isGraduated": false,
           "colorHex": [
             "#00FFFF"
@@ -415,6 +434,7 @@
           "masterId": "starto_kis_my_ft2_89",
           "name": "宮田俊哉",
           "profileURL": "https://starto.jp/s/p/artist/17/profile#id_89",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=89",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -431,6 +451,7 @@
           "masterId": "starto_kis_my_ft2_90",
           "name": "横尾渉",
           "profileURL": "https://starto.jp/s/p/artist/17/profile#id_90",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=90",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -447,6 +468,7 @@
           "masterId": "starto_kis_my_ft2_91",
           "name": "藤ヶ谷太輔",
           "profileURL": "https://starto.jp/s/p/artist/17/profile#id_91",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=91",
           "isGraduated": false,
           "colorHex": [
             "#FF00FF"
@@ -463,6 +485,7 @@
           "masterId": "starto_kis_my_ft2_92",
           "name": "玉森裕太",
           "profileURL": "https://starto.jp/s/p/artist/17/profile#id_92",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=92",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -479,6 +502,7 @@
           "masterId": "starto_kis_my_ft2_93",
           "name": "二階堂高嗣",
           "profileURL": "https://starto.jp/s/p/artist/17/profile#id_93",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&list[]=93",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -509,13 +533,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&word=timelesz",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=24",
       "members": [
         {
           "uuid": "A0388CF2-8A8F-5A82-96BA-97C57D8E0573",
           "masterId": "starto_timelesz_94",
           "name": "佐藤勝利",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_94",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=94",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -532,6 +557,7 @@
           "masterId": "starto_timelesz_96",
           "name": "菊池風磨",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_96",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=96",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -548,6 +574,7 @@
           "masterId": "starto_timelesz_97",
           "name": "松島聡",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_97",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=97",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -564,6 +591,7 @@
           "masterId": "starto_timelesz_164",
           "name": "橋本将生",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_164",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=164",
           "isGraduated": false,
           "colorHex": [
             "#FFC0CB"
@@ -580,6 +608,7 @@
           "masterId": "starto_timelesz_165",
           "name": "猪俣周杜",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_165",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=165",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -596,6 +625,7 @@
           "masterId": "starto_timelesz_166",
           "name": "篠塚大輝",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_166",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=166",
           "isGraduated": false,
           "colorHex": [
             "#FFFFFF"
@@ -612,6 +642,7 @@
           "masterId": "starto_timelesz_54",
           "name": "寺西拓人",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_54",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=54",
           "isGraduated": false,
           "colorHex": [
             "#87CEEB"
@@ -628,6 +659,7 @@
           "masterId": "starto_timelesz_55",
           "name": "原嘉孝",
           "profileURL": "https://starto.jp/s/p/artist/24/profile#id_55",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&list[]=55",
           "isGraduated": false,
           "colorHex": [
             "#9ACD32"
@@ -658,13 +690,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&word=A.B.C-Z",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&list[]=26",
       "members": [
         {
           "uuid": "DF90CD4B-E956-5630-AB46-15DDACCCFA39",
           "masterId": "starto_abc_z_98",
           "name": "橋本良亮",
           "profileURL": "https://starto.jp/s/p/artist/26/profile#id_98",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&list[]=98",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -681,6 +714,7 @@
           "masterId": "starto_abc_z_99",
           "name": "戸塚祥太",
           "profileURL": "https://starto.jp/s/p/artist/26/profile#id_99",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&list[]=99",
           "isGraduated": false,
           "colorHex": [
             "#FF00FF"
@@ -697,6 +731,7 @@
           "masterId": "starto_abc_z_101",
           "name": "五関晃一",
           "profileURL": "https://starto.jp/s/p/artist/26/profile#id_101",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&list[]=101",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -713,6 +748,7 @@
           "masterId": "starto_abc_z_102",
           "name": "塚田僚一",
           "profileURL": "https://starto.jp/s/p/artist/26/profile#id_102",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&list[]=102",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -743,13 +779,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&word=WEST.",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=29",
       "members": [
         {
           "uuid": "9A9D7FB6-298D-57CA-9FCD-34A94F166B18",
           "masterId": "starto_west_103",
           "name": "重岡大毅",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_103",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=103",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -766,6 +803,7 @@
           "masterId": "starto_west_104",
           "name": "桐山照史",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_104",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=104",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -782,6 +820,7 @@
           "masterId": "starto_west_105",
           "name": "中間淳太",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_105",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=105",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -798,6 +837,7 @@
           "masterId": "starto_west_106",
           "name": "神山智洋",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_106",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=106",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -814,6 +854,7 @@
           "masterId": "starto_west_107",
           "name": "藤井流星",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_107",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=107",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -830,6 +871,7 @@
           "masterId": "starto_west_108",
           "name": "濵田崇裕",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_108",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=108",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -846,6 +888,7 @@
           "masterId": "starto_west_109",
           "name": "小瀧望",
           "profileURL": "https://starto.jp/s/p/artist/29/profile#id_109",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&list[]=109",
           "isGraduated": false,
           "colorHex": [
             "#FFC0CB"
@@ -876,13 +919,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&word=SixTONES",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=42",
       "members": [
         {
           "uuid": "76B24BAC-573A-572E-BED1-BD8A2D8576D3",
           "masterId": "starto_sixtones_116",
           "name": "ジェシー",
           "profileURL": "https://starto.jp/s/p/artist/42/profile#id_116",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=116",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -899,6 +943,7 @@
           "masterId": "starto_sixtones_117",
           "name": "京本大我",
           "profileURL": "https://starto.jp/s/p/artist/42/profile#id_117",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=117",
           "isGraduated": false,
           "colorHex": [
             "#FFC0CB"
@@ -915,6 +960,7 @@
           "masterId": "starto_sixtones_118",
           "name": "松村北斗",
           "profileURL": "https://starto.jp/s/p/artist/42/profile#id_118",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=118",
           "isGraduated": false,
           "colorHex": [
             "#000000"
@@ -931,6 +977,7 @@
           "masterId": "starto_sixtones_119",
           "name": "髙地優吾",
           "profileURL": "https://starto.jp/s/p/artist/42/profile#id_119",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=119",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -947,6 +994,7 @@
           "masterId": "starto_sixtones_120",
           "name": "森本慎太郎",
           "profileURL": "https://starto.jp/s/p/artist/42/profile#id_120",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=120",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -963,6 +1011,7 @@
           "masterId": "starto_sixtones_121",
           "name": "田中樹",
           "profileURL": "https://starto.jp/s/p/artist/42/profile#id_121",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&list[]=121",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -993,13 +1042,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&word=Snow+Man",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=43",
       "members": [
         {
           "uuid": "38A07DF6-2BAC-5A8B-8CC8-A99D35D6D37B",
           "masterId": "starto_snow_man_122",
           "name": "岩本照",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_122",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=122",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -1016,6 +1066,7 @@
           "masterId": "starto_snow_man_123",
           "name": "深澤辰哉",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_123",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=123",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -1032,6 +1083,7 @@
           "masterId": "starto_snow_man_124",
           "name": "ラウール",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_124",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=124",
           "isGraduated": false,
           "colorHex": [
             "#FFFFFF"
@@ -1048,6 +1100,7 @@
           "masterId": "starto_snow_man_125",
           "name": "渡辺翔太",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_125",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=125",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -1064,6 +1117,7 @@
           "masterId": "starto_snow_man_126",
           "name": "向井康二",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_126",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=126",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -1080,6 +1134,7 @@
           "masterId": "starto_snow_man_127",
           "name": "阿部亮平",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_127",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=127",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -1096,6 +1151,7 @@
           "masterId": "starto_snow_man_128",
           "name": "目黒蓮",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_128",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=128",
           "isGraduated": false,
           "colorHex": [
             "#000000"
@@ -1112,6 +1168,7 @@
           "masterId": "starto_snow_man_129",
           "name": "宮舘涼太",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_129",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=129",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -1128,6 +1185,7 @@
           "masterId": "starto_snow_man_130",
           "name": "佐久間大介",
           "profileURL": "https://starto.jp/s/p/artist/43/profile#id_130",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&list[]=130",
           "isGraduated": false,
           "colorHex": [
             "#FF00FF"
@@ -1158,13 +1216,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&word=%E3%81%AA%E3%81%AB%E3%82%8F%E7%94%B7%E5%AD%90",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=56",
       "members": [
         {
           "uuid": "8561C08F-4FC3-59BB-A90B-D5A7ABC153DD",
           "masterId": "starto_naniwa_danshi_131",
           "name": "西畑大吾",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_131",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=131",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -1181,6 +1240,7 @@
           "masterId": "starto_naniwa_danshi_132",
           "name": "大西流星",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_132",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=132",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -1197,6 +1257,7 @@
           "masterId": "starto_naniwa_danshi_133",
           "name": "道枝駿佑",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_133",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=133",
           "isGraduated": false,
           "colorHex": [
             "#FFC0CB"
@@ -1213,6 +1274,7 @@
           "masterId": "starto_naniwa_danshi_134",
           "name": "高橋恭平",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_134",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=134",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -1229,6 +1291,7 @@
           "masterId": "starto_naniwa_danshi_135",
           "name": "長尾謙杜",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_135",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=135",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -1245,6 +1308,7 @@
           "masterId": "starto_naniwa_danshi_136",
           "name": "藤原丈一郎",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_136",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=136",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -1261,6 +1325,7 @@
           "masterId": "starto_naniwa_danshi_137",
           "name": "大橋和也",
           "profileURL": "https://starto.jp/s/p/artist/56/profile#id_137",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&list[]=137",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -1291,13 +1356,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&word=Travis+Japan",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=60",
       "members": [
         {
           "uuid": "22F60BD2-AFAB-51CE-BAC3-D10A043054C6",
           "masterId": "starto_travis_japan_141",
           "name": "宮近海斗",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_141",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=141",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -1314,6 +1380,7 @@
           "masterId": "starto_travis_japan_142",
           "name": "中村海人",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_142",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=142",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -1330,6 +1397,7 @@
           "masterId": "starto_travis_japan_143",
           "name": "七五三掛龍也",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_143",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=143",
           "isGraduated": false,
           "colorHex": [
             "#FF00FF"
@@ -1346,6 +1414,7 @@
           "masterId": "starto_travis_japan_144",
           "name": "川島如恵留",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_144",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=144",
           "isGraduated": false,
           "colorHex": [
             "#FFFFFF"
@@ -1362,6 +1431,7 @@
           "masterId": "starto_travis_japan_145",
           "name": "吉澤閑也",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_145",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=145",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -1378,6 +1448,7 @@
           "masterId": "starto_travis_japan_146",
           "name": "松田元太",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_146",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=146",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -1394,6 +1465,7 @@
           "masterId": "starto_travis_japan_147",
           "name": "松倉海斗",
           "profileURL": "https://starto.jp/s/p/artist/60/profile#id_147",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&list[]=147",
           "isGraduated": false,
           "colorHex": [
             "#FFA500"
@@ -1424,13 +1496,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&word=A%E3%81%87%21+group",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&list[]=157",
       "members": [
         {
           "uuid": "E94530FB-8624-5D27-8B34-0CB5DF827C9E",
           "masterId": "starto_ae_group_158",
           "name": "正門良規",
           "profileURL": "https://starto.jp/s/p/artist/157/profile#id_158",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&list[]=158",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -1447,6 +1520,7 @@
           "masterId": "starto_ae_group_159",
           "name": "末澤誠也",
           "profileURL": "https://starto.jp/s/p/artist/157/profile#id_159",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&list[]=159",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -1463,6 +1537,7 @@
           "masterId": "starto_ae_group_161",
           "name": "小島健",
           "profileURL": "https://starto.jp/s/p/artist/157/profile#id_161",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&list[]=161",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -1479,6 +1554,7 @@
           "masterId": "starto_ae_group_162",
           "name": "佐野晶哉",
           "profileURL": "https://starto.jp/s/p/artist/157/profile#id_162",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&list[]=162",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -1509,13 +1585,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&word=%E5%B5%90",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&list[]=10",
       "members": [
         {
           "uuid": "8324EC7C-4F39-5184-A41F-CC76B0470DB5",
           "masterId": "starto_arashi_148",
           "name": "相葉雅紀",
           "profileURL": "https://starto.jp/s/p/artist/10/profile#id_148",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&list[]=148",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -1532,6 +1609,7 @@
           "masterId": "starto_arashi_149",
           "name": "松本潤",
           "profileURL": "https://starto.jp/s/p/artist/10/profile#id_149",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&list[]=149",
           "isGraduated": false,
           "colorHex": [
             "#800080"
@@ -1548,6 +1626,7 @@
           "masterId": "starto_arashi_150",
           "name": "二宮和也",
           "profileURL": "https://starto.jp/s/p/artist/10/profile#id_150",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&list[]=150",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -1564,6 +1643,7 @@
           "masterId": "starto_arashi_151",
           "name": "大野智",
           "profileURL": "https://starto.jp/s/p/artist/10/profile#id_151",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&list[]=151",
           "isGraduated": false,
           "colorHex": [
             "#0000FF"
@@ -1580,6 +1660,7 @@
           "masterId": "starto_arashi_152",
           "name": "櫻井翔",
           "profileURL": "https://starto.jp/s/p/artist/10/profile#id_152",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&list[]=152",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -1610,13 +1691,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=41&word=King+%EF%BC%86+Prince",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=41&list[]=41",
       "members": [
         {
           "uuid": "6431BE39-6FEF-502D-ADA4-7EEDAA771DCD",
           "masterId": "starto_king_prince_114",
           "name": "永瀬廉",
           "profileURL": "https://starto.jp/s/p/artist/41/profile#id_114",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=41&list[]=114",
           "isGraduated": false,
           "colorHex": [
             "#0A0017"
@@ -1633,6 +1715,7 @@
           "masterId": "starto_king_prince_115",
           "name": "髙橋海人",
           "profileURL": "https://starto.jp/s/p/artist/41/profile#id_115",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=41&list[]=115",
           "isGraduated": false,
           "colorHex": [
             "#FFD800"
@@ -1663,13 +1746,14 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&word=%E3%81%B5%E3%81%89%EF%BD%9E%E3%82%86%EF%BD%9E",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&list[]=39",
       "members": [
         {
           "uuid": "0D6F9900-D7B0-5F03-B84E-44E66ED9AEF5",
           "masterId": "starto_foyu_110",
           "name": "福田悠太",
           "profileURL": "https://starto.jp/s/p/artist/39/profile#id_110",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&list[]=110",
           "isGraduated": false,
           "colorHex": [
             "#008000"
@@ -1686,6 +1770,7 @@
           "masterId": "starto_foyu_111",
           "name": "辰巳雄大",
           "profileURL": "https://starto.jp/s/p/artist/39/profile#id_111",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&list[]=111",
           "isGraduated": false,
           "colorHex": [
             "#FFFF00"
@@ -1702,6 +1787,7 @@
           "masterId": "starto_foyu_112",
           "name": "越岡裕貴",
           "profileURL": "https://starto.jp/s/p/artist/39/profile#id_112",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&list[]=112",
           "isGraduated": false,
           "colorHex": [
             "#FF0000"
@@ -1718,6 +1804,7 @@
           "masterId": "starto_foyu_113",
           "name": "松崎祐介",
           "profileURL": "https://starto.jp/s/p/artist/39/profile#id_113",
+          "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&list[]=113",
           "isGraduated": false,
           "colorHex": [
             "#800080"

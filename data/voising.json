@@ -29,7 +29,9 @@
           "profileURL": "https://ireisu.com/member/liura",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#E85A52",
+          "colorHex": [
+            "#E85A52"
+          ],
           "birthday": "11-30",
           "sns": {
             "twitter": "https://x.com/_Liura_of",
@@ -44,7 +46,9 @@
           "profileURL": "https://ireisu.com/member/hotoke",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#66C7DF",
+          "colorHex": [
+            "#66C7DF"
+          ],
           "birthday": "11-16",
           "sns": {
             "twitter": "https://x.com/hotoke_imudayo_",
@@ -59,7 +63,9 @@
           "profileURL": "https://ireisu.com/member/sho",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#AF8CF6",
+          "colorHex": [
+            "#AF8CF6"
+          ],
           "birthday": "01-26",
           "sns": {
             "twitter": "https://x.com/RBT_sng",
@@ -74,7 +80,9 @@
           "profileURL": "https://ireisu.com/member/naiko",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#FB79A4",
+          "colorHex": [
+            "#FB79A4"
+          ],
           "birthday": "01-05",
           "sns": {
             "twitter": "https://x.com/naiko_notgirl",
@@ -89,7 +97,9 @@
           "profileURL": "https://ireisu.com/member/if",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#3969D6",
+          "colorHex": [
+            "#3969D6"
+          ],
           "birthday": "12-02",
           "sns": {
             "twitter": "https://x.com/Ifsingnico",
@@ -143,7 +153,9 @@
           "profileURL": "https://voising-official.com/talent/kuni",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#FF7E00",
+          "colorHex": [
+            "#FF7E00"
+          ],
           "birthday": "05-18",
           "sns": {
             "twitter": "https://x.com/kunikuni0518",
@@ -158,7 +170,9 @@
           "profileURL": "https://voising-official.com/talent/coe",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#FF3755",
+          "colorHex": [
+            "#FF3755"
+          ],
           "birthday": "01-06",
           "sns": {
             "twitter": "https://x.com/Coe_oo",
@@ -173,7 +187,9 @@
           "profileURL": "https://voising-official.com/talent/kisaragi_you",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#00D300",
+          "colorHex": [
+            "#00D300"
+          ],
           "birthday": "03-02",
           "sns": {
             "twitter": "https://x.com/kisaragi4444you",
@@ -188,7 +204,9 @@
           "profileURL": "https://voising-official.com/talent/kottaro",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#8459D5",
+          "colorHex": [
+            "#8459D5"
+          ],
           "birthday": "03-23",
           "sns": {
             "twitter": "https://x.com/ktr_utau",
@@ -224,7 +242,9 @@
           "profileURL": "https://voising-official.com/talent/charlo",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#0048FF",
+          "colorHex": [
+            "#0048FF"
+          ],
           "birthday": "10-14",
           "sns": {
             "twitter": "https://x.com/charock_2828",
@@ -239,7 +259,9 @@
           "profileURL": "https://voising-official.com/talent/amayume_remu",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#FF00FF",
+          "colorHex": [
+            "#FF00FF"
+          ],
           "birthday": "08-27",
           "sns": {
             "twitter": "https://x.com/amayumeremu",
@@ -254,7 +276,9 @@
           "profileURL": "https://voising-official.com/talent/kaname",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#00FF40",
+          "colorHex": [
+            "#00FF40"
+          ],
           "birthday": "09-25",
           "sns": {
             "twitter": "https://x.com/Kaname_reverse",
@@ -269,7 +293,9 @@
           "profileURL": "https://voising-official.com/talent/arkhe",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#FF0000",
+          "colorHex": [
+            "#FF0000"
+          ],
           "birthday": "12-20",
           "sns": {
             "twitter": "https://x.com/A_R_K_H_E",
@@ -284,7 +310,9 @@
           "profileURL": "https://voising-official.com/talent/shino",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#C000FF",
+          "colorHex": [
+            "#C000FF"
+          ],
           "birthday": "07-16",
           "sns": {
             "twitter": "https://x.com/_shinoo0",
@@ -299,7 +327,9 @@
           "profileURL": "https://voising-official.com/talent/urumiya",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#FF6000",
+          "colorHex": [
+            "#FF6000"
+          ],
           "birthday": "07-04",
           "sns": {
             "twitter": "https://x.com/urumiyayade",
@@ -335,7 +365,9 @@
           "profileURL": "https://voising-official.com/talent/amarai_raimu",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#C3B600",
+          "colorHex": [
+            "#C3B600"
+          ],
           "birthday": "07-07",
           "sns": {
             "twitter": "https://x.com/Amarai_Raimu",
@@ -350,7 +382,9 @@
           "profileURL": "https://voising-official.com/talent/hizumi",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#A61357",
+          "colorHex": [
+            "#A61357"
+          ],
           "birthday": "05-08",
           "sns": {
             "twitter": "https://x.com/hizumi_0x",
@@ -365,7 +399,9 @@
           "profileURL": "https://voising-official.com/talent/rami",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#31459C",
+          "colorHex": [
+            "#31459C"
+          ],
           "birthday": "04-22",
           "sns": {
             "twitter": "https://x.com/Rami_flap",
@@ -380,7 +416,9 @@
           "profileURL": "https://voising-official.com/talent/hakka_mitsuki",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#2FACBB",
+          "colorHex": [
+            "#2FACBB"
+          ],
           "birthday": "03-20",
           "sns": {
             "twitter": "https://x.com/Hakka_Mitsuki",
@@ -395,7 +433,9 @@
           "profileURL": "https://voising-official.com/talent/yuel",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#AC0F0F",
+          "colorHex": [
+            "#AC0F0F"
+          ],
           "birthday": "08-01",
           "sns": {
             "twitter": "https://x.com/Yuelflap",
@@ -410,7 +450,9 @@
           "profileURL": "https://voising-official.com/talent/rindo_neiro",
           "scheduleURL": null,
           "isGraduated": false,
-          "colorHex": "#6C3D8D",
+          "colorHex": [
+            "#6C3D8D"
+          ],
           "birthday": "09-09",
           "sns": {
             "twitter": "https://x.com/rindoneiro",

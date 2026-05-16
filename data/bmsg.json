@@ -2,5 +2,258 @@
   "agencyId": "bmsg",
   "agency": "BMSG",
   "isActive": true,
-  "groups": []
+  "groups": [
+    {
+      "uuid": "FF912B99-7316-500B-AE15-362515CB682C",
+      "masterId": "bmsg_befirst",
+      "name": "BE:FIRST",
+      "isActive": true,
+      "profileURL": "https://bmsg.tokyo/artist/befirst/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://befirst.tokyo/",
+        "twitter": "https://twitter.com/BEFIRSTofficial",
+        "instagram": "https://www.instagram.com/befirst__official/",
+        "tiktok": "https://www.tiktok.com/@befirst_official",
+        "youtube": "https://www.youtube.com/channel/UCLHTn2UQNUpSheL816CNa7w"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "4BAC3455-5099-5F52-9778-989D5BA00900",
+          "masterId": "bmsg_befirst_sota",
+          "name": "SOTA",
+          "profileURL": "https://befirst.tokyo/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8A3D8032-CB76-5D7C-9B9F-AD5E924E305F",
+          "masterId": "bmsg_befirst_shunto",
+          "name": "SHUNTO",
+          "profileURL": "https://befirst.tokyo/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B6B7A1D6-69D7-57B8-A5F6-5F0F33675C19",
+          "masterId": "bmsg_befirst_manato",
+          "name": "MANATO",
+          "profileURL": "https://befirst.tokyo/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9B021FD6-04D1-58E5-827F-B88AA7D8E9EF",
+          "masterId": "bmsg_befirst_ryuhei",
+          "name": "RYUHEI",
+          "profileURL": "https://befirst.tokyo/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "10C70173-34CF-5579-872E-8A0CABDF8C60",
+          "masterId": "bmsg_befirst_junon",
+          "name": "JUNON",
+          "profileURL": "https://befirst.tokyo/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F24071E-32E1-5F1A-B536-749C84BD3179",
+          "masterId": "bmsg_befirst_leo",
+          "name": "LEO",
+          "profileURL": "https://befirst.tokyo/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8CF47037-8B04-593D-80D1-3CEA6FEDA848",
+      "masterId": "bmsg_mazzel",
+      "name": "MAZZEL",
+      "isActive": true,
+      "profileURL": "https://bmsg.tokyo/artist/mazzel/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://mazzel.tokyo/",
+        "twitter": "https://twitter.com/mazzel_official",
+        "instagram": "https://www.instagram.com/mazzel_official/",
+        "tiktok": "https://www.tiktok.com/@mazzelofficial",
+        "youtube": "https://www.youtube.com/@MAZZEL_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "2EFABEC9-002F-5778-B9E3-724F9BCB6706",
+          "masterId": "bmsg_mazzel_kairyu",
+          "name": "KAIRYU",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3B7F226-D500-5A47-8932-ED6DDFE70C59",
+          "masterId": "bmsg_mazzel_naoya",
+          "name": "NAOYA",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9E7C911D-C6A6-5EFF-9B01-AB0BA8594B39",
+          "masterId": "bmsg_mazzel_ran",
+          "name": "RAN",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7478B2A-EDC0-530D-B47D-7EDA434A4415",
+          "masterId": "bmsg_mazzel_seito",
+          "name": "SEITO",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "910D4A15-1D6C-52D2-96DF-B8F134EDCC5E",
+          "masterId": "bmsg_mazzel_ryuki",
+          "name": "RYUKI",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47AD1E23-63C2-5E76-8032-7C78A39E3F42",
+          "masterId": "bmsg_mazzel_takuto",
+          "name": "TAKUTO",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D7FEF671-EBFB-5622-B4AD-7AFD1E7FBF23",
+          "masterId": "bmsg_mazzel_hayato",
+          "name": "HAYATO",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B0750415-C005-544B-B32E-D5635A9D4E8B",
+          "masterId": "bmsg_mazzel_eiki",
+          "name": "EIKI",
+          "profileURL": "https://mazzel.tokyo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
 }

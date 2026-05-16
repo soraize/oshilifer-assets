@@ -2,5 +2,792 @@
   "agencyId": "ebidan",
   "agency": "EBiDAN",
   "isActive": true,
-  "groups": []
+  "groups": [
+    {
+      "uuid": "8919A061-26D5-539E-9899-0BF9D4E83A9E",
+      "masterId": "ebidan_bullettrain",
+      "name": "超特急",
+      "isActive": true,
+      "profileURL": "https://bullettrain.jp/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://bullettrain.jp/",
+        "twitter": "https://twitter.com/sd_bt",
+        "instagram": "https://www.instagram.com/bullettrain8/",
+        "tiktok": "https://www.tiktok.com/@bullettrain_8",
+        "youtube": "https://www.youtube.com/channel/UC3XrP1yEARz4_iFsmrdUfRA"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "9F1E14E6-8ADA-5075-A678-30120B467354",
+          "masterId": "ebidan_bullettrain_kai",
+          "name": "カイ",
+          "profileURL": "https://bullettrain.jp/profile/kai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#0067C0",
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/927_kai/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE9955AC-D575-5198-891A-26830CFF9F3B",
+          "masterId": "ebidan_bullettrain_ryoga",
+          "name": "リョウガ",
+          "profileURL": "https://bullettrain.jp/profile/ryoga",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#8B52A1",
+          "birthday": "10-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/garistagram03/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A120E7E9-E2F0-5486-83EA-B3102B11492C",
+          "masterId": "ebidan_bullettrain_takuya",
+          "name": "タクヤ",
+          "profileURL": "https://bullettrain.jp/profile/takuya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#008000",
+          "birthday": "11-24",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/takunicochanman/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "885F42C4-3CA9-58A8-B410-DA8201FB3C78",
+          "masterId": "ebidan_bullettrain_yuki",
+          "name": "ユーキ",
+          "profileURL": "https://bullettrain.jp/profile/yuki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#ED1A3D",
+          "birthday": "01-02",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/happy_yuki05/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5FEEB746-0FEE-5357-8E2B-E801C39AD262",
+          "masterId": "ebidan_bullettrain_takashi",
+          "name": "タカシ",
+          "profileURL": "https://bullettrain.jp/profile/takashi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#F0F0F0",
+          "birthday": "09-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/takashi_yade07/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7DC2FECC-A289-5D0D-A076-E885E72680C2",
+          "masterId": "ebidan_bullettrain_profile20381",
+          "name": "シューヤ",
+          "profileURL": "https://bullettrain.jp/profile/profile20381/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#4D4D4D",
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shu_11x/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "95AAA9D5-5219-5A25-AE5A-4428E237CE1F",
+          "masterId": "ebidan_bullettrain_profile20384",
+          "name": "マサヒロ",
+          "profileURL": "https://bullettrain.jp/profile/profile20384/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#AC7525",
+          "birthday": "09-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/masahiro_12.official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "041181B6-6C53-5BCF-B730-47442C464325",
+          "masterId": "ebidan_bullettrain_profile20387",
+          "name": "アロハ",
+          "profileURL": "https://bullettrain.jp/profile/profile20387/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#10ABCE",
+          "birthday": "10-26",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/aloha_1026_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E7F67BF-A382-57DE-A44C-C721F02AE6D2",
+          "masterId": "ebidan_bullettrain_profile20390",
+          "name": "ハル",
+          "profileURL": "https://bullettrain.jp/profile/profile20390/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FA7F00",
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/haru_kashiwagi_official/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5A3B38FB-491E-55B6-A38D-5BD599B8C33F",
+      "masterId": "ebidan_milk",
+      "name": "M!LK",
+      "isActive": true,
+      "profileURL": "https://sd-milk.com/profiles",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://sd-milk.com/",
+        "twitter": "https://twitter.com/milk_info",
+        "instagram": "https://www.instagram.com/milk_official_2014/",
+        "tiktok": "https://www.tiktok.com/@milk_official",
+        "youtube": "https://www.youtube.com/channel/UCHqQCpqvSOcHQr6Oqa4_5wg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "8AF44570-3CCD-5EFF-B40E-3297673F5720",
+          "masterId": "ebidan_milk_hayato_sano",
+          "name": "佐野勇斗",
+          "profileURL": "https://sd-milk.com/hayato_sano",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFC0CB",
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sanohayato_milk/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2BD54623-3DFF-5ECA-907D-A70178E032A7",
+          "masterId": "ebidan_milk_daichi_shiozaki",
+          "name": "塩﨑太智",
+          "profileURL": "https://sd-milk.com/daichi_shiozaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#87CEEB",
+          "birthday": "09-11",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shiozakidaichi0911_milk/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C455BDD-0936-5075-8C5F-D14BCD72C97D",
+          "masterId": "ebidan_milk_shunta_sono",
+          "name": "曽野舜太",
+          "profileURL": "https://sd-milk.com/shunta_sono",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "05-03",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sonoshunta_milk/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CED655A7-01B6-5569-B464-62BF21758E87",
+          "masterId": "ebidan_milk_jyutaro_yamanaka",
+          "name": "山中柔太朗",
+          "profileURL": "https://sd-milk.com/jyutaro_yamanaka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "12-23",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/jyutaro_milk/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CDCF57B4-B557-5C1B-AB0E-4639944A0BD2",
+          "masterId": "ebidan_milk_jinto_yoshida",
+          "name": "吉田仁人",
+          "profileURL": "https://sd-milk.com/jinto_yoshida",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFF00",
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/yoshida_jinto_milk/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A01539A2-7AAB-5E16-9BE8-FCAD5B57CE30",
+      "masterId": "ebidan_superdragon",
+      "name": "SUPER★DRAGON",
+      "isActive": true,
+      "profileURL": "https://super-dragon.jp/biography/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://super-dragon.jp/",
+        "twitter": "https://twitter.com/supdra_staff",
+        "instagram": "https://www.instagram.com/superdragon_official/",
+        "tiktok": "https://www.tiktok.com/@superdragon_official",
+        "youtube": "https://www.youtube.com/channel/UCFoHBqKJImJjw_ouoE6kGVg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "46628DA9-E4A5-5590-AC2C-CBCBC17F5FC3",
+          "masterId": "ebidan_superdragon_reo",
+          "name": "志村玲於",
+          "profileURL": "https://super-dragon.jp/biography/reo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-29",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/reoshimura0129/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "78CB3C5D-E58D-584E-9456-1E5DF533A734",
+          "masterId": "ebidan_superdragon_tsuyoshi",
+          "name": "古川毅",
+          "profileURL": "https://super-dragon.jp/biography/tsuyoshi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tsuyoshifurukawa_227/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D34E04D9-0B7D-5616-B70A-DDAD6FD72011",
+          "masterId": "ebidan_superdragon_jean",
+          "name": "ジャン海渡",
+          "profileURL": "https://super-dragon.jp/biography/jean/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-04",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/jjean_naejj/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EA24316A-ED3D-5D39-BFA4-B3864818C763",
+          "masterId": "ebidan_superdragon_hayate",
+          "name": "飯島颯",
+          "profileURL": "https://super-dragon.jp/biography/hayate/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hayate_kumakun_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "82617897-131F-5C7D-9B1F-EBA1798899FB",
+          "masterId": "ebidan_superdragon_sougo",
+          "name": "伊藤壮吾",
+          "profileURL": "https://super-dragon.jp/biography/sougo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sougo05com_rapid/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7BDA13A4-627D-5D25-884B-812D95AA0B5A",
+          "masterId": "ebidan_superdragon_koki",
+          "name": "田中洸希",
+          "profileURL": "https://super-dragon.jp/biography/koki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tanaka_koki_0227/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "480945A3-2E06-5516-A52A-5E826A6D7195",
+          "masterId": "ebidan_superdragon_hyoma",
+          "name": "池田彪馬",
+          "profileURL": "https://super-dragon.jp/biography/hyoma/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-02",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/00_hyoma_0602_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AD009F0C-3FFD-5060-8867-AF295F0A697F",
+          "masterId": "ebidan_superdragon_tomoya",
+          "name": "松村和哉",
+          "profileURL": "https://super-dragon.jp/biography/tomoya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tomoyamatsumura_415/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "908CF6E5-ACF0-5805-A974-DBF370775350",
+          "masterId": "ebidan_superdragon_raku",
+          "name": "柴崎楽",
+          "profileURL": "https://super-dragon.jp/biography/raku/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/v_raku_r/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B901D7D7-69FD-5B54-BB3B-9CA5529628A9",
+      "masterId": "ebidan_one_n_only",
+      "name": "ONE N' ONLY",
+      "isActive": true,
+      "profileURL": "https://one-n-only.jp/profiles",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://one-n-only.jp/",
+        "twitter": "https://twitter.com/onenonly_tokyo",
+        "instagram": "https://www.instagram.com/onenonly_tokyo/",
+        "tiktok": "https://www.tiktok.com/@onenonly_tokyo",
+        "youtube": "https://www.youtube.com/c/ONENONLYTVOfficial/?sub_confirmation=1"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://one-n-only.jp/calendar",
+      "members": [
+        {
+          "uuid": "B4097763-5539-55E1-A997-41894DC1A343",
+          "masterId": "ebidan_one_n_only_tetta",
+          "name": "TETTA",
+          "profileURL": "https://one-n-only.jp/tetta",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-24",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/tetta1124_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D27BB22-4CB4-56E3-9DB1-0271D0AFC13B",
+          "masterId": "ebidan_one_n_only_rei",
+          "name": "REI",
+          "profileURL": "https://one-n-only.jp/rei",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-02",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/rei.sawamura_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F8EEBAD-2C96-5193-83EE-46336A893DE3",
+          "masterId": "ebidan_one_n_only_eiku",
+          "name": "EIKU",
+          "profileURL": "https://one-n-only.jp/eiku",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-19",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/eiku1219_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E241378C-2D73-5566-A9D2-AC1EE1901321",
+          "masterId": "ebidan_one_n_only_hayato",
+          "name": "HAYATO",
+          "profileURL": "https://one-n-only.jp/hayato",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-17",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/8810_takaofficial/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "80103717-FF34-589E-9F40-3169B1D266F3",
+          "masterId": "ebidan_one_n_only_naoya",
+          "name": "NAOYA",
+          "profileURL": "https://one-n-only.jp/naoya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/0406_k.naofficial/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8F2A1E86-2E54-52B9-99B1-AF1BE44FF66B",
+      "masterId": "ebidan_genjibu",
+      "name": "原因は自分にある。",
+      "isActive": true,
+      "profileURL": "https://genjibu.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://genjibu.jp/",
+        "twitter": "https://twitter.com/genjibu_sdr",
+        "instagram": "https://www.instagram.com/gnjb_official/",
+        "tiktok": "https://www.tiktok.com/@gnjb_official/",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "E68B9861-4E32-5964-9B8C-B24A6C42F308",
+          "masterId": "ebidan_genjibu_profile_okura_takato",
+          "name": "大倉空人",
+          "profileURL": "https://genjibu.jp/feature/profile_okura_takato",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFF00",
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/takato.okura412",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9AD6523D-8D7E-52EB-9D0D-9CA1CE64E755",
+          "masterId": "ebidan_genjibu_profile_koizumi_kohsaku",
+          "name": "小泉光咲",
+          "profileURL": "https://genjibu.jp/feature/profile_koizumi_kohsaku",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "03-11",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ko_saku.koizumi",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2602B830-93BA-53DE-A100-28CFEFB58B42",
+          "masterId": "ebidan_genjibu_profile_sakuragi_masaya",
+          "name": "桜木雅哉",
+          "profileURL": "https://genjibu.jp/feature/profile_sakuragi_masaya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFC0CB",
+          "birthday": "03-19",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/msy_enter319",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F71581E6-AD7C-58AE-9221-CFC44F40AE2C",
+          "masterId": "ebidan_genjibu_profile_nagano_ryota",
+          "name": "長野凌大",
+          "profileURL": "https://genjibu.jp/feature/profile_nagano_ryota",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#0000FF",
+          "birthday": "07-16",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ryota.n_no716/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC7FE9D1-7E8F-51F8-BD97-276F4058B639",
+          "masterId": "ebidan_genjibu_profile_muto_jun",
+          "name": "武藤潤",
+          "profileURL": "https://genjibu.jp/feature/profile_muto_jun",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "08-18",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/junm_0818",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A6C115D-1CA4-5942-BEBC-F5E04508843D",
+          "masterId": "ebidan_genjibu_profile_mokudai_kazuto",
+          "name": "杢代和人",
+          "profileURL": "https://genjibu.jp/feature/profile_mokudai_kazuto",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#008000",
+          "birthday": "05-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/mokudai520_k/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7AA111C8-BF20-532D-A957-018796F700AC",
+          "masterId": "ebidan_genjibu_profile_yoshizawa_kaname",
+          "name": "吉澤要人",
+          "profileURL": "https://genjibu.jp/feature/profile_yoshizawa_kaname",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#800080",
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kaname.y_712/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "BCB3F414-3F95-5713-81B8-C7936F79DF82",
+      "masterId": "ebidan_buddiis",
+      "name": "BUDDiiS",
+      "isActive": true,
+      "profileURL": "https://buddiis.com/profiles",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://buddiis.com/",
+        "twitter": "https://x.com/buddiis?ref_src=twsrc%5Etfw",
+        "instagram": "https://www.instagram.com/buddiis.official/",
+        "tiktok": "https://www.tiktok.com/@buddiis.official",
+        "youtube": "https://www.youtube.com/channel/UCH3rQwjymt2WWLKpDbAb2Dg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://buddiis.com/vertical_calendar",
+      "members": [
+        {
+          "uuid": "3EA98FFB-1819-559A-AFC9-B8189F112BDE",
+          "masterId": "ebidan_buddiis_fuminori",
+          "name": "FUMINORI",
+          "profileURL": "https://buddiis.com/fuminori",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#008000",
+          "birthday": "11-21",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/fuminori_ogawa_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BBA5BC13-3493-5D51-8614-1A10DA32FDFB",
+          "masterId": "ebidan_buddiis_kevin",
+          "name": "KEVIN",
+          "profileURL": "https://buddiis.com/kevin",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#0000FF",
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/kevinvin_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C39CE83A-FE68-598E-AFD9-FCC19CC521AD",
+          "masterId": "ebidan_buddiis_morrie",
+          "name": "MORRIE",
+          "profileURL": "https://buddiis.com/morrie",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFC0CB",
+          "birthday": "11-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hidetoshi_mori_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "801688FD-DFC5-5F1B-958C-71AE68D5F85C",
+          "masterId": "ebidan_buddiis_seiya",
+          "name": "SEIYA",
+          "profileURL": "https://buddiis.com/seiya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFA500",
+          "birthday": "12-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/okmtseiya_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B7BA54AA-8E88-5F59-A425-671A7865F3D3",
+          "masterId": "ebidan_buddiis_yuma",
+          "name": "YUMA",
+          "profileURL": "https://buddiis.com/yuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#800080",
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ns_yuma_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E2EDB968-3017-503E-AB28-085FB213B44D",
+          "masterId": "ebidan_buddiis_show",
+          "name": "SHOW",
+          "profileURL": "https://buddiis.com/show",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "01-01",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/showofficial___/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0753629E-73BC-509D-A07E-17FDF1BC69BE",
+          "masterId": "ebidan_buddiis_takuya",
+          "name": "TAKUYA",
+          "profileURL": "https://buddiis.com/takuya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#87CEEB",
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/takuya_o_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "71FA7939-FEA7-5D0F-9BFC-FF433A0F5A7B",
+          "masterId": "ebidan_buddiis_fumiya",
+          "name": "FUMIYA",
+          "profileURL": "https://buddiis.com/fumiya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFF00",
+          "birthday": "10-03",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/10_fumiya.official_03/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AB45CD64-9D40-5DBA-B104-2FD32FDCDBD9",
+          "masterId": "ebidan_buddiis_shoot",
+          "name": "SHOOT",
+          "profileURL": "https://buddiis.com/shoot",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "09-18",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/shoot_mori_official/",
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
 }

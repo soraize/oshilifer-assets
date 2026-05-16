@@ -30,6 +30,11 @@
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stpr.json"
   },
   {
+    "agencyId": "voising",
+    "name": "VOISING",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/voising.json"
+  },
+  {
     "agencyId": "starto",
     "name": "STARTO ENTERTAINMENT",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/starto.json"

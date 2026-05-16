@@ -1,0 +1,424 @@
+{
+  "agencyId": "voising",
+  "agency": "VOISING",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "67816FD7-FEAD-5DFD-B06C-9A1DD828CEF6",
+      "masterId": "voising_ireisu",
+      "name": "いれいす",
+      "isActive": true,
+      "profileURL": "https://voising-official.com/talent/ireisu",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://ireisu.com/",
+        "twitter": "https://x.com/ireisu_info",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@ireisu_official",
+        "youtube": "https://www.youtube.com/@ireisu"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://ireisu.com/live/",
+      "members": [
+        {
+          "uuid": "FF904122-DD15-511D-AAFE-A33E8CAE1CB8",
+          "masterId": "voising_ireisu_liura",
+          "name": "りうら",
+          "profileURL": "https://ireisu.com/member/liura",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#E85A52",
+          "birthday": "11-30",
+          "sns": {
+            "twitter": "https://x.com/_Liura_of",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@liura_of"
+          }
+        },
+        {
+          "uuid": "28EDF73B-F243-58CA-BA2C-2072F789690F",
+          "masterId": "voising_ireisu_-hotoke-",
+          "name": "-hotoke-",
+          "profileURL": "https://ireisu.com/member/hotoke",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#66C7DF",
+          "birthday": "11-16",
+          "sns": {
+            "twitter": "https://x.com/hotoke_imudayo_",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@hotoke_imukun"
+          }
+        },
+        {
+          "uuid": "09105364-17A2-5E92-812D-8810341D092D",
+          "masterId": "voising_ireisu_sho",
+          "name": "初兎",
+          "profileURL": "https://ireisu.com/member/sho",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#AF8CF6",
+          "birthday": "01-26",
+          "sns": {
+            "twitter": "https://x.com/RBT_sng",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@rbtsng"
+          }
+        },
+        {
+          "uuid": "E16170FC-2856-5B1B-8081-931F0B2E4AEE",
+          "masterId": "voising_ireisu_naiko",
+          "name": "ないこ",
+          "profileURL": "https://ireisu.com/member/naiko",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FB79A4",
+          "birthday": "01-05",
+          "sns": {
+            "twitter": "https://x.com/naiko_notgirl",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@naiko__notgirl"
+          }
+        },
+        {
+          "uuid": "CF65A0BC-E715-5D14-B38D-8016612914BD",
+          "masterId": "voising_ireisu_if",
+          "name": "If",
+          "profileURL": "https://ireisu.com/member/if",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#3969D6",
+          "birthday": "12-02",
+          "sns": {
+            "twitter": "https://x.com/Ifsingnico",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@ifmaroireisu"
+          }
+        },
+        {
+          "uuid": "938898C7-DA15-5E62-8F4D-E3A2DB7EC414",
+          "masterId": "voising_ireisu_yusuke",
+          "name": "悠佑",
+          "profileURL": "https://ireisu.com/member/yusuke",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1B1D24",
+            "#FFF000"
+          ],
+          "birthday": "01-10",
+          "sns": {
+            "twitter": "https://x.com/ireisu_yusuke",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@yusuke_iris_0110"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "10DE1453-5D52-5D9C-AE60-17C8EF409254",
+      "masterId": "voising_starpola",
+      "name": "すたぽら",
+      "isActive": true,
+      "profileURL": "https://voising-official.com/talent/starpola",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://starpola.com/",
+        "twitter": "https://x.com/starpola_info",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@starpola_tiktok",
+        "youtube": "https://www.youtube.com/@starpola"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://starpola.com/live",
+      "members": [
+        {
+          "uuid": "A3E9FD21-4643-5257-A168-A5601C600CEE",
+          "masterId": "voising_starpola_kuni",
+          "name": "くに",
+          "profileURL": "https://voising-official.com/talent/kuni",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF7E00",
+          "birthday": "05-18",
+          "sns": {
+            "twitter": "https://x.com/kunikuni0518",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@kunikuni0518"
+          }
+        },
+        {
+          "uuid": "1D86168B-F54B-57AB-9997-ECBCFA2D7B6D",
+          "masterId": "voising_starpola_coe",
+          "name": "Coe.",
+          "profileURL": "https://voising-official.com/talent/coe",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF3755",
+          "birthday": "01-06",
+          "sns": {
+            "twitter": "https://x.com/Coe_oo",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@coe_oe"
+          }
+        },
+        {
+          "uuid": "8110E92A-C57D-59BC-BBE2-5DAA9294B265",
+          "masterId": "voising_starpola_kisaragi_you",
+          "name": "如月ゆう",
+          "profileURL": "https://voising-official.com/talent/kisaragi_you",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#00D300",
+          "birthday": "03-02",
+          "sns": {
+            "twitter": "https://x.com/kisaragi4444you",
+            "instagram": null,
+            "tiktok": "https://tiktok.com/@kisaragi4444you"
+          }
+        },
+        {
+          "uuid": "8773C612-E638-59FF-81CD-BD3C85F3184D",
+          "masterId": "voising_starpola_kottaro",
+          "name": "こったろ",
+          "profileURL": "https://voising-official.com/talent/kottaro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#8459D5",
+          "birthday": "03-23",
+          "sns": {
+            "twitter": "https://x.com/ktr_utau",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@kottaro_kun"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "11BE6CA1-45BF-516F-A37A-B03A9496482C",
+      "masterId": "voising_chronover",
+      "name": "クロノヴァ",
+      "isActive": true,
+      "profileURL": "https://voising-official.com/talent/chronover",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://chronoreverse.com/",
+        "twitter": "https://twitter.com/Chronover_info",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@Chronover_info"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://chronoreverse.com/live",
+      "members": [
+        {
+          "uuid": "0BE611B9-B3C1-5D19-90C3-A4DE60917995",
+          "masterId": "voising_chronover_charlo",
+          "name": "しゃるろ",
+          "profileURL": "https://voising-official.com/talent/charlo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#0048FF",
+          "birthday": "10-14",
+          "sns": {
+            "twitter": "https://x.com/charock_2828",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DF123EED-4E11-5277-AD93-32A97B2AB192",
+          "masterId": "voising_chronover_amayume_remu",
+          "name": "甘夢れむ",
+          "profileURL": "https://voising-official.com/talent/amayume_remu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF00FF",
+          "birthday": "08-27",
+          "sns": {
+            "twitter": "https://x.com/amayumeremu",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@amyume_remu"
+          }
+        },
+        {
+          "uuid": "44E9152F-F1D8-56E4-957E-2039797975AB",
+          "masterId": "voising_chronover_kaname",
+          "name": "かなめ",
+          "profileURL": "https://voising-official.com/talent/kaname",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#00FF40",
+          "birthday": "09-25",
+          "sns": {
+            "twitter": "https://x.com/Kaname_reverse",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12074D99-5BED-5C29-A50B-722B9D89E8E5",
+          "masterId": "voising_chronover_arkhe",
+          "name": "ARKHE",
+          "profileURL": "https://voising-official.com/talent/arkhe",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "12-20",
+          "sns": {
+            "twitter": "https://x.com/A_R_K_H_E",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0F23B334-CC71-5FB5-AD54-BD3B91DD1C5E",
+          "masterId": "voising_chronover_shino",
+          "name": "しの",
+          "profileURL": "https://voising-official.com/talent/shino",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#C000FF",
+          "birthday": "07-16",
+          "sns": {
+            "twitter": "https://x.com/_shinoo0",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@_shinoo0"
+          }
+        },
+        {
+          "uuid": "BA5A0658-B8AE-5F8A-938C-D31E8BBD323D",
+          "masterId": "voising_chronover_urumiya",
+          "name": "うるみや",
+          "profileURL": "https://voising-official.com/talent/urumiya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF6000",
+          "birthday": "07-04",
+          "sns": {
+            "twitter": "https://x.com/urumiyayade",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1259080F-C24D-5C31-B0EA-65EB2D38381F",
+      "masterId": "voising_blackflap",
+      "name": "ブラフラ",
+      "isActive": true,
+      "profileURL": "https://voising-official.com/talent/blackflap",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://blackflap.com/",
+        "twitter": "https://x.com/BlackFlap_info",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@blackflap_official",
+        "youtube": "https://www.youtube.com/channel/UCsSUATrnXqj4lI71ABdJ7_w"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://blackflap.com/news",
+      "members": [
+        {
+          "uuid": "367EC4F2-1DA9-5F5B-8911-C34F6B92F044",
+          "masterId": "voising_blackflap_amarai_raimu",
+          "name": "天來 らいむ",
+          "profileURL": "https://voising-official.com/talent/amarai_raimu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#C3B600",
+          "birthday": "07-07",
+          "sns": {
+            "twitter": "https://x.com/Amarai_Raimu",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "935E65AC-AC6F-5FC0-B62D-332C24B9A133",
+          "masterId": "voising_blackflap_hizumi",
+          "name": "ひづみ",
+          "profileURL": "https://voising-official.com/talent/hizumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#A61357",
+          "birthday": "05-08",
+          "sns": {
+            "twitter": "https://x.com/hizumi_0x",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A406404-E6DE-58E7-9E79-326A6E9441CE",
+          "masterId": "voising_blackflap_rami",
+          "name": "らみ",
+          "profileURL": "https://voising-official.com/talent/rami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#31459C",
+          "birthday": "04-22",
+          "sns": {
+            "twitter": "https://x.com/Rami_flap",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76EB0756-C1C5-58F3-9A3E-A511A2A2B957",
+          "masterId": "voising_blackflap_hakka_mitsuki",
+          "name": "初噛 みつき",
+          "profileURL": "https://voising-official.com/talent/hakka_mitsuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#2FACBB",
+          "birthday": "03-20",
+          "sns": {
+            "twitter": "https://x.com/Hakka_Mitsuki",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7DD3FD1C-0EB6-59BE-92C0-5855347915D2",
+          "masterId": "voising_blackflap_yuel",
+          "name": "ユエル",
+          "profileURL": "https://voising-official.com/talent/yuel",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#AC0F0F",
+          "birthday": "08-01",
+          "sns": {
+            "twitter": "https://x.com/Yuelflap",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DDD8F6DA-668A-58AF-9790-7BD3D47DECC6",
+          "masterId": "voising_blackflap_rindo_neiro",
+          "name": "リンドウ ネイロ",
+          "profileURL": "https://voising-official.com/talent/rindo_neiro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#6C3D8D",
+          "birthday": "09-09",
+          "sns": {
+            "twitter": "https://x.com/rindoneiro",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -2,5 +2,198 @@
   "agencyId": "tobe",
   "agency": "TOBE",
   "isActive": true,
-  "groups": []
+  "groups": [
+    {
+      "uuid": "3FA4E533-3E1A-52F7-BD8E-5A4550739B99",
+      "masterId": "tobe_number_i",
+      "name": "Number_i",
+      "isActive": true,
+      "profileURL": "https://tobe-official.jp/artists/number_i/biography",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://tobe-official.jp/artists/number_i",
+        "twitter": "https://x.com/number_i_offic",
+        "instagram": "https://www.instagram.com/number_i.official",
+        "tiktok": "https://www.tiktok.com/@number_i.official",
+        "youtube": "https://www.youtube.com/@Number_i_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "48B056E2-72A5-56B8-9D10-F600A06A431A",
+          "masterId": "tobe_number_i_sho_hirano",
+          "name": "平野 紫耀",
+          "profileURL": "https://tobe-official.jp/artists/number_i/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-29",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/sho_h_desyo/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A07DBDCD-9F55-51D2-8BAE-22740054E97C",
+          "masterId": "tobe_number_i_yuta_jinguji",
+          "name": "神宮寺 勇太",
+          "profileURL": "https://tobe-official.jp/artists/number_i/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-30",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/_yutajinguji/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EAE422E1-11A5-5CAB-9F4D-3EB871666985",
+          "masterId": "tobe_number_i_yuta_kishi",
+          "name": "岸 優太",
+          "profileURL": "https://tobe-official.jp/artists/number_i/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-29",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/_yuta_kishi_/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "232CAE20-141D-548C-B20B-B32B13B631F8",
+      "masterId": "tobe_imp",
+      "name": "IMP.",
+      "isActive": true,
+      "profileURL": "https://tobe-official.jp/artists/imp/biography",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://tobe-official.jp/artists/imp",
+        "twitter": "http://twitter.com/_7mp_official_",
+        "instagram": "https://instagram.com/_7mp_official_/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@_7mp_official_"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "13DBF738-E03A-5A05-8131-6B0B8D4A109D",
+          "masterId": "tobe_imp_arata_sato",
+          "name": "佐藤 新",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B942A2F2-3359-5976-8C55-BB4B1D0CC883",
+          "masterId": "tobe_imp_shunsuke_motoi",
+          "name": "基 俊介",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AC97CD8B-6C2D-549B-B31C-01AD98AAC7A3",
+          "masterId": "tobe_imp_taiga_suzuki",
+          "name": "鈴木 大河",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6DACE3D-C708-5189-B547-3B0E84BD2FBA",
+          "masterId": "tobe_imp_takuya_kageyama",
+          "name": "影山 拓也",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0B2927E8-F833-545C-9314-1D0EA583AE6E",
+          "masterId": "tobe_imp_minato_matsui",
+          "name": "松井 奏",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3F035890-FC3B-5542-8DE8-F0209C0BDD95",
+          "masterId": "tobe_imp_yuki_yokohara",
+          "name": "横原 悠毅",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B190242A-96D7-527C-AC6F-57532B330501",
+          "masterId": "tobe_imp_taiga_tsubaki",
+          "name": "椿 泰我",
+          "profileURL": "https://tobe-official.jp/artists/imp/biography",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
 }

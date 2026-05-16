@@ -2,5 +2,765 @@
   "agencyId": "ldh",
   "agency": "LDH",
   "isActive": true,
-  "groups": []
+  "groups": [
+    {
+      "uuid": "4835B40B-FF70-52D0-845E-B5FDE42DF068",
+      "masterId": "ldh_exile",
+      "name": "EXILE",
+      "isActive": true,
+      "profileURL": "https://www.ldh.co.jp/management/exile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "http://exile.jp/",
+        "twitter": "https://mobile.twitter.com/exile_staff",
+        "instagram": "https://www.instagram.com/exilelive_acc/",
+        "tiktok": "https://www.tiktok.com/@exile_0927_official",
+        "youtube": "https://www.youtube.com/user/exileldhofficial"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "56E94AE7-7D74-5CAD-AAA2-CCDE38EA2FD1",
+          "masterId": "ldh_exile_hiro",
+          "name": "EXILE HIRO",
+          "profileURL": "https://www.ldh.co.jp/management/hiro/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DDA8B03E-5C3D-5101-9EC8-64AC8EAAC799",
+          "masterId": "ldh_exile_matsumoto_t",
+          "name": "松本利夫",
+          "profileURL": "https://www.ldh.co.jp/management/matsumoto_t/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-27",
+          "sns": {
+            "twitter": "https://twitter.com/matsu0527_ldh",
+            "instagram": "https://www.instagram.com/matsubocchi_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A7B398F-B713-5781-90E9-4A90B56F5E57",
+          "masterId": "ldh_exile_usami_y",
+          "name": "EXILE ÜSA",
+          "profileURL": "https://www.ldh.co.jp/management/usami_y/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-02",
+          "sns": {
+            "twitter": "https://twitter.com/USA_fromEXILE",
+            "instagram": "https://www.instagram.com/danceearthkidz/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AA4462AD-36FC-5E3C-B81A-031821DE7D80",
+          "masterId": "ldh_exile_maki_d",
+          "name": "EXILE MAKIDAI",
+          "profileURL": "https://www.ldh.co.jp/management/maki_d/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-27",
+          "sns": {
+            "twitter": "https://twitter.com/PKCZ_official",
+            "instagram": "https://www.instagram.com/pkcz_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E24A0968-E294-558A-979E-D62B4AD1BD85",
+          "masterId": "ldh_exile_atsushi",
+          "name": "EXILE ATSUSHI",
+          "profileURL": "https://www.ldh.co.jp/management/atsushi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-30",
+          "sns": {
+            "twitter": "https://twitter.com/__EXILE_ATSUSHI",
+            "instagram": "https://www.instagram.com/exile_atsushi_official/",
+            "tiktok": "https://www.tiktok.com/@exile_atsushi_official"
+          }
+        },
+        {
+          "uuid": "2B541050-18E1-5D84-8C6A-A862FAADFD7B",
+          "masterId": "ldh_exile_akira",
+          "name": "EXILE AKIRA",
+          "profileURL": "https://www.ldh.co.jp/management/akira/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-23",
+          "sns": {
+            "twitter": "https://twitter.com/EXILE_AKIRA_LDH/",
+            "instagram": "https://instagram.com/exileakira_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B95B91C5-D5E9-5E99-816D-5AB0AE4482C4",
+          "masterId": "ldh_exile_takahiro",
+          "name": "EXILE TAKAHIRO",
+          "profileURL": "https://www.ldh.co.jp/management/takahiro/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-08",
+          "sns": {
+            "twitter": "https://twitter.com/TAKAHIRO_Staff",
+            "instagram": "https://www.instagram.com/exiletakahiro_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30AA7918-8411-51CD-9459-6DB0905FF96F",
+          "masterId": "ldh_exile_kenchi",
+          "name": "橘ケンチ",
+          "profileURL": "https://www.ldh.co.jp/management/kenchi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-28",
+          "sns": {
+            "twitter": "https://twitter.com/permanent__blue",
+            "instagram": "https://www.instagram.com/kenchitachibana/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "14B6AF74-9EDB-55CC-BEE9-012876CD75B8",
+          "masterId": "ldh_exile_tetsuya",
+          "name": "EXILE TETSUYA",
+          "profileURL": "https://www.ldh.co.jp/management/tetsuya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-18",
+          "sns": {
+            "twitter": "https://twitter.com/epi_tetsuya",
+            "instagram": "https://www.instagram.com/exile_tetsuya_epi/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B8CFE4EF-519A-5822-A63C-154D2A0B22E6",
+          "masterId": "ldh_exile_nesmith",
+          "name": "EXILE NESMITH",
+          "profileURL": "https://www.ldh.co.jp/management/nesmith/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-01",
+          "sns": {
+            "twitter": "https://twitter.com/ex_nes_official/",
+            "instagram": "https://www.instagram.com/exile_nesmith_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "620A6B17-6DA6-5643-AAE1-0713DCD07709",
+          "masterId": "ldh_exile_shokichi",
+          "name": "EXILE SHOKICHI",
+          "profileURL": "https://www.ldh.co.jp/management/shokichi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-03",
+          "sns": {
+            "twitter": "https://twitter.com/SHOKICHI_927",
+            "instagram": "https://instagram.com/exxxile_shokichi/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9EAB75E4-82DD-5CDA-BD32-632ED1866D1A",
+          "masterId": "ldh_exile_naoto",
+          "name": "EXILE NAOTO",
+          "profileURL": "https://www.ldh.co.jp/management/naoto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-30",
+          "sns": {
+            "twitter": "https://twitter.com/Naoto_EX_3JSB_",
+            "instagram": "https://instagram.com/exile_naoto_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7758EF17-E7CB-563E-BD1A-FEFE4607FB70",
+          "masterId": "ldh_exile_naoki",
+          "name": "小林直己",
+          "profileURL": "https://www.ldh.co.jp/management/naoki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-10",
+          "sns": {
+            "twitter": "https://twitter.com/Naoki_works_",
+            "instagram": "https://www.instagram.com/naokikobayashi_works/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FEC2E82E-A865-5EF7-AFFF-CF4C9AF22384",
+          "masterId": "ldh_exile_shirahama",
+          "name": "白濱亜嵐",
+          "profileURL": "https://www.ldh.co.jp/management/shirahama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-04",
+          "sns": {
+            "twitter": "https://twitter.com/PKCZ_official",
+            "instagram": "https://www.instagram.com/pkcz_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "510B3F2F-6E34-5A35-A721-41F4AB713576",
+          "masterId": "ldh_exile_sekai",
+          "name": "世界",
+          "profileURL": "https://www.ldh.co.jp/management/sekai/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-21",
+          "sns": {
+            "twitter": "https://twitter.com/sekai_official_",
+            "instagram": "https://instagram.com/exile_sekai_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1E7BD2FE-CFBA-5F02-8127-30BEF4DC48F2",
+          "masterId": "ldh_exile_sato",
+          "name": "佐藤大樹",
+          "profileURL": "https://www.ldh.co.jp/management/sato/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-25",
+          "sns": {
+            "twitter": "https://x.com/taiki_magazine",
+            "instagram": "https://www.instagram.com/taiki_sato_official/",
+            "tiktok": "https://www.tiktok.com/@taiki_magazine"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "BFB6166D-1399-555D-BC7A-FAAF5596AF11",
+      "masterId": "ldh_jsoulbrothers",
+      "name": "三代目 J SOUL BROTHERS",
+      "isActive": true,
+      "profileURL": "https://www.ldh.co.jp/management/jsoulbrothers/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "http://jsoulb.jp/",
+        "twitter": "https://x.com/jsb3liveacc",
+        "instagram": "https://www.instagram.com/jsb3_7official",
+        "tiktok": "https://www.tiktok.com/@jsb3_official?lang=ja",
+        "youtube": "https://www.youtube.com/user/ldhsandaimejsb"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "C2686E8A-DCA2-56E3-B329-9796D4678097",
+          "masterId": "ldh_jsoulbrothers_jsoulbrothers_naoto",
+          "name": "NAOTO",
+          "profileURL": "https://www.ldh.co.jp/management/jsoulbrothers_naoto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-30",
+          "sns": {
+            "twitter": "https://twitter.com/Naoto_EX_3JSB_",
+            "instagram": "https://instagram.com/exile_naoto_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "97607F35-66F7-52F9-9507-17C056B46F43",
+          "masterId": "ldh_jsoulbrothers_jsoulbrothers_naoki",
+          "name": "小林直己",
+          "profileURL": "https://www.ldh.co.jp/management/jsoulbrothers_naoki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-10",
+          "sns": {
+            "twitter": "https://twitter.com/Naoki_works_",
+            "instagram": "https://www.instagram.com/naokikobayashi_works/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D24CE023-034C-5102-9D88-3C8E1F7E52F5",
+          "masterId": "ldh_jsoulbrothers_elly",
+          "name": "ELLY",
+          "profileURL": "https://www.ldh.co.jp/management/elly/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-21",
+          "sns": {
+            "twitter": "https://twitter.com/elly24soul",
+            "instagram": "http://instagram.com/elly24soul",
+            "tiktok": "https://www.tiktok.com/@crazyboy_3jsb"
+          }
+        },
+        {
+          "uuid": "6EBE4C52-FD40-5360-9F1E-2D69F2580816",
+          "masterId": "ldh_jsoulbrothers_yamashita_k",
+          "name": "山下健二郎",
+          "profileURL": "https://www.ldh.co.jp/management/yamashita_k/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-24",
+          "sns": {
+            "twitter": "https://twitter.com/3jsbykzb",
+            "instagram": "https://www.instagram.com/3jsb_kenjiro_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A198B816-1BDC-5D27-96FF-429B14EC4460",
+          "masterId": "ldh_jsoulbrothers_jsoulbrothers_iwata",
+          "name": "岩田剛典",
+          "profileURL": "https://www.ldh.co.jp/management/jsoulbrothers_iwata/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-06",
+          "sns": {
+            "twitter": "https://twitter.com/T_IWATA_EX_3JSB",
+            "instagram": "https://www.instagram.com/bemyguest__official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "31666EC1-5850-5D19-95EF-202A40227428",
+          "masterId": "ldh_jsoulbrothers_imaichi",
+          "name": "今市隆二",
+          "profileURL": "https://www.ldh.co.jp/management/imaichi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-02",
+          "sns": {
+            "twitter": "https://twitter.com/RyujiJSB_3",
+            "instagram": "https://www.instagram.com/jsbryuji_official/",
+            "tiktok": "https://www.tiktok.com/@ryuji_imaichi_official"
+          }
+        },
+        {
+          "uuid": "574712CC-0E40-57C2-B9D8-A76DA6F24E8E",
+          "masterId": "ldh_jsoulbrothers_tosaka",
+          "name": "ØMI",
+          "profileURL": "https://www.ldh.co.jp/management/tosaka/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-12",
+          "sns": {
+            "twitter": "https://twitter.com/HIROOMI_3JSB_",
+            "instagram": "https://www.instagram.com/the_fusion_official_ig",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "42108C99-CB5F-5909-82C7-23DE1054F039",
+      "masterId": "ldh_generations",
+      "name": "GENERATIONS",
+      "isActive": true,
+      "profileURL": "https://www.ldh.co.jp/management/generations/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "http://m.tribe-m.jp/artist/index/37",
+        "twitter": "https://twitter.com/generationsfext",
+        "instagram": "https://www.instagram.com/generations_official/",
+        "tiktok": "https://www.tiktok.com/@generations_official_",
+        "youtube": "https://www.youtube.com/user/ldhgenerations"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A5302220-EBAC-5B03-BF77-099A5C27930E",
+          "masterId": "ldh_generations_generations_shirahama",
+          "name": "白濱亜嵐",
+          "profileURL": "https://www.ldh.co.jp/management/generations_shirahama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-04",
+          "sns": {
+            "twitter": "https://twitter.com/PKCZ_official",
+            "instagram": "https://www.instagram.com/pkcz_official/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A12C074E-6327-599B-B666-C51FA6904015",
+          "masterId": "ldh_generations_katayose",
+          "name": "片寄涼太",
+          "profileURL": "https://www.ldh.co.jp/management/katayose/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-29",
+          "sns": {
+            "twitter": "https://twitter.com/@yose__staff",
+            "instagram": "https://www.instagram.com/ryota_katayose_staff/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "79D1C772-4ED4-5EC1-BB0F-B4BB99448C7C",
+          "masterId": "ldh_generations_kazuhara",
+          "name": "数原龍友",
+          "profileURL": "https://www.ldh.co.jp/management/kazuhara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-28",
+          "sns": {
+            "twitter": "https://twitter.com/ryuto_staff",
+            "instagram": "https://instagram.com/off_the_mic_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C97EBF00-5BE0-527B-A151-7F3C568413F9",
+          "masterId": "ldh_generations_komori",
+          "name": "小森隼",
+          "profileURL": "https://www.ldh.co.jp/management/komori/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-13",
+          "sns": {
+            "twitter": "https://twitter.com/hayato_official/",
+            "instagram": "https://www.instagram.com/hayato_komori_staff/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB3C5A3D-E2F7-55C3-B582-5C3B7E9E2AB8",
+          "masterId": "ldh_generations_sano",
+          "name": "佐野玲於",
+          "profileURL": "https://www.ldh.co.jp/management/sano/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-08",
+          "sns": {
+            "twitter": "https://twitter.com/sanoreofficial/",
+            "instagram": "https://instagram.com/reo_sano_official_acc/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9EF3690B-2AE6-593A-BA93-A1F87838C28B",
+          "masterId": "ldh_generations_nakatsuka",
+          "name": "中務裕太",
+          "profileURL": "https://www.ldh.co.jp/management/nakatsuka/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-07",
+          "sns": {
+            "twitter": "https://twitter.com/nakatsuka_staff",
+            "instagram": "https://www.instagram.com/yuta_nakatsuka_official/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "C1E561B9-FFF1-58C4-A6DA-2556FEBC09E6",
+      "masterId": "ldh_the_rampage",
+      "name": "THE RAMPAGE",
+      "isActive": true,
+      "profileURL": "https://www.ldh.co.jp/management/the_rampage/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://therampage-ldh.jp/",
+        "twitter": "https://twitter.com/therampagefext",
+        "instagram": "https://www.instagram.com/the_rampage_official/",
+        "tiktok": "https://www.tiktok.com/@therampage_official?lang=ja",
+        "youtube": "https://www.youtube.com/c/THERAMPAGEfromEXILETRIBE"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "49FE7920-532B-5F91-A269-C395B2471609",
+          "masterId": "ldh_the_rampage_likiya",
+          "name": "LIKIYA",
+          "profileURL": "https://www.ldh.co.jp/management/likiya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-28",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://instagram.com/likiya16rmpg?igshid=1duvj9ddp5pio",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "44725317-18FF-593B-B43F-C1762D4AF175",
+          "masterId": "ldh_the_rampage_zin",
+          "name": "陣",
+          "profileURL": "https://www.ldh.co.jp/management/zin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-28",
+          "sns": {
+            "twitter": "https://mobile.twitter.com/therampagezin",
+            "instagram": "https://instagram.com/rmpg_zin_official?igshid=rxdxxihazv3z",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "58905553-6B24-5F73-ABC2-048DDE5FAF7F",
+          "masterId": "ldh_the_rampage_riku",
+          "name": "RIKU",
+          "profileURL": "https://www.ldh.co.jp/management/riku/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-10",
+          "sns": {
+            "twitter": "https://x.com/RIKU1994810",
+            "instagram": "https://instagram.com/_riku_r.m.p.g_ldh?igshid=vvo6vn8h5y5l",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0FBFD7DC-8B5F-5E98-8FA8-A26AB7291956",
+          "masterId": "ldh_the_rampage_kamiya",
+          "name": "神谷健太",
+          "profileURL": "https://www.ldh.co.jp/management/kamiya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-27",
+          "sns": {
+            "twitter": "https://x.com/kentabook_staff",
+            "instagram": "https://instagram.com/kenta.kamiya_?igshid=1utyg55w7mgos",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7579D25-CF02-5DEB-9269-2569BFBC01A1",
+          "masterId": "ldh_the_rampage_yonamine",
+          "name": "与那嶺瑠唯",
+          "profileURL": "https://www.ldh.co.jp/management/yonamine/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-16",
+          "sns": {
+            "twitter": "https://twitter.com/Kijimuna_0816",
+            "instagram": "https://instagram.com/1_rui_yonamine_6?igshid=1wlvdtztjuprx",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B6ED9FF-CA95-5220-A31A-13323E48A035",
+          "masterId": "ldh_the_rampage_yamamoto",
+          "name": "山本彰吾",
+          "profileURL": "https://www.ldh.co.jp/management/yamamoto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-06",
+          "sns": {
+            "twitter": "https://twitter.com/yamachiho1006",
+            "instagram": "https://instagram.com/rampage_yamasho1006?igshid=174dguo540ch4",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2F0EF773-5512-5760-8555-CFB6646A5842",
+          "masterId": "ldh_the_rampage_kawamura",
+          "name": "川村壱馬",
+          "profileURL": "https://www.ldh.co.jp/management/kawamura/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-07",
+          "sns": {
+            "twitter": "https://x.com/lei_staff",
+            "instagram": "https://www.instagram.com/lei_staff/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "68B3D010-99A0-556F-86EB-B55387C1BDF7",
+          "masterId": "ldh_the_rampage_yoshino",
+          "name": "吉野北人",
+          "profileURL": "https://www.ldh.co.jp/management/yoshino/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-06",
+          "sns": {
+            "twitter": "https://twitter.com/hokuto_asi",
+            "instagram": "https://instagram.com/hokuto.yoshino.16_official?igshid=1fhnvd3u0q6bw",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0F80B53E-96E1-5049-AC8F-2D6A5F46BC77",
+          "masterId": "ldh_the_rampage_iwaya",
+          "name": "岩谷翔吾",
+          "profileURL": "https://www.ldh.co.jp/management/iwaya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-11",
+          "sns": {
+            "twitter": "https://twitter.com/RMPG_ShogoIwaya",
+            "instagram": "https://instagram.com/shogo_iwaya_official?igshid=623cls1qzhg1",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EF13658F-316F-5957-8749-6054C0B3ECAE",
+          "masterId": "ldh_the_rampage_urakawa",
+          "name": "浦川翔平",
+          "profileURL": "https://www.ldh.co.jp/management/urakawa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-23",
+          "sns": {
+            "twitter": "https://twitter.com/ura_river_",
+            "instagram": "https://instagram.com/ura_river_official?igshid=6s46r1chxw9y",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8FB0CFA5-903D-5F2D-85CC-152D8B7CDFBF",
+          "masterId": "ldh_the_rampage_fujiwara",
+          "name": "藤原樹",
+          "profileURL": "https://www.ldh.co.jp/management/fujiwara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-20",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://instagram.com/itsuki_fujiwara_official?igshid=1ezgt0svnwq9b",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8281B69D-39D8-5293-B7BC-521EEEB91A9B",
+          "masterId": "ldh_the_rampage_takechi",
+          "name": "武知海青",
+          "profileURL": "https://www.ldh.co.jp/management/takechi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-04",
+          "sns": {
+            "twitter": "https://x.com/kaiseibook_1st",
+            "instagram": "https://instagram.com/kaisei_takechi_official?igshid=13g86ucz3cfdw",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "797CCEE3-E472-5B0B-ADDA-EC8C95D5800A",
+          "masterId": "ldh_the_rampage_hasegawa",
+          "name": "長谷川慎",
+          "profileURL": "https://www.ldh.co.jp/management/hasegawa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-29",
+          "sns": {
+            "twitter": "https://twitter.com/makoto_lo_olzzz",
+            "instagram": "https://instagram.com/makoto.hasegawa.official?igshid=135z697s0dkx0",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F995E53C-EAD3-5807-8BA0-7F200FDE458D",
+          "masterId": "ldh_the_rampage_ryu",
+          "name": "龍",
+          "profileURL": "https://www.ldh.co.jp/management/ryu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-09",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://instagram.com/ryu_rampage?igshid=vuyrlwjm1kn2",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "86DC6797-86F0-58BC-B879-CBE3B39D9025",
+          "masterId": "ldh_the_rampage_suzuki_t",
+          "name": "鈴木昂秀",
+          "profileURL": "https://www.ldh.co.jp/management/suzuki_t/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-03",
+          "sns": {
+            "twitter": "https://x.com/TAKAHIDE_rmpg_",
+            "instagram": "https://instagram.com/rmpg_takahide_suzuki_official?igshid=1699kvt8x6gb2",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "522263E0-EAA9-59C3-B97B-041623E1882B",
+          "masterId": "ldh_the_rampage_goto",
+          "name": "後藤拓磨",
+          "profileURL": "https://www.ldh.co.jp/management/goto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-04",
+          "sns": {
+            "twitter": null,
+            "instagram": "https://instagram.com/takumagoto_?igshid=1qrwrmx8nfawm",
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
 }

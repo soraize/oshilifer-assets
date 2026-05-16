@@ -20,7 +20,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=57",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=57&word=20th+Century",
       "members": [
         {
           "uuid": "63BFDF2D-9863-5699-8280-081F7BC677DF",
@@ -89,7 +89,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=12",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=12&word=NEWS",
       "members": [
         {
           "uuid": "4B527DE6-9B10-5CCA-B953-D930687C41D1",
@@ -158,7 +158,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=13",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=13&word=SUPER+EIGHT",
       "members": [
         {
           "uuid": "A8EE158E-B5E3-5AD2-8527-6D70A51E051E",
@@ -259,7 +259,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=15",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=15&word=Hey%21+Say%21+JUMP",
       "members": [
         {
           "uuid": "0D147602-905F-518C-A16C-EC5AC0007498",
@@ -392,7 +392,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=17",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=17&word=Kis-My-Ft2",
       "members": [
         {
           "uuid": "477C2877-B085-5674-AD72-5D45642CB160",
@@ -509,7 +509,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=24",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=24&word=timelesz",
       "members": [
         {
           "uuid": "A0388CF2-8A8F-5A82-96BA-97C57D8E0573",
@@ -658,7 +658,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=26",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=26&word=A.B.C-Z",
       "members": [
         {
           "uuid": "DF90CD4B-E956-5630-AB46-15DDACCCFA39",
@@ -743,7 +743,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=29",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=29&word=WEST.",
       "members": [
         {
           "uuid": "9A9D7FB6-298D-57CA-9FCD-34A94F166B18",
@@ -876,7 +876,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=42",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=42&word=SixTONES",
       "members": [
         {
           "uuid": "76B24BAC-573A-572E-BED1-BD8A2D8576D3",
@@ -993,7 +993,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=43",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=43&word=Snow+Man",
       "members": [
         {
           "uuid": "38A07DF6-2BAC-5A8B-8CC8-A99D35D6D37B",
@@ -1158,7 +1158,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=56",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=56&word=%E3%81%AA%E3%81%AB%E3%82%8F%E7%94%B7%E5%AD%90",
       "members": [
         {
           "uuid": "8561C08F-4FC3-59BB-A90B-D5A7ABC153DD",
@@ -1291,7 +1291,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=60",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=60&word=Travis+Japan",
       "members": [
         {
           "uuid": "22F60BD2-AFAB-51CE-BAC3-D10A043054C6",
@@ -1424,7 +1424,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=157",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=157&word=A%E3%81%87%21+group",
       "members": [
         {
           "uuid": "E94530FB-8624-5D27-8B34-0CB5DF827C9E",
@@ -1509,7 +1509,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=10",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=10&word=%E5%B5%90",
       "members": [
         {
           "uuid": "8324EC7C-4F39-5184-A41F-CC76B0470DB5",
@@ -1610,7 +1610,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=41",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=41&word=King+%EF%BC%86+Prince",
       "members": [
         {
           "uuid": "6431BE39-6FEF-502D-ADA4-7EEDAA771DCD",
@@ -1663,7 +1663,7 @@
       },
       "timeTreeURL": null,
       "timeTreeLabel": null,
-      "scheduleURL": "https://starto.jp/s/p/media/list?list[]=39",
+      "scheduleURL": "https://starto.jp/s/p/media/list?list%5B%5D=39&word=%E3%81%B5%E3%81%89%EF%BD%9E%E3%82%86%EF%BD%9E",
       "members": [
         {
           "uuid": "0D6F9900-D7B0-5F03-B84E-44E66ED9AEF5",

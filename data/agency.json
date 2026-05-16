@@ -20,6 +20,11 @@
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/yoyogi.json"
   },
   {
+    "agencyId": "jyp",
+    "name": "JYP Entertainment",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jyp.json"
+  },
+  {
     "agencyId": "stpr",
     "name": "STPR",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stpr.json"

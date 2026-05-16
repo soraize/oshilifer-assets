@@ -1,0 +1,289 @@
+{
+  "agencyId": "jyp",
+  "agency": "JYP Entertainment",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "F11EED67-BF70-5BF2-A299-7A05A2B5DE71",
+      "masterId": "jyp_niziu",
+      "name": "NiziU",
+      "isActive": true,
+      "profileURL": "https://niziu.jype.com/Default/Profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://niziu.com/",
+        "twitter": "https://twitter.com/NiziU__official",
+        "instagram": "https://www.instagram.com/niziu_info_official/",
+        "tiktok": "https://www.tiktok.com/@niziu_official",
+        "youtube": "https://www.youtube.com/channel/UCHp2q2i85qt_9nn2H7AvGOw"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://niziu.jype.com/Default/Schedule",
+      "members": [
+        {
+          "uuid": "9C50C49C-017F-56CC-88D1-E4007CDF3A27",
+          "masterId": "jyp_niziu_mako",
+          "name": "MAKO",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF6A39",
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "528B7832-3E0E-513C-9454-6A2159756452",
+          "masterId": "jyp_niziu_rio",
+          "name": "RIO",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#71C5E8",
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "83636ECC-48A7-58FF-BE6F-CE998445AAAC",
+          "masterId": "jyp_niziu_maya",
+          "name": "MAYA",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#7F35B2",
+          "birthday": "04-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "72C2A219-56BB-56EC-9A6F-CD3422040053",
+          "masterId": "jyp_niziu_riku",
+          "name": "RIKU",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#F9E267",
+          "birthday": "10-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "25EF070A-8D21-5C7D-A852-E39C387E6118",
+          "masterId": "jyp_niziu_ayaka",
+          "name": "AYAKA",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFFFF",
+          "birthday": "06-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EEE68057-ACAD-5F01-AFF6-2C1A5F3732D4",
+          "masterId": "jyp_niziu_mayuka",
+          "name": "MAYUKA",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#00CFB4",
+          "birthday": "11-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6D752C16-905E-5CC9-8C52-1E205321EC5B",
+          "masterId": "jyp_niziu_rima",
+          "name": "RIMA",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#BA0C2F",
+          "birthday": "03-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F2F93334-58D3-55B6-83B8-B316111F88D2",
+          "masterId": "jyp_niziu_miihi",
+          "name": "MIIHI",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#ECB3CB",
+          "birthday": "08-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "94C6B4E5-F1FC-5C7A-BEA0-C5464C05E88A",
+          "masterId": "jyp_niziu_nina",
+          "name": "NINA",
+          "profileURL": "https://niziu.jype.com/Default/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#003DA5",
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "31107C07-E474-5143-8FF7-E390E1456A75",
+      "masterId": "jyp_nexz",
+      "name": "NEXZ",
+      "isActive": true,
+      "profileURL": "https://nexz-official.com/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://nexz-official.com/",
+        "twitter": "https://twitter.com/NEXZ_official",
+        "instagram": "https://www.instagram.com/real_nexz/",
+        "tiktok": "https://www.tiktok.com/@nexz_official",
+        "youtube": "https://www.youtube.com/@NEXZ_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://nexz.jype.com/Default/Schedule",
+      "members": [
+        {
+          "uuid": "A39E667F-59BC-545C-90E9-F3E182AA0A59",
+          "masterId": "jyp_nexz_tomoya",
+          "name": "TOMOYA",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "910121A6-7931-5EBA-807A-11A613D11850",
+          "masterId": "jyp_nexz_yu",
+          "name": "YU",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63557C09-2E1F-58B4-A6B4-D47B05D00B0E",
+          "masterId": "jyp_nexz_haru",
+          "name": "HARU",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A9616CB1-8FC9-5899-94E6-3F42FE9DBB4F",
+          "masterId": "jyp_nexz_so_geon",
+          "name": "SO GEON",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D4130464-25B5-55EF-B8A1-F0C74DE5C13B",
+          "masterId": "jyp_nexz_seita",
+          "name": "SEITA",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F11E97B2-F590-54EB-808E-52D00F235FA8",
+          "masterId": "jyp_nexz_hyui",
+          "name": "HYUI",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2E1477BA-B5A7-5CD2-A8B7-3AC9DF0F0D58",
+          "masterId": "jyp_nexz_yuki",
+          "name": "YUKI",
+          "profileURL": "https://nexz-official.com/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

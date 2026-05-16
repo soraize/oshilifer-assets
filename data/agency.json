@@ -10,6 +10,16 @@
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/kawaiilab.json"
   },
   {
+    "agencyId": "avex",
+    "name": "avex",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/avex.json"
+  },
+  {
+    "agencyId": "yoyogi",
+    "name": "代々木アニメーション学院",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/yoyogi.json"
+  },
+  {
     "agencyId": "stpr",
     "name": "STPR",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stpr.json"

@@ -1,0 +1,325 @@
+{
+  "agencyId": "avex",
+  "agency": "avex",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "9426EF89-1CF1-5393-94B7-6B1ED7956ECC",
+      "masterId": "avex_iris",
+      "name": "i☆Ris",
+      "isActive": true,
+      "profileURL": "https://iris.dive2ent.com/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://iris.dive2ent.com/",
+        "twitter": "https://twitter.com/iris_official_",
+        "instagram": "https://www.instagram.com/iris_official_1107/",
+        "tiktok": "https://www.tiktok.com/@iris_official_1107",
+        "youtube": "https://www.youtube.com/c/iRisOfficialChannel"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://iris.dive2ent.com/live/",
+      "members": [
+        {
+          "uuid": "B816C288-DF19-54B0-B192-E9B4AB94FA38",
+          "masterId": "avex_iris_1000225",
+          "name": "山北早紀",
+          "profileURL": "https://iris.dive2ent.com/profile/detail.php?id=1000225",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#008000",
+          "birthday": "02-28",
+          "sns": {
+            "twitter": "https://twitter.com/iris_official_",
+            "instagram": "https://www.instagram.com/iris_official_1107/",
+            "tiktok": "https://www.tiktok.com/@iris_official_1107"
+          }
+        },
+        {
+          "uuid": "F657ACE7-6B0C-5D2C-A991-5E8AB9EA7B16",
+          "masterId": "avex_iris_1000226",
+          "name": "芹澤 優",
+          "profileURL": "https://iris.dive2ent.com/profile/detail.php?id=1000226",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#0000FF",
+          "birthday": "12-03",
+          "sns": {
+            "twitter": "https://twitter.com/iris_official_",
+            "instagram": "https://www.instagram.com/iris_official_1107/",
+            "tiktok": "https://www.tiktok.com/@iris_official_1107"
+          }
+        },
+        {
+          "uuid": "81949446-CD3B-5538-803E-4CD396654E84",
+          "masterId": "avex_iris_1000227",
+          "name": "茜屋日海夏",
+          "profileURL": "https://iris.dive2ent.com/profile/detail.php?id=1000227",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#800080",
+          "birthday": "07-16",
+          "sns": {
+            "twitter": "https://twitter.com/iris_official_",
+            "instagram": "https://www.instagram.com/iris_official_1107/",
+            "tiktok": "https://www.tiktok.com/@iris_official_1107"
+          }
+        },
+        {
+          "uuid": "B3DC7AAE-F5E4-5468-B09A-1CBEEBB28A0B",
+          "masterId": "avex_iris_1000222",
+          "name": "若井友希",
+          "profileURL": "https://iris.dive2ent.com/profile/detail.php?id=1000222",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FF0000",
+          "birthday": "10-30",
+          "sns": {
+            "twitter": "https://twitter.com/iris_official_",
+            "instagram": "https://www.instagram.com/iris_official_1107/",
+            "tiktok": "https://www.tiktok.com/@iris_official_1107"
+          }
+        },
+        {
+          "uuid": "C36E5355-E279-540F-9BE6-C89F5E83E6CD",
+          "masterId": "avex_iris_1000223",
+          "name": "久保田未夢",
+          "profileURL": "https://iris.dive2ent.com/profile/detail.php?id=1000223",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFA500",
+          "birthday": "01-31",
+          "sns": {
+            "twitter": "https://twitter.com/iris_official_",
+            "instagram": "https://www.instagram.com/iris_official_1107/",
+            "tiktok": "https://www.tiktok.com/@iris_official_1107"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "D04E73A3-3091-5B25-B0BE-D94F76B4B758",
+      "masterId": "avex_supergirls",
+      "name": "SUPER☆GiRLS",
+      "isActive": true,
+      "profileURL": "https://www.supergirls.jp/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://www.supergirls.jp/",
+        "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+        "instagram": "https://www.instagram.com/insupergram/",
+        "tiktok": "https://www.tiktok.com/@supergirls_avex",
+        "youtube": "https://www.youtube.com/@iDOLStreetProject"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.supergirls.jp/schedule/",
+      "members": [
+        {
+          "uuid": "FEFCEEED-A5B3-5B4D-A809-901F5D4916B3",
+          "masterId": "avex_supergirls_1001908",
+          "name": "坂林佳奈",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1001908",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#B6D55E",
+          "birthday": "01-26",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "3B2C447F-4ECF-528C-AD7E-9A7574103AD4",
+          "masterId": "avex_supergirls_1001910",
+          "name": "門林有羽",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1001910",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#A0D8EF",
+          "birthday": "10-28",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "4FAE7A72-CF6B-527D-AF1F-477EB5B5D1A7",
+          "masterId": "avex_supergirls_1002288",
+          "name": "竹内ななみ",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1002288",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#E1360C",
+          "birthday": "10-02",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "9A2D7D43-BBFA-53B6-99DB-43AE87C31BC8",
+          "masterId": "avex_supergirls_1002289",
+          "name": "田中想",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1002289",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#0075C2",
+          "birthday": "07-19",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "E37A3041-4D91-5C38-892B-1CD8CC78FCAE",
+          "masterId": "avex_supergirls_1002520",
+          "name": "鎌田彩樺",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1002520",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#06247A",
+          "birthday": "04-29",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "BAB1227D-A1ED-58F9-9C44-252FEB943DC5",
+          "masterId": "avex_supergirls_1002521",
+          "name": "柏綾菜",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1002521",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#923B91",
+          "birthday": "07-20",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "48BD3C7F-3BA5-5069-824D-B679CE1A8F49",
+          "masterId": "avex_supergirls_1002519",
+          "name": "河村果歩",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1002519",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFFAFA",
+          "birthday": "06-17",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        },
+        {
+          "uuid": "A7A8E001-5D4A-555E-8A3E-76DEBEE1EBF5",
+          "masterId": "avex_supergirls_1002522",
+          "name": "櫻井陽夏",
+          "profileURL": "https://www.supergirls.jp/profile/detail.php?id=1002522",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#5DB5A6",
+          "birthday": "07-06",
+          "sns": {
+            "twitter": "https://twitter.com/SUPERGiRLS_AMG",
+            "instagram": "https://www.instagram.com/insupergram/",
+            "tiktok": "https://www.tiktok.com/@supergirls_avex"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "062814E1-52FA-56A1-8D7F-7A949945AE62",
+      "masterId": "avex_wasuta",
+      "name": "わーすた",
+      "isActive": true,
+      "profileURL": "https://wa-suta.world/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://wa-suta.world/",
+        "twitter": "https://twitter.com/tws_staff",
+        "instagram": "https://www.instagram.com/wasuta.world/",
+        "tiktok": "https://www.tiktok.com/@wasuta.world?_t=8jtluSXm91L&_r=1",
+        "youtube": "https://www.youtube.com/channel/UCpz1sUYoIaAwRU5iPJtlHeg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://wa-suta.world/schedule/",
+      "members": [
+        {
+          "uuid": "20D38A7C-762D-5E9B-9A3C-C418A1F91365",
+          "masterId": "avex_wasuta_1000940",
+          "name": "廣川奈々聖",
+          "profileURL": "https://wa-suta.world/profile/detail.php?id=1000940",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#77DD77",
+          "birthday": "05-12",
+          "sns": {
+            "twitter": "https://twitter.com/tws_staff",
+            "instagram": "https://www.instagram.com/wasuta.world/",
+            "tiktok": "https://www.tiktok.com/@wasuta.world?_t=8jtluSXm91L&_r=1"
+          }
+        },
+        {
+          "uuid": "B145EFBE-F2CC-50E0-BE03-ADD36A0C1EDB",
+          "masterId": "avex_wasuta_1000941",
+          "name": "松田美里",
+          "profileURL": "https://wa-suta.world/profile/detail.php?id=1000941",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#B39DDB",
+          "birthday": "08-02",
+          "sns": {
+            "twitter": "https://twitter.com/tws_staff",
+            "instagram": "https://www.instagram.com/wasuta.world/",
+            "tiktok": "https://www.tiktok.com/@wasuta.world?_t=8jtluSXm91L&_r=1"
+          }
+        },
+        {
+          "uuid": "EDC3D50B-5FD0-5771-A27D-AA04A3963566",
+          "masterId": "avex_wasuta_1000942",
+          "name": "小玉梨々華",
+          "profileURL": "https://wa-suta.world/profile/detail.php?id=1000942",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#AEC6CF",
+          "birthday": "10-01",
+          "sns": {
+            "twitter": "https://twitter.com/tws_staff",
+            "instagram": "https://www.instagram.com/wasuta.world/",
+            "tiktok": "https://www.tiktok.com/@wasuta.world?_t=8jtluSXm91L&_r=1"
+          }
+        },
+        {
+          "uuid": "73797A6D-C70C-5067-8831-9843D242F5D3",
+          "masterId": "avex_wasuta_1000943",
+          "name": "三品瑠香",
+          "profileURL": "https://wa-suta.world/profile/detail.php?id=1000943",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": "#FFD1DC",
+          "birthday": "03-17",
+          "sns": {
+            "twitter": "https://twitter.com/tws_staff",
+            "instagram": "https://www.instagram.com/wasuta.world/",
+            "tiktok": "https://www.tiktok.com/@wasuta.world?_t=8jtluSXm91L&_r=1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "agencyId": "yoyogi",
+  "agency": "代々木アニメーション学院",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "8471F8B7-655E-5DC1-977C-FD87274637E4",
+      "masterId": "yoyogi_equal_love",
+      "name": "=LOVE",
+      "isActive": true,
+      "profileURL": "https://equal-love.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://equal-love.jp/",
+        "twitter": "https://twitter.com/equal_love_12",
+        "instagram": "https://www.instagram.com/equal_love.official/",
+        "tiktok": "https://www.tiktok.com/@equal_love_12",
+        "youtube": "https://www.youtube.com/channel/UCv7VutirxDn3RWIJXI68n_A"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://equal-love.jp/schedule/",
+      "members": [
+        {
+          "uuid": "BB8B2C74-2AB8-5744-89DC-08E6739075B9",
+          "masterId": "yoyogi_equal_love_otani_emiri",
+          "name": "大谷映美里",
+          "profileURL": "https://equal-love.jp/feature/otani_emiri",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#8670FF"
+          ],
+          "birthday": "03-15",
+          "sns": {
+            "twitter": "https://twitter.com/otani_emiri",
+            "instagram": "https://www.instagram.com/otani_emiri/",
+            "tiktok": "https://www.tiktok.com/@equal_love_emiri"
+          }
+        },
+        {
+          "uuid": "1A200C68-9627-5EDA-951A-298291F48754",
+          "masterId": "yoyogi_equal_love_oba_hana",
+          "name": "大場花菜",
+          "profileURL": "https://equal-love.jp/feature/oba_hana",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ED6A24",
+            "#A0CFEC"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": "https://twitter.com/hana_oba",
+            "instagram": "https://instagram.com/oba_hana_?igshid=NTc4MTIwNjQ2YQ==",
+            "tiktok": "https://www.tiktok.com/@equal_love_hana_"
+          }
+        },
+        {
+          "uuid": "2EA49354-95B1-5B5D-B2F4-BD8FCA4CFB94",
+          "masterId": "yoyogi_equal_love_otoshima_risa",
+          "name": "音嶋莉沙",
+          "profileURL": "https://equal-love.jp/feature/otoshima_risa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7EC3E5",
+            "#F471A3"
+          ],
+          "birthday": "08-11",
+          "sns": {
+            "twitter": "https://twitter.com/otoshima_risa",
+            "instagram": "https://www.instagram.com/otoshima_risa/",
+            "tiktok": "https://www.tiktok.com/@equal_love_risa_"
+          }
+        },
+        {
+          "uuid": "9ED6AF5F-A3AC-59C7-B5FF-5546C59D65A7",
+          "masterId": "yoyogi_equal_love_saito_kiara",
+          "name": "齋藤樹愛羅",
+          "profileURL": "https://equal-love.jp/feature/saito_kiara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF90FF"
+          ],
+          "birthday": "11-26",
+          "sns": {
+            "twitter": "https://twitter.com/saitou_kiara",
+            "instagram": "https://www.instagram.com/saito_kiara_/",
+            "tiktok": "https://www.tiktok.com/@equal_love_kiara"
+          }
+        },
+        {
+          "uuid": "030107E8-BBA8-5CEB-A73A-5FD25C1B524F",
+          "masterId": "yoyogi_equal_love_sasaki_maika",
+          "name": "佐々木舞香",
+          "profileURL": "https://equal-love.jp/feature/sasaki_maika",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": "https://twitter.com/sasaki_maika",
+            "instagram": "https://www.instagram.com/maika_sasaki_",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D83CB21-B676-5AED-9855-4F3CE6658CE2",
+          "masterId": "yoyogi_equal_love_takamatsu_hitomi",
+          "name": "髙松瞳",
+          "profileURL": "https://equal-love.jp/feature/takamatsu_hitomi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E52B50"
+          ],
+          "birthday": "01-19",
+          "sns": {
+            "twitter": "https://twitter.com/takamatsuhitomi",
+            "instagram": "https://www.instagram.com/takamatsu__hitomi/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F7839796-D305-5D3C-A238-30C8A67996A4",
+          "masterId": "yoyogi_equal_love_takiwaki_shoko",
+          "name": "瀧脇笙古",
+          "profileURL": "https://equal-love.jp/feature/takiwaki_shoko",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F9D439",
+            "#E8724A",
+            "#E25098"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": "https://twitter.com/shoko_takiwaki",
+            "instagram": "https://instagram.com/takiwaki_shoko_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6879BA86-90F3-5F70-9EDE-7B6DD25E53C0",
+          "masterId": "yoyogi_equal_love_noguchi_iori",
+          "name": "野口衣織",
+          "profileURL": "https://equal-love.jp/feature/noguchi_iori",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#654CA9"
+          ],
+          "birthday": "04-26",
+          "sns": {
+            "twitter": "https://twitter.com/noguchi_iori",
+            "instagram": "https://www.instagram.com/noguchi_iori_",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "03A19DAD-67A3-5CC0-A77B-C3EB060F8B59",
+          "masterId": "yoyogi_equal_love_morohashi_sana",
+          "name": "諸橋沙夏",
+          "profileURL": "https://equal-love.jp/feature/morohashi_sana",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#72B91D"
+          ],
+          "birthday": "08-03",
+          "sns": {
+            "twitter": "https://twitter.com/morohashi_sana",
+            "instagram": "https://instagram.com/morohashi_sana/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "412CE5A5-1898-5941-85B1-6BBBB0488782",
+          "masterId": "yoyogi_equal_love_yamamoto_anna",
+          "name": "山本杏奈",
+          "profileURL": "https://equal-love.jp/feature/yamamoto_anna",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFDC5C",
+            "#2F00FF"
+          ],
+          "birthday": "11-30",
+          "sns": {
+            "twitter": "https://twitter.com/yamamoto_anna_",
+            "instagram": "https://instagram.com/yamamoto_anna_",
+            "tiktok": "https://www.tiktok.com/@equal_love_anna"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "0FE3D956-3D37-5C16-BC92-50A1E32159EE",
+      "masterId": "yoyogi_not_equal_me",
+      "name": "≠ME",
+      "isActive": true,
+      "profileURL": "https://not-equal-me.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://not-equal-me.jp/",
+        "twitter": "https://twitter.com/Notequal_ME",
+        "instagram": "https://www.instagram.com/notequal_me.official/",
+        "tiktok": "https://www.tiktok.com/@notequal_me",
+        "youtube": "https://www.youtube.com/channel/UCBmvHfXdGCvi_b6lFeU-E1Q"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://not-equal-me.jp/schedule/",
+      "members": [
+        {
+          "uuid": "B0A7C4BF-0B58-5D30-BBD3-899E7A48D8FD",
+          "masterId": "yoyogi_not_equal_me_profile_ogi_hana",
+          "name": "尾木波菜",
+          "profileURL": "https://not-equal-me.jp/feature/profile_ogi_hana",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF",
+            "#FFFFFF"
+          ],
+          "birthday": "05-08",
+          "sns": {
+            "twitter": "https://twitter.com/ogi_hana_",
+            "instagram": "https://www.instagram.com/ogi_hana__",
+            "tiktok": "https://www.tiktok.com/@notequal_me_hana"
+          }
+        },
+        {
+          "uuid": "5F1E174F-BD79-5079-960F-56AFC1900F80",
+          "masterId": "yoyogi_not_equal_me_profile_ochiai_kirari",
+          "name": "落合希来里",
+          "profileURL": "https://not-equal-me.jp/feature/profile_ochiai_kirari",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": "https://twitter.com/ochiai_kirari",
+            "instagram": "https://www.instagram.com/_ochiaikirari_/",
+            "tiktok": "https://www.tiktok.com/@notequal_me_kirari"
+          }
+        },
+        {
+          "uuid": "752025FC-629F-5A44-930E-0C790F3A8D77",
+          "masterId": "yoyogi_not_equal_me_profile_kanisawa_moeko",
+          "name": "蟹沢萌子",
+          "profileURL": "https://not-equal-me.jp/feature/profile_kanisawa_moeko",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000",
+            "#87CEEB"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": "https://twitter.com/kanisawa_moeko",
+            "instagram": "https://www.instagram.com/kanisawa_moeko_/",
+            "tiktok": "https://www.tiktok.com/@notequal_me_moeko"
+          }
+        },
+        {
+          "uuid": "2F62D61B-FC5C-5C49-92D9-E506FACAB100",
+          "masterId": "yoyogi_not_equal_me_profile_kawaguchi_natsune",
+          "name": "河口夏音",
+          "profileURL": "https://not-equal-me.jp/feature/profile_kawaguchi_natsune",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#FFA500"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": "https://twitter.com/kawaguchi_natsu",
+            "instagram": "https://www.instagram.com/kawaguchi__natsune/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "34D5F964-2AED-52D9-B0E2-8EAEA907C0F5",
+          "masterId": "yoyogi_not_equal_me_profile_kawanago_natsumi",
+          "name": "川中子奈月心",
+          "profileURL": "https://not-equal-me.jp/feature/profile_kawanago_natsumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000000",
+            "#00F3BA"
+          ],
+          "birthday": "09-26",
+          "sns": {
+            "twitter": "https://twitter.com/kawanagonatsumi",
+            "instagram": "https://www.instagram.com/kawanago__natsumi/",
+            "tiktok": "https://www.tiktok.com/@notequal_me_natsumi"
+          }
+        },
+        {
+          "uuid": "79B07058-0E28-5C2B-998F-F9A6D9A36A56",
+          "masterId": "yoyogi_not_equal_me_profile_sakurai_momo",
+          "name": "櫻井もも",
+          "profileURL": "https://not-equal-me.jp/feature/profile_sakurai_momo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F09199",
+            "#FFC0CB"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": "https://twitter.com/_sakurai_momo_",
+            "instagram": "https://instagram.com/sakurai_momo_/",
+            "tiktok": "https://www.tiktok.com/@notequal_me_momo?_t=8sVd37Fo5oO&_r=1"
+          }
+        },
+        {
+          "uuid": "C94BBF61-5A3D-5290-8DEE-E8842970AC3A",
+          "masterId": "yoyogi_not_equal_me_profile_suganami_mirei",
+          "name": "菅波美玲",
+          "profileURL": "https://not-equal-me.jp/feature/profile_suganami_mirei",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#87CEEB",
+            "#87CEEB"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": "https://twitter.com/suganami_mirei",
+            "instagram": "https://instagram.com/suganami_mirei_?igshid=YmMyMTA2M2Y=",
+            "tiktok": "https://www.tiktok.com/@notequal_me_mirei?_t=ZS-8rw7MYTSQSd&_r=1"
+          }
+        },
+        {
+          "uuid": "362B339E-77EC-58AB-8CA6-7796CBC9E227",
+          "masterId": "yoyogi_not_equal_me_profile_suzuki_hitomi",
+          "name": "鈴木瞳美",
+          "profileURL": "https://not-equal-me.jp/feature/profile_suzuki_hitomi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F9BAE9",
+            "#F9BAE9"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": "https://twitter.com/suzuki_hitomi_",
+            "instagram": "https://www.instagram.com/suzuki_hitomi__",
+            "tiktok": "https://www.tiktok.com/@notequal_me_hitomi"
+          }
+        },
+        {
+          "uuid": "785D1441-9F2C-5848-BF05-70ADEFAA1E1C",
+          "masterId": "yoyogi_not_equal_me_profile_tanizaki_saya",
+          "name": "谷崎早耶",
+          "profileURL": "https://not-equal-me.jp/feature/profile_tanizaki_saya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF",
+            "#FF60FF"
+          ],
+          "birthday": "10-07",
+          "sns": {
+            "twitter": "https://twitter.com/tanizaki_saya",
+            "instagram": "https://www.instagram.com/tanizaki_saya__",
+            "tiktok": "https://www.tiktok.com/@notequal_me_saya"
+          }
+        },
+        {
+          "uuid": "E4223D63-6F1E-534C-8D09-9563AA6DF43E",
+          "masterId": "yoyogi_not_equal_me_profile_tomita_nanaka",
+          "name": "冨田菜々風",
+          "profileURL": "https://not-equal-me.jp/feature/profile_tomita_nanaka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00",
+            "#008000"
+          ],
+          "birthday": "07-17",
+          "sns": {
+            "twitter": "https://twitter.com/tomita_nanaka",
+            "instagram": "https://www.instagram.com/tomita_nanaka/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "447D4376-5D9F-58CC-98BF-ACDD94652174",
+          "masterId": "yoyogi_not_equal_me_profile_nagata_shiori",
+          "name": "永田詩央里",
+          "profileURL": "https://not-equal-me.jp/feature/profile_nagata_shiori",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF",
+            "#0000FF"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": "https://twitter.com/nagata_shiori_",
+            "instagram": "https://instagram.com/nagata__shiori/",
+            "tiktok": "https://www.tiktok.com/@notequal_me_shiori"
+          }
+        },
+        {
+          "uuid": "8D3FACA5-F2FB-54BD-947E-CD2B161C2A47",
+          "masterId": "yoyogi_not_equal_me_profile_honda_miyuki",
+          "name": "本田珠由記",
+          "profileURL": "https://not-equal-me.jp/feature/profile_honda_miyuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8670FF",
+            "#87CEEB"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": "https://twitter.com/honda_miyuki_",
+            "instagram": "https://www.instagram.com/honda_miyuki__",
+            "tiktok": "https://www.tiktok.com/@notequal_me_miyuki"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "26D33B5B-E0D2-56C8-8F3B-97506FF71BBF",
+      "masterId": "yoyogi_nearly_equal_joy",
+      "name": "≒JOY",
+      "isActive": true,
+      "profileURL": "https://nearly-equal-joy.jp/feature/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://nearly-equal-joy.jp/",
+        "twitter": "https://twitter.com/intent/follow?screen_name=Nearlyequal_joy",
+        "instagram": "https://www.instagram.com/aida_jurii__/",
+        "tiktok": "https://www.tiktok.com/@nearlyequal_joy",
+        "youtube": "https://www.youtube.com/channel/UC_qmQbqvW6UES3NT780l2Pg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://nearly-equal-joy.jp/schedule/",
+      "members": [
+        {
+          "uuid": "77968303-F0C3-5748-A423-A3265BBDD903",
+          "masterId": "yoyogi_nearly_equal_joy_profile_aida_jurii",
+          "name": "逢田珠里依",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_aida_jurii",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5F161D"
+          ],
+          "birthday": "09-13",
+          "sns": {
+            "twitter": "https://twitter.com/aida_jurii",
+            "instagram": "https://www.instagram.com/aida_jurii__/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "564F6D5D-16FB-5465-A31C-1677BA7A3002",
+          "masterId": "yoyogi_nearly_equal_joy_profile_amano_konoa",
+          "name": "天野香乃愛",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_amano_konoa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FC9DB8"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": "https://twitter.com/amano_konoa",
+            "instagram": "https://www.instagram.com/amano_konoa__/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_konoa"
+          }
+        },
+        {
+          "uuid": "1D761B9D-44B7-51A9-8694-DAEB216E2B72",
+          "masterId": "yoyogi_nearly_equal_joy_profile_ichihara_ayumi",
+          "name": "市原愛弓",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_ichihara_ayumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#884898"
+          ],
+          "birthday": "08-21",
+          "sns": {
+            "twitter": "https://twitter.com/ichihara_ayumi_",
+            "instagram": "https://www.instagram.com/ichihara_ayumi_/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_ayumi"
+          }
+        },
+        {
+          "uuid": "7580975B-48B3-5AA5-AC39-7B2BABBB5F33",
+          "masterId": "yoyogi_nearly_equal_joy_profile_esumi_renon",
+          "name": "江角怜音",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_esumi_renon",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "04-26",
+          "sns": {
+            "twitter": "https://twitter.com/esumi_renon",
+            "instagram": "https://www.instagram.com/esumi_renon/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "89A94644-4846-536E-8EDA-A4A84782E707",
+          "masterId": "yoyogi_nearly_equal_joy_profile_oshida_mitsuki",
+          "name": "大信田美月",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_oshida_mitsuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00B7FF"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": "https://twitter.com/oshida_mitsuki",
+            "instagram": "https://www.instagram.com/oshida_mitsuki/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_mitsuki"
+          }
+        },
+        {
+          "uuid": "7F1890A7-447F-5332-95C8-3779872ACFCC",
+          "masterId": "yoyogi_nearly_equal_joy_profile_onishi_aoi",
+          "name": "大西葵",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_onishi_aoi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "08-06",
+          "sns": {
+            "twitter": "https://twitter.com/onishi_aoi",
+            "instagram": "https://www.instagram.com/onishi_aoi_/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_aoi"
+          }
+        },
+        {
+          "uuid": "861B2E3F-A9C5-595F-91C8-8531F5926312",
+          "masterId": "yoyogi_nearly_equal_joy_profile_ozawa_aimi",
+          "name": "小澤愛実",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_ozawa_aimi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFF00"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": "https://twitter.com/ozawa_aimi__",
+            "instagram": "https://www.instagram.com/ozawa_aimi_/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_aimi"
+          }
+        },
+        {
+          "uuid": "3306D500-A7F4-5986-B412-5D6CC8FDE1AE",
+          "masterId": "yoyogi_nearly_equal_joy_profile_takahashi_mai",
+          "name": "髙橋舞",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_takahashi_mai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "02-22",
+          "sns": {
+            "twitter": "https://twitter.com/takahashi_mai__",
+            "instagram": "https://www.instagram.com/takahashi_mai__/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_mai"
+          }
+        },
+        {
+          "uuid": "64048C59-21C1-5041-BD00-99ACBC1DF240",
+          "masterId": "yoyogi_nearly_equal_joy_profile_fujisawa_riko",
+          "name": "藤沢莉子",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_fujisawa_riko",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00B050"
+          ],
+          "birthday": "01-16",
+          "sns": {
+            "twitter": "https://twitter.com/fujisawa_riko",
+            "instagram": "https://www.instagram.com/fujisawa_riko/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_riko"
+          }
+        },
+        {
+          "uuid": "663B0D4B-F567-5627-B044-24A9E4635AD0",
+          "masterId": "yoyogi_nearly_equal_joy_profile_murayama_yuuka",
+          "name": "村山結香",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_murayama_yuuka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "02-15",
+          "sns": {
+            "twitter": "https://twitter.com/murayama_yuuka",
+            "instagram": "https://www.instagram.com/murayama_yuuka_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4B9B325-BFFE-5A10-8052-B3F7D7077475",
+          "masterId": "yoyogi_nearly_equal_joy_profile_yamada_momoka",
+          "name": "山田杏佳",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_yamada_momoka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF66CC"
+          ],
+          "birthday": "02-02",
+          "sns": {
+            "twitter": "https://twitter.com/yamada_momoka__",
+            "instagram": "https://www.instagram.com/yamada_momoka_/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_momoka"
+          }
+        },
+        {
+          "uuid": "04325AE0-5FA8-59FE-80FB-5BA0A5D083AC",
+          "masterId": "yoyogi_nearly_equal_joy_profile_yamano_arisu",
+          "name": "山野愛月",
+          "profileURL": "https://nearly-equal-joy.jp/feature/profile_yamano_arisu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A3D6CC"
+          ],
+          "birthday": "10-21",
+          "sns": {
+            "twitter": "https://twitter.com/yamano_arisu",
+            "instagram": "https://www.instagram.com/yamano_arisu_/",
+            "tiktok": "https://www.tiktok.com/@nearlyequal_joy_arisu"
+          }
+        }
+      ]
+    }
+  ]
+}

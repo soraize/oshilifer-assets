@@ -1,0 +1,604 @@
+{
+  "agencyId": "vspo",
+  "agency": "ぶいすぽっ！",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "AF5A7D6B-FF67-526F-83F0-C27B7358D276",
+      "masterId": "vspo_main",
+      "name": "ぶいすぽっ！",
+      "isActive": true,
+      "profileURL": "https://vspo.jp/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://vspo.jp/",
+        "twitter": "https://twitter.com/Vspo77",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@Vspo77"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://vspo.jp/news/",
+      "members": [
+        {
+          "uuid": "FF4E7210-9945-52DD-B67F-10ED68AD6746",
+          "masterId": "vspo_main_sumire_kaga",
+          "name": "花芽 すみれ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B0C4DE"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": "https://twitter.com/sumire_kaga",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCyLGcqYs7RsBb3L0SJfzGYA"
+          }
+        },
+        {
+          "uuid": "3B79D220-C380-518A-BE41-B5265059F382",
+          "masterId": "vspo_main_nazuna_kaga",
+          "name": "花芽 なずな",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FABEDC"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": "https://twitter.com/nazuna_kaga",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCiMG6VdScBabPhJ1ZtaVmbw"
+          }
+        },
+        {
+          "uuid": "D0E72C19-565D-525E-A179-01E9584DEFF8",
+          "masterId": "vspo_main_toto_kogara",
+          "name": "小雀 とと",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF33F"
+          ],
+          "birthday": "10-10",
+          "sns": {
+            "twitter": "https://twitter.com/toto_kogara",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCgTzsBI0DIRopMylJEDqnog"
+          }
+        },
+        {
+          "uuid": "EF52E838-15DE-5382-9911-B83D7A86BCF1",
+          "masterId": "vspo_main_uruha_ichinose",
+          "name": "一ノ瀬 うるは",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4182FA"
+          ],
+          "birthday": "12-23",
+          "sns": {
+            "twitter": "https://twitter.com/uruha_ichinose",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC5LyYg6cCA4yHEYvtUsir3g"
+          }
+        },
+        {
+          "uuid": "0D0A1B14-170F-5635-9142-1DA01F7E8D05",
+          "masterId": "vspo_main_n0ah_kurumi",
+          "name": "胡桃 のあ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFDBFE"
+          ],
+          "birthday": "02-13",
+          "sns": {
+            "twitter": "https://twitter.com/n0ah_kurumi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCIcAj6WkJ8vZ7DeJVgmeqKw"
+          }
+        },
+        {
+          "uuid": "0AFD4530-9721-5F2D-B96A-907C07386A93",
+          "masterId": "vspo_main_mimi_tosaki",
+          "name": "兎咲 ミミ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C7B2D6"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": "https://twitter.com/mimi_tosaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCnvVG9RbOW3J6Ifqo-zKLiw"
+          }
+        },
+        {
+          "uuid": "263F750A-E896-5563-A52B-0568BB012B20",
+          "masterId": "vspo_main_sena_asumi",
+          "name": "空澄 セナ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D2D2D2"
+          ],
+          "birthday": "01-18",
+          "sns": {
+            "twitter": "https://twitter.com/sena_asumi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCF_U2GCKHvDz52jWdizppIA"
+          }
+        },
+        {
+          "uuid": "3466B89B-0D10-580D-AD4C-B0328442C2B0",
+          "masterId": "vspo_main_hinano_tachiba7",
+          "name": "橘 ひなの",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FA96C8"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": "https://twitter.com/hinano_tachiba7",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvUc0m317LWTTPZoBQV479A"
+          }
+        },
+        {
+          "uuid": "B3A249C7-1C06-57A4-B49F-25A070C2B00E",
+          "masterId": "vspo_main_lisa_hanabusa",
+          "name": "英 リサ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D1DE79"
+          ],
+          "birthday": "06-03",
+          "sns": {
+            "twitter": "https://twitter.com/Lisa_hanabusa",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCurEA8YoqFwimJcAuSHU0MQ"
+          }
+        },
+        {
+          "uuid": "217FD5C1-BF1D-5D23-88DE-6D6A343A5706",
+          "masterId": "vspo_main_ren_kisaragi__",
+          "name": "如月 れん",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BE2152"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": "https://twitter.com/ren_kisaragi__",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCGWa1dMU_sDCaRQjdabsVgg"
+          }
+        },
+        {
+          "uuid": "ACEDA955-D456-5858-8BD6-5146D4395DCC",
+          "masterId": "vspo_main_kaminariqpi",
+          "name": "神成 きゅぴ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD23C"
+          ],
+          "birthday": "05-18",
+          "sns": {
+            "twitter": "https://x.com/KaminariQpi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCMp55EbT_ZlqiMS3lCj01BQ"
+          }
+        },
+        {
+          "uuid": "19345EBD-F56A-5E71-93C5-A47D3AEB4E5C",
+          "masterId": "vspo_main_beni_yakumo",
+          "name": "八雲 べに",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#85CAB3"
+          ],
+          "birthday": "09-25",
+          "sns": {
+            "twitter": "https://twitter.com/beni_yakumo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCjXBuHmWkieBApgBhDuJMMQ"
+          }
+        },
+        {
+          "uuid": "29482ECB-00D9-5576-AC8B-AC77CD9EE00D",
+          "masterId": "vspo_main_ema_aizawa",
+          "name": "藍沢 エマ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B4F1F9"
+          ],
+          "birthday": "01-31",
+          "sns": {
+            "twitter": "https://twitter.com/Ema_Aizawa",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCPkKpOHxEDcwmUAnRpIu-Ng"
+          }
+        },
+        {
+          "uuid": "61E327FD-3D75-59B1-BEE3-20A3F147E350",
+          "masterId": "vspo_main_runa_shinomiya",
+          "name": "紫宮 るな",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6ADFF"
+          ],
+          "birthday": "02-22",
+          "sns": {
+            "twitter": "https://twitter.com/Runa_shinomiyA",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCD5W21JqNMv_tV9nfjvF9sw"
+          }
+        },
+        {
+          "uuid": "EBA0349F-BF4B-5AA8-BD88-FDC079D62282",
+          "masterId": "vspo_main_tsuna_nekota",
+          "name": "猫汰 つな",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF3652"
+          ],
+          "birthday": "11-27",
+          "sns": {
+            "twitter": "https://twitter.com/tsuna_nekota",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCIjdfjcSaEgdjwbgjxC3ZWg"
+          }
+        },
+        {
+          "uuid": "3C26192F-2682-5BE1-9DCE-C7DB5A3072AE",
+          "masterId": "vspo_main_ramune_shirana3",
+          "name": "白波 らむね",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8ECED9"
+          ],
+          "birthday": "03-21",
+          "sns": {
+            "twitter": "https://twitter.com/Ramune_Shirana3",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC61OwuYOVuKkpKnid-43Twg"
+          }
+        },
+        {
+          "uuid": "6B221B81-FE2E-5307-B09A-8A897D8E23A0",
+          "masterId": "vspo_main_met_komori",
+          "name": "小森 めと",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FBA03F"
+          ],
+          "birthday": "12-10",
+          "sns": {
+            "twitter": "https://twitter.com/Met_Komori",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Met_Komori"
+          }
+        },
+        {
+          "uuid": "DA567634-6B6F-5EF5-8166-8A8A69FB4676",
+          "masterId": "vspo_main_akarindaooo",
+          "name": "夢野 あかり",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8684"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": "https://twitter.com/AKARINdaooo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@akarindao"
+          }
+        },
+        {
+          "uuid": "C9471910-7127-54BD-A043-506C3A1D4D74",
+          "masterId": "vspo_main_kuromu_yano",
+          "name": "夜乃 くろむ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#909EC8"
+          ],
+          "birthday": "06-16",
+          "sns": {
+            "twitter": "https://twitter.com/kuromu_yano",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@YanoKuromu"
+          }
+        },
+        {
+          "uuid": "DB3889A9-03F9-572F-A0BC-152C2E3BC457",
+          "masterId": "vspo_main_kokage_tsumugi",
+          "name": "紡木 こかげ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5195E1"
+          ],
+          "birthday": "10-26",
+          "sns": {
+            "twitter": "https://twitter.com/kokage_tsumugi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Kokage_Tsumugi"
+          }
+        },
+        {
+          "uuid": "7BE83818-8CD0-5A7F-B408-3083D6EE9D66",
+          "masterId": "vspo_main_yuuhi_sendo",
+          "name": "千燈 ゆうひ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ED784A"
+          ],
+          "birthday": "12-03",
+          "sns": {
+            "twitter": "https://x.com/yuuhi_sendo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@SendoYuuhi"
+          }
+        },
+        {
+          "uuid": "A01C7251-10E3-5EDA-B56E-1387656A1DA5",
+          "masterId": "vspo_main_hanabi_choya",
+          "name": "蝶屋 はなび",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EA5506"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": "https://x.com/Hanabi_Choya",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HanabiChoya"
+          }
+        },
+        {
+          "uuid": "93642721-A979-5F1A-ACC1-78752F30C43B",
+          "masterId": "vspo_main_amayui_moka",
+          "name": "甘結 もか",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ECA0AA"
+          ],
+          "birthday": "02-26",
+          "sns": {
+            "twitter": "https://x.com/Amayui_Moka",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Moka_Amayui"
+          }
+        },
+        {
+          "uuid": "A838EFFC-70CD-5489-94F1-6453C30307A4",
+          "masterId": "vspo_main_saine_ginjo",
+          "name": "銀城サイネ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#58535E"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": "https://x.com/saine_ginjo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Saine_Ginjo"
+          }
+        },
+        {
+          "uuid": "6C2CB03D-662F-5A61-88B2-12877E028633",
+          "masterId": "vspo_main_chise_tatsumaki",
+          "name": "龍巻ちせ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BEFF77"
+          ],
+          "birthday": "07-30",
+          "sns": {
+            "twitter": "https://x.com/chise_tatsumaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Chise_Tatsumaki"
+          }
+        },
+        {
+          "uuid": "8AB686C2-6B5F-5C63-8B57-FF2F5C54E3E0",
+          "masterId": "vspo_main_remiaaotsuki",
+          "name": "青月レミア",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#398FB2 "
+          ],
+          "birthday": "02-03",
+          "sns": {
+            "twitter": "https://x.com/RemiaAotsuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@RemiaAotsuki"
+          }
+        },
+        {
+          "uuid": "F273BB3E-0DC0-55BA-ACBE-7B70ACA6925C",
+          "masterId": "vspo_main_aryakuroha",
+          "name": "黒刃アリヤ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000000"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": "https://x.com/aryakuroha",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@aryakuroha"
+          }
+        },
+        {
+          "uuid": "FB7076A7-97AE-590B-8F66-1DBC9227E9D0",
+          "masterId": "vspo_main_jirajisaki",
+          "name": "地崎ジラ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#606D3D"
+          ],
+          "birthday": "11-04",
+          "sns": {
+            "twitter": "https://x.com/jirajisaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@jirajisaki"
+          }
+        },
+        {
+          "uuid": "FF92AAAA-E53F-58BD-B8FE-3D5C77B75F41",
+          "masterId": "vspo_main_narinmikure",
+          "name": "美暮ナリン",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F3A6EF"
+          ],
+          "birthday": "12-09",
+          "sns": {
+            "twitter": "https://x.com/narinmikure",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@narinmikure"
+          }
+        },
+        {
+          "uuid": "C6E474C3-B7ED-50E5-A540-A96FD8DDCFE3",
+          "masterId": "vspo_main_rikosolari",
+          "name": "ソラリリコ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9373D7"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": "https://x.com/rikosolari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@rikosolari"
+          }
+        },
+        {
+          "uuid": "860E7241-B63E-5A38-A312-6AA47CF54EC5",
+          "masterId": "vspo_main_erissuzukami",
+          "name": "涼上エリス",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#90B2F8 "
+          ],
+          "birthday": "07-12",
+          "sns": {
+            "twitter": "https://x.com/erissuzukami",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ErisSuzukami"
+          }
+        },
+        {
+          "uuid": "6BCE93E4-BEF7-5AE0-A0EC-7C49C543E171",
+          "masterId": "vspo_main_junoumezono",
+          "name": "梅園ジュノ",
+          "profileURL": "https://vspo.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#923173"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": "https://x.com/junoumezono",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@JunoUmezono"
+          }
+        }
+      ]
+    }
+  ]
+}

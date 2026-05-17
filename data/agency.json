@@ -129,6 +129,26 @@
         "agencyId": "nijisanji",
         "name": "にじさんじ",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/nijisanji.json"
+      },
+      {
+        "agencyId": "vspo",
+        "name": "ぶいすぽっ！",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/vspo.json"
+      },
+      {
+        "agencyId": "neo_porte",
+        "name": "Neo-Porte",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/neo_porte.json"
+      },
+      {
+        "agencyId": "aogiri_high_school",
+        "name": "あおぎり高校",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/aogiri_high_school.json"
+      },
+      {
+        "agencyId": "nanashiinc",
+        "name": "ななしいんく",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/nanashiinc.json"
       }
     ]
   },

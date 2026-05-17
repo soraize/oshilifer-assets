@@ -1,0 +1,426 @@
+{
+  "agencyId": "neo_porte",
+  "agency": "Neo-Porte",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "40AE330D-FAD7-57B9-8FF5-FC006586C136",
+      "masterId": "neo_porte_main",
+      "name": "Neo-Porte",
+      "isActive": true,
+      "profileURL": "https://neo-porte.jp/member/",
+      "colorHex": [
+        "#F79428"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://neo-porte.jp/",
+        "twitter": "https://x.com/NeoPorte_info",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@neoporte-office"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://neo-porte.jp/news/schedule/",
+      "members": [
+        {
+          "uuid": "774109B0-CA5A-521F-A611-2F124D533AD6",
+          "masterId": "neo_porte_main_shibuya_hal",
+          "name": "渋谷 ハル",
+          "profileURL": "https://neo-porte.jp/member/shibuya-hal",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F79428"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": "https://twitter.com/ShibuyaHAL",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/c/HALchannel"
+          }
+        },
+        {
+          "uuid": "A4EFDA07-A8B3-57D0-BE0C-7523EAF3DC2B",
+          "masterId": "neo_porte_main_shirayuki_reid",
+          "name": "白雪 レイド",
+          "profileURL": "https://neo-porte.jp/member/shirayuki-reid",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E6E6FA"
+          ],
+          "birthday": "02-24",
+          "sns": {
+            "twitter": "https://twitter.com/Shirayuki_Reid",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCIu-aUArYq_H84dBpCAokMA"
+          }
+        },
+        {
+          "uuid": "91B6F56C-3CA5-5281-97D1-E8A27EF684B5",
+          "masterId": "neo_porte_main_aruse_inu",
+          "name": "或世 イヌ",
+          "profileURL": "https://neo-porte.jp/member/aruse-inu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF462"
+          ],
+          "birthday": "05-28",
+          "sns": {
+            "twitter": "https://twitter.com/aruse_inu013",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCbBLqA4HRowpj2JuLrkig5w"
+          }
+        },
+        {
+          "uuid": "DAF75989-51F2-5859-8C75-4B37F79B20D6",
+          "masterId": "neo_porte_main_hizuki_yui",
+          "name": "緋月 ゆい",
+          "profileURL": "https://neo-porte.jp/member/hizuki-yui",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CC213E"
+          ],
+          "birthday": "01-25",
+          "sns": {
+            "twitter": "https://twitter.com/yui_hizuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg"
+          }
+        },
+        {
+          "uuid": "72D7BBCE-A051-5086-BFE6-15B13DE10B1D",
+          "masterId": "neo_porte_main_yozuna_niu",
+          "name": "夜絆 ニウ",
+          "profileURL": "https://neo-porte.jp/member/yozuna-niu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CC99FF"
+          ],
+          "birthday": "04-27",
+          "sns": {
+            "twitter": "https://twitter.com/niu_yozuna",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCZmUoMwjyuQ59sk5_7Tx07A"
+          }
+        },
+        {
+          "uuid": "B9815EA5-1243-56A8-9612-D354271F0542",
+          "masterId": "neo_porte_main_minase",
+          "name": "水無瀬",
+          "profileURL": "https://neo-porte.jp/member/minase",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": "https://twitter.com/minasern",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCEy9cYULQrC2cRlVqJPCcSw"
+          }
+        },
+        {
+          "uuid": "826DB9D0-D2EE-5BEF-9E4D-491288E329EB",
+          "masterId": "neo_porte_main_tentei_forte",
+          "name": "天帝 フォルテ",
+          "profileURL": "https://neo-porte.jp/member/tentei-forte",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F0F8FF"
+          ],
+          "birthday": "10-15",
+          "sns": {
+            "twitter": "https://twitter.com/Emperor_Forte",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC8hwewh9svh92E1gXvgVazg"
+          }
+        },
+        {
+          "uuid": "61531FE7-9E8E-52EF-A702-9727C190162F",
+          "masterId": "neo_porte_main_kohaku_teto",
+          "name": "心白 てと",
+          "profileURL": "https://neo-porte.jp/member/kohaku-teto",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ED4864"
+          ],
+          "birthday": "11-12",
+          "sns": {
+            "twitter": "https://twitter.com/kohakuteto_q",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@kohakuteto_Q"
+          }
+        },
+        {
+          "uuid": "54DE57C3-1E81-5338-95E2-BA22251B943B",
+          "masterId": "neo_porte_main_kuga_leo",
+          "name": "久我 レオ",
+          "profileURL": "https://neo-porte.jp/member/kuga-leo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC0CB"
+          ],
+          "birthday": "09-01",
+          "sns": {
+            "twitter": "https://twitter.com/kugaleo_q",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@kugaleo_Q"
+          }
+        },
+        {
+          "uuid": "FEBA44A7-7D75-5000-8490-42D22567D505",
+          "masterId": "neo_porte_main_itoi_toi",
+          "name": "絲依 とい",
+          "profileURL": "https://neo-porte.jp/member/itoi-toi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BCE2E8"
+          ],
+          "birthday": "08-01",
+          "sns": {
+            "twitter": "https://twitter.com/itoitoi_q",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@itoitoi_Q"
+          }
+        },
+        {
+          "uuid": "B687BCE7-B837-5108-B2A8-D0B92DA41EFA",
+          "masterId": "neo_porte_main_ceo_kazari",
+          "name": "瀬尾 カザリ",
+          "profileURL": "https://neo-porte.jp/member/ceo-kazari",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFEC47"
+          ],
+          "birthday": "11-30",
+          "sns": {
+            "twitter": "https://twitter.com/ceokazari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://youtube.com/@Kazari_Ceo"
+          }
+        },
+        {
+          "uuid": "42DF9B8C-59C1-5B2A-A1A2-FC82211E4B28",
+          "masterId": "neo_porte_main_kasukano_utsuro",
+          "name": "幽乃 うつろ",
+          "profileURL": "https://neo-porte.jp/member/kasukano-utsuro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B68EE"
+          ],
+          "birthday": "09-26",
+          "sns": {
+            "twitter": "https://twitter.com/Kasukano_Utsuro",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://youtube.com/@Kasukano_Utsuro"
+          }
+        },
+        {
+          "uuid": "9CE17E87-F942-538C-8640-27040C4AB398",
+          "masterId": "neo_porte_main_konkon_aria",
+          "name": "昏昏 アリア",
+          "profileURL": "https://neo-porte.jp/member/konkon-aria",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B0000"
+          ],
+          "birthday": "06-06",
+          "sns": {
+            "twitter": "https://twitter.com/Aria_Konkon",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://youtube.com/@KonkonAria"
+          }
+        },
+        {
+          "uuid": "967FAB75-1F77-5131-ADF8-83FCDF7BB037",
+          "masterId": "neo_porte_main_aogiri_eito",
+          "name": "青桐 エイト",
+          "profileURL": "https://neo-porte.jp/member/aogiri-eito",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#000080"
+          ],
+          "birthday": "03-08",
+          "sns": {
+            "twitter": "https://twitter.com/eito_aogiri8",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@eito_aogiri8"
+          }
+        },
+        {
+          "uuid": "3320E80D-C86E-5450-BF6E-65C3E13BF6C7",
+          "masterId": "neo_porte_main_hiiragi_tsurugi",
+          "name": "柊 ツルギ",
+          "profileURL": "https://neo-porte.jp/member/hiiragi-tsurugi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D3381C"
+          ],
+          "birthday": "06-27",
+          "sns": {
+            "twitter": "https://twitter.com/HiiragiTsurugi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HiiragiTsurugi"
+          }
+        },
+        {
+          "uuid": "E11A42C9-31AB-58D5-A1CB-47DBC8B96098",
+          "masterId": "neo_porte_main_yagami_tsukumo",
+          "name": "八神 ツクモ",
+          "profileURL": "https://neo-porte.jp/member/yagami-tsukumo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20B2AA"
+          ],
+          "birthday": "08-19",
+          "sns": {
+            "twitter": "https://twitter.com/tsukumo_yagami",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@tsukumo_yagami"
+          }
+        },
+        {
+          "uuid": "C66066BF-CBBC-59B8-9135-33B8F5DB7E7F",
+          "masterId": "neo_porte_main_shirona_shizuku",
+          "name": "白那 しずく",
+          "profileURL": "https://neo-porte.jp/member/shirona-shizuku",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5F5F5"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": "https://twitter.com/shizuku_shirona",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ShironaShizuku"
+          }
+        },
+        {
+          "uuid": "E97F708C-5FD1-562D-B328-7774AE108989",
+          "masterId": "neo_porte_main_asakura_shino",
+          "name": "麻倉 シノ",
+          "profileURL": "https://neo-porte.jp/member/asakura-shino",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5E4FE3"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": "https://twitter.com/Shino_Asakura5",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Shino_Asakura"
+          }
+        },
+        {
+          "uuid": "6B73DBF0-1083-527E-B069-C906D7E6D008",
+          "masterId": "neo_porte_main_amane_amu",
+          "name": "甘音 あむ",
+          "profileURL": "https://neo-porte.jp/member/amane-amu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E62F8B"
+          ],
+          "birthday": "01-06",
+          "sns": {
+            "twitter": "https://x.com/Amu_amane",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Amu_amane"
+          }
+        },
+        {
+          "uuid": "75F5FADD-33DF-5870-89D0-599929081893",
+          "masterId": "neo_porte_main_hiura_kuro",
+          "name": "日裏 クロ",
+          "profileURL": "https://neo-porte.jp/member/hiura-kuro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#777777"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": "https://x.com/Hiura_Kuro",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HiuraKuro0914"
+          }
+        },
+        {
+          "uuid": "F9973322-E504-5824-B55A-B3045A5CDF8B",
+          "masterId": "neo_porte_main_onigaya_ten",
+          "name": "鬼ヶ谷 テン",
+          "profileURL": "https://neo-porte.jp/member/onigaya-ten",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF6A00"
+          ],
+          "birthday": "05-12",
+          "sns": {
+            "twitter": "https://x.com/onigaya_ten_6",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@onigayaten0512"
+          }
+        },
+        {
+          "uuid": "3E500670-E0B6-5637-8379-BF179088BD82",
+          "masterId": "neo_porte_main_mitsuba_eni",
+          "name": "光葉 エニ",
+          "profileURL": "https://neo-porte.jp/member/mitsuba-eni",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFBC"
+          ],
+          "birthday": "03-28",
+          "sns": {
+            "twitter": "https://x.com/Mitsuba_Eni",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Mitsuba_Eni"
+          }
+        }
+      ]
+    }
+  ]
+}

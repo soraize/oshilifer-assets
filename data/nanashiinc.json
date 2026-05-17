@@ -1,0 +1,460 @@
+{
+  "agencyId": "nanashiinc",
+  "agency": "ななしいんく",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "693EF9D9-07B1-51F8-A801-1FAC076312A9",
+      "masterId": "nanashiinc_main",
+      "name": "ななしいんく",
+      "isActive": true,
+      "profileURL": "https://www.774.ai/talents",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://www.774.ai/",
+        "twitter": "https://twitter.com/774inc_official",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@774inc_official"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://774-schedule.ai/",
+      "members": [
+        {
+          "uuid": "D0250BE1-F731-5EC2-B161-EC199EA05857",
+          "masterId": "nanashiinc_main_haneru_inaba",
+          "name": "因幡はねる",
+          "profileURL": "https://www.774.ai/talent/haneru-inaba",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F3C640"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": "https://twitter.com/haneru_inaba",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Inaba_Haneru"
+          }
+        },
+        {
+          "uuid": "D0173C73-1269-59E8-8A0C-937F4CE9CF11",
+          "masterId": "nanashiinc_main_mico_sekishiro",
+          "name": "堰代ミコ",
+          "profileURL": "https://www.774.ai/talent/mico-sekishiro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#47885E"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": "https://twitter.com/Mico_Sekishiro",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Mico_Sekishiro"
+          }
+        },
+        {
+          "uuid": "B78C895A-E91C-54A4-AD73-476BCA1E08A4",
+          "masterId": "nanashiinc_main_kuku_kazami",
+          "name": "風見くく",
+          "profileURL": "https://www.774.ai/talent/kuku-kazami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F08437"
+          ],
+          "birthday": "09-09",
+          "sns": {
+            "twitter": "https://twitter.com/Kuku_Kazami",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Kuku_Kazami"
+          }
+        },
+        {
+          "uuid": "EAC3BE1F-69CA-5C4C-ACCF-3CF575555C60",
+          "masterId": "nanashiinc_main_hikari_hira",
+          "name": "飛良ひかり",
+          "profileURL": "https://www.774.ai/talent/hikari-hira",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EA998F"
+          ],
+          "birthday": "01-05",
+          "sns": {
+            "twitter": "https://twitter.com/Hikari_Hira",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Hikari_Hira"
+          }
+        },
+        {
+          "uuid": "B74CA1FF-5D43-5CD0-828E-A60B38B6A740",
+          "masterId": "nanashiinc_main_popo_ieiri",
+          "name": "家入ポポ",
+          "profileURL": "https://www.774.ai/talent/popo-ieiri",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF100"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": "https://twitter.com/Popo_Ieiri",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@popo_ieiri?is_from_webapp=1&sender_device=pc",
+            "youtube": "https://www.youtube.com/@Popo_Ieiri"
+          }
+        },
+        {
+          "uuid": "71807FE5-1580-56E2-9E30-9AD1A903EB36",
+          "masterId": "nanashiinc_main_mashu_hinata",
+          "name": "日向ましゅ",
+          "profileURL": "https://www.774.ai/talent/mashu-hinata",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F3DD6D"
+          ],
+          "birthday": "12-14",
+          "sns": {
+            "twitter": "https://twitter.com/Mashu_Hinata",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Mashu_Hinata"
+          }
+        },
+        {
+          "uuid": "BA6DEB7E-61B9-5A1F-B681-8AC837405ED8",
+          "masterId": "nanashiinc_main_ichika_souya",
+          "name": "宗谷いちか",
+          "profileURL": "https://www.774.ai/talent/ichika-souya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#59C3E1"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": "https://twitter.com/Ichika_Souya",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Ichika_Souya"
+          }
+        },
+        {
+          "uuid": "25636B68-8234-54AA-8BE9-39B8AC4DDC50",
+          "masterId": "nanashiinc_main_uge_and",
+          "name": "杏戸ゆげ",
+          "profileURL": "https://www.774.ai/talent/uge-and",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B7CDDA"
+          ],
+          "birthday": "09-03",
+          "sns": {
+            "twitter": "https://twitter.com/Uge_And",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Uge_And"
+          }
+        },
+        {
+          "uuid": "140F3CA8-F644-5C89-BDBD-02F1608EFC14",
+          "masterId": "nanashiinc_main_izumi_yunohara",
+          "name": "柚原いづみ",
+          "profileURL": "https://www.774.ai/talent/izumi-yunohara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A16945"
+          ],
+          "birthday": "01-23",
+          "sns": {
+            "twitter": "https://twitter.com/Izumi_Yunohara",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@izumi_yunohara?is_from_webapp=1&sender_device=pc",
+            "youtube": "https://www.youtube.com/@Izumi_Yunohara"
+          }
+        },
+        {
+          "uuid": "8EFC4A13-76F0-55AE-9412-41B6D692AC58",
+          "masterId": "nanashiinc_main_mia_konan",
+          "name": "湖南みあ",
+          "profileURL": "https://www.774.ai/talent/mia-konan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE893"
+          ],
+          "birthday": "08-07",
+          "sns": {
+            "twitter": "https://twitter.com/Mia_Konan",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Mia_Konan"
+          }
+        },
+        {
+          "uuid": "9F668BF7-33B8-5D0A-8F2F-AA72061C12EB",
+          "masterId": "nanashiinc_main_yuri_kohaku",
+          "name": "瑚白ユリ",
+          "profileURL": "https://www.774.ai/talent/yuri-kohaku",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EAEFF9"
+          ],
+          "birthday": "04-07",
+          "sns": {
+            "twitter": "https://twitter.com/Yuri_Kohakuu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Yuri_Kohaku"
+          }
+        },
+        {
+          "uuid": "49A3CC8D-BAB3-53DC-9EC1-769665B06465",
+          "masterId": "nanashiinc_main_sasaha_amatsuna",
+          "name": "天絆ささは",
+          "profileURL": "https://www.774.ai/talent/sasaha-amatsuna",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D9EDBD"
+          ],
+          "birthday": "10-27",
+          "sns": {
+            "twitter": "https://x.com/Amatsuna_Sasaha",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@sasaha_amatsuna",
+            "youtube": "https://www.youtube.com/@Sasaha_Amatsuna"
+          }
+        },
+        {
+          "uuid": "15D8042C-A436-51CC-B5A4-D99EC65F6328",
+          "masterId": "nanashiinc_main_charlotte_shimamura",
+          "name": "島村シャルロット",
+          "profileURL": "https://www.774.ai/talent/charlotte-shimamura",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#004098"
+          ],
+          "birthday": "06-25",
+          "sns": {
+            "twitter": "https://twitter.com/Charlotte_Smmr",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Charlotte_Shimamura"
+          }
+        },
+        {
+          "uuid": "F9CE2AFE-0865-5A18-93FA-7A7185F59306",
+          "masterId": "nanashiinc_main_kanon_kanade",
+          "name": "花奏かのん",
+          "profileURL": "https://www.774.ai/talent/kanon-kanade",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#95D0C0"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": "https://twitter.com/_kanade_kanon",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KanadeKanon"
+          }
+        },
+        {
+          "uuid": "37F21AB3-84E4-503D-9A6A-5C11ABA18C13",
+          "masterId": "nanashiinc_main_rene_ryugasaki",
+          "name": "龍ヶ崎リン",
+          "profileURL": "https://www.774.ai/talent/rene-ryugasaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8161D"
+          ],
+          "birthday": "06-01",
+          "sns": {
+            "twitter": "https://twitter.com/Rene_Ryugasaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Rene_Ryugasaki"
+          }
+        },
+        {
+          "uuid": "8C482634-D431-51F6-8266-E18FCA11B71F",
+          "masterId": "nanashiinc_main_tirol_tsukinoki",
+          "name": "月野木ちろる",
+          "profileURL": "https://www.774.ai/talent/tirol-tsukinoki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#75C5B5"
+          ],
+          "birthday": "12-06",
+          "sns": {
+            "twitter": "https://twitter.com/tirol0_0lorit",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Tirol_Tsukinoki"
+          }
+        },
+        {
+          "uuid": "798923EB-345F-544B-B3EB-688CC5D3FB01",
+          "masterId": "nanashiinc_main_tier_hebiyoi",
+          "name": "蛇宵ティア",
+          "profileURL": "https://www.774.ai/talent/tier-hebiyoi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6879BA"
+          ],
+          "birthday": "10-01",
+          "sns": {
+            "twitter": "https://twitter.com/Tier_Hebiyoi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Tier_Hebiyoi"
+          }
+        },
+        {
+          "uuid": "6B0271F1-C1DF-5D45-A752-4C7961D91EA3",
+          "masterId": "nanashiinc_main_shino_kasukane",
+          "name": "幽音しの",
+          "profileURL": "https://www.774.ai/talent/shino-kasukane",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#98D6F2"
+          ],
+          "birthday": "09-20",
+          "sns": {
+            "twitter": "https://x.com/Shino_Kasukane_",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@shino_kasukane",
+            "youtube": "https://www.youtube.com/@Shino_Kasukane"
+          }
+        },
+        {
+          "uuid": "F21CB4F7-A818-53CD-9063-1DFB3710EFC9",
+          "masterId": "nanashiinc_main_mary_saionji",
+          "name": "西園寺メアリ",
+          "profileURL": "https://www.774.ai/talent/mary-saionji",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7E318E"
+          ],
+          "birthday": "11-22",
+          "sns": {
+            "twitter": "https://twitter.com/Mary_HNST",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Mary_Saionji"
+          }
+        },
+        {
+          "uuid": "62D2938A-015D-5DDB-B82A-F861792154F2",
+          "masterId": "nanashiinc_main_anko_kisaki",
+          "name": "季咲あんこ",
+          "profileURL": "https://www.774.ai/talent/anko-kisaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F3A8B4"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": "https://twitter.com/Anko_Kisaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Anko_Kisaki"
+          }
+        },
+        {
+          "uuid": "FD32B9E5-9215-51EB-9F64-44626BED6F51",
+          "masterId": "nanashiinc_main_rui_seshima",
+          "name": "瀬島るい",
+          "profileURL": "https://www.774.ai/talent/rui-seshima",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9D3636"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": "https://twitter.com/Rui_Seshima",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Rui_Seshima"
+          }
+        },
+        {
+          "uuid": "E516D4FB-EF03-57FD-B034-A903FBA51192",
+          "masterId": "nanashiinc_main_canna_akane",
+          "name": "茜音カンナ",
+          "profileURL": "https://www.774.ai/talent/canna-akane",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D92731"
+          ],
+          "birthday": "05-13",
+          "sns": {
+            "twitter": "https://twitter.com/Canna_Akane",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@cannaakane?is_from_webapp=1&sender_device=pc",
+            "youtube": "https://www.youtube.com/@Canna_Akane"
+          }
+        },
+        {
+          "uuid": "04D23FA6-F0F4-5EA1-8739-55A06E57EF6E",
+          "masterId": "nanashiinc_main_amaui",
+          "name": "天羽衣",
+          "profileURL": "https://www.774.ai/talent/amaui",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BBDCF4"
+          ],
+          "birthday": "09-15",
+          "sns": {
+            "twitter": "https://twitter.com/Amaui_",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@amaui_",
+            "youtube": "https://www.youtube.com/@Amaui"
+          }
+        },
+        {
+          "uuid": "2059BCBE-D970-578A-B891-B384A72D60A4",
+          "masterId": "nanashiinc_main_ririri_uruwashi",
+          "name": "羽流鷲りりり",
+          "profileURL": "https://www.774.ai/talent/ririri-uruwashi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#996699"
+          ],
+          "birthday": "02-02",
+          "sns": {
+            "twitter": "https://x.com/Ririri_Uruwashi",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@ririri_uruwashi?_t=ZS-8vtx9nmMxwV&_r=1",
+            "youtube": "https://www.youtube.com/@Ririri_Uruwashi"
+          }
+        }
+      ]
+    }
+  ]
+}

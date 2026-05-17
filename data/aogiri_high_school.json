@@ -1,0 +1,262 @@
+{
+  "agencyId": "aogiri_high_school",
+  "agency": "あおぎり高校",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "5554B6F0-0557-5750-ABDC-25272A4D5642",
+      "masterId": "aogiri_high_school_main",
+      "name": "あおぎり高校",
+      "isActive": true,
+      "profileURL": "https://www.aogirihighschool.com/members",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://www.aogirihighschool.com/",
+        "twitter": "https://twitter.com/aogirihs",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@aogiri1027"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "9CAA96C8-ADB0-5F0F-A970-EA30FFB92E8B",
+          "masterId": "aogiri_high_school_main_otodama_tamako",
+          "name": "音霊魂子",
+          "profileURL": "https://www.aogirihighschool.com/members/otodama-tamako",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#681E8A"
+          ],
+          "birthday": "12-08",
+          "sns": {
+            "twitter": "https://x.com/tamako_aogiri",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@tamako0212"
+          }
+        },
+        {
+          "uuid": "1E93F290-F6C1-55C0-9EB4-DCF0D2679D23",
+          "masterId": "aogiri_high_school_main_ishikari_akari",
+          "name": "石狩あかり",
+          "profileURL": "https://www.aogirihighschool.com/members/ishikari-akari",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DC3246"
+          ],
+          "birthday": "10-31",
+          "sns": {
+            "twitter": "https://x.com/ishikari_akari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@akari0415"
+          }
+        },
+        {
+          "uuid": "8760BF63-2459-51AF-A0C3-5A21AD51D053",
+          "masterId": "aogiri_high_school_main_yamaguro_nekuro",
+          "name": "山黒音玄",
+          "profileURL": "https://www.aogirihighschool.com/members/yamaguro-nekuro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#414141"
+          ],
+          "birthday": "08-13",
+          "sns": {
+            "twitter": "https://x.com/yamaguro_nekuro",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@nekuro0412"
+          }
+        },
+        {
+          "uuid": "98D88A7D-20BE-591C-947A-A19B51E9F0F5",
+          "masterId": "aogiri_high_school_main_kurikoma_komaru",
+          "name": "栗駒こまる",
+          "profileURL": "https://www.aogirihighschool.com/members/kurikoma-komaru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#503C32"
+          ],
+          "birthday": "09-25",
+          "sns": {
+            "twitter": "https://x.com/kurikoma_komaru",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@komaru0814"
+          }
+        },
+        {
+          "uuid": "70E4D5CD-5B7A-52A9-A678-89E02D1A2F2E",
+          "masterId": "aogiri_high_school_main_chiyoura_chiyomi",
+          "name": "千代浦蝶美",
+          "profileURL": "https://www.aogirihighschool.com/members/chiyoura-chiyomi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E66EA0"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": "https://x.com/tiyoura_tiyomi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@chiyomi0812"
+          }
+        },
+        {
+          "uuid": "E9874831-3504-5BE3-943C-88D86312BE7A",
+          "masterId": "aogiri_high_school_main_gabu_rieru",
+          "name": "我部りえる",
+          "profileURL": "https://www.aogirihighschool.com/members/gabu-rieru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5AFAF"
+          ],
+          "birthday": "10-06",
+          "sns": {
+            "twitter": "https://x.com/rieru_aogiri",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@rieru0830"
+          }
+        },
+        {
+          "uuid": "BEED558A-8FBD-578B-B10A-0AD94726E747",
+          "masterId": "aogiri_high_school_main_etra",
+          "name": "エトラ",
+          "profileURL": "https://www.aogirihighschool.com/members/etra",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#555F87"
+          ],
+          "birthday": "07-21",
+          "sns": {
+            "twitter": "https://x.com/etra_ASI",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@etrachannel"
+          }
+        },
+        {
+          "uuid": "EF2F1B4C-21CD-5AEB-9E25-292FDC1EA52A",
+          "masterId": "aogiri_high_school_main_harusame_urame",
+          "name": "春雨麗女",
+          "profileURL": "https://www.aogirihighschool.com/members/harusame-urame",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#55C3F0"
+          ],
+          "birthday": "03-04",
+          "sns": {
+            "twitter": "https://x.com/harusame_urame",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@urame0711"
+          }
+        },
+        {
+          "uuid": "77299DFC-18D3-54AE-82E7-D048971830A4",
+          "masterId": "aogiri_high_school_main_puwapuwa_popura",
+          "name": "ぷわぷわぽぷら",
+          "profileURL": "https://www.aogirihighschool.com/members/puwapuwa-popura",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#82BEAA"
+          ],
+          "birthday": "05-04",
+          "sns": {
+            "twitter": "https://x.com/puwapuwa_popura",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@puwapuwa_popura",
+            "youtube": "https://www.youtube.com/@popura0119"
+          }
+        },
+        {
+          "uuid": "3337FB2B-D0DE-5187-ADCE-343D693D97EE",
+          "masterId": "aogiri_high_school_main_moemi",
+          "name": "萌実",
+          "profileURL": "https://www.aogirihighschool.com/members/moemi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A0AF"
+          ],
+          "birthday": "11-22",
+          "sns": {
+            "twitter": "https://x.com/Moemi_Yomeno",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Moemi_chan"
+          }
+        },
+        {
+          "uuid": "AD932D44-41E2-506A-8849-C0148058A5E0",
+          "masterId": "aogiri_high_school_main_tsukiyuki_ibuki",
+          "name": "月赴ゐぶき",
+          "profileURL": "https://www.aogirihighschool.com/members/tsukiyuki-ibuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8C2341"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": "https://x.com/tsukiyuki_ibuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ibuki0831"
+          }
+        },
+        {
+          "uuid": "371DB4CF-5A35-5143-99AD-D1C09E229574",
+          "masterId": "aogiri_high_school_main_urutoragaru",
+          "name": "うる虎がーる",
+          "profileURL": "https://www.aogirihighschool.com/members/urutoragaru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F0AA3C"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": "https://x.com/urutoragaru",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@urutoragaru0831"
+          }
+        },
+        {
+          "uuid": "B0111F95-F0C3-52D5-9920-922966303B1E",
+          "masterId": "aogiri_high_school_main_yasoshina_mujina",
+          "name": "八十科むじな",
+          "profileURL": "https://www.aogirihighschool.com/members/yasoshina-mujina",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E50A0"
+          ],
+          "birthday": "11-12",
+          "sns": {
+            "twitter": "https://x.com/yasosina_mujina",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@mujina0831"
+          }
+        }
+      ]
+    }
+  ]
+}

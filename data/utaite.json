@@ -1,0 +1,155 @@
+{
+  "agencyId": "utaite",
+  "agency": "歌い手",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "F7760F21-4370-5BDB-B919-610DB3E80B82",
+      "masterId": "utaite_urashimasakatasen",
+      "name": "浦島坂田船",
+      "isActive": true,
+      "profileURL": "https://nbcuni-music.com/urashimasakatasen/profile/",
+      "colorHex": [
+        "#1F8ACB"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://nbcuni-music.com/urashimasakatasen/",
+        "twitter": "https://twitter.com/USSS_info",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCA_t0trBs1Fcb6U4HeUGT4g"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://urashimasakatasen.com/live/",
+      "members": [
+        {
+          "uuid": "AD53B85C-4470-5DF2-B64E-501FADFC7909",
+          "masterId": "utaite_urashimasakatasen_uratanuki",
+          "name": "うらたぬき",
+          "profileURL": "https://nbcuni-music.com/urashimasakatasen/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2EAD4B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/uratasama",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@uratasama"
+          }
+        },
+        {
+          "uuid": "BE75D6D9-BCC5-5CFB-A5EF-8B5C7834CAFF",
+          "masterId": "utaite_urashimasakatasen_shima",
+          "name": "志麻",
+          "profileURL": "https://nbcuni-music.com/urashimasakatasen/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B3FB8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/shima_s2",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCDIWpMZKXTng4mT4eMF5oTA"
+          }
+        },
+        {
+          "uuid": "58FFAD28-6DE4-5A67-845C-447E3E550A48",
+          "masterId": "utaite_urashimasakatasen_tonari_no_sakata",
+          "name": "となりの坂田。",
+          "profileURL": "https://nbcuni-music.com/urashimasakatasen/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E60033"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/sakatandao",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@sakatandao"
+          }
+        },
+        {
+          "uuid": "6FD57121-819E-5CE1-9D08-52BCC57389E9",
+          "masterId": "utaite_urashimasakatasen_senra",
+          "name": "センラ",
+          "profileURL": "https://nbcuni-music.com/urashimasakatasen/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4C430"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/sen_sen_sen_sen",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCGQg0ZjM_QQ2jvUd5j9Fp-Q"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "C8FF0CE4-6728-540B-815F-2E879926C51F",
+      "masterId": "utaite_after_the_rain",
+      "name": "After the Rain",
+      "isActive": true,
+      "profileURL": "https://aftertherain.co.jp/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://aftertherain.co.jp/",
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://aftertherain.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "0A1ED9DF-F286-5806-861D-6DA8ABC09C8A",
+          "masterId": "utaite_after_the_rain_soraru",
+          "name": "そらる",
+          "profileURL": "https://aftertherain.co.jp/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-03",
+          "sns": {
+            "twitter": "https://x.com/soraruru",
+            "instagram": "https://www.instagram.com/soraru_official",
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@soraruYT"
+          }
+        },
+        {
+          "uuid": "EA5833A2-E7A3-59F1-BA23-45D08DBB17A2",
+          "masterId": "utaite_after_the_rain_mafumafu",
+          "name": "まふまふ",
+          "profileURL": "https://aftertherain.co.jp/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-18",
+          "sns": {
+            "twitter": "https://x.com/uni_mafumafu/",
+            "instagram": "https://www.instagram.com/mafumafu_ig/",
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/c/uni_mafumafu"
+          }
+        }
+      ]
+    }
+  ]
+}

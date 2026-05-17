@@ -117,6 +117,17 @@
     ]
   },
   {
+    "categoryId": "utaite",
+    "name": "歌い手",
+    "agencies": [
+      {
+        "agencyId": "utaite",
+        "name": "歌い手",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/utaite.json"
+      }
+    ]
+  },
+  {
     "categoryId": "vtuber",
     "name": "VTuber",
     "agencies": [

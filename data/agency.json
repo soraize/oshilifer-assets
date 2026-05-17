@@ -176,6 +176,11 @@
         "agencyId": "jlpga",
         "name": "女子ゴルフ",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jlpga.json"
+      },
+      {
+        "agencyId": "jgto",
+        "name": "男子ゴルフ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jgto.json"
       }
     ]
   }

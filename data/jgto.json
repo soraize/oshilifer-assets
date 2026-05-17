@@ -1,0 +1,1983 @@
+{
+  "agencyId": "jgto",
+  "agency": "男子ゴルフ",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "BCCC6960-13D9-596E-8DFC-42EC92174A42",
+      "masterId": "jgto_tour",
+      "name": "JGTOツアー",
+      "isActive": true,
+      "profileURL": "https://www.jgto.org/player/",
+      "colorHex": [
+        "#0B5CAD"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/JGTO_official",
+        "instagram": "https://www.instagram.com/japangolftour/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.jgto.org/tournament",
+      "members": [
+        {
+          "uuid": "EC37FF9F-B17C-59CD-AFD9-DDFFBD363865",
+          "masterId": "jgto_gdo_18057",
+          "name": "米澤蓮",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18057/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "79AC6CCE-AFE1-5495-8C1D-C6A58FF69B6A",
+          "masterId": "jgto_gdo_1123",
+          "name": "藤本佳則",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/1123/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5D32E730-523A-549D-924F-6454F8DA3B00",
+          "masterId": "jgto_gdo_9890",
+          "name": "堀川未来夢",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9890/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DDD245B9-A5EA-589E-9670-82677363D123",
+          "masterId": "jgto_gdo_18209",
+          "name": "T.スマイス",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18209/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8BBFC79-6F75-5B2A-92BD-4DBFC77ED9D6",
+          "masterId": "jgto_gdo_18300",
+          "name": "石坂友宏",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18300/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4DB502F5-9A10-56F7-AB03-1AE57E5D905D",
+          "masterId": "jgto_gdo_13826",
+          "name": "宋永漢",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/13826/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E136F0E2-75B9-5F43-A722-6463FAEA5CAA",
+          "masterId": "jgto_gdo_18615",
+          "name": "細野勇策",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18615/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A3D8E2F8-E2A0-5493-9520-00C5D5487101",
+          "masterId": "jgto_gdo_6526",
+          "name": "香妻陣一朗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6526/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E849BA29-6661-5450-BB9C-27529025D229",
+          "masterId": "jgto_gdo_6535",
+          "name": "今平周吾",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6535/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D04F5C6D-12E6-5DD4-A7C2-28FA98EB47DB",
+          "masterId": "jgto_gdo_495",
+          "name": "佐藤大平",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/495/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76D5D092-4E77-5CC2-A4CA-00214913AB17",
+          "masterId": "jgto_gdo_15079",
+          "name": "大堀裕次郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15079/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2C91CDF2-703B-5070-8BA9-AF9F38447F9F",
+          "masterId": "jgto_gdo_10753",
+          "name": "阿久津未来也",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10753/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9BF5996-9AEB-5F9C-80CF-DB8C192C831E",
+          "masterId": "jgto_gdo_11283",
+          "name": "稲森佑貴",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11283/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A25EEAAC-47FB-5E6B-9726-35D4673D8BC0",
+          "masterId": "jgto_gdo_18208",
+          "name": "J.デロスサントス",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18208/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EB23EE07-1FD5-5F80-8231-37A57922D297",
+          "masterId": "jgto_gdo_14646",
+          "name": "小西たかのり",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/14646/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "231CE3E9-AEE6-564E-9666-2C816A3D47DB",
+          "masterId": "jgto_gdo_16725",
+          "name": "砂川公佑",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16725/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3C276650-2797-53D1-B91C-A5A96CA28DC3",
+          "masterId": "jgto_gdo_18702",
+          "name": "平本世中",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18702/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "128E7A14-FF0F-533F-A1AB-090CD892B4FF",
+          "masterId": "jgto_gdo_17259",
+          "name": "吉田泰基",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17259/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "367B116D-68D0-581D-8604-1547612B9A4F",
+          "masterId": "jgto_gdo_15635",
+          "name": "木下稜介",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15635/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "42678BEC-72CC-5256-8E11-5EF40CF3EB50",
+          "masterId": "jgto_gdo_6849",
+          "name": "M.ヘンドリー",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6849/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9FBD2D2B-DAE8-565A-98D3-CDAD9B3E18F4",
+          "masterId": "jgto_gdo_18431",
+          "name": "岩崎亜久竜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18431/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39E807AF-9C86-5209-B6DE-0E16A608F9BE",
+          "masterId": "jgto_gdo_11828",
+          "name": "鍋谷太一",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11828/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "40893EB9-C336-528C-8D84-87CD720A01C1",
+          "masterId": "jgto_gdo_120",
+          "name": "池田勇太",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/120/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F282D3F1-56CB-545A-A2C1-87729DAFEE05",
+          "masterId": "jgto_gdo_16350",
+          "name": "西山大広",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16350/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0888F324-70F3-5AB0-8A71-B249203BB769",
+          "masterId": "jgto_gdo_6594",
+          "name": "小平智",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6594/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1318B021-98E0-5ECD-9952-74285808358F",
+          "masterId": "jgto_gdo_18052",
+          "name": "河本力",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18052/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D8D8632-09DF-5CDE-97D3-60EFCD441AAC",
+          "masterId": "jgto_gdo_18705",
+          "name": "古川龍之介",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18705/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F025384B-C5CE-53A1-B7CB-DBEDF0BA62C4",
+          "masterId": "jgto_gdo_18737",
+          "name": "中野麟太朗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18737/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AA1FD552-BE3F-5D4F-A0C4-11BAE473594E",
+          "masterId": "jgto_gdo_18155",
+          "name": "長野泰雅",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18155/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64CFD788-037E-55C7-A1AA-7030103111DE",
+          "masterId": "jgto_gdo_17695",
+          "name": "勝俣陵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17695/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D4548901-1343-5F1B-9806-7A6CF4C6D918",
+          "masterId": "jgto_gdo_16068",
+          "name": "池村寛世",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16068/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "08-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A916DF78-39D9-5FE4-8088-BED030759D76",
+          "masterId": "jgto_gdo_16755",
+          "name": "蝉川泰果",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16755/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F0C0660-1BD6-53A0-B3C5-1D2FDD896FF3",
+          "masterId": "jgto_gdo_18863",
+          "name": "服部雅也",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18863/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8453D515-1FDB-5277-8E1A-2D6944AD1896",
+          "masterId": "jgto_gdo_496",
+          "name": "永野竜太郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/496/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3728455C-13FE-5A4A-A93C-A673E90F52E4",
+          "masterId": "jgto_gdo_500",
+          "name": "片岡大育",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/500/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15450A0B-7BCF-56D8-AF14-ED28184ACCA8",
+          "masterId": "jgto_gdo_19250",
+          "name": "山本大雅",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19250/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2E135FE-4FB0-5DB4-8DC1-CA22BC6DBF14",
+          "masterId": "jgto_gdo_19115",
+          "name": "福住修",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19115/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "73D628B7-1EC9-57CF-BC9B-C3C0B85F79DB",
+          "masterId": "jgto_gdo_17156",
+          "name": "今野大喜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17156/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4CA3418-B1D3-56F2-AFCF-10710ECD5E02",
+          "masterId": "jgto_gdo_70",
+          "name": "宮里優作",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/70/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "71C7FA0E-F2B8-535A-930A-C6C387202A3F",
+          "masterId": "jgto_gdo_12667",
+          "name": "H.W.リュー",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/12667/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D0EF004-D49A-5471-BC96-0E47378BA6B4",
+          "masterId": "jgto_gdo_719",
+          "name": "S.ノリス",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/719/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DC39BBEC-E3D2-508D-BB49-F0C6FD55112A",
+          "masterId": "jgto_gdo_15083",
+          "name": "竹山昂成",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15083/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DB47BC58-FD79-5F6F-89E1-4BD98D4682EB",
+          "masterId": "jgto_gdo_19042",
+          "name": "杉本スティーブ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19042/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1542529B-86A3-5820-B674-EB6FC7E22454",
+          "masterId": "jgto_gdo_18302",
+          "name": "照屋佑唯智",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18302/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DCFEB38D-A837-5477-96A9-28EB89411D0C",
+          "masterId": "jgto_gdo_15102",
+          "name": "玉城海伍",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15102/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4C35B587-7AA8-5D0D-BD4A-3583126CF45B",
+          "masterId": "jgto_gdo_18704",
+          "name": "前田光史朗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18704/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "22AFC084-D08F-509A-BC35-AFF2EE6CCAAE",
+          "masterId": "jgto_gdo_18724",
+          "name": "T.コー",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18724/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D4F2274-E517-54B8-9904-E80FF1E14AB8",
+          "masterId": "jgto_gdo_17988",
+          "name": "桂川有人",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17988/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D832326-B90D-5158-AB97-EEEEB051BCB0",
+          "masterId": "jgto_gdo_10288",
+          "name": "勝亦悠斗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10288/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "08-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABFA7212-D209-50F6-8CCB-06D63FE20B40",
+          "masterId": "jgto_gdo_17223",
+          "name": "坂本雄介",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17223/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "736CDAF8-FAF6-5F56-9101-7A7FE2048E1B",
+          "masterId": "jgto_gdo_9753",
+          "name": "市原弘大",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9753/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87870C06-006B-59BD-A781-AA59C411C6F8",
+          "masterId": "jgto_gdo_93",
+          "name": "岩田寛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/93/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5DE2542A-DB3D-5712-B7FD-6339D6D401E2",
+          "masterId": "jgto_gdo_18708",
+          "name": "安森一貴",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18708/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59193AE3-E92C-5083-83EF-3BB1C79F94DB",
+          "masterId": "jgto_gdo_12645",
+          "name": "篠優希",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/12645/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5746CDF1-F8A8-553E-841A-3639F4EE6DB2",
+          "masterId": "jgto_gdo_10780",
+          "name": "比嘉一貴",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10780/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4A94E544-491B-5214-85AF-13AC45A1FF8E",
+          "masterId": "jgto_gdo_8956",
+          "name": "出水田大二郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/8956/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F1AD107E-A4E3-534A-942C-694988426541",
+          "masterId": "jgto_gdo_6680",
+          "name": "大槻智春",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6680/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7ECBF85E-A9B2-5932-8F64-22A178A28A93",
+          "masterId": "jgto_gdo_15162",
+          "name": "嘉数光倫",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15162/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "08EE89E0-4127-5F74-A130-AB17218D3E64",
+          "masterId": "jgto_gdo_18154",
+          "name": "出利葉太一郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18154/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1BE96862-B0F9-517C-9505-5E70A6711B64",
+          "masterId": "jgto_gdo_18703",
+          "name": "岡田晃平",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18703/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0FF9F31D-8BDC-5EC2-BA7C-D742D7947275",
+          "masterId": "jgto_gdo_18397",
+          "name": "山下勝将",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18397/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1B6B2905-1407-5927-8D27-4B6FC54CBDFE",
+          "masterId": "jgto_gdo_10193",
+          "name": "小斉平優和",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10193/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F70142D6-4743-58B5-BDEE-C7EFC0FF98C5",
+          "masterId": "jgto_gdo_19322",
+          "name": "吉桑佑太",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19322/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0CE41B47-0AE1-55A6-A3DA-CB522919633E",
+          "masterId": "jgto_gdo_6406",
+          "name": "幡地隆寛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6406/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6AF56ADE-F53B-55C8-B418-692A5223AF42",
+          "masterId": "jgto_gdo_19367",
+          "name": "小田祥平",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19367/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7792738D-97FB-5C9B-A74D-C9047AC35078",
+          "masterId": "jgto_gdo_19162",
+          "name": "古瀬幸一朗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19162/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "81B26F79-762D-56BE-A662-BC7C71C85AE1",
+          "masterId": "jgto_gdo_18416",
+          "name": "湯原光",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18416/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "921900D7-1368-55C6-BF83-32710092985B",
+          "masterId": "jgto_gdo_17524",
+          "name": "若原亮太",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17524/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7628D13A-6492-5EF1-B0D2-40D5A993C26A",
+          "masterId": "jgto_gdo_11149",
+          "name": "李尚熹",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11149/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FBA953E4-3605-568C-9EC4-79841EDDF522",
+          "masterId": "jgto_gdo_17979",
+          "name": "杉浦悠太",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17979/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4B16938F-DAFD-5D70-AE77-56C879790E21",
+          "masterId": "jgto_gdo_17709",
+          "name": "岡田絃希",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17709/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "41A80B4E-A221-5A4C-A127-13AEDD3BD3E7",
+          "masterId": "jgto_gdo_17953",
+          "name": "大西魁斗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17953/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "260D95FC-3CF6-54CD-B0FC-CA86639522DE",
+          "masterId": "jgto_gdo_6512",
+          "name": "原敏之",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6512/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C1D88790-79D8-5595-9B44-BE81B815BFBA",
+          "masterId": "jgto_gdo_17072",
+          "name": "大岩龍一",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17072/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F5DEA3C9-E5C9-5ADC-BDA6-3BDE83D05215",
+          "masterId": "jgto_gdo_18073",
+          "name": "宇喜多飛翔",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18073/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB2A4F5E-9BA3-558E-BF71-E917F9EA6F3A",
+          "masterId": "jgto_gdo_17499",
+          "name": "青山晃大",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17499/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2851ED1-2DF3-59C3-91BE-C545419853A2",
+          "masterId": "jgto_gdo_18772",
+          "name": "三島泰哉",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18772/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BED87440-916D-5B16-85ED-7BA54A686463",
+          "masterId": "jgto_gdo_100",
+          "name": "石川遼",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/100/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D69D071D-ED8A-5FD6-8A27-3284B4C07A68",
+          "masterId": "jgto_gdo_8239",
+          "name": "塚田よおすけ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/8239/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A5EF4966-4172-54BA-AA42-35CC06629918",
+          "masterId": "jgto_gdo_19368",
+          "name": "チョウ・ラクヒョン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19368/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1D977BBD-5977-5CB9-9A52-9A327615FBF8",
+          "masterId": "jgto_gdo_18512",
+          "name": "下家秀琉",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18512/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "42454105-B353-5C13-BF64-B5A719502469",
+          "masterId": "jgto_gdo_556",
+          "name": "B.ケネディ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/556/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A45CF73D-B5FB-5F86-B124-27FF901FAC16",
+          "masterId": "jgto_gdo_15710",
+          "name": "小木曽喬",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15710/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "53D2AB7A-730C-5A04-8801-17CBCFCD1009",
+          "masterId": "jgto_gdo_18072",
+          "name": "大嶋宝",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18072/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8E7D49A9-8E5D-51A0-89C7-B3BFF9592AB3",
+          "masterId": "jgto_gdo_6659",
+          "name": "浅地洋佑",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6659/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "880AA09B-1B11-5D1C-9119-4DF82C5A5316",
+          "masterId": "jgto_gdo_17195",
+          "name": "清水大成",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17195/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DF080164-22D5-599C-9CBB-D41C403A976D",
+          "masterId": "jgto_gdo_18430",
+          "name": "青木尉",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18430/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "78C51A96-5E01-5267-BCCC-340E2B96589C",
+          "masterId": "jgto_gdo_16256",
+          "name": "杉原大河",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16256/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EBC64B85-0632-5689-8242-2D79F56E6EFF",
+          "masterId": "jgto_gdo_17954",
+          "name": "植竹勇太",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17954/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "10-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0662A9D1-CB46-5C9F-A862-1803A331BC40",
+          "masterId": "jgto_gdo_19378",
+          "name": "竹原佳吾",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19378/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "08-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EBA76123-09E8-5EB5-BB4D-067F61134251",
+          "masterId": "jgto_gdo_19066",
+          "name": "加藤金次郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19066/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "777A56FC-222C-57A0-8090-FB5A4C21FF96",
+          "masterId": "jgto_gdo_6439",
+          "name": "遠藤彰",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6439/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4A4439C5-31D4-5F4D-A4FB-FB25003D6266",
+          "masterId": "jgto_gdo_17781",
+          "name": "C.クロフォード",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17781/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30CF95B4-0741-5AE8-9480-4E211A852AD0",
+          "masterId": "jgto_gdo_17829",
+          "name": "鈴木晃祐",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17829/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EA1426D6-B9FE-5DCE-9A6D-E8FCD0BE8022",
+          "masterId": "jgto_gdo_18864",
+          "name": "水田竜昇",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18864/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "07-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "33A9D7D2-C6BF-5223-8543-A189551CF10A",
+          "masterId": "jgto_gdo_19259",
+          "name": "鈴木海斗",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19259/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F9FEC95-BFEB-5998-BF44-971920E6DEA8",
+          "masterId": "jgto_gdo_17196",
+          "name": "山田大晟",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17196/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F36B626E-3E48-57BE-9BDD-3BC5E5C51425",
+          "masterId": "jgto_gdo_8233",
+          "name": "森本雄",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/8233/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BACF6A93-1435-5A54-B3E5-A8D7450C4241",
+          "masterId": "jgto_gdo_19214",
+          "name": "内山遥人",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19214/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B18E2818-BAB5-59F9-B7D4-CF42C0B824C6",
+          "masterId": "jgto_gdo_10442",
+          "name": "伊藤有志",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10442/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76FC6C01-B401-5B4F-82EC-5AB55083B50A",
+          "masterId": "jgto_gdo_892",
+          "name": "中西直人",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/892/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "08-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFA55A4E-3550-5FDC-82A3-3C91CB2E3808",
+          "masterId": "jgto_gdo_3243",
+          "name": "岩井亮磨",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/3243/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "09-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35D5EFC7-5118-5403-BFDD-E5038FC65CF7",
+          "masterId": "jgto_gdo_962",
+          "name": "小鯛竜也",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/962/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "46DB7635-E0CD-50C3-A660-DAE03C4E17BD",
+          "masterId": "jgto_gdo_18100",
+          "name": "高野碧輝",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18100/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FDE90123-8C4B-5526-B66C-B8C93885079D",
+          "masterId": "jgto_gdo_18814",
+          "name": "伴真太郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18814/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26B267A2-2BBE-5F55-B115-C741E04307C5",
+          "masterId": "jgto_gdo_6746",
+          "name": "内藤寛太郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6746/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E3936975-C3FC-55A3-8267-AD6D926DD0A9",
+          "masterId": "jgto_gdo_18235",
+          "name": "森山友貴",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18235/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47699081-405B-5486-A841-8BF733532959",
+          "masterId": "jgto_gdo_17527",
+          "name": "田中章太郎",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17527/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "89890B07-51EF-5A40-8B56-064EBD34EE80",
+          "masterId": "jgto_gdo_17497",
+          "name": "生源寺龍憲",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17497/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D1124B2-EAA5-5D9C-B3D4-F3B1AFA7FCB1",
+          "masterId": "jgto_gdo_10460",
+          "name": "前粟蔵俊太",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10460/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2C7B946C-0E8B-50E6-8B94-A5CDD20F6F31",
+          "masterId": "jgto_gdo_16719",
+          "name": "久保田皓也",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16719/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "01-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9A4E0696-FCE9-55E1-A24D-D254DDC99F25",
+          "masterId": "jgto_gdo_58",
+          "name": "近藤智弘",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/58/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "06-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F9B83A9F-E54F-515A-B787-71D96427FC92",
+          "masterId": "jgto_gdo_19037",
+          "name": "田中元基",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19037/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "04-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A3F022A1-15A5-5531-AB6E-92A29527DB21",
+          "masterId": "jgto_gdo_18102",
+          "name": "竹内大",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18102/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E1D1E8A6-13B8-5962-B114-886645DCE4B4",
+          "masterId": "jgto_gdo_17517",
+          "name": "川上優大",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17517/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0B5CAD"
+          ],
+          "birthday": "05-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

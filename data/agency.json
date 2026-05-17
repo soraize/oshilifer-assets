@@ -35,6 +35,11 @@
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/voising.json"
   },
   {
+    "agencyId": "independent_2_5d",
+    "name": "独立系2.5次元",
+    "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/independent_2_5d.json"
+  },
+  {
     "agencyId": "starto",
     "name": "STARTO ENTERTAINMENT",
     "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/starto.json"

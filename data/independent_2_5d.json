@@ -1,0 +1,130 @@
+{
+  "agencyId": "independent_2_5d",
+  "agency": "独立系2.5次元",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "B582863F-416C-5F03-8F24-6B71BA8C262D",
+      "masterId": "independent_2_5d_sixfonia",
+      "name": "シクフォニ",
+      "isActive": true,
+      "profileURL": "https://sixfonia.com/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://sixfonia.com/",
+        "twitter": "https://twitter.com/sixfonia_info",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/c/sixfonia"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://sixfonia.com/live_info",
+      "members": [
+        {
+          "uuid": "3EBE7D1E-E33E-505C-9E39-FB60F8374A99",
+          "masterId": "independent_2_5d_sixfonia_hima72",
+          "name": "暇72",
+          "profileURL": "https://sixfonia.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#901818"
+          ],
+          "birthday": "02-09",
+          "sns": {
+            "twitter": "https://twitter.com/hima72_25",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F3D4EDE-F9DB-562B-A5E1-87CD80CC58F8",
+          "masterId": "independent_2_5d_sixfonia_kosame",
+          "name": "雨乃こさめ",
+          "profileURL": "https://sixfonia.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#188098"
+          ],
+          "birthday": "06-23",
+          "sns": {
+            "twitter": "https://twitter.com/amam_frfr_",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "46364453-B5ED-5109-92A2-7B62E27ED144",
+          "masterId": "independent_2_5d_sixfonia_illma",
+          "name": "いるま",
+          "profileURL": "https://sixfonia.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#402068"
+          ],
+          "birthday": "02-20",
+          "sns": {
+            "twitter": "https://twitter.com/illmaill",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7EA0E318-B5CB-5D58-A5F8-E872C5EFEF04",
+          "masterId": "independent_2_5d_sixfonia_lan",
+          "name": "LAN",
+          "profileURL": "https://sixfonia.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A82868"
+          ],
+          "birthday": "04-18",
+          "sns": {
+            "twitter": "https://twitter.com/lanlanutau",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E45839A-7570-57BC-AD8F-FE7EF70CFCE4",
+          "masterId": "independent_2_5d_sixfonia_suchi",
+          "name": "すち",
+          "profileURL": "https://sixfonia.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#205028"
+          ],
+          "birthday": "12-18",
+          "sns": {
+            "twitter": "https://twitter.com/suchi_paint",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9D09072E-B3FF-51FD-98B1-A5796E47665E",
+          "masterId": "independent_2_5d_sixfonia_mikoto",
+          "name": "みこと",
+          "profileURL": "https://sixfonia.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#786010"
+          ],
+          "birthday": "11-25",
+          "sns": {
+            "twitter": "https://twitter.com/mikoto_miko11",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

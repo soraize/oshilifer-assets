@@ -1,0 +1,3020 @@
+{
+  "agencyId": "jlpga",
+  "agency": "女子ゴルフ",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "3B26313A-875D-5087-857F-D28F3349D8CD",
+      "masterId": "jlpga_tour",
+      "name": "JLPGAツアー",
+      "isActive": true,
+      "profileURL": "https://www.lpga.or.jp/members",
+      "colorHex": [
+        "#007A3D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/JLPGA_official",
+        "instagram": "https://www.instagram.com/jlpga_official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.lpga.or.jp/tournament/schedule/jlpgatour",
+      "members": [
+        {
+          "uuid": "EEFA389E-0023-5F80-9DFA-57F267808F63",
+          "masterId": "jlpga_gdo_18138",
+          "name": "佐久間朱莉",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18138/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "042A8021-0EA5-5BE2-B3FF-8A0A9243F81F",
+          "masterId": "jlpga_gdo_18841",
+          "name": "菅楓華",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18841/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "01104964-88C0-536C-ABAC-68B8CBBE7934",
+          "masterId": "jlpga_gdo_16244",
+          "name": "高橋彩華",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16244/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "73FF4AEC-3299-588A-A07D-87A868BF181A",
+          "masterId": "jlpga_gdo_18322",
+          "name": "桑木志帆",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18322/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB04AC61-67BF-545F-9E87-80F60147768B",
+          "masterId": "jlpga_gdo_18499",
+          "name": "荒木優奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18499/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "72012AFF-6A9D-50BE-843A-60E5B08D3770",
+          "masterId": "jlpga_gdo_12505",
+          "name": "河本結",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/12505/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AC86ABCC-9F52-5983-8912-FA43DD4EF330",
+          "masterId": "jlpga_gdo_6807",
+          "name": "鈴木愛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6807/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D7806A36-7429-50A6-80CB-F488CEB5CAC9",
+          "masterId": "jlpga_gdo_11187",
+          "name": "永井花奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11187/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2951EEE4-1D7E-547C-BF0B-7B299145780B",
+          "masterId": "jlpga_gdo_18726",
+          "name": "W.チャイェン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18726/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4D21F5B4-C2CE-54AA-BEAF-F254723F71AF",
+          "masterId": "jlpga_gdo_17830",
+          "name": "菅沼菜々",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17830/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3316BFD3-ACAC-5824-B41B-A054CA492C49",
+          "masterId": "jlpga_gdo_18007",
+          "name": "神谷そら",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18007/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9A2AFBEA-A4AD-5D5F-B0AB-AA8862D82B58",
+          "masterId": "jlpga_gdo_18373",
+          "name": "小林光希",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18373/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "968DCED3-9EB6-5B05-81DC-586B1B3950C8",
+          "masterId": "jlpga_gdo_16563",
+          "name": "金澤志奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16563/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "311F6A1F-D85D-50EF-B826-E86207DC0177",
+          "masterId": "jlpga_gdo_9860",
+          "name": "永峰咲希",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9860/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "426FF868-3055-5E01-A954-817FE015968D",
+          "masterId": "jlpga_gdo_217",
+          "name": "申ジエ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/217/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFCE86D5-BC2F-55B2-B8CD-FFF926F2EC56",
+          "masterId": "jlpga_gdo_11336",
+          "name": "岡山絵里",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11336/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9853F0E2-520E-5B69-8CE4-23D76F8E4931",
+          "masterId": "jlpga_gdo_18504",
+          "name": "高野愛姫",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18504/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C74BFEC-598C-55A2-8BF5-B1C2F95ECD7E",
+          "masterId": "jlpga_gdo_18317",
+          "name": "吉田鈴",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18317/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3344006A-8738-5662-8743-36970C98514E",
+          "masterId": "jlpga_gdo_19030",
+          "name": "入谷響",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19030/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C36C317E-16C8-5D8E-A980-F0E3CB151D00",
+          "masterId": "jlpga_gdo_177",
+          "name": "藤田さいき",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/177/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2B11A2A5-E663-5262-B736-2718F61DB0B3",
+          "masterId": "jlpga_gdo_434",
+          "name": "笠りつ子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/434/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E8EAA0B-E937-5234-A68D-8E2D10D29974",
+          "masterId": "jlpga_gdo_18390",
+          "name": "川崎春花",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18390/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6624F768-19F0-5698-A0FA-578734A2631C",
+          "masterId": "jlpga_gdo_18525",
+          "name": "仲村果乃",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18525/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "72BC49A3-B2E0-5FFB-8810-74C00E56FF82",
+          "masterId": "jlpga_gdo_17655",
+          "name": "天本ハルカ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17655/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CDB080BB-BADA-5CA4-8CB3-B5298267A132",
+          "masterId": "jlpga_gdo_6509",
+          "name": "穴井詩",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6509/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C5317F37-1F06-5431-B70B-7D5297923BBC",
+          "masterId": "jlpga_gdo_15109",
+          "name": "政田夢乃",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15109/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "839F0536-186D-512A-866C-5D259D05FF15",
+          "masterId": "jlpga_gdo_8675",
+          "name": "渡邉彩香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/8675/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2824B729-B6B1-5034-8FC4-937ECDE65770",
+          "masterId": "jlpga_gdo_10621",
+          "name": "福山恵梨",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10621/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E01883E0-8774-5454-9317-BB30307B5530",
+          "masterId": "jlpga_gdo_10846",
+          "name": "イ・ミニョン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10846/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFE4109C-BBAD-5C71-8176-6000474E1669",
+          "masterId": "jlpga_gdo_10505",
+          "name": "仲宗根澄香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10505/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2483FD25-9E4E-5D32-99F9-83D4515CB740",
+          "masterId": "jlpga_gdo_18976",
+          "name": "藤本愛菜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18976/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EC5159B8-75C2-5CBC-BFA7-CEEA428AEF1E",
+          "masterId": "jlpga_gdo_10624",
+          "name": "青木瀬令奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10624/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F52D59D1-93B3-5438-97BB-AB51CEAE3C9B",
+          "masterId": "jlpga_gdo_18071",
+          "name": "岩井明愛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18071/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "990D7DAF-F9F2-5F08-B149-68D80C7B41C3",
+          "masterId": "jlpga_gdo_17793",
+          "name": "安田祐香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17793/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2330E88-66C3-546D-8563-DE0636B5BA8D",
+          "masterId": "jlpga_gdo_1298",
+          "name": "木戸愛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/1298/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0619EB47-8C27-5830-BE2A-BE6E502A762C",
+          "masterId": "jlpga_gdo_15054",
+          "name": "小祝さくら",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15054/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B6F5580-D192-5E77-88E3-E131E6EDE956",
+          "masterId": "jlpga_gdo_6653",
+          "name": "川岸史果",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6653/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7508B833-CFDD-5799-8797-AEE9B8B95708",
+          "masterId": "jlpga_gdo_18117",
+          "name": "阿部未悠",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18117/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6F8A582B-DEA2-53B3-908D-CEBB944BB538",
+          "masterId": "jlpga_gdo_18050",
+          "name": "竹田麗央",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18050/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "456D3076-DFFA-5D6F-9F64-C8300FDBE8AB",
+          "masterId": "jlpga_gdo_18886",
+          "name": "大久保柚季",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18886/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3316B0CC-6F60-56EB-9EE6-5C685645B950",
+          "masterId": "jlpga_gdo_10006",
+          "name": "サイ・ペイイン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10006/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CC4D222E-E803-5143-9535-81071484D6CC",
+          "masterId": "jlpga_gdo_220",
+          "name": "一ノ瀬優希",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/220/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EAC7C0D4-E1C6-58AA-807C-6404E93926A2",
+          "masterId": "jlpga_gdo_17824",
+          "name": "古江彩佳",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17824/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A714BF3-92E7-5CA9-8EB2-2FF35F40012E",
+          "masterId": "jlpga_gdo_18195",
+          "name": "吉澤柚月",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18195/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3686E99B-F5A8-5B5B-B5BF-F37FB392D1C7",
+          "masterId": "jlpga_gdo_11188",
+          "name": "堀琴音",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11188/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D6CAD26A-2962-58C0-8714-BB1F4712EF99",
+          "masterId": "jlpga_gdo_179",
+          "name": "金田久美子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/179/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1F5668C8-79E9-559D-80B2-2478BB88DA90",
+          "masterId": "jlpga_gdo_408",
+          "name": "テレサ・ルー",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/408/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F5495E1D-675F-53FB-B6E5-67049AA541D1",
+          "masterId": "jlpga_gdo_9861",
+          "name": "森井あやめ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9861/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8580D404-05BB-5168-929D-651E367E139F",
+          "masterId": "jlpga_gdo_17743",
+          "name": "皆吉愛寿香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17743/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00BA5F53-0DD7-5DD1-9D0C-A3EE2C2AA441",
+          "masterId": "jlpga_gdo_18857",
+          "name": "都玲華",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18857/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1DACA15D-E0DD-59A0-A30D-9D0D324601C3",
+          "masterId": "jlpga_gdo_9853",
+          "name": "柏原明日架",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9853/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9A3C5EA-FE26-56C7-B476-A49C7C55F121",
+          "masterId": "jlpga_gdo_17966",
+          "name": "鶴岡果恋",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17966/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F37D866B-7624-5336-868C-DE9F1528FAB4",
+          "masterId": "jlpga_gdo_18521",
+          "name": "泉田琴菜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18521/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "255E0507-34EB-5C8D-A4B6-EDAEA1300A59",
+          "masterId": "jlpga_gdo_18533",
+          "name": "宮澤美咲",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18533/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "845CE783-806C-5E7D-A1FC-D8691912468A",
+          "masterId": "jlpga_gdo_18297",
+          "name": "岩井千怜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18297/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1E51D53F-87C0-53EC-BD5F-48B396C7B4B8",
+          "masterId": "jlpga_gdo_6457",
+          "name": "下川めぐみ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6457/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "035120AC-13E4-5B52-955A-7F82E4415189",
+          "masterId": "jlpga_gdo_6455",
+          "name": "沖せいら",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6455/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1B7A9495-6B52-5889-85AA-EEA020346557",
+          "masterId": "jlpga_gdo_16393",
+          "name": "平塚新夢",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16393/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC01C379-398A-587D-A741-0ED7ABD63F85",
+          "masterId": "jlpga_gdo_18532",
+          "name": "藤田かれん",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18532/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30F09C46-7ABC-542D-99AC-F9BDDC9A7385",
+          "masterId": "jlpga_gdo_18379",
+          "name": "稲垣那奈子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18379/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "716D79F6-D890-5421-AEEC-7CACFE613941",
+          "masterId": "jlpga_gdo_11054",
+          "name": "山城奈々",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11054/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F02B7A9E-D00E-5F51-976A-5DC5B5858973",
+          "masterId": "jlpga_gdo_18667",
+          "name": "寺岡沙弥香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18667/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "16304190-1A56-59EA-8686-333E62C7D036",
+          "masterId": "jlpga_gdo_10625",
+          "name": "工藤遥加",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10625/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB6EC3C8-79B2-51BD-B2AD-7F23DBCBC134",
+          "masterId": "jlpga_gdo_16241",
+          "name": "三ヶ島かな",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16241/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "81A46F93-D2CA-5260-AA69-8BFCC25C8988",
+          "masterId": "jlpga_gdo_18024",
+          "name": "山路晶",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18024/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1D5B8723-A09E-5EF2-B497-6091A42A55CA",
+          "masterId": "jlpga_gdo_19320",
+          "name": "ジ・ユアイ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19320/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E566C670-BC28-5C3A-AF57-2BC8AA504806",
+          "masterId": "jlpga_gdo_19346",
+          "name": "前多愛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19346/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "80AB8D2B-2FAF-59CE-B83E-4102B58426F9",
+          "masterId": "jlpga_gdo_10622",
+          "name": "福田真未",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10622/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "347B367D-A57E-518F-8BA3-DB23E533391D",
+          "masterId": "jlpga_gdo_18759",
+          "name": "高橋しずく",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18759/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E0F8D723-8E49-529B-91EF-0625C51ABC5F",
+          "masterId": "jlpga_gdo_19126",
+          "name": "鳥居さくら",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19126/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B26CB8A-C533-5F12-9DAA-0AEAEFA577EF",
+          "masterId": "jlpga_gdo_182",
+          "name": "全美貞",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/182/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02EF6DFC-B509-53EB-B963-EA427A29DE3E",
+          "masterId": "jlpga_gdo_10383",
+          "name": "エイミー・コガ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10383/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D00BE13D-18A8-54EC-A74B-8743218ABAE0",
+          "masterId": "jlpga_gdo_17585",
+          "name": "大出瑞月",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17585/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C81DF566-7F6E-5A00-83C9-BF2D552548F9",
+          "masterId": "jlpga_gdo_18440",
+          "name": "佐藤心結",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18440/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B81743CE-03AC-5DDF-9368-3ACD63EF54E5",
+          "masterId": "jlpga_gdo_18194",
+          "name": "六車日那乃",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18194/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "881571B6-282D-574B-B214-1F5451B55549",
+          "masterId": "jlpga_gdo_18451",
+          "name": "内田ことこ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18451/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B88E309B-4121-58A9-AE2E-B3C3316D1901",
+          "masterId": "jlpga_gdo_18756",
+          "name": "奥山純菜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18756/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED92D658-D169-58C9-91C6-E0365C020559",
+          "masterId": "jlpga_gdo_9864",
+          "name": "ささきしょうこ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9864/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C8DB964E-84F8-5B0E-9A9C-58B50F237483",
+          "masterId": "jlpga_gdo_15988",
+          "name": "蛭田みな美",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15988/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D239AC00-7F46-5471-92F2-344531C3DB35",
+          "masterId": "jlpga_gdo_16997",
+          "name": "後藤未有",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16997/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4523131F-DB36-552E-94A0-3080CE0F507D",
+          "masterId": "jlpga_gdo_16246",
+          "name": "上野菜々子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16246/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C1F3CA09-B4FB-5982-9411-47962A74BB82",
+          "masterId": "jlpga_gdo_17992",
+          "name": "高久みなみ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17992/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3DF9566C-BFB2-594A-B1C1-AAF95F041C34",
+          "masterId": "jlpga_gdo_18875",
+          "name": "神谷桃歌",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18875/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "32DF9E77-00D9-5EE3-B81A-79F38ACE6A4D",
+          "masterId": "jlpga_gdo_19118",
+          "name": "倉林紅",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19118/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "96E5946A-159C-5984-B852-0D5292E03972",
+          "masterId": "jlpga_gdo_14661",
+          "name": "権藤可恋",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/14661/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "98D2F80F-840F-5EEC-8DC1-3B960E3A6FC4",
+          "masterId": "jlpga_gdo_163",
+          "name": "横峯さくら",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/163/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "99E590E4-664E-54EE-8E9E-93167806FDAD",
+          "masterId": "jlpga_gdo_18944",
+          "name": "中村心",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18944/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BA1AC3BB-5EDE-518E-8B73-0AD61E61916D",
+          "masterId": "jlpga_gdo_17038",
+          "name": "木村彩子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17038/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E17208E7-D5A2-5CBD-BC38-B0299D10EB29",
+          "masterId": "jlpga_gdo_19342",
+          "name": "田村萌来美",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19342/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF12B805-0F23-53EE-98E0-B81214912D90",
+          "masterId": "jlpga_gdo_18446",
+          "name": "浜崎未来",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18446/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "114E57EF-0FFB-5E84-BDCD-F92379923A12",
+          "masterId": "jlpga_gdo_19198",
+          "name": "青木香奈子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19198/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BD456A4E-B493-550F-9B06-FA259E501A99",
+          "masterId": "jlpga_gdo_17581",
+          "name": "山内日菜子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17581/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "751DF001-E4CB-5036-ADBE-1DB6781A28F1",
+          "masterId": "jlpga_gdo_17427",
+          "name": "高木優奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17427/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3BB69FFB-2B00-5E17-BC4C-3CD3051A87FA",
+          "masterId": "jlpga_gdo_18037",
+          "name": "常文恵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18037/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D85A0713-88C5-5F1A-BD30-BFE1F7E9C084",
+          "masterId": "jlpga_gdo_16242",
+          "name": "大里桃子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16242/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E9795E27-C519-5BE0-B121-1C5897EC1C22",
+          "masterId": "jlpga_gdo_15925",
+          "name": "P.サイパン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15925/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "987DBDA4-2E91-532C-B73D-CF8D14EC79DB",
+          "masterId": "jlpga_gdo_18439",
+          "name": "尾関彩美悠",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18439/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "81F37545-7E74-57BE-8AC9-D0B56BCCD3AE",
+          "masterId": "jlpga_gdo_18971",
+          "name": "古家翔香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18971/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "122F60EC-661A-5D34-9237-8BCC922FEC9F",
+          "masterId": "jlpga_gdo_18758",
+          "name": "池ヶ谷瑠菜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18758/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1D0C619F-BA15-58C7-8F7E-695858ACBA8F",
+          "masterId": "jlpga_gdo_19170",
+          "name": "福田萌維",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19170/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5C53250A-5CDB-52C9-A54F-342D88C52559",
+          "masterId": "jlpga_gdo_14485",
+          "name": "吉本ひかる",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/14485/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4459D36B-B03B-58AB-B5F3-D27BFBBBDB63",
+          "masterId": "jlpga_gdo_18529",
+          "name": "小林夢果",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18529/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4076DDB-A61F-5407-BB55-52E8890383B2",
+          "masterId": "jlpga_gdo_19033",
+          "name": "山下心暖",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19033/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "771F5D32-20E1-5D3D-9156-B882B9FD9DD6",
+          "masterId": "jlpga_gdo_19195",
+          "name": "加藤麗奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19195/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6887FCA3-B9B8-5344-9EB0-51A9CF08F37A",
+          "masterId": "jlpga_gdo_17591",
+          "name": "但馬友",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17591/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51A2495A-6F93-55B2-B306-5DE7BB00DF47",
+          "masterId": "jlpga_gdo_17927",
+          "name": "宮田成華",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17927/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A02652D-72B2-5F43-8659-D3AD545178DF",
+          "masterId": "jlpga_gdo_15448",
+          "name": "林菜乃子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15448/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "437627C4-8714-50BC-8BCB-2DA6A1FC4736",
+          "masterId": "jlpga_gdo_10932",
+          "name": "安田彩乃",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10932/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C5640A54-1C0B-5FAB-A729-42BF2F3FBF4A",
+          "masterId": "jlpga_gdo_16955",
+          "name": "S.ユウティン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16955/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "436A3F61-D497-5B11-8CAE-3FD64F5B9FFA",
+          "masterId": "jlpga_gdo_19340",
+          "name": "伊藤愛華",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19340/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A12D4D74-2531-5536-8E47-BB405E345D65",
+          "masterId": "jlpga_gdo_17069",
+          "name": "吉本ここね",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17069/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3C323E08-4937-5AC1-AA7E-C08F098DF82F",
+          "masterId": "jlpga_gdo_9859",
+          "name": "森田遥",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/9859/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "60B09CDC-0676-598E-A428-1BF367AAE9FA",
+          "masterId": "jlpga_gdo_18755",
+          "name": "大須賀望",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18755/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F02B32FE-8903-5811-AB41-F7FC80A65727",
+          "masterId": "jlpga_gdo_161",
+          "name": "大山志保",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/161/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C997B282-CF99-583B-BC70-84765BC8A8FB",
+          "masterId": "jlpga_gdo_14332",
+          "name": "植竹希望",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/14332/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1EBE4BEF-A1C7-59B2-B061-4B7779C1C117",
+          "masterId": "jlpga_gdo_16561",
+          "name": "稲見萌寧",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/16561/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CDF2A6DF-AA15-558B-9633-43E22066F3A8",
+          "masterId": "jlpga_gdo_18810",
+          "name": "吉崎マーナ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18810/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2867798C-9C16-597B-A79F-DBF74C37AD5C",
+          "masterId": "jlpga_gdo_18912",
+          "name": "松原柊亜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18912/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2C2A7A32-B707-57BC-B043-C1040972544D",
+          "masterId": "jlpga_gdo_15696",
+          "name": "ベイブ・リュウ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15696/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C5E8974C-C352-5127-B728-38A95FF879BA",
+          "masterId": "jlpga_gdo_14484",
+          "name": "高橋恵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/14484/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "968E7258-7006-58F0-8BC5-AC02338B2E32",
+          "masterId": "jlpga_gdo_17588",
+          "name": "吉川桃",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17588/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C98C14CE-4DA2-5D3C-A24C-CC35A437DBCA",
+          "masterId": "jlpga_gdo_18406",
+          "name": "永嶋花音",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18406/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F6131374-195E-5621-8B20-A3EF429ACFCC",
+          "masterId": "jlpga_gdo_11306",
+          "name": "野澤真央",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11306/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DBF4CB8B-480E-5238-9E0C-2E7C7F53D19B",
+          "masterId": "jlpga_gdo_18443",
+          "name": "橋添穂",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18443/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4A3A9A73-512F-5067-87E3-233CA8215F87",
+          "masterId": "jlpga_gdo_18992",
+          "name": "宋ガウン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18992/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "225759BA-3913-5DD4-886C-77D32E5E87A2",
+          "masterId": "jlpga_gdo_202",
+          "name": "原江里菜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/202/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A35A34E9-C715-594A-93CD-B9E21A8E812F",
+          "masterId": "jlpga_gdo_19032",
+          "name": "肥後莉音",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19032/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "27742FAB-6EF3-5126-B536-A299727B19D0",
+          "masterId": "jlpga_gdo_17132",
+          "name": "ペ・ソンウ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17132/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "704969B9-D234-5916-9A40-2814AE4E2B76",
+          "masterId": "jlpga_gdo_203",
+          "name": "有村智恵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/203/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15C16674-C033-5495-BD86-2E183B8B1924",
+          "masterId": "jlpga_gdo_18975",
+          "name": "鳴川愛里",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18975/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "27559355-83E6-5B2E-AD0B-94B17886AAA1",
+          "masterId": "jlpga_gdo_167",
+          "name": "不動裕理",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/167/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9505147B-FEE9-5EDB-9266-67A6F78B72F2",
+          "masterId": "jlpga_gdo_17496",
+          "name": "山本景子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17496/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AFE01A4F-593D-5D98-B11A-F44312804464",
+          "masterId": "jlpga_gdo_17841",
+          "name": "小倉彩愛",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17841/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B087A1A6-AD21-5603-B9A4-228D7C5A8AB1",
+          "masterId": "jlpga_gdo_14754",
+          "name": "臼井麗香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/14754/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4974E419-88CD-5270-8DCF-2C097E4AC48B",
+          "masterId": "jlpga_gdo_6578",
+          "name": "酒井美紀",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6578/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "95DA2FC4-E2E5-5CE4-80F8-9B1970AE5B64",
+          "masterId": "jlpga_gdo_10815",
+          "name": "小野ひろむ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10815/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18BD1FA5-45BA-5A5E-B348-E18C098B82E2",
+          "masterId": "jlpga_gdo_8585",
+          "name": "鬼頭さくら",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/8585/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "115B6D35-F87D-53E2-A5F0-38071707E11B",
+          "masterId": "jlpga_gdo_17582",
+          "name": "照山亜寿美",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17582/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66F469F3-9136-501D-AB04-7D4393B8012F",
+          "masterId": "jlpga_gdo_18383",
+          "name": "與語優奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18383/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "44AF5B28-E2FA-5B7F-B2CB-92A058B5D811",
+          "masterId": "jlpga_gdo_10808",
+          "name": "葭葉ルミ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10808/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F24E964F-3A4C-5AB0-8F31-384EE5F50965",
+          "masterId": "jlpga_gdo_19349",
+          "name": "佐田山鈴樺",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19349/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E44A52B-6098-58AF-8BA6-68C60D064BE0",
+          "masterId": "jlpga_gdo_10125",
+          "name": "新垣比菜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10125/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A170EBD-BEB3-5D2E-B231-F7CBCF7BFA03",
+          "masterId": "jlpga_gdo_17583",
+          "name": "石川明日香",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17583/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "006A2F94-BB93-5D7D-8375-E7C1A61C6AAB",
+          "masterId": "jlpga_gdo_18508",
+          "name": "清本美波",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18508/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "08-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "567A29A1-BA19-57EF-9636-1D2F69AB383B",
+          "masterId": "jlpga_gdo_139",
+          "name": "李知姫",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/139/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "52C9800A-9FCF-5956-B06A-3BF562D1758A",
+          "masterId": "jlpga_gdo_18753",
+          "name": "藤井美羽",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18753/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A304078E-5CD4-54FD-B3E9-EE604B727BC7",
+          "masterId": "jlpga_gdo_18068",
+          "name": "澁澤莉絵留",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18068/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E9F5F897-F9B0-5191-9EF6-768110139E66",
+          "masterId": "jlpga_gdo_15851",
+          "name": "石井理緒",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/15851/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9885BCC6-429D-53F8-802E-7AB6A94342DC",
+          "masterId": "jlpga_gdo_10931",
+          "name": "村田理沙",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10931/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F8D6B9CE-FAA2-5E9E-8D01-4A551C3ADAAC",
+          "masterId": "jlpga_gdo_18647",
+          "name": "徳永歩",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18647/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5C94AD74-7710-5ED5-A23E-E3E838FC1963",
+          "masterId": "jlpga_gdo_17993",
+          "name": "鬼塚貴理",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17993/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E84C7491-BB99-5B70-87E4-91EB88D57ED5",
+          "masterId": "jlpga_gdo_18822",
+          "name": "永田加奈恵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18822/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3731D4DD-78D6-5C39-9DF8-2181DBB3B265",
+          "masterId": "jlpga_gdo_13177",
+          "name": "辻梨恵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/13177/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC503794-5A54-5278-A26E-CDED58DAB277",
+          "masterId": "jlpga_gdo_18986",
+          "name": "上久保実咲",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18986/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6BABEA81-AE25-5201-8951-586871208A8D",
+          "masterId": "jlpga_gdo_18441",
+          "name": "中澤瑠来",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18441/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3DD772C4-0B1F-50BB-8B73-A31E21A937E4",
+          "masterId": "jlpga_gdo_470",
+          "name": "中山三奈",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/470/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "636E0564-7BAB-5460-928C-4A094DCFA5F6",
+          "masterId": "jlpga_gdo_19345",
+          "name": "高田菜桜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19345/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A820D06-0BB1-566D-97EA-883B25C086DD",
+          "masterId": "jlpga_gdo_18368",
+          "name": "荒川怜郁",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18368/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "06-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6B4BA78-E0CE-5780-BD98-0A0E599FA56A",
+          "masterId": "jlpga_gdo_18754",
+          "name": "森彩乃",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18754/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A7FEBD82-F297-5CF9-AB29-AD0EFE43F685",
+          "masterId": "jlpga_gdo_480",
+          "name": "西みきこ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/480/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "07D7B744-BBD5-5935-9EFA-01913938586F",
+          "masterId": "jlpga_gdo_10369",
+          "name": "大西葵",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10369/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BE38E04B-9442-540D-9B93-907EC265CBEC",
+          "masterId": "jlpga_gdo_18524",
+          "name": "村上瑞希",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18524/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "05-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6867E5F3-9FE4-5D85-95D1-9C12B9811EF6",
+          "masterId": "jlpga_gdo_438",
+          "name": "森田理香子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/438/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7EE0D4DD-0353-5248-B15F-34B0DCECB3D9",
+          "masterId": "jlpga_gdo_18745",
+          "name": "小俣柚葉",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18745/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6C48FC7C-6B71-5A0C-A5B3-DBD1D8EA79D2",
+          "masterId": "jlpga_gdo_18444",
+          "name": "薮田梨花",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18444/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E513B3A-AE41-508C-8C94-0424CF21DDC9",
+          "masterId": "jlpga_gdo_18303",
+          "name": "仁井優花",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18303/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E527983-9BE9-5088-B44B-B7DFBF022BA4",
+          "masterId": "jlpga_gdo_10579",
+          "name": "堀奈津佳",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/10579/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B270234B-E4B2-5F44-B44E-9EEE442A0968",
+          "masterId": "jlpga_gdo_19182",
+          "name": "横山翔亜",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19182/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35C156D4-F3AC-5042-A437-BF42A64EB256",
+          "masterId": "jlpga_gdo_481",
+          "name": "大城さつき",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/481/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA305D73-A85B-5055-A097-6A5F78A82C8B",
+          "masterId": "jlpga_gdo_18048",
+          "name": "中野恵里花",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18048/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "01-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2D682F7E-2070-55CE-B25D-32C4BB2EB9CA",
+          "masterId": "jlpga_gdo_18990",
+          "name": "神谷和奏",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/18990/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E7388E8-8F03-5448-80BC-ACB4DC1C23E3",
+          "masterId": "jlpga_gdo_19348",
+          "name": "ワン・リーニン",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/19348/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6527647-1B52-5651-8BD5-DD5EF6790481",
+          "masterId": "jlpga_gdo_6756",
+          "name": "比嘉真美子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/6756/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "10-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5C52E6DF-D9A6-594E-9F68-FBC736C30030",
+          "masterId": "jlpga_gdo_17955",
+          "name": "渋野日向子",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17955/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "11-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63BE9ACB-6175-5879-A134-30603D10B088",
+          "masterId": "jlpga_gdo_11049",
+          "name": "フェービー・ヤオ",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/11049/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7D0310D9-3389-57DA-BE2B-1A492992AE59",
+          "masterId": "jlpga_gdo_17274",
+          "name": "田辺ひかり",
+          "profileURL": "https://news.golfdigest.co.jp/players/stats/17274/2026/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#007A3D"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

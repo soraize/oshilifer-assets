@@ -171,6 +171,11 @@
         "agencyId": "npb",
         "name": "プロ野球",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/npb.json"
+      },
+      {
+        "agencyId": "jlpga",
+        "name": "女子ゴルフ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jlpga.json"
       }
     ]
   }

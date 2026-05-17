@@ -1,0 +1,1107 @@
+{
+  "agencyId": "hololive",
+  "agency": "ホロライブプロダクション",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "EDF1F6E7-1EEF-5825-B0A9-4D2BDFAF8A7A",
+      "masterId": "hololive_jp",
+      "name": "ホロライブJP",
+      "isActive": true,
+      "profileURL": "https://hololive.hololivepro.com/talents?gp=hololive",
+      "colorHex": [
+        "#27C7FF"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://hololive.hololivepro.com/",
+        "twitter": "https://twitter.com/hololivetv",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://hololive.hololivepro.com/schedule",
+      "members": [
+        {
+          "uuid": "A878A659-1012-5974-84FF-CDD0EC0AF25D",
+          "masterId": "hololive_jp_tokino_sora",
+          "name": "ときのそら",
+          "profileURL": "https://hololive.hololivepro.com/talents/tokino-sora/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-15",
+          "sns": {
+            "twitter": "https://twitter.com/tokino_sora",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg"
+          }
+        },
+        {
+          "uuid": "7EEA992B-FF2A-562C-AEEA-B144FB508B29",
+          "masterId": "hololive_jp_roboco_san",
+          "name": "ロボ子さん",
+          "profileURL": "https://hololive.hololivepro.com/talents/roboco-san/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-23",
+          "sns": {
+            "twitter": "https://twitter.com/robocosan",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g"
+          }
+        },
+        {
+          "uuid": "21DDA992-0C68-532E-8FE4-B05EDD4AC62E",
+          "masterId": "hololive_jp_azki",
+          "name": "AZKi",
+          "profileURL": "https://hololive.hololivepro.com/talents/azki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-01",
+          "sns": {
+            "twitter": "https://twitter.com/AZKi_VDiVA",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw"
+          }
+        },
+        {
+          "uuid": "D81D5AFF-80E1-5736-97C6-A3AFC0773BE3",
+          "masterId": "hololive_jp_sakuramiko",
+          "name": "さくらみこ",
+          "profileURL": "https://hololive.hololivepro.com/talents/sakuramiko/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-05",
+          "sns": {
+            "twitter": "https://twitter.com/sakuramiko35",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@sakuramiko_hololive",
+            "youtube": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA"
+          }
+        },
+        {
+          "uuid": "CA1040D3-D775-5FC4-A50F-21273EDD4E0C",
+          "masterId": "hololive_jp_hoshimachi_suisei",
+          "name": "星街すいせい",
+          "profileURL": "https://hololive.hololivepro.com/talents/hoshimachi-suisei/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-22",
+          "sns": {
+            "twitter": "https://twitter.com/suisei_hosimati",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"
+          }
+        },
+        {
+          "uuid": "A2928D6E-4287-547C-A188-14857DBED6A0",
+          "masterId": "hololive_jp_aki_rosenthal",
+          "name": "アキ・ローゼンタール",
+          "profileURL": "https://hololive.hololivepro.com/talents/aki-rosenthal/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-17",
+          "sns": {
+            "twitter": "https://twitter.com/akirosenthal",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA"
+          }
+        },
+        {
+          "uuid": "02A64922-C162-5B76-8A21-AC8634986BD2",
+          "masterId": "hololive_jp_akai_haato",
+          "name": "赤井はあと",
+          "profileURL": "https://hololive.hololivepro.com/talents/akai-haato/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-10",
+          "sns": {
+            "twitter": "https://twitter.com/akaihaato",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg"
+          }
+        },
+        {
+          "uuid": "0ABE9142-AE1E-5A3B-A964-DDC09DF5DA5A",
+          "masterId": "hololive_jp_shirakami_fubuki",
+          "name": "白上フブキ",
+          "profileURL": "https://hololive.hololivepro.com/talents/shirakami-fubuki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-05",
+          "sns": {
+            "twitter": "https://twitter.com/shirakamifubuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg"
+          }
+        },
+        {
+          "uuid": "2BE137A5-4DB5-55FC-B518-C8387529693F",
+          "masterId": "hololive_jp_natsuiro_matsuri",
+          "name": "夏色まつり",
+          "profileURL": "https://hololive.hololivepro.com/talents/natsuiro-matsuri/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-22",
+          "sns": {
+            "twitter": "https://twitter.com/natsuiromatsuri",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg"
+          }
+        },
+        {
+          "uuid": "87C17FFD-CB65-59FD-85D0-6EEF537746A5",
+          "masterId": "hololive_jp_nakiri_ayame",
+          "name": "百鬼あやめ",
+          "profileURL": "https://hololive.hololivepro.com/talents/nakiri-ayame/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-13",
+          "sns": {
+            "twitter": "https://twitter.com/nakiriayame",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg"
+          }
+        },
+        {
+          "uuid": "C4D2329F-5675-598A-8985-889299ECEF2F",
+          "masterId": "hololive_jp_yuzuki_choco",
+          "name": "癒月ちょこ",
+          "profileURL": "https://hololive.hololivepro.com/talents/yuzuki-choco/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-14",
+          "sns": {
+            "twitter": "https://twitter.com/yuzukichococh",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg"
+          }
+        },
+        {
+          "uuid": "8559BA8A-8414-5891-BC27-A91F1EBAA34C",
+          "masterId": "hololive_jp_oozora_subaru",
+          "name": "大空スバル",
+          "profileURL": "https://hololive.hololivepro.com/talents/oozora-subaru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-02",
+          "sns": {
+            "twitter": "https://twitter.com/oozorasubaru",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA"
+          }
+        },
+        {
+          "uuid": "A7759C0C-4BCA-5BE6-AAC4-014AA4621D7D",
+          "masterId": "hololive_jp_ookami_mio",
+          "name": "大神ミオ",
+          "profileURL": "https://hololive.hololivepro.com/talents/ookami-mio/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-20",
+          "sns": {
+            "twitter": "https://twitter.com/ookamimio",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg"
+          }
+        },
+        {
+          "uuid": "62701EEA-B64F-520E-A32C-3F3079AAD2D7",
+          "masterId": "hololive_jp_nekomata_okayu",
+          "name": "猫又おかゆ",
+          "profileURL": "https://hololive.hololivepro.com/talents/nekomata-okayu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-22",
+          "sns": {
+            "twitter": "https://twitter.com/nekomataokayu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw"
+          }
+        },
+        {
+          "uuid": "AF041BB0-E89E-5EF0-960E-B7F2CB732FCA",
+          "masterId": "hololive_jp_inugami_korone",
+          "name": "戌神ころね",
+          "profileURL": "https://hololive.hololivepro.com/talents/inugami-korone/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-01",
+          "sns": {
+            "twitter": "https://twitter.com/inugamikorone",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q"
+          }
+        },
+        {
+          "uuid": "73859708-1E55-56B2-B10C-6FE123493897",
+          "masterId": "hololive_jp_usada_pekora",
+          "name": "兎田ぺこら",
+          "profileURL": "https://hololive.hololivepro.com/talents/usada-pekora/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-12",
+          "sns": {
+            "twitter": "https://twitter.com/usadapekora",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ"
+          }
+        },
+        {
+          "uuid": "7A694EFB-199D-58B1-B334-9ACD70464D2D",
+          "masterId": "hololive_jp_shiranui_flare",
+          "name": "不知火フレア",
+          "profileURL": "https://hololive.hololivepro.com/talents/shiranui-flare/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-02",
+          "sns": {
+            "twitter": "https://twitter.com/shiranuiflare",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg"
+          }
+        },
+        {
+          "uuid": "7770BEFA-BB6E-520A-BB92-F5C626441F74",
+          "masterId": "hololive_jp_shirogane_noel",
+          "name": "白銀ノエル",
+          "profileURL": "https://hololive.hololivepro.com/talents/shirogane-noel/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-24",
+          "sns": {
+            "twitter": "https://twitter.com/shiroganenoel",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ"
+          }
+        },
+        {
+          "uuid": "00410235-0909-54D3-9A8C-31EA7D2495EF",
+          "masterId": "hololive_jp_houshou_marine",
+          "name": "宝鐘マリン",
+          "profileURL": "https://hololive.hololivepro.com/talents/houshou-marine/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-30",
+          "sns": {
+            "twitter": "https://twitter.com/houshoumarine",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg"
+          }
+        },
+        {
+          "uuid": "A26B3FD6-F333-5A45-AEDB-D66902B63BCF",
+          "masterId": "hololive_jp_tsunomaki_watame",
+          "name": "角巻わため",
+          "profileURL": "https://hololive.hololivepro.com/talents/tsunomaki-watame/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-06",
+          "sns": {
+            "twitter": "https://twitter.com/tsunomakiwatame",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA"
+          }
+        },
+        {
+          "uuid": "24128EA4-0077-5AEA-8B37-C95740B4B389",
+          "masterId": "hololive_jp_tokoyami_towa",
+          "name": "常闇トワ",
+          "profileURL": "https://hololive.hololivepro.com/talents/tokoyami-towa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-08",
+          "sns": {
+            "twitter": "https://twitter.com/tokoyamitowa",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw"
+          }
+        },
+        {
+          "uuid": "86F2600B-E644-5709-8FF6-8DDFC474BDB1",
+          "masterId": "hololive_jp_himemori_luna",
+          "name": "姫森ルーナ",
+          "profileURL": "https://hololive.hololivepro.com/talents/himemori-luna/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-10",
+          "sns": {
+            "twitter": "https://twitter.com/himemoriluna",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw"
+          }
+        },
+        {
+          "uuid": "5BF9FFEE-8632-58BC-8465-054103399908",
+          "masterId": "hololive_jp_yukihana_lamy",
+          "name": "雪花ラミィ",
+          "profileURL": "https://hololive.hololivepro.com/talents/yukihana-lamy/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-15",
+          "sns": {
+            "twitter": "https://twitter.com/yukihanalamy",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw"
+          }
+        },
+        {
+          "uuid": "889B3D75-51AA-5275-9290-19268EE726EC",
+          "masterId": "hololive_jp_momosuzu_nene",
+          "name": "桃鈴ねね",
+          "profileURL": "https://hololive.hololivepro.com/talents/momosuzu-nene/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-02",
+          "sns": {
+            "twitter": "https://twitter.com/momosuzunene",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA"
+          }
+        },
+        {
+          "uuid": "02DF9D61-3092-56EC-B2E7-D77C6EF3D6DD",
+          "masterId": "hololive_jp_shishiro_botan",
+          "name": "獅白ぼたん",
+          "profileURL": "https://hololive.hololivepro.com/talents/shishiro-botan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-08",
+          "sns": {
+            "twitter": "https://twitter.com/shishirobotan",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA"
+          }
+        },
+        {
+          "uuid": "1D3FE15C-DC46-5701-89BD-CAEEC2867C40",
+          "masterId": "hololive_jp_omaru_polka",
+          "name": "尾丸ポルカ",
+          "profileURL": "https://hololive.hololivepro.com/talents/omaru-polka/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-30",
+          "sns": {
+            "twitter": "https://twitter.com/omarupolka",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA"
+          }
+        },
+        {
+          "uuid": "7A841EC0-D1C6-5D7B-80FF-726420F79B8E",
+          "masterId": "hololive_jp_la_darknesss",
+          "name": "ラプラス・ダークネス",
+          "profileURL": "https://hololive.hololivepro.com/talents/la-darknesss/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-25",
+          "sns": {
+            "twitter": "https://twitter.com/LaplusDarknesss",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw"
+          }
+        },
+        {
+          "uuid": "FB038107-8D58-559F-ABF3-3A2D1168A3E2",
+          "masterId": "hololive_jp_takane_lui",
+          "name": "鷹嶺ルイ",
+          "profileURL": "https://hololive.hololivepro.com/talents/takane-lui/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-11",
+          "sns": {
+            "twitter": "https://twitter.com/takanelui",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g"
+          }
+        },
+        {
+          "uuid": "77287A39-D5D0-525E-95CF-84A610B8A055",
+          "masterId": "hololive_jp_hakui_koyori",
+          "name": "博衣こより",
+          "profileURL": "https://hololive.hololivepro.com/talents/hakui-koyori/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-15",
+          "sns": {
+            "twitter": "https://twitter.com/hakuikoyori",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@hakuikoyori_hololive",
+            "youtube": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw"
+          }
+        },
+        {
+          "uuid": "D86D64AE-EF50-5ECE-AC92-697C64EEF78E",
+          "masterId": "hololive_jp_kazama_iroha",
+          "name": "風真いろは",
+          "profileURL": "https://hololive.hololivepro.com/talents/kazama-iroha/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-18",
+          "sns": {
+            "twitter": "https://twitter.com/kazamairohach",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "11A05D81-21E6-560C-8B35-1316DFB1C32C",
+      "masterId": "hololive_id",
+      "name": "hololive Indonesia",
+      "isActive": true,
+      "profileURL": "https://hololive.hololivepro.com/talents?gp=indonesia",
+      "colorHex": [
+        "#EE2E5D"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://hololive.hololivepro.com/",
+        "twitter": "https://twitter.com/hololivetv",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://hololive.hololivepro.com/schedule",
+      "members": [
+        {
+          "uuid": "270952E3-4D76-5AEB-A085-5458CF7BEF77",
+          "masterId": "hololive_id_ayunda_risu",
+          "name": "アユンダ・リス",
+          "profileURL": "https://hololive.hololivepro.com/talents/ayunda-risu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "01-15",
+          "sns": {
+            "twitter": "https://twitter.com/ayunda_risu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw"
+          }
+        },
+        {
+          "uuid": "7CC1C363-BE7A-5FBC-BC03-9AF9ADC6F965",
+          "masterId": "hololive_id_moona_hoshinova",
+          "name": "ムーナ・ホシノヴァ",
+          "profileURL": "https://hololive.hololivepro.com/talents/moona-hoshinova/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-15",
+          "sns": {
+            "twitter": "https://twitter.com/moonahoshinova",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg"
+          }
+        },
+        {
+          "uuid": "1ED6FBBA-F2E1-5EEA-951C-D213F8C65EC5",
+          "masterId": "hololive_id_airani_iofifteen",
+          "name": "アイラニ・イオフィフティーン",
+          "profileURL": "https://hololive.hololivepro.com/talents/airani-iofifteen/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-15",
+          "sns": {
+            "twitter": "https://twitter.com/airaniiofifteen",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg"
+          }
+        },
+        {
+          "uuid": "E2E90D77-62C6-59F6-A429-963B6F745E80",
+          "masterId": "hololive_id_kureiji_ollie",
+          "name": "クレイジー・オリー",
+          "profileURL": "https://hololive.hololivepro.com/talents/kureiji-ollie/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-13",
+          "sns": {
+            "twitter": "https://twitter.com/kureijiollie",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ"
+          }
+        },
+        {
+          "uuid": "CCBE6DCF-B47F-550E-8194-FF415A8C599E",
+          "masterId": "hololive_id_anya_melfissa",
+          "name": "アーニャ・メルフィッサ",
+          "profileURL": "https://hololive.hololivepro.com/talents/anya-melfissa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-12",
+          "sns": {
+            "twitter": "https://twitter.com/anyamelfissa",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg"
+          }
+        },
+        {
+          "uuid": "9F43A04B-F314-598E-B94A-93C519D02C53",
+          "masterId": "hololive_id_pavolia_reine",
+          "name": "パヴォリア・レイネ",
+          "profileURL": "https://hololive.hololivepro.com/talents/pavolia-reine/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-09",
+          "sns": {
+            "twitter": "https://twitter.com/pavoliareine",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q"
+          }
+        },
+        {
+          "uuid": "6EC79DF4-EE56-5431-AF19-B6F9B5DD08F4",
+          "masterId": "hololive_id_vestia_zeta",
+          "name": "ベスティア・ゼータ",
+          "profileURL": "https://hololive.hololivepro.com/talents/vestia-zeta/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-07",
+          "sns": {
+            "twitter": "https://twitter.com/vestiazeta",
+            "instagram": "https://instagram.com/vestiazeta",
+            "tiktok": "https://tiktok.com/@vestiazeta",
+            "youtube": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ"
+          }
+        },
+        {
+          "uuid": "1D138A3C-770B-5015-A1B3-255291B78063",
+          "masterId": "hololive_id_kaela_kovalskia",
+          "name": "カエラ・コヴァルスキア",
+          "profileURL": "https://hololive.hololivepro.com/talents/kaela-kovalskia/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-30",
+          "sns": {
+            "twitter": "https://twitter.com/kaelakovalskia",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg"
+          }
+        },
+        {
+          "uuid": "54AE6CCB-1238-5195-A392-6931EB9F7C9A",
+          "masterId": "hololive_id_kobo_kanaeru",
+          "name": "こぼ・かなえる",
+          "profileURL": "https://hololive.hololivepro.com/talents/kobo-kanaeru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "12-12",
+          "sns": {
+            "twitter": "https://twitter.com/kobokanaeru",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "41E3567C-E322-506D-96E7-3DD2D3EF7032",
+      "masterId": "hololive_en",
+      "name": "hololive English",
+      "isActive": true,
+      "profileURL": "https://hololive.hololivepro.com/talents?gp=english",
+      "colorHex": [
+        "#285BFF"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://hololive.hololivepro.com/",
+        "twitter": "https://twitter.com/hololivetv",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://hololive.hololivepro.com/schedule",
+      "members": [
+        {
+          "uuid": "0BBA00BE-0D51-50DC-9EAD-3A81C659C040",
+          "masterId": "hololive_en_mori_calliope",
+          "name": "森カリオペ",
+          "profileURL": "https://hololive.hololivepro.com/talents/mori-calliope/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-04",
+          "sns": {
+            "twitter": "https://twitter.com/moricalliope",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+          }
+        },
+        {
+          "uuid": "27EB3B3A-09ED-5831-804A-ECC9D6E0B989",
+          "masterId": "hololive_en_takanashi_kiara",
+          "name": "小鳥遊キアラ",
+          "profileURL": "https://hololive.hololivepro.com/talents/takanashi-kiara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-06",
+          "sns": {
+            "twitter": "https://twitter.com/takanashikiara",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww"
+          }
+        },
+        {
+          "uuid": "4FF66E0A-7AF5-5DFE-8EFD-65E004437A41",
+          "masterId": "hololive_en_ninomae_inanis",
+          "name": "一伊那尓栖",
+          "profileURL": "https://hololive.hololivepro.com/talents/ninomae-inanis/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-20",
+          "sns": {
+            "twitter": "https://twitter.com/ninomaeinanis",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg"
+          }
+        },
+        {
+          "uuid": "2FFBA7D4-8E7D-5835-A09D-7905508A7AAA",
+          "masterId": "hololive_en_irys",
+          "name": "IRyS",
+          "profileURL": "https://hololive.hololivepro.com/talents/irys/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-07",
+          "sns": {
+            "twitter": "https://twitter.com/irys_en",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"
+          }
+        },
+        {
+          "uuid": "E156C5D3-A29D-5248-B28F-07DA122C5AF1",
+          "masterId": "hololive_en_ouro_kronii",
+          "name": "オーロ・クロニー",
+          "profileURL": "https://hololive.hololivepro.com/talents/ouro-kronii/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "03-14",
+          "sns": {
+            "twitter": "https://twitter.com/ourokronii",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg"
+          }
+        },
+        {
+          "uuid": "A5C9FEDA-65AA-5868-A2E7-D6CF95DA97B7",
+          "masterId": "hololive_en_hakos_baelz",
+          "name": "ハコス・ベールズ",
+          "profileURL": "https://hololive.hololivepro.com/talents/hakos-baelz/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-29",
+          "sns": {
+            "twitter": "https://twitter.com/hakosbaelz",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ"
+          }
+        },
+        {
+          "uuid": "917DED54-3B89-53BD-AE9B-24E2950B0098",
+          "masterId": "hololive_en_shiori_novella",
+          "name": "シオリ・ノヴェラ",
+          "profileURL": "https://hololive.hololivepro.com/talents/shiori-novella/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-02",
+          "sns": {
+            "twitter": "https://twitter.com/shiorinovella",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@shiorinovella",
+            "youtube": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg"
+          }
+        },
+        {
+          "uuid": "F56AD5CC-7107-5FB0-B3AB-E0988361D294",
+          "masterId": "hololive_en_koseki_bijou",
+          "name": "古石ビジュー",
+          "profileURL": "https://hololive.hololivepro.com/talents/koseki-bijou/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-14",
+          "sns": {
+            "twitter": "https://twitter.com/kosekibijou",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA"
+          }
+        },
+        {
+          "uuid": "2926CE7F-8D65-5337-A8BE-F4305EDFDB78",
+          "masterId": "hololive_en_nerissa_ravencroft",
+          "name": "ネリッサ・レイヴンクロフト",
+          "profileURL": "https://hololive.hololivepro.com/talents/nerissa-ravencroft/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-21",
+          "sns": {
+            "twitter": "https://twitter.com/nerissa_en",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg"
+          }
+        },
+        {
+          "uuid": "98F8D84C-A569-546C-A2F2-94F77B00E955",
+          "masterId": "hololive_en_fuwawa_abyssgard",
+          "name": "フワワ・アビスガード",
+          "profileURL": "https://hololive.hololivepro.com/talents/fuwawa-abyssgard/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-01",
+          "sns": {
+            "twitter": "https://twitter.com/fuwamoco_en",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA"
+          }
+        },
+        {
+          "uuid": "B93E97B1-3EFD-52BB-B2AB-F9CB967614FB",
+          "masterId": "hololive_en_mococo_abyssgard",
+          "name": "モココ・アビスガード",
+          "profileURL": "https://hololive.hololivepro.com/talents/mococo-abyssgard/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-02",
+          "sns": {
+            "twitter": "https://twitter.com/fuwamoco_en",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA"
+          }
+        },
+        {
+          "uuid": "574AE898-2A34-5AC6-8887-DCC7ABF2A1FA",
+          "masterId": "hololive_en_elizabeth_rose_bloodflame",
+          "name": "エリザベス・ローズ・ブラッドフレイム",
+          "profileURL": "https://hololive.hololivepro.com/talents/elizabeth-rose-bloodflame/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-25",
+          "sns": {
+            "twitter": "https://x.com/ERBloodflame",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw"
+          }
+        },
+        {
+          "uuid": "268753D2-7A35-5CC9-A2B6-C37A35491D4E",
+          "masterId": "hololive_en_gigi_murin",
+          "name": "ジジ・ムリン",
+          "profileURL": "https://hololive.hololivepro.com/talents/gigi-murin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "10-18",
+          "sns": {
+            "twitter": "https://x.com/gigimurin",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w"
+          }
+        },
+        {
+          "uuid": "F1C10AAA-435D-53CE-BDDC-857DB431BC2C",
+          "masterId": "hololive_en_cecilia_immergreen",
+          "name": "セシリア・イマーグリーン",
+          "profileURL": "https://hololive.hololivepro.com/talents/cecilia-immergreen/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-11",
+          "sns": {
+            "twitter": "https://x.com/ceciliaimgreen",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg"
+          }
+        },
+        {
+          "uuid": "ECA4B2C7-5887-5AF6-AE18-49C37EEF6CBA",
+          "masterId": "hololive_en_raora_panthera",
+          "name": "ラオーラ・パンテーラ",
+          "profileURL": "https://hololive.hololivepro.com/talents/raora-panthera/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-11",
+          "sns": {
+            "twitter": "https://x.com/raorapanthera",
+            "instagram": "https://www.instagram.com/raorapanthera_hololiveen/?hl=en",
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F92EC239-7B76-547A-AAC1-3ED2BE08D2A8",
+      "masterId": "hololive_devis",
+      "name": "hololive DEV_IS",
+      "isActive": true,
+      "profileURL": "https://hololive.hololivepro.com/talents?gp=devis",
+      "colorHex": [
+        "#25C7A3"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://hololive.hololivepro.com/",
+        "twitter": "https://twitter.com/hololivetv",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://hololive.hololivepro.com/schedule",
+      "members": [
+        {
+          "uuid": "D8335351-51CF-5E0B-BAC9-B962E1C757AF",
+          "masterId": "hololive_devis_otonose_kanade",
+          "name": "音乃瀬奏",
+          "profileURL": "https://hololive.hololivepro.com/talents/otonose-kanade/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "04-20",
+          "sns": {
+            "twitter": "https://twitter.com/otonosekanade",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://youtube.com/@OtonoseKanade"
+          }
+        },
+        {
+          "uuid": "1152034C-6E63-567B-94B1-6CF549E7AE34",
+          "masterId": "hololive_devis_ichijou_ririka",
+          "name": "一条莉々華",
+          "profileURL": "https://hololive.hololivepro.com/talents/ichijou-ririka/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-12",
+          "sns": {
+            "twitter": "https://twitter.com/ichijouririka",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@IchijouRirika"
+          }
+        },
+        {
+          "uuid": "53C87541-92E2-5B3F-A404-987BA17FC65F",
+          "masterId": "hololive_devis_juufuutei_raden",
+          "name": "儒烏風亭らでん",
+          "profileURL": "https://hololive.hololivepro.com/talents/juufuutei-raden/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-04",
+          "sns": {
+            "twitter": "https://twitter.com/juufuuteiraden",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://youtube.com/@JuufuuteiRaden"
+          }
+        },
+        {
+          "uuid": "C8209533-B172-52E6-A05B-2A82102BD489",
+          "masterId": "hololive_devis_todoroki_hajime",
+          "name": "轟はじめ",
+          "profileURL": "https://hololive.hololivepro.com/talents/todoroki-hajime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-07",
+          "sns": {
+            "twitter": "https://twitter.com/todoroki_hajime",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@TodorokiHajime"
+          }
+        },
+        {
+          "uuid": "04D0528E-D8BE-51EB-96E1-4697CE2837D1",
+          "masterId": "hololive_devis_isaki_riona",
+          "name": "響咲リオナ",
+          "profileURL": "https://hololive.hololivepro.com/talents/isaki-riona/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "05-29",
+          "sns": {
+            "twitter": "https://x.com/isakiriona",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw"
+          }
+        },
+        {
+          "uuid": "3430C7FF-C836-5282-BEDD-DEBD9266996B",
+          "masterId": "hololive_devis_koganei_niko",
+          "name": "虎金妃笑虎",
+          "profileURL": "https://hololive.hololivepro.com/talents/koganei-niko/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-25",
+          "sns": {
+            "twitter": "https://x.com/koganeiniko",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ"
+          }
+        },
+        {
+          "uuid": "7442BB66-B78E-5177-B3E9-9A32AEAA774A",
+          "masterId": "hololive_devis_mizumiya_su",
+          "name": "水宮枢",
+          "profileURL": "https://hololive.hololivepro.com/talents/mizumiya-su/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-16",
+          "sns": {
+            "twitter": "https://x.com/mizumiya_su",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A"
+          }
+        },
+        {
+          "uuid": "8D7645B4-6355-5E78-8ED2-485F5DAD0312",
+          "masterId": "hololive_devis_rindo_chihaya",
+          "name": "輪堂千速",
+          "profileURL": "https://hololive.hololivepro.com/talents/rindo-chihaya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-08",
+          "sns": {
+            "twitter": "https://x.com/rindochihaya",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig"
+          }
+        },
+        {
+          "uuid": "BD04AB8E-8520-57DB-8181-C105E28CCFE2",
+          "masterId": "hololive_devis_kikirara_vivi",
+          "name": "綺々羅々ヴィヴィ",
+          "profileURL": "https://hololive.hololivepro.com/talents/kikirara-vivi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "08-27",
+          "sns": {
+            "twitter": "https://x.com/kikiraravivi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ"
+          }
+        }
+      ]
+    }
+  ]
+}

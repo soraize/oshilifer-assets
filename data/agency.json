@@ -117,6 +117,17 @@
     ]
   },
   {
+    "categoryId": "vtuber",
+    "name": "VTuber",
+    "agencies": [
+      {
+        "agencyId": "hololive",
+        "name": "ホロライブプロダクション",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/hololive.json"
+      }
+    ]
+  },
+  {
     "categoryId": "sports",
     "name": "スポーツ",
     "agencies": [

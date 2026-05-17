@@ -125,6 +125,120 @@
           }
         }
       ]
+    },
+    {
+      "uuid": "E1E6F637-E4A1-53AC-9031-AD82B43F9296",
+      "masterId": "independent_2_5d_meropaka",
+      "name": "めろんぱーかー",
+      "isActive": true,
+      "profileURL": "https://meropaka.com/",
+      "colorHex": [
+        "#01BC3A"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://meropaka.com/",
+        "twitter": "https://twitter.com/meropaka_info",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UC-BDKvxiCtsaX4z-9i8ry-w"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://meropaka.com/live/",
+      "members": [
+        {
+          "uuid": "F9C8BBC3-36DB-56A7-AAF9-F103BD93C6AC",
+          "masterId": "independent_2_5d_meropaka_naroya",
+          "name": "なろ屋",
+          "profileURL": "https://meropaka.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6B8084",
+            "#86D733"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": "https://twitter.com/naroyasan",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@naroyasan"
+          }
+        },
+        {
+          "uuid": "A645A7FA-883F-59DC-B8B6-FB5C76063036",
+          "masterId": "independent_2_5d_meropaka_samurai_sho",
+          "name": "サムライ翔",
+          "profileURL": "https://meropaka.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0666C4"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": "https://twitter.com/samurai___sho",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@samurai_sho"
+          }
+        },
+        {
+          "uuid": "90F5E07D-B453-5ADC-825A-4492D4D61CDD",
+          "masterId": "independent_2_5d_meropaka_soraneko",
+          "name": "そらねこ",
+          "profileURL": "https://meropaka.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1AADDA"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": "https://twitter.com/skycat912",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@soraneko912"
+          }
+        },
+        {
+          "uuid": "08CD606E-425D-50A3-AB91-0CE4E1072F39",
+          "masterId": "independent_2_5d_meropaka_kaito",
+          "name": "KAITO",
+          "profileURL": "https://meropaka.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CC2C57"
+          ],
+          "birthday": "06-20",
+          "sns": {
+            "twitter": "https://twitter.com/KAITOSTORY_777",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@kaito199"
+          }
+        },
+        {
+          "uuid": "2C86FCE1-9783-5DD3-B5C5-7515A1ABCA3B",
+          "masterId": "independent_2_5d_meropaka_kamome",
+          "name": "kamome",
+          "profileURL": "https://meropaka.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EEAA17"
+          ],
+          "birthday": "02-22",
+          "sns": {
+            "twitter": "https://twitter.com/kuroi_kamome",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@black_kamomen"
+          }
+        }
+      ]
     }
   ]
 }

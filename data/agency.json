@@ -173,6 +173,11 @@
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/npb.json"
       },
       {
+        "agencyId": "jleague",
+        "name": "Jリーグ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jleague.json"
+      },
+      {
         "agencyId": "jlpga",
         "name": "女子ゴルフ",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jlpga.json"

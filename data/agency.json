@@ -124,6 +124,11 @@
         "agencyId": "hololive",
         "name": "ホロライブプロダクション",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/hololive.json"
+      },
+      {
+        "agencyId": "nijisanji",
+        "name": "にじさんじ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/nijisanji.json"
       }
     ]
   },

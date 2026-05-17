@@ -1,0 +1,3054 @@
+{
+  "agencyId": "nijisanji",
+  "agency": "にじさんじ",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "8E3E25D6-60DF-5E06-BD38-E23E9F5D301F",
+      "masterId": "nijisanji_main",
+      "name": "にじさんじ",
+      "isActive": true,
+      "profileURL": "https://www.nijisanji.jp/talents",
+      "colorHex": [
+        "#E60012"
+      ],
+      "birthday": null,
+      "sns": {
+        "website": "https://www.nijisanji.jp/",
+        "twitter": "https://x.com/nijisanji_app",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@nijisanji_official",
+        "youtube": "https://www.youtube.com/c/nijisanji"
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.nijisanji.jp/calendar",
+      "members": [
+        {
+          "uuid": "0F674386-8D06-5065-98AF-78229A660D2F",
+          "masterId": "nijisanji_main_kuzuha",
+          "name": "葛葉",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kuzuha",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ACA7BB"
+          ],
+          "birthday": "11-10",
+          "sns": {
+            "twitter": "https://twitter.com/vamp_kuzu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g"
+          }
+        },
+        {
+          "uuid": "086C1BB4-B47A-5578-826F-C9600B722768",
+          "masterId": "nijisanji_main_salome_hyakumantenbara",
+          "name": "壱百満天原サロメ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/salome-hyakumantenbara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CD3796"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/1000000lome",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg"
+          }
+        },
+        {
+          "uuid": "717C923A-0062-5EC2-928C-1AE579184889",
+          "masterId": "nijisanji_main_kanae",
+          "name": "叶",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kanae",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ABD3D8"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": "https://twitter.com/kanae_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA"
+          }
+        },
+        {
+          "uuid": "4933A8B9-D78E-5337-A280-FD3D9B0CC9F8",
+          "masterId": "nijisanji_main_mito_tsukino",
+          "name": "月ノ美兎",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mito-tsukino",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E43F3B"
+          ],
+          "birthday": "09-24",
+          "sns": {
+            "twitter": "https://twitter.com/MitoTsukino",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A"
+          }
+        },
+        {
+          "uuid": "ED6BAE65-08CF-5001-9716-212B0CF8011E",
+          "masterId": "nijisanji_main_toya_kenmochi",
+          "name": "剣持刀也",
+          "profileURL": "https://www.nijisanji.jp/talents/l/toya-kenmochi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A590AE"
+          ],
+          "birthday": "08-22",
+          "sns": {
+            "twitter": "https://twitter.com/rei_Toya_rei",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCv1fFr156jc65EMiLbaLImw"
+          }
+        },
+        {
+          "uuid": "0EEE1E92-6C71-504D-9351-EFC51DFC3786",
+          "masterId": "nijisanji_main_sara_hoshikawa",
+          "name": "星川サラ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sara-hoshikawa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FAB80D"
+          ],
+          "birthday": "08-07",
+          "sns": {
+            "twitter": "https://twitter.com/Sara_Hoshikawa",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w"
+          }
+        },
+        {
+          "uuid": "914C6185-BDDC-5A69-A39C-16E124C97D3B",
+          "masterId": "nijisanji_main_minato_fuwa",
+          "name": "不破湊",
+          "profileURL": "https://www.nijisanji.jp/talents/l/minato-fuwa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BF69F4"
+          ],
+          "birthday": "04-18",
+          "sns": {
+            "twitter": "https://twitter.com/Fuwa_Minato",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA"
+          }
+        },
+        {
+          "uuid": "7165E825-933A-5931-8C5A-B93BD90BF8FB",
+          "masterId": "nijisanji_main_lauren_iroas",
+          "name": "ローレン・イロアス",
+          "profileURL": "https://www.nijisanji.jp/talents/l/lauren-iroas",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C10E49"
+          ],
+          "birthday": "09-06",
+          "sns": {
+            "twitter": "https://twitter.com/Lauren_iroas",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCgmFrRcyH7d1zR9sIVQhFow"
+          }
+        },
+        {
+          "uuid": "4ACF7B47-D1EF-5594-91AC-74E6B5B3BACF",
+          "masterId": "nijisanji_main_kaede_higuchi",
+          "name": "樋口楓",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kaede-higuchi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FBAF71"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/Higuchikaede",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A"
+          }
+        },
+        {
+          "uuid": "29C24CF0-DDD7-52D4-976E-E5C01DF7A1F8",
+          "masterId": "nijisanji_main_lize_helesta",
+          "name": "リゼ・ヘルエスタ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/lize-helesta",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#42FFFF"
+          ],
+          "birthday": "05-25",
+          "sns": {
+            "twitter": "https://twitter.com/Lize_Helesta",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w"
+          }
+        },
+        {
+          "uuid": "8479EA94-8E0F-52A1-9317-5E5BC78946DA",
+          "masterId": "nijisanji_main_toko_inui",
+          "name": "戌亥とこ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/toko-inui",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#92F3A4"
+          ],
+          "birthday": "09-09",
+          "sns": {
+            "twitter": "https://twitter.com/inui_toko",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg"
+          }
+        },
+        {
+          "uuid": "499EA50A-4E50-5FFD-9702-352BF3908856",
+          "masterId": "nijisanji_main_ange_katrina",
+          "name": "アンジュ・カトリーナ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ange-katrina",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C83C35"
+          ],
+          "birthday": "09-30",
+          "sns": {
+            "twitter": "https://twitter.com/ange_katrina_",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw"
+          }
+        },
+        {
+          "uuid": "2372CEF5-8BD5-5118-8770-FC864E625441",
+          "masterId": "nijisanji_main_saku_sasaki",
+          "name": "笹木咲",
+          "profileURL": "https://www.nijisanji.jp/talents/l/saku-sasaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EF9AAF"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": "https://twitter.com/saku_sasaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCoztvTULBYd3WmStqYeoHcA"
+          }
+        },
+        {
+          "uuid": "FE911DD0-1BE1-55F2-97B9-E52B8F02A3BF",
+          "masterId": "nijisanji_main_hayato_kagami",
+          "name": "加賀美ハヤト",
+          "profileURL": "https://www.nijisanji.jp/talents/l/hayato-kagami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B9ADB9"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": "https://twitter.com/H_KAGAMI2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ"
+          }
+        },
+        {
+          "uuid": "8555589E-5C0F-556C-8EDB-8C01D294E08F",
+          "masterId": "nijisanji_main_kizuku_yashiro",
+          "name": "社築",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kizuku-yashiro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B6C6F2"
+          ],
+          "birthday": "11-23",
+          "sns": {
+            "twitter": "https://twitter.com/846kizuq",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA"
+          }
+        },
+        {
+          "uuid": "1A6C83D5-3046-5118-A2E4-678E132B1465",
+          "masterId": "nijisanji_main_lunlun",
+          "name": "ルンルン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/lunlun",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D8E9FC"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": "https://x.com/mo_lunlun_gu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Lunlun_nijisanji"
+          }
+        },
+        {
+          "uuid": "FE9F7DDF-4099-51EE-9F34-C80082ADF9C1",
+          "masterId": "nijisanji_main_ibrahim",
+          "name": "イブラヒム",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ibrahim",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7CA1F0"
+          ],
+          "birthday": "07-25",
+          "sns": {
+            "twitter": "https://twitter.com/honmono_ibrahim",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A"
+          }
+        },
+        {
+          "uuid": "21DF437E-76EA-5388-B332-E5B2666A1D02",
+          "masterId": "nijisanji_main_yuika_shiina",
+          "name": "椎名唯華",
+          "profileURL": "https://www.nijisanji.jp/talents/l/yuika-shiina",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F1C8DE"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": "https://twitter.com/yuika_siina",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg"
+          }
+        },
+        {
+          "uuid": "11F750D7-8C5B-5B39-8F24-220051E7BA61",
+          "masterId": "nijisanji_main_chima_machita",
+          "name": "町田ちま",
+          "profileURL": "https://www.nijisanji.jp/talents/l/chima-machita",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#80C8EF"
+          ],
+          "birthday": "08-05",
+          "sns": {
+            "twitter": "https://twitter.com/chima_machita23",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw"
+          }
+        },
+        {
+          "uuid": "F603CE50-836E-5CF8-999E-AF46DBAB41D6",
+          "masterId": "nijisanji_main_ars_almal",
+          "name": "アルス・アルマル",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ars-almal",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7FD6E2"
+          ],
+          "birthday": "03-21",
+          "sns": {
+            "twitter": "https://twitter.com/ars_almal",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCdpUojq0KWZCN9bxXnZwz5w"
+          }
+        },
+        {
+          "uuid": "88D9EE88-295F-5510-B4DA-283435CFE31C",
+          "masterId": "nijisanji_main_furen_e_lustario",
+          "name": "フレン・E・ルスタリオ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/furen-e-lustario",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EC1D2F"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": "https://twitter.com/furen_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCuep1JCrMvSxOGgGhBfJuYw"
+          }
+        },
+        {
+          "uuid": "E232040F-FD4F-5F59-878D-8B278D7FE34F",
+          "masterId": "nijisanji_main_ryushen",
+          "name": "緑仙",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ryushen",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5DCCAB"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": "https://twitter.com/midori_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw"
+          }
+        },
+        {
+          "uuid": "434C104D-A782-568C-B653-C923147458C5",
+          "masterId": "nijisanji_main_kokoro_amamiya",
+          "name": "天宮こころ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kokoro-amamiya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C5EDFF"
+          ],
+          "birthday": "07-01",
+          "sns": {
+            "twitter": "https://twitter.com/amamiya_kokoro",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w"
+          }
+        },
+        {
+          "uuid": "2BA48E75-EF8F-5AA0-93D0-D68DCE8C179C",
+          "masterId": "nijisanji_main_himawari_honma",
+          "name": "本間ひまわり",
+          "profileURL": "https://www.nijisanji.jp/talents/l/himawari-honma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FBE340"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": "https://twitter.com/honmahimawari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w"
+          }
+        },
+        {
+          "uuid": "4302CF06-7120-5E4B-BC00-4CA6BCB3BDB4",
+          "masterId": "nijisanji_main_lulu_suzuhara",
+          "name": "鈴原るる",
+          "profileURL": "https://www.nijisanji.jp/talents/l/lulu-suzuhara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7AFA8"
+          ],
+          "birthday": "06-24",
+          "sns": {
+            "twitter": "https://x.com/lulu_suzuhara",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@LuluSuzuhara"
+          }
+        },
+        {
+          "uuid": "0966C7A2-A2C6-59EB-B07A-A2A4A881BC88",
+          "masterId": "nijisanji_main_akina_saegusa",
+          "name": "三枝明那",
+          "profileURL": "https://www.nijisanji.jp/talents/l/akina-saegusa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F03C32"
+          ],
+          "birthday": "09-01",
+          "sns": {
+            "twitter": "https://twitter.com/333akina",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ"
+          }
+        },
+        {
+          "uuid": "920D6B61-B233-5CA7-BE87-408468F277DC",
+          "masterId": "nijisanji_main_haru_kaida",
+          "name": "甲斐田晴",
+          "profileURL": "https://www.nijisanji.jp/talents/l/haru-kaida",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4DD7E3"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": "https://twitter.com/Kaida_Haru",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw"
+          }
+        },
+        {
+          "uuid": "07991DE7-5E2B-5250-A7FB-9F573008C4EE",
+          "masterId": "nijisanji_main_elu",
+          "name": "える",
+          "profileURL": "https://www.nijisanji.jp/talents/l/elu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E2364F"
+          ],
+          "birthday": "01-24",
+          "sns": {
+            "twitter": "https://twitter.com/elu_world",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag"
+          }
+        },
+        {
+          "uuid": "34D1E55A-0041-520C-801C-2EE162504E95",
+          "masterId": "nijisanji_main_nui_sociere",
+          "name": "ニュイ・ソシエール",
+          "profileURL": "https://www.nijisanji.jp/talents/l/nui-sociere",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D24E5F"
+          ],
+          "birthday": "10-31",
+          "sns": {
+            "twitter": "https://twitter.com/Nui_Sociere",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCUc8GZfFxtmk7ZwSO7ccQ0g"
+          }
+        },
+        {
+          "uuid": "2345588D-5F45-50E1-AFAC-D38948E8FE0A",
+          "masterId": "nijisanji_main_chigusa_nishizono",
+          "name": "西園チグサ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/chigusa-nishizono",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A8FB7"
+          ],
+          "birthday": "07-20",
+          "sns": {
+            "twitter": "https://twitter.com/Chigusa_24zono",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ"
+          }
+        },
+        {
+          "uuid": "1D90682B-E51E-5713-BB2D-005B8E038F28",
+          "masterId": "nijisanji_main_sango_suo",
+          "name": "周央サンゴ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sango-suo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EF8468"
+          ],
+          "birthday": "03-06",
+          "sns": {
+            "twitter": "https://twitter.com/Suo_Sango",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA"
+          }
+        },
+        {
+          "uuid": "D38A6F21-B426-5EAC-8762-238FFD2AB1F0",
+          "masterId": "nijisanji_main_kana_sukoya",
+          "name": "健屋花那",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kana-sukoya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF2FA2"
+          ],
+          "birthday": "05-14",
+          "sns": {
+            "twitter": "https://twitter.com/sukosuko_sukoya",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ"
+          }
+        },
+        {
+          "uuid": "F47B2D6B-D674-583E-8D51-F75699E39672",
+          "masterId": "nijisanji_main_debidebi_debiru",
+          "name": "でびでび・でびる",
+          "profileURL": "https://www.nijisanji.jp/talents/l/debidebi-debiru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#444C7D"
+          ],
+          "birthday": "12-18",
+          "sns": {
+            "twitter": "https://twitter.com/debidebiru_sama",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCjlmCrq4TP1I4xguOtJ-31w"
+          }
+        },
+        {
+          "uuid": "1D862E5A-2D07-5ABE-B9EF-214975BAEAE2",
+          "masterId": "nijisanji_main_hibari_watarai",
+          "name": "渡会雲雀",
+          "profileURL": "https://www.nijisanji.jp/talents/l/hibari-watarai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#192332"
+          ],
+          "birthday": "09-23",
+          "sns": {
+            "twitter": "https://twitter.com/watarai_hibari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA"
+          }
+        },
+        {
+          "uuid": "60A4A9EB-642D-5850-BF60-283F58D70243",
+          "masterId": "nijisanji_main_ratna_petit",
+          "name": "ラトナ・プティ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ratna-petit",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F36C21"
+          ],
+          "birthday": "10-14",
+          "sns": {
+            "twitter": "https://twitter.com/ratna_petit",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw"
+          }
+        },
+        {
+          "uuid": "F883FC54-ACD2-5675-99A7-858CB6F816D2",
+          "masterId": "nijisanji_main_sister_claire",
+          "name": "シスター・クレア",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sister-claire",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DFC6A8"
+          ],
+          "birthday": "10-04",
+          "sns": {
+            "twitter": "https://twitter.com/sistercleaire",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC1zFJrfEKvCixhsjNSb1toQ"
+          }
+        },
+        {
+          "uuid": "A868514A-E213-5CA6-93CC-42661ECDCE77",
+          "masterId": "nijisanji_main_marin_hayama",
+          "name": "葉山舞鈴",
+          "profileURL": "https://www.nijisanji.jp/talents/l/marin-hayama",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#72D5CE"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": "https://twitter.com/Hayama_Marin",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCfipDDn7wY-C-SoUChgxCQQ"
+          }
+        },
+        {
+          "uuid": "5DB07D46-3D7F-5B60-A112-DB099EE2D35C",
+          "masterId": "nijisanji_main_joe_rikiichi",
+          "name": "ジョー・力一",
+          "profileURL": "https://www.nijisanji.jp/talents/l/joe-rikiichi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D598DD"
+          ],
+          "birthday": "10-01",
+          "sns": {
+            "twitter": "https://twitter.com/joerikiichi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ"
+          }
+        },
+        {
+          "uuid": "903A9E97-C68F-5874-9D11-CF9EE18A0421",
+          "masterId": "nijisanji_main_rena_yorumi",
+          "name": "夜見れな",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rena-yorumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7265A"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": "https://twitter.com/rena_yorumi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ"
+          }
+        },
+        {
+          "uuid": "82390DA0-FF19-565D-980D-471F3D2A5F86",
+          "masterId": "nijisanji_main_meme_mashiro",
+          "name": "ましろ爻",
+          "profileURL": "https://www.nijisanji.jp/talents/l/meme-mashiro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1E2232"
+          ],
+          "birthday": "04-27",
+          "sns": {
+            "twitter": "https://twitter.com/mashiro2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCS-XXTgVkotkbkDnGEprXpg"
+          }
+        },
+        {
+          "uuid": "1BBB471B-5863-5C29-93FA-FA42C5F6890E",
+          "masterId": "nijisanji_main_mikoto_rindou",
+          "name": "竜胆尊",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mikoto-rindou",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#745BFF"
+          ],
+          "birthday": "10-20",
+          "sns": {
+            "twitter": "https://twitter.com/rindoumikoto",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A"
+          }
+        },
+        {
+          "uuid": "76769390-8B3A-5EE2-A857-E2B6223C3B97",
+          "masterId": "nijisanji_main_makaino_ririmu",
+          "name": "魔界ノりりむ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/makaino-ririmu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EF6F94"
+          ],
+          "birthday": "01-15",
+          "sns": {
+            "twitter": "https://twitter.com/makaino_ririmu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC9EjSJ8pvxtvPdxLOElv73w"
+          }
+        },
+        {
+          "uuid": "96A022BF-8182-56D9-AFC1-F1B2FA6FA6E0",
+          "masterId": "nijisanji_main_chaika_hanabatake",
+          "name": "花畑チャイカ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/chaika-hanabatake",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#40CF84"
+          ],
+          "birthday": "06-27",
+          "sns": {
+            "twitter": "https://twitter.com/zulmihp1nlmot5y",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg"
+          }
+        },
+        {
+          "uuid": "7403D62C-3C77-5F36-883C-542387F4EFCA",
+          "masterId": "nijisanji_main_ex_albio",
+          "name": "エクス・アルビオ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ex-albio",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5C9BBC"
+          ],
+          "birthday": "08-01",
+          "sns": {
+            "twitter": "https://twitter.com/ex_albio",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ"
+          }
+        },
+        {
+          "uuid": "316186B7-61F8-5FBE-BE03-3C94DF789896",
+          "masterId": "nijisanji_main_rion_takamiya",
+          "name": "鷹宮リオン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rion-takamiya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CC3D7B"
+          ],
+          "birthday": "01-07",
+          "sns": {
+            "twitter": "https://twitter.com/takamiyarion",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@takamiyarion",
+            "youtube": "https://www.youtube.com/channel/UCV5ZZlLjk5MKGg3L0n0vbzw"
+          }
+        },
+        {
+          "uuid": "E20D9721-F4A0-54D4-931B-CCA4FB3D3B8D",
+          "masterId": "nijisanji_main_kei_nagao",
+          "name": "長尾景",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kei-nagao",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#625DA1"
+          ],
+          "birthday": "07-24",
+          "sns": {
+            "twitter": "https://twitter.com/kei_nagao2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg"
+          }
+        },
+        {
+          "uuid": "70EAA6D9-E399-5BD4-8B96-FC0F1FD910CF",
+          "masterId": "nijisanji_main_leos_vincent",
+          "name": "レオス・ヴィンセント",
+          "profileURL": "https://www.nijisanji.jp/talents/l/leos-vincent",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#234A87"
+          ],
+          "birthday": "03-08",
+          "sns": {
+            "twitter": "https://twitter.com/Leos_Vincent",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC-6rZgmxZSIbq786j3RD5ow"
+          }
+        },
+        {
+          "uuid": "67F3EF4C-0C47-5137-9704-F4BBA042BE8D",
+          "masterId": "nijisanji_main_belmond_banderas",
+          "name": "ベルモンド・バンデラス",
+          "profileURL": "https://www.nijisanji.jp/talents/l/belmond-banderas",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#683D46"
+          ],
+          "birthday": "11-03",
+          "sns": {
+            "twitter": "https://twitter.com/belmond_b_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A"
+          }
+        },
+        {
+          "uuid": "F3EDF279-2D26-5FD8-80D0-AC27CD66B75F",
+          "masterId": "nijisanji_main_akira_shikinagi",
+          "name": "四季凪アキラ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/akira-shikinagi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#235AAA"
+          ],
+          "birthday": "12-12",
+          "sns": {
+            "twitter": "https://twitter.com/Shikinagi_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg"
+          }
+        },
+        {
+          "uuid": "764C5E0B-3A5B-5383-B4F7-553AB1D0A351",
+          "masterId": "nijisanji_main_fuyuki_hakase",
+          "name": "葉加瀬冬雪",
+          "profileURL": "https://www.nijisanji.jp/talents/l/fuyuki-hakase",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EEFFFF"
+          ],
+          "birthday": "02-19",
+          "sns": {
+            "twitter": "https://twitter.com/hakase_fuyuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ"
+          }
+        },
+        {
+          "uuid": "E440BCD7-6C08-5C40-8A62-5B3A5EBC73AD",
+          "masterId": "nijisanji_main_rou_koyanagi",
+          "name": "小柳ロウ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rou-koyanagi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5A5FAA"
+          ],
+          "birthday": "11-25",
+          "sns": {
+            "twitter": "https://twitter.com/Rou_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KoyanagiRou"
+          }
+        },
+        {
+          "uuid": "D40D67DD-C09E-53B1-82E3-702143390BD6",
+          "masterId": "nijisanji_main_keisuke_maimoto",
+          "name": "舞元啓介",
+          "profileURL": "https://www.nijisanji.jp/talents/l/keisuke-maimoto",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#094078"
+          ],
+          "birthday": "11-09",
+          "sns": {
+            "twitter": "https://twitter.com/maimoto_k",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g"
+          }
+        },
+        {
+          "uuid": "5E0F1122-C0F4-52A9-A923-285DD307ABB4",
+          "masterId": "nijisanji_main_tomoe_shirayuki",
+          "name": "白雪巴",
+          "profileURL": "https://www.nijisanji.jp/talents/l/tomoe-shirayuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E3FE7"
+          ],
+          "birthday": "02-08",
+          "sns": {
+            "twitter": "https://twitter.com/Tomoe_Shirayuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw"
+          }
+        },
+        {
+          "uuid": "49154B14-7853-5D5C-9FCD-E7AF7B09AB53",
+          "masterId": "nijisanji_main_ruri_shioriha",
+          "name": "栞葉るり",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ruri-shioriha",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2887FF"
+          ],
+          "birthday": "09-20",
+          "sns": {
+            "twitter": "https://x.com/Ruri_4ori8",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ShiorihaRuri"
+          }
+        },
+        {
+          "uuid": "C15903F9-1C78-5748-A25C-24DD6BF8BCCD",
+          "masterId": "nijisanji_main_lain_paterson",
+          "name": "レイン・パターソン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/lain-paterson",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F74848"
+          ],
+          "birthday": "01-13",
+          "sns": {
+            "twitter": "https://twitter.com/Lain_Paterson",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCRm6lqtdxs_Qo6HeL-SRQ-w"
+          }
+        },
+        {
+          "uuid": "C6A58DFE-6CF5-5A60-BF1D-92B587B0F524",
+          "masterId": "nijisanji_main_sho_hoshirube",
+          "name": "星導ショウ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sho-hoshirube",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A58CDC"
+          ],
+          "birthday": "09-10",
+          "sns": {
+            "twitter": "https://twitter.com/Show_SylveSTAR",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HoshirubeSho"
+          }
+        },
+        {
+          "uuid": "EDC90CA2-BA56-51E8-A0E7-FE011341EE39",
+          "masterId": "nijisanji_main_kou_uzuki",
+          "name": "卯月コウ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kou-uzuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F9E97A"
+          ],
+          "birthday": "02-02",
+          "sns": {
+            "twitter": "https://twitter.com/udukikohh",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A"
+          }
+        },
+        {
+          "uuid": "25A0A59D-84DD-5180-8607-08BBBA0C8836",
+          "masterId": "nijisanji_main_tamaki_fumino",
+          "name": "文野環",
+          "profileURL": "https://www.nijisanji.jp/talents/l/tamaki-fumino",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EBDDB4"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/nekokan_chu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg"
+          }
+        },
+        {
+          "uuid": "511F77B6-0423-506B-9C75-17FFCF59B219",
+          "masterId": "nijisanji_main_shellin_burgundy",
+          "name": "シェリン・バーガンディ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/shellin-burgundy",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C2735"
+          ],
+          "birthday": "01-06",
+          "sns": {
+            "twitter": "https://twitter.com/ShellinBurgundy",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCHBhnG2G-qN0JrrWmMO2FTA"
+          }
+        },
+        {
+          "uuid": "610452DD-8AA9-5BAC-B395-1B8387FB9F64",
+          "masterId": "nijisanji_main_riri_yuhi",
+          "name": "夕陽リリ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/riri-yuhi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BFFFFF"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": "https://twitter.com/yuuhi_riri",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC48jH1ul-6HOrcSSfoR02fQ"
+          }
+        },
+        {
+          "uuid": "7755CE65-1DDE-5878-9387-7B8AA6657DE6",
+          "masterId": "nijisanji_main_seraph_dazzlegarden",
+          "name": "セラフ・ダズルガーデン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/seraph-dazzlegarden",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DC3C41"
+          ],
+          "birthday": "05-12",
+          "sns": {
+            "twitter": "https://twitter.com/SerAph_DazZ",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA"
+          }
+        },
+        {
+          "uuid": "73AB501F-94A9-5E47-87B7-8F5D4F0F6293",
+          "masterId": "nijisanji_main_kanato_fura",
+          "name": "風楽奏斗",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kanato-fura",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F0F0F5"
+          ],
+          "birthday": "03-25",
+          "sns": {
+            "twitter": "https://twitter.com/KNTFR2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCC7rRD6P7RQcx0hKv9RQP4w"
+          }
+        },
+        {
+          "uuid": "1DC22E82-A65C-5615-8ACA-973579879AE2",
+          "masterId": "nijisanji_main_rin_shizuka",
+          "name": "静凛",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rin-shizuka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#745399"
+          ],
+          "birthday": "08-28",
+          "sns": {
+            "twitter": "https://twitter.com/ShizuRin23",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC6oDys1BGgBsIC3WhG1BovQ"
+          }
+        },
+        {
+          "uuid": "DA8638ED-D12C-5D41-9C56-7DB8A9CCFE44",
+          "masterId": "nijisanji_main_mana_hibachi",
+          "name": "緋八マナ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mana-hibachi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#64C8F0"
+          ],
+          "birthday": "06-29",
+          "sns": {
+            "twitter": "https://twitter.com/Hibachi_Mana",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HibachiMana"
+          }
+        },
+        {
+          "uuid": "AF60D2D8-389A-565D-8A34-1DB8FD607EF3",
+          "masterId": "nijisanji_main_nozomi_ishigami",
+          "name": "石神のぞみ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/nozomi-ishigami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E6325F"
+          ],
+          "birthday": "10-29",
+          "sns": {
+            "twitter": "https://twitter.com/I_Nozomi_",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCtLfA_qUqCJtjXJM2ZR_keg"
+          }
+        },
+        {
+          "uuid": "0934A7AB-D343-5D71-821A-B20D7BDA8677",
+          "masterId": "nijisanji_main_tojiro_genzuki",
+          "name": "弦月藤士郎",
+          "profileURL": "https://www.nijisanji.jp/talents/l/tojiro-genzuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B43246"
+          ],
+          "birthday": "07-30",
+          "sns": {
+            "twitter": "https://twitter.com/1O46V",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frcgg"
+          }
+        },
+        {
+          "uuid": "6C45D14D-F11E-5B69-9E06-5F6121A7C791",
+          "masterId": "nijisanji_main_sophia_valentine",
+          "name": "ソフィア・ヴァレンタイン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sophia-valentine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8C3DC"
+          ],
+          "birthday": "02-14",
+          "sns": {
+            "twitter": "https://twitter.com/SophiaV214",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCivwPlOp0ojnMPZj5pNOPPA"
+          }
+        },
+        {
+          "uuid": "D0963C1C-EA31-500C-8CE0-69F8E5566B3F",
+          "masterId": "nijisanji_main_rai_inami",
+          "name": "伊波ライ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rai-inami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DCFF50"
+          ],
+          "birthday": "10-23",
+          "sns": {
+            "twitter": "https://twitter.com/rai_173",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@InamiRai"
+          }
+        },
+        {
+          "uuid": "C9BF22B4-9122-5CDD-B3B0-B02BD3CFE0B9",
+          "masterId": "nijisanji_main_ittetsu_saiki",
+          "name": "佐伯イッテツ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ittetsu-saiki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8C4664"
+          ],
+          "birthday": "12-01",
+          "sns": {
+            "twitter": "https://twitter.com/Saiki_Supadari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@SaikiIttetsu"
+          }
+        },
+        {
+          "uuid": "6D44E662-49B2-5015-BF81-8E121EFDC0B3",
+          "masterId": "nijisanji_main_kakeru_yumeoi",
+          "name": "夢追翔",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kakeru-yumeoi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#AC324B"
+          ],
+          "birthday": "06-28",
+          "sns": {
+            "twitter": "https://twitter.com/kakeru_yumeoi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw"
+          }
+        },
+        {
+          "uuid": "CFEC742B-6EBC-5144-893F-8CE176089B0B",
+          "masterId": "nijisanji_main_toru_koshimizu",
+          "name": "小清水透",
+          "profileURL": "https://www.nijisanji.jp/talents/l/toru-koshimizu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CDA5FF"
+          ],
+          "birthday": "06-03",
+          "sns": {
+            "twitter": "https://twitter.com/toru_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCUP8TmlO7NNra88AMqGU_vQ"
+          }
+        },
+        {
+          "uuid": "1B92655E-2656-5842-A898-F01E40293C85",
+          "masterId": "nijisanji_main_levi_elipha",
+          "name": "レヴィ・エリファ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/levi-elipha",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5A00"
+          ],
+          "birthday": "08-18",
+          "sns": {
+            "twitter": "https://twitter.com/Levi_E_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCtnO2N4kPTXmyvedjGWdx3Q"
+          }
+        },
+        {
+          "uuid": "B699B401-34A0-5276-B7A3-F546643CDED4",
+          "masterId": "nijisanji_main_kagetsu_murakumo",
+          "name": "叢雲カゲツ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kagetsu-murakumo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6EB487"
+          ],
+          "birthday": "02-26",
+          "sns": {
+            "twitter": "https://twitter.com/Kagetsu_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@MurakumoKagetsu"
+          }
+        },
+        {
+          "uuid": "DFFAAEF2-352E-5DF0-B84C-52419394E027",
+          "masterId": "nijisanji_main_dola",
+          "name": "ドーラ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/dola",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A83E4A"
+          ],
+          "birthday": "08-19",
+          "sns": {
+            "twitter": "https://twitter.com/___dola",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ"
+          }
+        },
+        {
+          "uuid": "DAFE26B1-E364-5F06-A9D3-ACEC13F7FDA4",
+          "masterId": "nijisanji_main_gaku_fushimi",
+          "name": "伏見ガク",
+          "profileURL": "https://www.nijisanji.jp/talents/l/gaku-fushimi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFCB5B"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": "https://twitter.com/gaku_fushimi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCXU7YYxy_iQd3ulXyO-zC2w"
+          }
+        },
+        {
+          "uuid": "460D9DD3-B83D-5863-876C-AD6B661BB7DE",
+          "masterId": "nijisanji_main_oliver_evans",
+          "name": "オリバー・エバンス",
+          "profileURL": "https://www.nijisanji.jp/talents/l/oliver-evans",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BCC37E"
+          ],
+          "birthday": "02-21",
+          "sns": {
+            "twitter": "https://twitter.com/oliverD_23",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCqjTqdVlvIipZXIKeCkHKUA"
+          }
+        },
+        {
+          "uuid": "95E3684C-B568-562E-AA43-D5F85BE416DD",
+          "masterId": "nijisanji_main_kaisei",
+          "name": "魁星",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kaisei",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0C6F72"
+          ],
+          "birthday": "06-09",
+          "sns": {
+            "twitter": "https://x.com/Kaisei_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Kaisei_nijisanji"
+          }
+        },
+        {
+          "uuid": "E1C26B3C-FDED-5417-B945-EDA2FA42CC5B",
+          "masterId": "nijisanji_main_rito_usami",
+          "name": "宇佐美リト",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rito-usami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FAC31E"
+          ],
+          "birthday": "08-17",
+          "sns": {
+            "twitter": "https://twitter.com/usamirito_power",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@UsamiRito"
+          }
+        },
+        {
+          "uuid": "FF9620EC-1588-5E76-B6CC-AF3117CC563A",
+          "masterId": "nijisanji_main_roa_yuzuki",
+          "name": "夢月ロア",
+          "profileURL": "https://www.nijisanji.jp/talents/l/roa-yuzuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D8368D"
+          ],
+          "birthday": "07-04",
+          "sns": {
+            "twitter": "https://twitter.com/yuzuki_roa",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCCVwhI5trmaSxfcze_Ovzfw"
+          }
+        },
+        {
+          "uuid": "58A52758-E845-5B5F-AE95-779A2D9FB78B",
+          "masterId": "nijisanji_main_kazaki_morinaka",
+          "name": "森中花咲",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kazaki-morinaka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8F39A"
+          ],
+          "birthday": "05-23",
+          "sns": {
+            "twitter": "https://twitter.com/kazakimorinaka",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCtpB6Bvhs1Um93ziEDACQ8g"
+          }
+        },
+        {
+          "uuid": "0C2A548B-B40E-59A5-B0FF-970627CDDDA6",
+          "masterId": "nijisanji_main_ness_sakaki",
+          "name": "榊ネス",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ness-sakaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C2AAE6"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": "https://x.com/Ness_Sakaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@SakakiNess"
+          }
+        },
+        {
+          "uuid": "54D2A15D-8FAE-5104-85F1-F3F7D8DCFF6A",
+          "masterId": "nijisanji_main_wen_akagi",
+          "name": "赤城ウェン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/wen-akagi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C9B"
+          ],
+          "birthday": "12-06",
+          "sns": {
+            "twitter": "https://twitter.com/akagi_wen",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@AkagiWen"
+          }
+        },
+        {
+          "uuid": "89406AE3-9A93-5A64-B081-D329CB4B8408",
+          "masterId": "nijisanji_main_masaru_suzuki",
+          "name": "鈴木勝",
+          "profileURL": "https://www.nijisanji.jp/talents/l/masaru-suzuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B788A"
+          ],
+          "birthday": "08-09",
+          "sns": {
+            "twitter": "https://twitter.com/darkness_eater",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCryOPk2GZ1meIDt53tL30Tw"
+          }
+        },
+        {
+          "uuid": "90F9A11B-66FD-531A-A220-FED90490EACB",
+          "masterId": "nijisanji_main_yang_nari",
+          "name": "ヤン ナリ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/yang-nari",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FAD1D6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/NariYang2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCCHH0nWYXFZmtDS_4tvMxHQ"
+          }
+        },
+        {
+          "uuid": "D78B99EB-BBD2-591A-B135-CA095436961A",
+          "masterId": "nijisanji_main_akari_shishido",
+          "name": "獅子堂あかり",
+          "profileURL": "https://www.nijisanji.jp/talents/l/akari-shishido",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD728"
+          ],
+          "birthday": "07-31",
+          "sns": {
+            "twitter": "https://twitter.com/44do_akari",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCWRPqA0ehhWV4Hnp27PJCkQ"
+          }
+        },
+        {
+          "uuid": "DD50BDB3-8F9E-5521-AEF6-DDCE71C4A5C0",
+          "masterId": "nijisanji_main_rika_igarashi",
+          "name": "五十嵐梨花",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rika-igarashi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C3C"
+          ],
+          "birthday": "04-14",
+          "sns": {
+            "twitter": "https://twitter.com/1garashi_Rika",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCu-rV2gPtJ-CsGxe71z_BrQ"
+          }
+        },
+        {
+          "uuid": "667DF33A-6D48-5F64-BE01-B3103A3CBEB7",
+          "masterId": "nijisanji_main_nana_tamanoi",
+          "name": "珠乃井ナナ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/nana-tamanoi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#63AED9"
+          ],
+          "birthday": "04-24",
+          "sns": {
+            "twitter": "https://x.com/7_tamanoi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@TamanoiNana"
+          }
+        },
+        {
+          "uuid": "164FA7E7-99C5-592C-95A7-65B9874A8451",
+          "masterId": "nijisanji_main_hisui_kitakoji",
+          "name": "北小路ヒスイ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/hisui-kitakoji",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#38B48B"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": "https://twitter.com/Hisui_Kitakoji",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ"
+          }
+        },
+        {
+          "uuid": "B6FFA949-DE9C-54ED-B4DB-1DDAF69C3ADC",
+          "masterId": "nijisanji_main_mao_matsukai",
+          "name": "魔使マオ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mao-matsukai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C93965"
+          ],
+          "birthday": "05-31",
+          "sns": {
+            "twitter": "https://twitter.com/matsukai_mao",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg"
+          }
+        },
+        {
+          "uuid": "CBE66AAE-ED32-53F1-BEC2-8FF11ACA8E19",
+          "masterId": "nijisanji_main_nei_ponto",
+          "name": "先斗寧",
+          "profileURL": "https://www.nijisanji.jp/talents/l/nei-ponto",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5A7DFF"
+          ],
+          "birthday": "08-21",
+          "sns": {
+            "twitter": "https://twitter.com/ponto_nei",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCe22Bcwd_GCpTjLxn83zl7A"
+          }
+        },
+        {
+          "uuid": "7D6759D8-939E-5334-8A7B-1F9225E349AF",
+          "masterId": "nijisanji_main_milan_kestrel",
+          "name": "ミラン・ケストレル",
+          "profileURL": "https://www.nijisanji.jp/talents/l/milan-kestrel",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2C35BD"
+          ],
+          "birthday": "06-13",
+          "sns": {
+            "twitter": "https://x.com/Milan_Kestrel",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@MilanKestrel"
+          }
+        },
+        {
+          "uuid": "C1049346-BE6B-5E8D-9C04-DFFA14F6ACB2",
+          "masterId": "nijisanji_main_shiba_kuroi",
+          "name": "黒井しば",
+          "profileURL": "https://www.nijisanji.jp/talents/l/shiba-kuroi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#585C82"
+          ],
+          "birthday": "01-11",
+          "sns": {
+            "twitter": "https://twitter.com/blackshiba_chan",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCmeyo5pRj_6PXG-CsGUuWWg"
+          }
+        },
+        {
+          "uuid": "C4C9715A-983F-5413-A9CF-8C08A3440544",
+          "masterId": "nijisanji_main_sou_hayase",
+          "name": "早瀬走",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sou-hayase",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#AA7BE8"
+          ],
+          "birthday": "03-20",
+          "sns": {
+            "twitter": "https://twitter.com/SouHayase",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw"
+          }
+        },
+        {
+          "uuid": "3C035888-70DB-5ADE-AD58-6FD8C041483D",
+          "masterId": "nijisanji_main_mugi_ienaga",
+          "name": "家長むぎ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mugi-ienaga",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF899D"
+          ],
+          "birthday": "11-07",
+          "sns": {
+            "twitter": "https://twitter.com/ienaga_mugi23",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ"
+          }
+        },
+        {
+          "uuid": "43DD0EC3-5479-5D0A-9F81-FE0A26507358",
+          "masterId": "nijisanji_main_karuta_yamagami",
+          "name": "山神カルタ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/karuta-yamagami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#384B5A"
+          ],
+          "birthday": "08-11",
+          "sns": {
+            "twitter": "https://twitter.com/karuta_Yamagami",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ"
+          }
+        },
+        {
+          "uuid": "3508A54B-7185-5B0C-BF13-2BD07FD20549",
+          "masterId": "nijisanji_main_ritsuki_sakura",
+          "name": "桜凛月",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ritsuki-sakura",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C57FC7"
+          ],
+          "birthday": "04-01",
+          "sns": {
+            "twitter": "https://twitter.com/sakura_ritsuki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ"
+          }
+        },
+        {
+          "uuid": "0F8EA2EC-9262-557C-8F87-560DDF1A5AAF",
+          "masterId": "nijisanji_main_hana_macchia",
+          "name": "ハナ マキア",
+          "profileURL": "https://www.nijisanji.jp/talents/l/hana-macchia",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFEFD5"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/Hana_Macchia",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCpJtk0myFr5WnyfsmnInP-w"
+          }
+        },
+        {
+          "uuid": "09F9F745-E209-5B3A-9836-559793E637D0",
+          "masterId": "nijisanji_main_meruto_kuramochi",
+          "name": "倉持めると",
+          "profileURL": "https://www.nijisanji.jp/talents/l/meruto-kuramochi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EB4682"
+          ],
+          "birthday": "05-19",
+          "sns": {
+            "twitter": "https://twitter.com/k_meruto",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCiA-trSZfB0i92V_-dyDqBw"
+          }
+        },
+        {
+          "uuid": "B653F9E4-3D19-52F5-B946-3B41ABF01D6A",
+          "masterId": "nijisanji_main_fumi",
+          "name": "フミ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/fumi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4E49D"
+          ],
+          "birthday": "10-10",
+          "sns": {
+            "twitter": "https://twitter.com/FumiVirtual",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCwrjITPwG4q71HzihV2C7Nw"
+          }
+        },
+        {
+          "uuid": "ED44734B-E3B0-5B8F-B184-EE2954F9E999",
+          "masterId": "nijisanji_main_shoichi_kanda",
+          "name": "神田笑一",
+          "profileURL": "https://www.nijisanji.jp/talents/l/shoichi-kanda",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4D35B"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": "https://twitter.com/kanda_shoichi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCWz0CSYCxf4MhRKPDm220AQ"
+          }
+        },
+        {
+          "uuid": "2BAB96F6-A2BB-5379-BB63-98F7F5E7078F",
+          "masterId": "nijisanji_main_yusei_kitami",
+          "name": "北見遊征",
+          "profileURL": "https://www.nijisanji.jp/talents/l/yusei-kitami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF6E1E"
+          ],
+          "birthday": "08-04",
+          "sns": {
+            "twitter": "https://x.com/Kitami_Coolguy",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KitamiYusei"
+          }
+        },
+        {
+          "uuid": "08FD5E02-FF5A-531F-880E-18D813116343",
+          "masterId": "nijisanji_main_yotsuha_umise",
+          "name": "海妹四葉",
+          "profileURL": "https://www.nijisanji.jp/talents/l/yotsuha-umise",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE632"
+          ],
+          "birthday": "06-17",
+          "sns": {
+            "twitter": "https://twitter.com/Yotsuha_Umise",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCtHY-tP0dyykhTRMmnfPs_g"
+          }
+        },
+        {
+          "uuid": "430A36D9-3640-5231-9515-3FFD14EF0322",
+          "masterId": "nijisanji_main_suzuna_nanase",
+          "name": "七瀬すず菜",
+          "profileURL": "https://www.nijisanji.jp/talents/l/suzuna-nanase",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9DD9B9"
+          ],
+          "birthday": "01-08",
+          "sns": {
+            "twitter": "https://x.com/Suzuna_Nanase",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@NanaseSuzuna"
+          }
+        },
+        {
+          "uuid": "119DB1AA-DC87-55AC-B651-FBE5826F050B",
+          "masterId": "nijisanji_main_alice_mononobe",
+          "name": "物述有栖",
+          "profileURL": "https://www.nijisanji.jp/talents/l/alice-mononobe",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#81D4E2"
+          ],
+          "birthday": "11-16",
+          "sns": {
+            "twitter": "https://twitter.com/alicemononobe",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA"
+          }
+        },
+        {
+          "uuid": "0C634BA6-503E-5A12-A8B2-3F7F41AB60D6",
+          "masterId": "nijisanji_main_natsume_kurusu",
+          "name": "来栖夏芽",
+          "profileURL": "https://www.nijisanji.jp/talents/l/natsume-kurusu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8AD1EF"
+          ],
+          "birthday": "09-07",
+          "sns": {
+            "twitter": "https://twitter.com/kurusu72me",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA"
+          }
+        },
+        {
+          "uuid": "45854D18-6A25-58C2-99CB-3174835C65EF",
+          "masterId": "nijisanji_main_trout_nagisa",
+          "name": "渚トラウト",
+          "profileURL": "https://www.nijisanji.jp/talents/l/trout-nagisa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#77B6C2"
+          ],
+          "birthday": "07-15",
+          "sns": {
+            "twitter": "https://x.com/Tr0uT_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@NagisaTrout"
+          }
+        },
+        {
+          "uuid": "A2424246-A54D-541A-8943-3A7344FD97CD",
+          "masterId": "nijisanji_main_luis_cammy",
+          "name": "ルイス・キャミー",
+          "profileURL": "https://www.nijisanji.jp/talents/l/luis-cammy",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E86A74"
+          ],
+          "birthday": "02-22",
+          "sns": {
+            "twitter": "https://twitter.com/Luis_Cammy",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw"
+          }
+        },
+        {
+          "uuid": "A755BCBB-F0E6-505F-AE9E-CFFF41A9FFB6",
+          "masterId": "nijisanji_main_berry_saotome",
+          "name": "早乙女ベリー",
+          "profileURL": "https://www.nijisanji.jp/talents/l/berry-saotome",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DF6D7C"
+          ],
+          "birthday": "03-29",
+          "sns": {
+            "twitter": "https://x.com/Saotome_Berry",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Saotomeberry"
+          }
+        },
+        {
+          "uuid": "A25EF48E-99A8-592C-B763-C1592046D64C",
+          "masterId": "nijisanji_main_roco_kaburaki",
+          "name": "鏑木ろこ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/roco-kaburaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#198CAA"
+          ],
+          "birthday": "07-18",
+          "sns": {
+            "twitter": "https://twitter.com/65_kaburaki",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UClrQ7xhRBxS_v_-WuudGKmA"
+          }
+        },
+        {
+          "uuid": "F72281ED-BD6E-51C9-82AF-368B8ADFB01E",
+          "masterId": "nijisanji_main_eli_conifer",
+          "name": "エリー・コニファー",
+          "profileURL": "https://www.nijisanji.jp/talents/l/eli-conifer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DAFFF9"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": "https://twitter.com/Eli_Conifer",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCpNH2Zk2gw3JBjWAKSyZcQQ"
+          }
+        },
+        {
+          "uuid": "4C6CEDA7-FFF8-585F-A85E-757719799440",
+          "masterId": "nijisanji_main_soma_sakayori",
+          "name": "酒寄颯馬",
+          "profileURL": "https://www.nijisanji.jp/talents/l/soma-sakayori",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BA6EA5"
+          ],
+          "birthday": "12-21",
+          "sns": {
+            "twitter": "https://x.com/sakayori_soma",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@SakayoriSoma"
+          }
+        },
+        {
+          "uuid": "D76B1286-BE57-58CA-A6AD-89D6957366BC",
+          "masterId": "nijisanji_main_seffyna",
+          "name": "セフィナ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/seffyna",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C92235"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/Seffyna2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCeGendL8CO5RkffB6IFwHow"
+          }
+        },
+        {
+          "uuid": "89E6A176-1037-5AFC-95CA-CEDF494F7E7F",
+          "masterId": "nijisanji_main_emma_august",
+          "name": "えま★おうがすと",
+          "profileURL": "https://www.nijisanji.jp/talents/l/emma-august",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B32F51"
+          ],
+          "birthday": "08-08",
+          "sns": {
+            "twitter": "https://twitter.com/emma_august_",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCl1oLKcAq93p-pwKfDGhiYQ"
+          }
+        },
+        {
+          "uuid": "E56AB2EF-9D70-5FF7-A4EC-D97CCFA9B52E",
+          "masterId": "nijisanji_main_riko_shiga",
+          "name": "司賀りこ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/riko-shiga",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE36C"
+          ],
+          "birthday": "01-19",
+          "sns": {
+            "twitter": "https://x.com/Shigariko_",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ShigaRiko"
+          }
+        },
+        {
+          "uuid": "42382695-AC8A-59FE-A596-65E8803855C3",
+          "masterId": "nijisanji_main_sayo_amemori",
+          "name": "雨森小夜",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sayo-amemori",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#756F7D"
+          ],
+          "birthday": "06-11",
+          "sns": {
+            "twitter": "https://twitter.com/sayo_amemori",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCRWOdwLRsenx2jLaiCAIU4A"
+          }
+        },
+        {
+          "uuid": "1D707C84-D19F-5E57-80F4-C9D136863C19",
+          "masterId": "nijisanji_main_mahiro_yukishiro",
+          "name": "雪城眞尋",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mahiro-yukishiro",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B4E9FF"
+          ],
+          "birthday": "09-26",
+          "sns": {
+            "twitter": "https://twitter.com/mahiroyukishiro",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w"
+          }
+        },
+        {
+          "uuid": "7F9499D5-2F57-5718-82DB-09C8F42F8091",
+          "masterId": "nijisanji_main_youko_akabane",
+          "name": "赤羽葉子",
+          "profileURL": "https://www.nijisanji.jp/talents/l/youko-akabane",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CA636C"
+          ],
+          "birthday": "04-05",
+          "sns": {
+            "twitter": "https://twitter.com/youko_akabane",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCBi8YaVyZpiKWN3_Z0dCTfQ"
+          }
+        },
+        {
+          "uuid": "764FE2A4-AE47-5931-99BE-47FCF0E8C91C",
+          "masterId": "nijisanji_main_kirame_sorahoshi",
+          "name": "空星きらめ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kirame-sorahoshi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#44DDF4"
+          ],
+          "birthday": "04-30",
+          "sns": {
+            "twitter": "https://twitter.com/kirame_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC_82HBGtvwN1hcGeOGHzUBQ"
+          }
+        },
+        {
+          "uuid": "055F14CB-6BF9-509D-8CE5-57BB6565A9EA",
+          "masterId": "nijisanji_main_kisara",
+          "name": "綺沙良",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kisara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#846FC7"
+          ],
+          "birthday": "05-29",
+          "sns": {
+            "twitter": "https://x.com/Kisara_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Kisara_nijisanji"
+          }
+        },
+        {
+          "uuid": "D3491AB9-C83F-5BC2-BAEC-A137462550B4",
+          "masterId": "nijisanji_main_ayato_hitotsubashi",
+          "name": "一橋綾人",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ayato-hitotsubashi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9FCEC9"
+          ],
+          "birthday": "12-08",
+          "sns": {
+            "twitter": "https://x.com/Aya10_1tsubashi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HitotsubashiAyato"
+          }
+        },
+        {
+          "uuid": "FB3FBA3A-3751-5241-936F-A8C818313D0A",
+          "masterId": "nijisanji_main_kohaku_todo",
+          "name": "東堂コハク",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kohaku-todo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EA930A"
+          ],
+          "birthday": "09-29",
+          "sns": {
+            "twitter": "https://twitter.com/kohaku_todo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A"
+          }
+        },
+        {
+          "uuid": "A140B39A-F9BB-5C48-8E9C-125FCA12228A",
+          "masterId": "nijisanji_main_gilzaren_iii",
+          "name": "ギルザレンⅢ世",
+          "profileURL": "https://www.nijisanji.jp/talents/l/gilzaren-iii",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#002FA7"
+          ],
+          "birthday": "06-06",
+          "sns": {
+            "twitter": "https://twitter.com/gilzaren_iii",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCUzJ90o1EjqUbk2pBAy0_aw"
+          }
+        },
+        {
+          "uuid": "FE85E14E-5ECB-5AD7-897F-438EEF881734",
+          "masterId": "nijisanji_main_air_harusaki",
+          "name": "春崎エアル",
+          "profileURL": "https://www.nijisanji.jp/talents/l/air-harusaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B5F9E"
+          ],
+          "birthday": "04-03",
+          "sns": {
+            "twitter": "https://twitter.com/harusakiair2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCtAvQ5U0aXyKwm2i4GqFgJg"
+          }
+        },
+        {
+          "uuid": "A11C3A22-A236-5B9B-B503-16D5ED30D6C9",
+          "masterId": "nijisanji_main_rine_yaguruma",
+          "name": "矢車りね",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rine-yaguruma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FEECD8"
+          ],
+          "birthday": "08-02",
+          "sns": {
+            "twitter": "https://twitter.com/rine_yaguruma",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvzVB-EYuHFXHZrObB8a_Og"
+          }
+        },
+        {
+          "uuid": "E4104F2F-4619-5D78-8FCC-DB137FC7099C",
+          "masterId": "nijisanji_main_ichigo_ushimi",
+          "name": "宇志海いちご",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ichigo-ushimi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFCACE"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": "https://twitter.com/ushimi_ichigo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCmUjjW5zF1MMOhYUwwwQv9Q"
+          }
+        },
+        {
+          "uuid": "E6B134C7-6A9E-5309-9F6D-8FF2692DC8E5",
+          "masterId": "nijisanji_main_manami_aizono",
+          "name": "愛園愛美",
+          "profileURL": "https://www.nijisanji.jp/talents/l/manami-aizono",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F98FB7"
+          ],
+          "birthday": "11-08",
+          "sns": {
+            "twitter": "https://twitter.com/manami_aizono",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA"
+          }
+        },
+        {
+          "uuid": "9D5EE3A4-7159-5C06-80F2-3780661A0C76",
+          "masterId": "nijisanji_main_min_suha",
+          "name": "ミン スゥーハ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/min-suha",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5AC8FF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/SuhaMin2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCUtKkGKef8BYMs3h-3zQm9A"
+          }
+        },
+        {
+          "uuid": "2C04DC8B-6102-5703-B231-0A5E78D89812",
+          "masterId": "nijisanji_main_tamako_kirara",
+          "name": "雲母たまこ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/tamako-kirara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD264"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": "https://x.com/kirara_tamako",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KiraraTamako"
+          }
+        },
+        {
+          "uuid": "BFAA0FE6-72B9-5F72-8F2D-A43354BBF5F8",
+          "masterId": "nijisanji_main_toto_tachitsute",
+          "name": "立伝都々",
+          "profileURL": "https://www.nijisanji.jp/talents/l/toto-tachitsute",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C31E5A"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": "https://x.com/tctt10_10",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@TachitsuteToto"
+          }
+        },
+        {
+          "uuid": "355DA1E9-A997-5412-9494-5163CE7E854F",
+          "masterId": "nijisanji_main_hajime_shibuya",
+          "name": "渋谷ハジメ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/hajime-shibuya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7FAD7"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": "https://twitter.com/sibuya_hajime",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ"
+          }
+        },
+        {
+          "uuid": "BEB30171-A017-5503-BEF7-4AFEF229DE7D",
+          "masterId": "nijisanji_main_sakyo_itsuki",
+          "name": "五木左京",
+          "profileURL": "https://www.nijisanji.jp/talents/l/sakyo-itsuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F3A4A9"
+          ],
+          "birthday": "01-25",
+          "sns": {
+            "twitter": "https://x.com/Itsuki_Sakyo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ItsukiSakyo"
+          }
+        },
+        {
+          "uuid": "0E3E61D0-9FAC-5364-A6C3-DBCC335A39AC",
+          "masterId": "nijisanji_main_moira",
+          "name": "モイラ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/moira",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#91ABD0"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": "https://twitter.com/moiramoimoimoi",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA"
+          }
+        },
+        {
+          "uuid": "5BDCF3EE-32F0-543F-9456-A7D9D0E17212",
+          "masterId": "nijisanji_main_kyoko_todoroki",
+          "name": "轟京子",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kyoko-todoroki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E76186"
+          ],
+          "birthday": "12-22",
+          "sns": {
+            "twitter": "https://twitter.com/kt_seeds",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83TwxVA"
+          }
+        },
+        {
+          "uuid": "3D8CC93E-6889-5C94-844B-76AD7F920F31",
+          "masterId": "nijisanji_main_mone_kozue",
+          "name": "梢桃音",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mone-kozue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC6E2"
+          ],
+          "birthday": "03-28",
+          "sns": {
+            "twitter": "https://x.com/KozueMone",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KozueMone"
+          }
+        },
+        {
+          "uuid": "84E306B4-3E38-5645-A19D-18378195D80B",
+          "masterId": "nijisanji_main_muyu_amagase",
+          "name": "天ヶ瀬むゆ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/muyu-amagase",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FA5578"
+          ],
+          "birthday": "09-11",
+          "sns": {
+            "twitter": "https://twitter.com/Muyu_Amagase",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCAQDFeCTVdx90GtwohwjHzQ"
+          }
+        },
+        {
+          "uuid": "A28E1B65-8794-53EF-AB04-E003EA89C932",
+          "masterId": "nijisanji_main_ha_yun",
+          "name": "ハ ユン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ha-yun",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B14D4D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/HaYun2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCrhhJPNsOqzNIkUfTABoSpg"
+          }
+        },
+        {
+          "uuid": "D591F124-28CB-5B99-AFA5-6918AFBBC424",
+          "masterId": "nijisanji_main_kotone_mikogami",
+          "name": "御子神琴音",
+          "profileURL": "https://www.nijisanji.jp/talents/l/kotone-mikogami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D0669A"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": "https://x.com/Mikogami_Kotone",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@MikogamiKotone_Y4T4"
+          }
+        },
+        {
+          "uuid": "4D6D6E05-9847-58DC-880E-DF092D98CF0E",
+          "masterId": "nijisanji_main_miku_nekoyashiki",
+          "name": "猫屋敷美紅",
+          "profileURL": "https://www.nijisanji.jp/talents/l/miku-nekoyashiki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8C73"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": "https://x.com/Nekoyashiki_39",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@NekoyashikiMiku"
+          }
+        },
+        {
+          "uuid": "EC3B2A63-2F8B-5B80-9A1A-DB288A2A256A",
+          "masterId": "nijisanji_main_isumi_shirose",
+          "name": "城瀬いすみ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/isumi-shirose",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E5E2F6"
+          ],
+          "birthday": "12-23",
+          "sns": {
+            "twitter": "https://x.com/Shiro_Isumyan",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ShiroseIsumi"
+          }
+        },
+        {
+          "uuid": "62AEA09A-F098-5104-B9AE-3A350B6EF308",
+          "masterId": "nijisanji_main_madoka_minamo",
+          "name": "水面まどか",
+          "profileURL": "https://www.nijisanji.jp/talents/l/madoka-minamo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8184"
+          ],
+          "birthday": "10-09",
+          "sns": {
+            "twitter": "https://x.com/Madoka_Minamo",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@MinamoMadoka"
+          }
+        },
+        {
+          "uuid": "9BA41104-5DB2-593C-9D13-C71A66FD33F9",
+          "masterId": "nijisanji_main_tsumugu_kataribe",
+          "name": "語部紡",
+          "profileURL": "https://www.nijisanji.jp/talents/l/tsumugu-kataribe",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#07A4E3"
+          ],
+          "birthday": "08-15",
+          "sns": {
+            "twitter": "https://twitter.com/KataribeTsumugu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ"
+          }
+        },
+        {
+          "uuid": "E5B7AC1B-9999-5F63-BDDF-142296571CBC",
+          "masterId": "nijisanji_main_hina_asuka",
+          "name": "飛鳥ひな",
+          "profileURL": "https://www.nijisanji.jp/talents/l/hina-asuka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FAD8DC"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": "https://twitter.com/hina__asuka",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ"
+          }
+        },
+        {
+          "uuid": "BE382310-35B6-53E6-8114-23C2B25040F2",
+          "masterId": "nijisanji_main_lee_roha",
+          "name": "イ ロハ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/lee-roha",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FDFF7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/RohaLee2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCClwIqTUn5LDpFucHyaAhHg"
+          }
+        },
+        {
+          "uuid": "74F32688-40AB-5D20-9CA5-4DBE4D0157AB",
+          "masterId": "nijisanji_main_reo_sumeragi",
+          "name": "皇れお",
+          "profileURL": "https://www.nijisanji.jp/talents/l/reo-sumeragi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EEB1CC"
+          ],
+          "birthday": "07-02",
+          "sns": {
+            "twitter": "https://x.com/sumeragi_0o",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@SumeragiReo"
+          }
+        },
+        {
+          "uuid": "5526FCA4-6660-57F9-9925-47826274BDD0",
+          "masterId": "nijisanji_main_ayane_shirasa",
+          "name": "白砂あやね",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ayane-shirasa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#54A2E5"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": "https://x.com/shirasa_ayane",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ShirasaAyane"
+          }
+        },
+        {
+          "uuid": "DF6D349D-94EC-5BEC-95F6-D8651A44532F",
+          "masterId": "nijisanji_main_reina",
+          "name": "Rei7",
+          "profileURL": "https://www.nijisanji.jp/talents/l/reina",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BB3CE"
+          ],
+          "birthday": "07-27",
+          "sns": {
+            "twitter": "https://x.com/Rei7_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Rei7_Y4T4"
+          }
+        },
+        {
+          "uuid": "3B008AAF-9BE2-5831-BB8B-78DF44582751",
+          "masterId": "nijisanji_main_mikaru_kadou",
+          "name": "蝸堂みかる",
+          "profileURL": "https://www.nijisanji.jp/talents/l/mikaru-kadou",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFE673"
+          ],
+          "birthday": "06-01",
+          "sns": {
+            "twitter": "https://x.com/Kadou_Mikaru",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KadouMikaru"
+          }
+        },
+        {
+          "uuid": "98F07394-122C-5439-A4AC-0F251CCB5AA0",
+          "masterId": "nijisanji_main_tsubasa_hanakago",
+          "name": "花籠つばさ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/tsubasa-hanakago",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#818FBF"
+          ],
+          "birthday": "05-28",
+          "sns": {
+            "twitter": "https://x.com/Hanakago_2434rr",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@HanakagoTsubasa"
+          }
+        },
+        {
+          "uuid": "82735988-69C1-5613-BA96-E57E5F986E77",
+          "masterId": "nijisanji_main_nonoha_togawa",
+          "name": "十河ののは",
+          "profileURL": "https://www.nijisanji.jp/talents/l/nonoha-togawa",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7DC7B0"
+          ],
+          "birthday": "05-10",
+          "sns": {
+            "twitter": "https://x.com/Togawa_Nonoha",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@TogawaNonoha"
+          }
+        },
+        {
+          "uuid": "5E4121FF-9E3A-535B-881A-F1708D218B73",
+          "masterId": "nijisanji_main_yuno_shinomiya",
+          "name": "篠宮ゆの",
+          "profileURL": "https://www.nijisanji.jp/talents/l/yuno-shinomiya",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#AAD9F4"
+          ],
+          "birthday": "01-09",
+          "sns": {
+            "twitter": "https://x.com/Yuno_Shino38",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@ShinomiyaYuno"
+          }
+        },
+        {
+          "uuid": "4E012A4B-D8F7-54E4-98D9-A1AFF135DC31",
+          "masterId": "nijisanji_main_so_nagi",
+          "name": "ソ ナギ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/so-nagi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7C86DE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/NagiSo2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC5ek2GWKvUKFgnKSHuuCFrw"
+          }
+        },
+        {
+          "uuid": "8DA54647-4ADB-55A8-A1AE-6225AB793996",
+          "masterId": "nijisanji_main_daichi_tsukahara",
+          "name": "塚原大地",
+          "profileURL": "https://www.nijisanji.jp/talents/l/daichi-tsukahara",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A4A5C"
+          ],
+          "birthday": "11-18",
+          "sns": {
+            "twitter": "https://x.com/BIG_Tsukahara",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@TsukaharaDaichi_Y4T4"
+          }
+        },
+        {
+          "uuid": "611C6650-1CF5-56FC-8129-317407D24C37",
+          "masterId": "nijisanji_main_rayon",
+          "name": "レヨン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rayon",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#558E8D"
+          ],
+          "birthday": "02-23",
+          "sns": {
+            "twitter": "https://x.com/Rayon_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Rayon_Y4T4"
+          }
+        },
+        {
+          "uuid": "DCBF5465-BEE3-59C2-B650-7A4BF64BD8B8",
+          "masterId": "nijisanji_main_ayumu_senri",
+          "name": "千凛あゆむ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ayumu-senri",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#543298"
+          ],
+          "birthday": "01-05",
+          "sns": {
+            "twitter": "https://x.com/Senri_Ayumu",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@SenriAyumu_Y4T4"
+          }
+        },
+        {
+          "uuid": "F053692A-292D-5291-B13B-6946D2D5E383",
+          "masterId": "nijisanji_main_onotora",
+          "name": "男虎",
+          "profileURL": "https://www.nijisanji.jp/talents/l/onotora",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#442657"
+          ],
+          "birthday": "08-20",
+          "sns": {
+            "twitter": "https://x.com/OnoTora333",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@Onotora_Y4T4"
+          }
+        },
+        {
+          "uuid": "F141FA42-D24B-51A0-AD99-7669E9725E8A",
+          "masterId": "nijisanji_main_layla_alstroemeria",
+          "name": "ライラ アルストロエメリア",
+          "profileURL": "https://www.nijisanji.jp/talents/l/layla-alstroemeria",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F78181"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/LaylaAlstro2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCyRkQSuhJILuGOuXk10voPg"
+          }
+        },
+        {
+          "uuid": "072199AF-E0B3-5CAD-8E65-764485B8E0E0",
+          "masterId": "nijisanji_main_shino_yagyu",
+          "name": "夜牛詩乃",
+          "profileURL": "https://www.nijisanji.jp/talents/l/shino-yagyu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BD81D4"
+          ],
+          "birthday": "11-29",
+          "sns": {
+            "twitter": "https://x.com/YagyuShino",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@YagyuShino"
+          }
+        },
+        {
+          "uuid": "8B028F74-A563-5F75-B0DB-95F5975A9C58",
+          "masterId": "nijisanji_main_na_sera",
+          "name": "ナ セラ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/na-sera",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FEECF3"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/NaSera2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg"
+          }
+        },
+        {
+          "uuid": "A9772DA5-0ADD-5BBC-BE80-FA1F78905C38",
+          "masterId": "nijisanji_main_iruka_kokonami",
+          "name": "小々波いるか",
+          "profileURL": "https://www.nijisanji.jp/talents/l/iruka-kokonami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4270B2"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": "https://x.com/Kokonami_Iruka",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KokonamiIruka_Y4T4"
+          }
+        },
+        {
+          "uuid": "E8CA7B01-EB02-5EE5-89AB-F1EE011BBBA7",
+          "masterId": "nijisanji_main_etna_crimson",
+          "name": "エトナ クリムソン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/etna-crimson",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DC143C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/Etna_Crimson",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCjFu-9GHnabzSFRAYm1B9Dw"
+          }
+        },
+        {
+          "uuid": "DA20327E-7279-5583-8E80-E5492D2CDAC3",
+          "masterId": "nijisanji_main_oh_jiyu",
+          "name": "オ ジユ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/oh-jiyu",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F1F4F4"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/JiyuOh2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw"
+          }
+        },
+        {
+          "uuid": "24489177-8DCB-5DEC-91FA-A83C3314D9D1",
+          "masterId": "nijisanji_main_akira_ray",
+          "name": "明楽レイ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/akira-ray",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A9CEEC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/RayAkira2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC7hffDQLKIEG-_zoAQkMIvg"
+          }
+        },
+        {
+          "uuid": "CEF3F5B5-CCA4-5EB4-8F0C-777A96E19B12",
+          "masterId": "nijisanji_main_rai_galilei",
+          "name": "ライ ガリレイ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/rai-galilei",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7DF9FF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/Rai_Galilei",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UC8Snw5i4eOJXEQqURAK17hQ"
+          }
+        },
+        {
+          "uuid": "04BF3752-7C24-5006-8685-F4CEF659D2ED",
+          "masterId": "nijisanji_main_eita_kuri",
+          "name": "九里詠太",
+          "profileURL": "https://www.nijisanji.jp/talents/l/eita-kuri",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CC8F7A"
+          ],
+          "birthday": "12-19",
+          "sns": {
+            "twitter": "https://x.com/Eita_2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/@KuriEita_Y4T4"
+          }
+        },
+        {
+          "uuid": "C5702A38-B58D-5F41-B182-0F282258E494",
+          "masterId": "nijisanji_main_gaon",
+          "name": "ガオン",
+          "profileURL": "https://www.nijisanji.jp/talents/l/gaon",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F9E072"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/Gaon2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw"
+          }
+        },
+        {
+          "uuid": "073113A5-178B-5BDA-975E-41AB924497D4",
+          "masterId": "nijisanji_main_derem_kado",
+          "name": "デレム カド",
+          "profileURL": "https://www.nijisanji.jp/talents/l/derem-kado",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F6D4DF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/DeremKado",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCMzVa7B8UEdrvUGsPmSgyjA"
+          }
+        },
+        {
+          "uuid": "EC21BC8C-2650-5550-8F70-02BDB376E75D",
+          "masterId": "nijisanji_main_ryu_hari",
+          "name": "リュ ハリ",
+          "profileURL": "https://www.nijisanji.jp/talents/l/ryu-hari",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#96CEEB"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/HariRyu2434",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UClS6k3w1sPwlVFqK3-yID5A"
+          }
+        },
+        {
+          "uuid": "F06E6054-FC48-52DB-9FC7-E3387DF3F828",
+          "masterId": "nijisanji_main_nagisa_arcinia",
+          "name": "ナギサ アルシニア",
+          "profileURL": "https://www.nijisanji.jp/talents/l/nagisa-arcinia",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CC338B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://twitter.com/NagisaArcinia",
+            "instagram": null,
+            "tiktok": null,
+            "youtube": "https://www.youtube.com/channel/UCijNnZ-6m8g85UGaRAWuw7g"
+          }
+        }
+      ]
+    }
+  ]
+}

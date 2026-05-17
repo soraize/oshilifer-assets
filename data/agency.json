@@ -119,6 +119,12 @@
   {
     "categoryId": "sports",
     "name": "スポーツ",
-    "agencies": []
+    "agencies": [
+      {
+        "agencyId": "npb",
+        "name": "NPB",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/npb.json"
+      }
+    ]
   }
 ]

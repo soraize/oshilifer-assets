@@ -1,0 +1,1167 @@
+{
+  "agencyId": "npb",
+  "agency": "NPB",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "1238C194-7C8E-55DE-9BBD-038BFA4FCE57",
+      "masterId": "npb_yokohama_dena_baystars",
+      "name": "横浜DeNAベイスターズ",
+      "isActive": true,
+      "profileURL": "https://www.baystars.co.jp/players/directory/",
+      "colorHex": [
+        "#005BAC"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ydb_yokohama",
+        "instagram": "https://www.instagram.com/baystars_official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.baystars.co.jp/game/schedule/",
+      "members": [
+        {
+          "uuid": "E09FC520-2CF1-599D-9B20-13C9FC9D367A",
+          "masterId": "npb_baystars_71675157",
+          "name": "濱 将乃介",
+          "profileURL": "https://npb.jp/bis/players/71675157.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ACE9A4DF-3025-57CE-87BE-0B67DF8C5AFF",
+          "masterId": "npb_baystars_91895155",
+          "name": "古市 尊",
+          "profileURL": "https://npb.jp/bis/players/91895155.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4099F607-339F-5044-B33B-D35343793AA9",
+          "masterId": "npb_baystars_13715150",
+          "name": "Ｊ．デュプランティエ",
+          "profileURL": "https://npb.jp/bis/players/13715150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2D2A9E77-D4B8-5D47-A123-1875B53400CA",
+          "masterId": "npb_baystars_51155136",
+          "name": "東 克樹",
+          "profileURL": "https://npb.jp/bis/players/51155136.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EAB35563-0A7E-502C-8F26-E84D48CC00E4",
+          "masterId": "npb_baystars_11415150",
+          "name": "竹田 祐",
+          "profileURL": "https://npb.jp/bis/players/11415150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F397C7EC-15F1-5888-A4BB-1C920215665C",
+          "masterId": "npb_baystars_41145151",
+          "name": "伊勢 大夢",
+          "profileURL": "https://npb.jp/bis/players/41145151.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "386BEDD8-6B34-592B-8966-61417F053EE4",
+          "masterId": "npb_baystars_11315130",
+          "name": "石田 健大",
+          "profileURL": "https://npb.jp/bis/players/11315130.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "288D4D8E-5414-5693-9E5A-26691AFC2A49",
+          "masterId": "npb_baystars_11015152",
+          "name": "島田 舜也",
+          "profileURL": "https://npb.jp/bis/players/11015152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6978898A-B4B6-59EA-BEC1-9E4EF4F891E6",
+          "masterId": "npb_baystars_01305138",
+          "name": "大貫 晋一",
+          "profileURL": "https://npb.jp/bis/players/01305138.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "541364BB-57C3-5FB1-9FF0-FDF5091ACB40",
+          "masterId": "npb_baystars_31935155",
+          "name": "小園 健太",
+          "profileURL": "https://npb.jp/bis/players/31935155.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9A8AA7A5-2A27-5CC2-9EE4-A1EB523F0FB5",
+          "masterId": "npb_baystars_41845130",
+          "name": "山﨑 康晃",
+          "profileURL": "https://npb.jp/bis/players/41845130.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9FCB1F62-A8F6-5FB5-B322-A9A6CE1023E8",
+          "masterId": "npb_baystars_11015151",
+          "name": "坂本 裕哉",
+          "profileURL": "https://npb.jp/bis/players/11015151.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ACE3766E-4637-5801-820B-0477D4C254A4",
+          "masterId": "npb_baystars_61365153",
+          "name": "入江 大生",
+          "profileURL": "https://npb.jp/bis/players/61365153.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C3BC061-621B-55A9-A962-89B9099173FA",
+          "masterId": "npb_baystars_33535157",
+          "name": "吉野 光樹",
+          "profileURL": "https://npb.jp/bis/players/33535157.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "20715646-1439-5CC4-B2A0-AF7F7ACBA19D",
+          "masterId": "npb_baystars_41045137",
+          "name": "藤浪 晋太郎",
+          "profileURL": "https://npb.jp/bis/players/41045137.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C6A5FBE-9B19-54C6-935F-F159B720E38D",
+          "masterId": "npb_baystars_41045150",
+          "name": "篠木 健太郎",
+          "profileURL": "https://npb.jp/bis/players/41045150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "220B6B56-9CE2-55F3-939C-44C836533FCB",
+          "masterId": "npb_baystars_91295159",
+          "name": "武田 陸玖",
+          "profileURL": "https://npb.jp/bis/players/91295159.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B8358B2B-7822-5218-8C55-0CC506DAD5F1",
+          "masterId": "npb_baystars_31635157",
+          "name": "橋本 達弥",
+          "profileURL": "https://npb.jp/bis/players/31635157.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F2896117-3BE0-541E-82A6-B34D9B0FE0CF",
+          "masterId": "npb_baystars_23125159",
+          "name": "松本 凌人",
+          "profileURL": "https://npb.jp/bis/players/23125159.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "79985C01-D278-5387-858E-6CC59B8C5610",
+          "masterId": "npb_baystars_63365150",
+          "name": "若松 尚輝",
+          "profileURL": "https://npb.jp/bis/players/63365150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4818DF3A-834E-5798-8709-500A52646995",
+          "masterId": "npb_baystars_71975134",
+          "name": "佐々木 千隼",
+          "profileURL": "https://npb.jp/bis/players/71975134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F6BCC70-10ED-5F8F-BC03-216393AF4A3C",
+          "masterId": "npb_baystars_83385152",
+          "name": "Ａ．コックス",
+          "profileURL": "https://npb.jp/bis/players/83385152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E3AE7AB0-F2FA-58E4-AE58-30B0EBAD99B8",
+          "masterId": "npb_baystars_61665155",
+          "name": "深沢 鳳介",
+          "profileURL": "https://npb.jp/bis/players/61665155.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BD1F2CE4-1A25-5BF0-875A-CF240BB298DA",
+          "masterId": "npb_baystars_93195134",
+          "name": "森原 康平",
+          "profileURL": "https://npb.jp/bis/players/93195134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "138CE5AE-FC4A-5321-8873-A6A5FCE8DA7D",
+          "masterId": "npb_baystars_61965150",
+          "name": "坂口 翔颯",
+          "profileURL": "https://npb.jp/bis/players/61965150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9D9091EA-4D27-5FB8-87C1-4E099C6A60F4",
+          "masterId": "npb_baystars_61565152",
+          "name": "片山 皓心",
+          "profileURL": "https://npb.jp/bis/players/61565152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "03BCF545-DED4-5BE8-A1B0-EEBD316D899D",
+          "masterId": "npb_baystars_53955152",
+          "name": "Ｊ．ルイーズ",
+          "profileURL": "https://npb.jp/bis/players/53955152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3E90405-1C1F-539D-9099-4A34F876141D",
+          "masterId": "npb_baystars_21425153",
+          "name": "中川 颯",
+          "profileURL": "https://npb.jp/bis/players/21425153.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A10E6AA6-A8D7-594F-910A-F380544E3753",
+          "masterId": "npb_baystars_21125159",
+          "name": "石田 裕太郎",
+          "profileURL": "https://npb.jp/bis/players/21125159.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA257EC0-176F-550F-94B6-CA871F711666",
+          "masterId": "npb_baystars_01905139",
+          "name": "平良 拳太郎",
+          "profileURL": "https://npb.jp/bis/players/01905139.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5AC6D75D-74AC-5552-8687-3CF11A3C4456",
+          "masterId": "npb_baystars_93995152",
+          "name": "Ｓ．レイノルズ",
+          "profileURL": "https://npb.jp/bis/players/93995152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28327666-B3FF-5368-A521-203C601F5C5A",
+          "masterId": "npb_baystars_21225136",
+          "name": "中川 虎大",
+          "profileURL": "https://npb.jp/bis/players/21225136.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "21FB838C-0210-5955-BDBB-42712AE000DD",
+          "masterId": "npb_baystars_51855138",
+          "name": "宮城 滝太",
+          "profileURL": "https://npb.jp/bis/players/51855138.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E989EC9D-F05D-5F87-B209-04727CBAE422",
+          "masterId": "npb_baystars_81385153",
+          "name": "岩田 将貴",
+          "profileURL": "https://npb.jp/bis/players/81385153.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "75F1D693-AC95-5E7F-A5DA-7CD11120CA69",
+          "masterId": "npb_baystars_71875134",
+          "name": "堀岡 隼人",
+          "profileURL": "https://npb.jp/bis/players/71875134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2E72C183-02C9-5F2D-BC0C-E4E455E56001",
+          "masterId": "npb_baystars_21825157",
+          "name": "松尾 汐恩",
+          "profileURL": "https://npb.jp/bis/players/21825157.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30DBF2D8-9440-5BA6-89D3-567473FC4EFE",
+          "masterId": "npb_baystars_41245132",
+          "name": "戸柱 恭孝",
+          "profileURL": "https://npb.jp/bis/players/41245132.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A3E262F-93B3-55BD-950F-57CC2039C081",
+          "masterId": "npb_baystars_91695138",
+          "name": "益子 京右",
+          "profileURL": "https://npb.jp/bis/players/91695138.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C024CBF4-725A-566B-BD5C-0F2745809096",
+          "masterId": "npb_baystars_51155151",
+          "name": "東妻 純平",
+          "profileURL": "https://npb.jp/bis/players/51155151.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C8AAF066-F329-517D-860A-D9767D8E07DD",
+          "masterId": "npb_baystars_31735134",
+          "name": "九鬼 隆平",
+          "profileURL": "https://npb.jp/bis/players/31735134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7EE0D93F-0993-5720-8791-5B202ABD12AE",
+          "masterId": "npb_baystars_91695157",
+          "name": "林 琢真",
+          "profileURL": "https://npb.jp/bis/players/91695157.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1DBB55BB-E346-5A6A-8489-3831CCD9A0BB",
+          "masterId": "npb_baystars_13115153",
+          "name": "牧 秀悟",
+          "profileURL": "https://npb.jp/bis/players/13115153.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "95ECCD91-FAF8-5C7B-87A4-EB1DA8CAB774",
+          "masterId": "npb_baystars_41545152",
+          "name": "小田 康一郎",
+          "profileURL": "https://npb.jp/bis/players/41545152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "507A8213-A386-55A2-A16B-4E09FE9587B6",
+          "masterId": "npb_baystars_33135151",
+          "name": "森 敬斗",
+          "profileURL": "https://npb.jp/bis/players/33135151.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "44F738F6-9E88-54AB-8260-41ED33604C38",
+          "masterId": "npb_baystars_81585134",
+          "name": "京田 陽太",
+          "profileURL": "https://npb.jp/bis/players/81585134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7780EF46-0F2A-528C-8294-C5AE7853855A",
+          "masterId": "npb_baystars_41945131",
+          "name": "筒香 嘉智",
+          "profileURL": "https://npb.jp/bis/players/41945131.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3F932B63-F192-51BC-862D-F563014DE842",
+          "masterId": "npb_baystars_33135134",
+          "name": "三森 大貴",
+          "profileURL": "https://npb.jp/bis/players/33135134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E7D738F-8FF2-5377-8C48-E727B979009D",
+          "masterId": "npb_baystars_41945132",
+          "name": "柴田 竜拓",
+          "profileURL": "https://npb.jp/bis/players/41945132.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "20C2FC3E-9785-5FE3-9E0C-FA3FC576EFC1",
+          "masterId": "npb_baystars_53155152",
+          "name": "宮下 朝陽",
+          "profileURL": "https://npb.jp/bis/players/53155152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "65643DBE-08ED-50D1-A307-0AE66C1AF5FF",
+          "masterId": "npb_baystars_21525150",
+          "name": "加藤 響",
+          "profileURL": "https://npb.jp/bis/players/21525150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "484CE474-A6C9-57D0-8194-C74FE0A445CC",
+          "masterId": "npb_baystars_91195159",
+          "name": "石上 泰輝",
+          "profileURL": "https://npb.jp/bis/players/91195159.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E41C359-A23B-50D3-837C-401E458414FB",
+          "masterId": "npb_baystars_91495152",
+          "name": "成瀬 脩人",
+          "profileURL": "https://npb.jp/bis/players/91495152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C407A24A-954E-50C9-B73E-04E4828D0962",
+          "masterId": "npb_baystars_51455137",
+          "name": "宮﨑 敏郎",
+          "profileURL": "https://npb.jp/bis/players/51455137.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87907F3F-E293-5950-85F3-16FD33B3A31A",
+          "masterId": "npb_baystars_91495150",
+          "name": "田内 真翔",
+          "profileURL": "https://npb.jp/bis/players/91495150.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "330DE6EB-F121-5637-BAD9-3A8CF35B12AF",
+          "masterId": "npb_baystars_13715132",
+          "name": "Ｄ．ビシエド",
+          "profileURL": "https://npb.jp/bis/players/13715132.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2B988EB5-E29C-545F-AC85-7A96FD3712E5",
+          "masterId": "npb_baystars_33535159",
+          "name": "度会 隆輝",
+          "profileURL": "https://npb.jp/bis/players/33535159.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7CB707BC-A2C3-5D65-AE68-0B57305A091F",
+          "masterId": "npb_baystars_91995134",
+          "name": "佐野 恵太",
+          "profileURL": "https://npb.jp/bis/players/91995134.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28C62F4B-EF72-5717-81F3-1EC9FD323FEC",
+          "masterId": "npb_baystars_71575136",
+          "name": "神里 和毅",
+          "profileURL": "https://npb.jp/bis/players/71575136.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D0F4DA78-80F4-59B0-91BD-220CCF714571",
+          "masterId": "npb_baystars_41545138",
+          "name": "勝又 温史",
+          "profileURL": "https://npb.jp/bis/players/41545138.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39B8390D-4204-50AE-BA13-C1EBA4D7F86B",
+          "masterId": "npb_baystars_31335159",
+          "name": "井上 絢登",
+          "profileURL": "https://npb.jp/bis/players/31335159.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3325CCC9-EA33-5173-9ECF-DC005E90663A",
+          "masterId": "npb_baystars_51555155",
+          "name": "梶原 昂希",
+          "profileURL": "https://npb.jp/bis/players/51555155.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "07B4B964-6647-5F09-8BFB-AD063C6087B2",
+          "masterId": "npb_baystars_51555151",
+          "name": "蝦名 達夫",
+          "profileURL": "https://npb.jp/bis/players/51555151.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8085D72-4FF7-5B86-9FAE-8C89D0AE4A25",
+          "masterId": "npb_baystars_31935139",
+          "name": "関根 大気",
+          "profileURL": "https://npb.jp/bis/players/31935139.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59C3EAC2-70E2-5EAC-A225-9209B6C269CE",
+          "masterId": "npb_baystars_13715152",
+          "name": "Ｃ．ヒュンメル",
+          "profileURL": "https://npb.jp/bis/players/13715152.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "306DCE57-D74B-5883-9587-CFCB5BB742DA",
+          "masterId": "npb_baystars_33235155",
+          "name": "Ｈ．マルセリーノ",
+          "profileURL": "https://npb.jp/bis/players/33235155.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4D9EFA54-AF4F-50F1-A18E-1F699F4D1EBF",
+          "masterId": "npb_baystars_61365136",
+          "name": "尾形 崇斗",
+          "profileURL": "https://npb.jp/bis/players/61365136.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E33CA63F-E700-5733-AD09-42918C9FC8BF",
+          "masterId": "npb_baystars_01305153",
+          "name": "井上 朋也",
+          "profileURL": "https://npb.jp/bis/players/01305153.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#005BAC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

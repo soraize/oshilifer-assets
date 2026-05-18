@@ -128,6 +128,28 @@
     ]
   },
   {
+    "categoryId": "music_artist",
+    "name": "音楽アーティスト",
+    "agencies": [
+      {
+        "agencyId": "jpop_rock",
+        "name": "J-POP / バンド",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jpop_rock.json"
+      }
+    ]
+  },
+  {
+    "categoryId": "kpop",
+    "name": "K-POP",
+    "agencies": [
+      {
+        "agencyId": "kpop",
+        "name": "K-POP",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/kpop.json"
+      }
+    ]
+  },
+  {
     "categoryId": "vtuber",
     "name": "VTuber",
     "agencies": [

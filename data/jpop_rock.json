@@ -1,0 +1,952 @@
+{
+  "agencyId": "jpop_rock",
+  "agency": "J-POP / バンド",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "4B4CF8E1-21CB-58F2-BF8D-47F77E9E34B6",
+      "masterId": "jpop_rock_mrs_green_apple",
+      "name": "Mrs. GREEN APPLE",
+      "isActive": true,
+      "profileURL": "https://mrsgreenapple.com/",
+      "colorHex": [
+        "#2DBE60"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/AORINGOHUZIN",
+        "instagram": "https://www.instagram.com/mgaband/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://mrsgreenapple.com/pages/live",
+      "members": [
+        {
+          "uuid": "F1740189-C0F1-5612-8738-559753F908F1",
+          "masterId": "jpop_rock_mrs_green_apple_motoki_ohmori",
+          "name": "大森元貴",
+          "profileURL": "https://mrsgreenapple.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2DBE60"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/motoki_ohmori_mga/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "33FE0541-7AE0-5EBD-8C68-EFDB0BE50449",
+          "masterId": "jpop_rock_mrs_green_apple_hiloto_wakai",
+          "name": "若井滉斗",
+          "profileURL": "https://mrsgreenapple.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2DBE60"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/hiloto_wakai_mga/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D259D7E-4995-5AF1-934F-1E82EFEA2E1E",
+          "masterId": "jpop_rock_mrs_green_apple_ryoka_fujisawa",
+          "name": "藤澤涼架",
+          "profileURL": "https://mrsgreenapple.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2DBE60"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": "https://www.instagram.com/ryoka_fujisawa_mga/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5338E259-1A11-5B06-83DA-0483B591B0A3",
+      "masterId": "jpop_rock_back_number",
+      "name": "back number",
+      "isActive": true,
+      "profileURL": "https://backnumber.info/",
+      "colorHex": [
+        "#4C6A92"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/backnumberstaff",
+        "instagram": "https://www.instagram.com/back_number_official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://backnumber.info/schedule/",
+      "members": [
+        {
+          "uuid": "2A6658ED-7F7A-5722-8A2A-92AB4CB44D49",
+          "masterId": "jpop_rock_back_number_iyori_shimizu",
+          "name": "清水依与吏",
+          "profileURL": "https://backnumber.info/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4C6A92"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F1CDFF13-3912-5B04-BE70-074FD8290B08",
+          "masterId": "jpop_rock_back_number_kazuya_kojima",
+          "name": "小島和也",
+          "profileURL": "https://backnumber.info/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4C6A92"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87CD8E76-CEF6-52B4-90E9-0DC2C81A7D85",
+          "masterId": "jpop_rock_back_number_hisashi_kurihara",
+          "name": "栗原寿",
+          "profileURL": "https://backnumber.info/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4C6A92"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EE039154-326A-5A72-A899-C0D3F15DB8FD",
+      "masterId": "jpop_rock_kenshi_yonezu",
+      "name": "米津玄師",
+      "isActive": true,
+      "profileURL": "https://reissuerecords.net/",
+      "colorHex": [
+        "#C94B3A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/hachi_08",
+        "instagram": "https://www.instagram.com/hachi_08/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://reissuerecords.net/news/",
+      "members": [
+        {
+          "uuid": "0F1A2EBC-ED04-5D90-A89E-30180EE35743",
+          "masterId": "jpop_rock_kenshi_yonezu_kenshi_yonezu",
+          "name": "米津玄師",
+          "profileURL": "https://reissuerecords.net/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C94B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8DC729A9-8FAC-5150-9D4C-B8CA18F84892",
+      "masterId": "jpop_rock_vaundy",
+      "name": "Vaundy",
+      "isActive": true,
+      "profileURL": "https://vaundy.jp/",
+      "colorHex": [
+        "#F28C28"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/vaundy_engawa",
+        "instagram": "https://www.instagram.com/vaundy_engawa/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://vaundy.jp/news/",
+      "members": [
+        {
+          "uuid": "CB38B7F2-43A3-50C7-9C4C-9F38EFE82D6F",
+          "masterId": "jpop_rock_vaundy_vaundy",
+          "name": "Vaundy",
+          "profileURL": "https://vaundy.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5535914A-2134-51A6-B7A0-E475AFA7BEF6",
+      "masterId": "jpop_rock_official_hige_dandism",
+      "name": "Official髭男dism",
+      "isActive": true,
+      "profileURL": "https://higedan.com/",
+      "colorHex": [
+        "#D9A441"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/officialhige",
+        "instagram": "https://www.instagram.com/officialhigedandism/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://event.higedan.com/",
+      "members": [
+        {
+          "uuid": "9A2A5382-09FA-55E6-8879-C6718849FE84",
+          "masterId": "jpop_rock_official_hige_dandism_satoshi_fujihara",
+          "name": "藤原聡",
+          "profileURL": "https://higedan.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D9A441"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7AF9B2FE-3E59-56E5-B307-8050A8FA44E9",
+          "masterId": "jpop_rock_official_hige_dandism_daisuke_ozasa",
+          "name": "小笹大輔",
+          "profileURL": "https://higedan.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D9A441"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39B310B4-F36F-5BDC-93AA-48ACD693AA31",
+          "masterId": "jpop_rock_official_hige_dandism_makoto_narazaki",
+          "name": "楢崎誠",
+          "profileURL": "https://higedan.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D9A441"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E1B54A0-8D89-5FA0-A3F2-79A78CCAB832",
+          "masterId": "jpop_rock_official_hige_dandism_masaki_matsuura",
+          "name": "松浦匡希",
+          "profileURL": "https://higedan.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D9A441"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "ECE26D61-5CEC-5B5E-B0D7-E9AB24C502D6",
+      "masterId": "jpop_rock_yoasobi",
+      "name": "YOASOBI",
+      "isActive": true,
+      "profileURL": "https://www.yoasobi-music.jp/",
+      "colorHex": [
+        "#E61E78",
+        "#2D5BE3"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/YOASOBI_staff",
+        "instagram": "https://www.instagram.com/yoasobi_staff_/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.yoasobi-music.jp/live",
+      "members": [
+        {
+          "uuid": "1C736269-E3AE-54A5-AC93-F3686FA139FC",
+          "masterId": "jpop_rock_yoasobi_ayase",
+          "name": "Ayase",
+          "profileURL": "https://www.yoasobi-music.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D5BE3"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/Ayase_0404",
+            "instagram": "https://www.instagram.com/ayase_0404/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E45DD95C-705D-55AC-A2C3-DF2F146E2433",
+          "masterId": "jpop_rock_yoasobi_ikura",
+          "name": "ikura",
+          "profileURL": "https://www.yoasobi-music.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E61E78"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/ikutalilas",
+            "instagram": "https://www.instagram.com/lilasikuta/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "D20DA35A-C224-58A0-BD70-AD7F314DB204",
+      "masterId": "jpop_rock_creepy_nuts",
+      "name": "Creepy Nuts",
+      "isActive": true,
+      "profileURL": "https://creepynuts.com/",
+      "colorHex": [
+        "#6B4E9B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Creepy_Nuts_",
+        "instagram": "https://www.instagram.com/creepynuts_official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://creepynuts.com/schedule/",
+      "members": [
+        {
+          "uuid": "0D81CB1B-6023-5F62-984B-69A5233CCFF0",
+          "masterId": "jpop_rock_creepy_nuts_r_shitei",
+          "name": "R-指定",
+          "profileURL": "https://creepynuts.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6B4E9B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D481E12C-1CFF-5A3D-B420-F8EF0BCA8701",
+          "masterId": "jpop_rock_creepy_nuts_dj_matsunaga",
+          "name": "DJ松永",
+          "profileURL": "https://creepynuts.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6B4E9B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "339F75C1-A391-5F91-ACFE-47FBE30EA2B2",
+      "masterId": "jpop_rock_ado",
+      "name": "Ado",
+      "isActive": true,
+      "profileURL": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+      "colorHex": [
+        "#1B2A7A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ado1024imokenp",
+        "instagram": "https://www.instagram.com/ado1024sweetpotet/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://ado-dokidokihimitsukichi-daigakuimo.com/articles/news",
+      "members": [
+        {
+          "uuid": "39BD4A11-AD27-5C6C-B269-AE951368A0EB",
+          "masterId": "jpop_rock_ado_ado",
+          "name": "Ado",
+          "profileURL": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1B2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5125E853-5EA0-5469-A566-8D5ED734FF2C",
+      "masterId": "jpop_rock_king_gnu",
+      "name": "King Gnu",
+      "isActive": true,
+      "profileURL": "https://kinggnu.jp/",
+      "colorHex": [
+        "#222222"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/KingGnu_JP",
+        "instagram": "https://www.instagram.com/kinggnu.jp/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kinggnu.jp/live/",
+      "members": [
+        {
+          "uuid": "4FC08C7F-A5F7-5231-A657-473EFAAC1FD5",
+          "masterId": "jpop_rock_king_gnu_daiki_tsuneta",
+          "name": "常田大希",
+          "profileURL": "https://kinggnu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/DaikiTsuneta",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ACCE9DF0-7118-57F7-9426-FE373E8BAF3E",
+          "masterId": "jpop_rock_king_gnu_yu_seki",
+          "name": "勢喜遊",
+          "profileURL": "https://kinggnu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "97F60213-76B1-555B-90AB-3FCBDB8ABC86",
+          "masterId": "jpop_rock_king_gnu_kazuki_arai",
+          "name": "新井和輝",
+          "profileURL": "https://kinggnu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "68B3B192-C9DA-5926-ADA2-B6F1DD88B0F6",
+          "masterId": "jpop_rock_king_gnu_satoru_iguchi",
+          "name": "井口理",
+          "profileURL": "https://kinggnu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "3D5216D8-C223-5A73-821F-1BD289DFD7CD",
+      "masterId": "jpop_rock_one_ok_rock",
+      "name": "ONE OK ROCK",
+      "isActive": true,
+      "profileURL": "https://www.oneokrock.com/",
+      "colorHex": [
+        "#D7262F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ONEOKROCK_japan",
+        "instagram": "https://www.instagram.com/oneokrockofficial/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.oneokrock.com/en/tour/",
+      "members": [
+        {
+          "uuid": "1DF76E4B-C37E-5F47-B75C-A4263298B376",
+          "masterId": "jpop_rock_one_ok_rock_taka",
+          "name": "Taka",
+          "profileURL": "https://www.oneokrock.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E5EB0C58-29D8-5042-B584-C7955FADEC55",
+          "masterId": "jpop_rock_one_ok_rock_toru",
+          "name": "Toru",
+          "profileURL": "https://www.oneokrock.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABCD1881-7F97-5711-B5BF-2214C4C8C9AD",
+          "masterId": "jpop_rock_one_ok_rock_ryota",
+          "name": "Ryota",
+          "profileURL": "https://www.oneokrock.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5595D406-405C-56E3-9C74-C33D8AE4BC2C",
+          "masterId": "jpop_rock_one_ok_rock_tomoya",
+          "name": "Tomoya",
+          "profileURL": "https://www.oneokrock.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A831A575-1DE0-559D-89F8-B5989A2BBB3E",
+      "masterId": "jpop_rock_fuji_kaze",
+      "name": "藤井風",
+      "isActive": true,
+      "profileURL": "https://fujiikaze.com/",
+      "colorHex": [
+        "#6BBE92"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/FujiiKaze",
+        "instagram": "https://www.instagram.com/fujiikaze/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://fujiikaze.com/news/",
+      "members": [
+        {
+          "uuid": "078A0F47-74B2-539A-8D68-246D928E914A",
+          "masterId": "jpop_rock_fuji_kaze_fuji_kaze",
+          "name": "藤井風",
+          "profileURL": "https://fujiikaze.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6BBE92"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "94FE1FCE-7059-502B-8184-4B8FBBDBEBB1",
+      "masterId": "jpop_rock_aimyon",
+      "name": "あいみょん",
+      "isActive": true,
+      "profileURL": "https://www.aimyong.net/",
+      "colorHex": [
+        "#F2C94C"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/aimyonGtter",
+        "instagram": "https://www.instagram.com/aimyon36/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.aimyong.net/news/",
+      "members": [
+        {
+          "uuid": "A204AF8C-35FD-5BD2-81D3-7475AF7BCD0D",
+          "masterId": "jpop_rock_aimyon_aimyon",
+          "name": "あいみょん",
+          "profileURL": "https://www.aimyong.net/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "12F7126D-AA45-5E70-B780-0E98EF5A6A05",
+      "masterId": "jpop_rock_bump_of_chicken",
+      "name": "BUMP OF CHICKEN",
+      "isActive": true,
+      "profileURL": "https://www.bumpofchicken.com/",
+      "colorHex": [
+        "#34495E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/boc_official_",
+        "instagram": "https://www.instagram.com/bumpofchickenofficial/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.bumpofchicken.com/news/",
+      "members": [
+        {
+          "uuid": "B174DC22-A347-5AAB-88FE-4704CBDDEA09",
+          "masterId": "jpop_rock_bump_of_chicken_motoo_fujiwara",
+          "name": "藤原基央",
+          "profileURL": "https://www.bumpofchicken.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#34495E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "85C6378B-BADB-5C8D-BE7F-9991A742B345",
+          "masterId": "jpop_rock_bump_of_chicken_hiroaki_masugawa",
+          "name": "増川弘明",
+          "profileURL": "https://www.bumpofchicken.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#34495E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ECE32558-F7F7-57B4-8F70-70A00B54A07C",
+          "masterId": "jpop_rock_bump_of_chicken_yoshifumi_naoi",
+          "name": "直井由文",
+          "profileURL": "https://www.bumpofchicken.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#34495E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30B13411-3DEF-5148-B24C-42B646B1673A",
+          "masterId": "jpop_rock_bump_of_chicken_hidetaka_masu",
+          "name": "升秀夫",
+          "profileURL": "https://www.bumpofchicken.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#34495E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8B93CC8F-5A09-5E7B-8E85-53196B6FF926",
+      "masterId": "jpop_rock_sekai_no_owari",
+      "name": "SEKAI NO OWARI",
+      "isActive": true,
+      "profileURL": "https://sekainoowari.jp/",
+      "colorHex": [
+        "#6CC6D9"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/SekaiNoOwariOFC",
+        "instagram": "https://www.instagram.com/sekainoowari/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://sekainoowari.jp/schedule/",
+      "members": [
+        {
+          "uuid": "69D2AA21-6639-5901-93FB-FD7CEC115304",
+          "masterId": "jpop_rock_sekai_no_owari_fukase",
+          "name": "Fukase",
+          "profileURL": "https://sekainoowari.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6CC6D9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BC443CB3-59FB-5A82-BD7D-C94DCD443808",
+          "masterId": "jpop_rock_sekai_no_owari_nakajin",
+          "name": "Nakajin",
+          "profileURL": "https://sekainoowari.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6CC6D9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "12D5F70B-F056-50CC-A661-F94B7C206B8F",
+          "masterId": "jpop_rock_sekai_no_owari_saori",
+          "name": "Saori",
+          "profileURL": "https://sekainoowari.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6CC6D9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4CFD1CE7-BA10-56D4-B89C-183354CEC882",
+          "masterId": "jpop_rock_sekai_no_owari_dj_love",
+          "name": "DJ LOVE",
+          "profileURL": "https://sekainoowari.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6CC6D9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "D244DD4F-E7D6-5834-919C-7793B0F1BB8F",
+      "masterId": "jpop_rock_yorushika",
+      "name": "ヨルシカ",
+      "isActive": true,
+      "profileURL": "https://yorushika.com/",
+      "colorHex": [
+        "#4E8C7A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/nbuna_staff",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://yorushika.com/news/",
+      "members": [
+        {
+          "uuid": "96FDF8D9-0491-58F8-90D3-8C348445D5B0",
+          "masterId": "jpop_rock_yorushika_n_buna",
+          "name": "n-buna",
+          "profileURL": "https://yorushika.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E8C7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "23487737-036D-5A64-8AF7-44CE6CCF7A51",
+          "masterId": "jpop_rock_yorushika_suis",
+          "name": "suis",
+          "profileURL": "https://yorushika.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E8C7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

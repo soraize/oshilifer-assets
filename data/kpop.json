@@ -1,0 +1,1402 @@
+{
+  "agencyId": "kpop",
+  "agency": "K-POP",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "AC550EA6-ABDB-5EE3-B812-DD58A9AA7678",
+      "masterId": "kpop_bts",
+      "name": "BTS",
+      "isActive": true,
+      "profileURL": "https://bts.ibighit.com/eng/profile/",
+      "colorHex": [
+        "#7F3FBF"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/BTS_bighit",
+        "instagram": "https://www.instagram.com/bts.bighitofficial/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://ibighit.com/bts/eng/news/",
+      "members": [
+        {
+          "uuid": "9B70A6A5-50E8-5C42-9A5A-3CA1B16DD20E",
+          "masterId": "kpop_bts_rm",
+          "name": "RM",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B1F631D-C0E4-5D56-ABB2-0E71C4DF3FF2",
+          "masterId": "kpop_bts_jin",
+          "name": "Jin",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "12-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "19462AFA-3A10-5FC1-885D-ABA71DAFA263",
+          "masterId": "kpop_bts_suga",
+          "name": "SUGA",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8C5234ED-2B4C-52C9-935D-1B2236091DCF",
+          "masterId": "kpop_bts_j_hope",
+          "name": "j-hope",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1DEC1214-0BC9-59D3-A21E-8AE7387BF82A",
+          "masterId": "kpop_bts_jimin",
+          "name": "Jimin",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8AF80260-B9F0-540A-83AC-8CFD41DF85A5",
+          "masterId": "kpop_bts_v",
+          "name": "V",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "12-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4292597-A56D-5B9E-B19C-2E0698B43DC9",
+          "masterId": "kpop_bts_jung_kook",
+          "name": "Jung Kook",
+          "profileURL": "https://bts.ibighit.com/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F3FBF"
+          ],
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9E17ECDD-D2A1-5331-B5D1-CB306CF38DFB",
+      "masterId": "kpop_blackpink",
+      "name": "BLACKPINK",
+      "isActive": true,
+      "profileURL": "https://www.blackpinkofficial.com/",
+      "colorHex": [
+        "#FF4FA3",
+        "#111111"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/BLACKPINK",
+        "instagram": "https://www.instagram.com/blackpinkofficial/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.blackpinkofficial.com/news",
+      "members": [
+        {
+          "uuid": "05BCCBBC-45FF-5F90-82E0-B42DD1068CE4",
+          "masterId": "kpop_blackpink_jisoo",
+          "name": "JISOO",
+          "profileURL": "https://www.blackpinkofficial.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF4FA3",
+            "#111111"
+          ],
+          "birthday": "01-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "57A02FD0-8281-59A3-AF0A-6C5C43FFF54C",
+          "masterId": "kpop_blackpink_jennie",
+          "name": "JENNIE",
+          "profileURL": "https://www.blackpinkofficial.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF4FA3",
+            "#111111"
+          ],
+          "birthday": "01-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2F6A4DE9-9236-5A38-BA6D-044380BCC2F1",
+          "masterId": "kpop_blackpink_rose",
+          "name": "ROSÉ",
+          "profileURL": "https://www.blackpinkofficial.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF4FA3",
+            "#111111"
+          ],
+          "birthday": "02-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D897B650-6F0F-57BC-9B24-2F23B65C4A47",
+          "masterId": "kpop_blackpink_lisa",
+          "name": "LISA",
+          "profileURL": "https://www.blackpinkofficial.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF4FA3",
+            "#111111"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "FA87470B-8D29-53FA-8EA4-4C06853D580A",
+      "masterId": "kpop_twice",
+      "name": "TWICE",
+      "isActive": true,
+      "profileURL": "https://twice.jype.com/Mobile/Profile",
+      "colorHex": [
+        "#FF5FA2",
+        "#FFC56E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/JYPETWICE",
+        "instagram": "https://www.instagram.com/twicetagram/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://twice.jype.com/mobile/schedule",
+      "members": [
+        {
+          "uuid": "BA6774A1-5F74-5EA8-9091-6928AC2E9D90",
+          "masterId": "kpop_twice_nayeon",
+          "name": "NAYEON",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EC6651F1-C6E0-5C74-B09A-C952C2CEE2F7",
+          "masterId": "kpop_twice_jeongyeon",
+          "name": "JEONGYEON",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7A8FBB3A-3B8F-5486-8C80-05C679832C64",
+          "masterId": "kpop_twice_momo",
+          "name": "MOMO",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "11-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E799E415-C67F-5152-BCCB-4F06C557162D",
+          "masterId": "kpop_twice_sana",
+          "name": "SANA",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "12-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5182FB48-FB54-5B49-873D-3BCFCB3283B8",
+          "masterId": "kpop_twice_jihyo",
+          "name": "JIHYO",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "02-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "758A8F11-DD67-52C3-8A78-DBEDB354F8D6",
+          "masterId": "kpop_twice_mina",
+          "name": "MINA",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C5EFCCC8-1FEF-5C7A-90F4-F9E43DEC2EDC",
+          "masterId": "kpop_twice_dahyun",
+          "name": "DAHYUN",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "05-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1F0A3468-8737-5B08-8AA3-FA6BA867E44D",
+          "masterId": "kpop_twice_chaeyoung",
+          "name": "CHAEYOUNG",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "04-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "120F353C-B8E1-5978-A0D5-996ACC52170A",
+          "masterId": "kpop_twice_tzuyu",
+          "name": "TZUYU",
+          "profileURL": "https://twice.jype.com/Mobile/Profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF5FA2",
+            "#FFC56E"
+          ],
+          "birthday": "06-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "02C3827F-5FA5-5377-9950-F4961F4B5C40",
+      "masterId": "kpop_seventeen",
+      "name": "SEVENTEEN",
+      "isActive": true,
+      "profileURL": "https://www.seventeen-17.jp/",
+      "colorHex": [
+        "#F7CAC9",
+        "#92A8D1"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pledis_17",
+        "instagram": "https://www.instagram.com/saythename_17/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.seventeen-17.jp/posts/information",
+      "members": [
+        {
+          "uuid": "EC3FE9C3-BBBD-5325-9465-DB80B17BB916",
+          "masterId": "kpop_seventeen_s_coups",
+          "name": "S.COUPS",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "08-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "71E4BBF7-8871-543A-B1ED-37693066C675",
+          "masterId": "kpop_seventeen_jeonghan",
+          "name": "JEONGHAN",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "10-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9B84138-C02F-5387-BDF0-E9894EF24011",
+          "masterId": "kpop_seventeen_joshua",
+          "name": "JOSHUA",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "12-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "49B34A85-97BD-5967-814F-C40BD0E5F548",
+          "masterId": "kpop_seventeen_jun",
+          "name": "JUN",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "06-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C6DE7BE3-C58C-5FFD-970C-797A9D286457",
+          "masterId": "kpop_seventeen_hoshi",
+          "name": "HOSHI",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15F9C4A1-A4AB-515B-B0D8-636B759EF77B",
+          "masterId": "kpop_seventeen_wonwoo",
+          "name": "WONWOO",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "07-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A032B08-4059-58C9-B7C0-A801B3A1C06C",
+          "masterId": "kpop_seventeen_woozi",
+          "name": "WOOZI",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "11-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "21DA5F07-1AE3-5096-BCD5-B025989C1D7F",
+          "masterId": "kpop_seventeen_the8",
+          "name": "THE 8",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "11-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABE8AAC7-1315-5B83-8FE5-73EDA14441E7",
+          "masterId": "kpop_seventeen_mingyu",
+          "name": "MINGYU",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABA8FED8-DD34-59C1-BF69-01823B0808FB",
+          "masterId": "kpop_seventeen_dk",
+          "name": "DK",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51F0256D-055E-5055-A941-E428948020F9",
+          "masterId": "kpop_seventeen_seungkwan",
+          "name": "SEUNGKWAN",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "01-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6FEC8294-B3CB-595E-95FA-FFB427CF8641",
+          "masterId": "kpop_seventeen_vernon",
+          "name": "VERNON",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9EB72BCE-B8E3-5827-B99F-3F97EC798D63",
+          "masterId": "kpop_seventeen_dino",
+          "name": "DINO",
+          "profileURL": "https://www.seventeen-17.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7CAC9",
+            "#92A8D1"
+          ],
+          "birthday": "02-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "670BC8DE-6E6B-5582-9CA7-3E1EC5B1266B",
+      "masterId": "kpop_stray_kids",
+      "name": "Stray Kids",
+      "isActive": true,
+      "profileURL": "https://straykids.jype.com/",
+      "colorHex": [
+        "#E31B23"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Stray_Kids",
+        "instagram": "https://www.instagram.com/realstraykids/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://straykids.jype.com/Default/Schedule",
+      "members": [
+        {
+          "uuid": "3AA6376D-7A0B-5AF9-BA91-9E9241280792",
+          "masterId": "kpop_stray_kids_bang_chan",
+          "name": "Bang Chan",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "10-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0163C666-68EF-5747-AEAE-7219A3987797",
+          "masterId": "kpop_stray_kids_lee_know",
+          "name": "Lee Know",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BEF9DC62-5FFA-54F4-A87D-5433659B9683",
+          "masterId": "kpop_stray_kids_changbin",
+          "name": "Changbin",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "08-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2CDA3A3-6FAA-52B2-93D1-C6D947DA3BA9",
+          "masterId": "kpop_stray_kids_hyunjin",
+          "name": "Hyunjin",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "03-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "390ACEE4-06BF-5248-95A8-5EA4626B168D",
+          "masterId": "kpop_stray_kids_han",
+          "name": "HAN",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DEA30553-4862-5ECC-B04E-960C7E3CD9D2",
+          "masterId": "kpop_stray_kids_felix",
+          "name": "Felix",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "09-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2AD43CDD-1B2E-58C7-9B41-9A7F998E4B37",
+          "masterId": "kpop_stray_kids_seungmin",
+          "name": "Seungmin",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EFDD70EE-7304-5DF0-A6C3-A8007DA15A85",
+          "masterId": "kpop_stray_kids_in",
+          "name": "I.N",
+          "profileURL": "https://straykids.jype.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "28ADBA5B-9A1C-534D-820D-0B1A6628CD3B",
+      "masterId": "kpop_aespa",
+      "name": "aespa",
+      "isActive": true,
+      "profileURL": "https://www.smtown.com/artist/musician/10766",
+      "colorHex": [
+        "#8A5CFF"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/aespa_official",
+        "instagram": "https://www.instagram.com/aespa_official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.smtown.com/news",
+      "members": [
+        {
+          "uuid": "534C6601-1805-568F-9D16-EB5D6BB8AAFB",
+          "masterId": "kpop_aespa_karina",
+          "name": "KARINA",
+          "profileURL": "https://www.smtown.com/artist/musician/10766",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8A5CFF"
+          ],
+          "birthday": "04-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7ACE840E-89FB-5230-A0CC-5A035566F643",
+          "masterId": "kpop_aespa_giselle",
+          "name": "GISELLE",
+          "profileURL": "https://www.smtown.com/artist/musician/10766",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8A5CFF"
+          ],
+          "birthday": "10-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3CAC4D2B-9346-58DF-A386-172A1CCA1A47",
+          "masterId": "kpop_aespa_winter",
+          "name": "WINTER",
+          "profileURL": "https://www.smtown.com/artist/musician/10766",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8A5CFF"
+          ],
+          "birthday": "01-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "75F180C2-2B3B-5F25-B421-120D6F95FE2D",
+          "masterId": "kpop_aespa_ningning",
+          "name": "NINGNING",
+          "profileURL": "https://www.smtown.com/artist/musician/10766",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8A5CFF"
+          ],
+          "birthday": "10-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "06E663D0-143A-56BE-9D49-A7510D5AE333",
+      "masterId": "kpop_ive",
+      "name": "IVE",
+      "isActive": true,
+      "profileURL": "https://ive-official.com/",
+      "colorHex": [
+        "#E94B87"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/IVEstarship",
+        "instagram": "https://www.instagram.com/ivestarship/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://ive-official.com/mob/news/diarKijiShw.php?site=DIVE&ima=0000&cd=SCHEDULE",
+      "members": [
+        {
+          "uuid": "71A7F563-EEEB-5958-8F74-2C2981EC523B",
+          "masterId": "kpop_ive_gaeul",
+          "name": "GAEUL",
+          "profileURL": "https://ive-official.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "09-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "77AF1283-CB69-591F-8E3C-F19792A308E1",
+          "masterId": "kpop_ive_yujin",
+          "name": "YUJIN",
+          "profileURL": "https://ive-official.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "09-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D2129AC4-22C5-5E82-A0CB-8F417DAEBCEE",
+          "masterId": "kpop_ive_rei",
+          "name": "REI",
+          "profileURL": "https://ive-official.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "02-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D737FA53-28C0-5AF7-AC08-C82E1C82C59B",
+          "masterId": "kpop_ive_wonyoung",
+          "name": "WONYOUNG",
+          "profileURL": "https://ive-official.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "08-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F5BE297E-BA41-5ADE-A68B-A08ED4F163C9",
+          "masterId": "kpop_ive_liz",
+          "name": "LIZ",
+          "profileURL": "https://ive-official.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "11-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F62912F6-2E8B-530F-BD25-B905A974828A",
+          "masterId": "kpop_ive_leeseo",
+          "name": "LEESEO",
+          "profileURL": "https://ive-official.com/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "02-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F7867A6C-C369-578D-9920-52DD346D54B4",
+      "masterId": "kpop_le_sserafim",
+      "name": "LE SSERAFIM",
+      "isActive": true,
+      "profileURL": "https://www.le-sserafim.jp/profile",
+      "colorHex": [
+        "#7BAFD4"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/le_sserafim",
+        "instagram": "https://www.instagram.com/le_sserafim/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.le-sserafim.jp/schedule",
+      "members": [
+        {
+          "uuid": "E64CFEA5-71F2-5DD0-9BC5-82A6338CC895",
+          "masterId": "kpop_le_sserafim_sakura",
+          "name": "SAKURA",
+          "profileURL": "https://www.le-sserafim.jp/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7BAFD4"
+          ],
+          "birthday": "03-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47DBA416-E8AE-59FC-9DC4-B80361D4034D",
+          "masterId": "kpop_le_sserafim_kim_chaewon",
+          "name": "KIM CHAEWON",
+          "profileURL": "https://www.le-sserafim.jp/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7BAFD4"
+          ],
+          "birthday": "08-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5B1C0C44-CC4A-5EAF-8100-03449B876133",
+          "masterId": "kpop_le_sserafim_huh_yunjin",
+          "name": "HUH YUNJIN",
+          "profileURL": "https://www.le-sserafim.jp/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7BAFD4"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26C6F0C1-F335-5928-8CA2-3B67C333F685",
+          "masterId": "kpop_le_sserafim_kazuha",
+          "name": "KAZUHA",
+          "profileURL": "https://www.le-sserafim.jp/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7BAFD4"
+          ],
+          "birthday": "08-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E4500C61-FBDF-50B9-A129-F66A9993E64B",
+          "masterId": "kpop_le_sserafim_hong_eunchae",
+          "name": "HONG EUNCHAE",
+          "profileURL": "https://www.le-sserafim.jp/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7BAFD4"
+          ],
+          "birthday": "11-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "118EFEC6-D4DC-5364-8A8D-43DEC9CE6DCC",
+      "masterId": "kpop_txt",
+      "name": "TOMORROW X TOGETHER",
+      "isActive": true,
+      "profileURL": "https://ibighit.com/txt/eng/profile/",
+      "colorHex": [
+        "#00C7B1"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/TXT_bighit",
+        "instagram": "https://www.instagram.com/txt_bighit/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://ibighit.com/txt/eng/news/",
+      "members": [
+        {
+          "uuid": "CF236C18-066C-536C-8C90-DD31701D86DB",
+          "masterId": "kpop_txt_yeonjun",
+          "name": "YEONJUN",
+          "profileURL": "https://ibighit.com/txt/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "09-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E85B069C-7ADC-5AED-B122-9382BB823214",
+          "masterId": "kpop_txt_soobin",
+          "name": "SOOBIN",
+          "profileURL": "https://ibighit.com/txt/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "12-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D39612E0-DC80-50CA-B1BD-2586F9982183",
+          "masterId": "kpop_txt_beomgyu",
+          "name": "BEOMGYU",
+          "profileURL": "https://ibighit.com/txt/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "03-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "52DE898B-14B1-5B13-9CA3-608EF56864A1",
+          "masterId": "kpop_txt_taehyun",
+          "name": "TAEHYUN",
+          "profileURL": "https://ibighit.com/txt/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8F5D81C3-AD8D-5F1F-8F2C-82F919082329",
+          "masterId": "kpop_txt_hueningkai",
+          "name": "HUENINGKAI",
+          "profileURL": "https://ibighit.com/txt/eng/profile/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00C7B1"
+          ],
+          "birthday": "08-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EEAAABC0-0385-536B-81B4-9E9596D86D65",
+      "masterId": "kpop_babymonster",
+      "name": "BABYMONSTER",
+      "isActive": true,
+      "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+      "colorHex": [
+        "#D7262F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/YGBABYMONSTER_",
+        "instagram": "https://www.instagram.com/babymonster_ygofficial/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://www.ygfamily.com/artist/News.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+      "members": [
+        {
+          "uuid": "EDA3DF74-D3DE-5C4D-B1FB-B9091E2B902C",
+          "masterId": "kpop_babymonster_ruka",
+          "name": "RUKA",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "03-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EE76CD5E-3375-55DA-BB78-8721FF5F66FE",
+          "masterId": "kpop_babymonster_pharita",
+          "name": "PHARITA",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "08-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "761FDE2D-EA22-51AE-A7D4-62573FC1A2A4",
+          "masterId": "kpop_babymonster_asa",
+          "name": "ASA",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "04-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "742AEC99-24DA-5801-B6BE-CF105BBEE7A7",
+          "masterId": "kpop_babymonster_ahyeon",
+          "name": "AHYEON",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "04-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B7107EF6-4B4F-5685-9D3A-59A09812C9B4",
+          "masterId": "kpop_babymonster_rami",
+          "name": "RAMI",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "10-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D5637B3-F901-5C2A-B82D-D0CC16C6AB26",
+          "masterId": "kpop_babymonster_rora",
+          "name": "RORA",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "08-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "95B24EAC-40B0-5FFC-A023-2F51C613B027",
+          "masterId": "kpop_babymonster_chiquita",
+          "name": "CHIQUITA",
+          "profileURL": "https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=122",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

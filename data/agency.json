@@ -201,6 +201,11 @@
         "agencyId": "genshin",
         "name": "原神",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/genshin.json"
+      },
+      {
+        "agencyId": "identity_v",
+        "name": "IdentityV 第五人格",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/identity_v.json"
       }
     ]
   },

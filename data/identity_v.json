@@ -1,0 +1,1511 @@
+{
+  "agencyId": "identity_v",
+  "agency": "IdentityV 第五人格",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "617642C8-0ACB-5938-82AB-6B42F1DBED12",
+      "masterId": "identity_v_survivors",
+      "name": "サバイバー",
+      "isActive": true,
+      "profileURL": "https://id5.fandom.com/wiki/Survivor",
+      "colorHex": [
+        "#4E6E8E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/IdentityVJP",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "623E868B-04DA-53FE-BA06-4CC629183996",
+          "masterId": "identity_v_survivors_lucky_guy",
+          "name": "幸運児",
+          "profileURL": "https://id5.fandom.com/wiki/Lucky_Guy",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0CF3ACBE-104B-5D7E-AE6D-6F202887657B",
+          "masterId": "identity_v_survivors_doctor",
+          "name": "医師",
+          "profileURL": "https://id5.fandom.com/wiki/Doctor",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5742B6DE-78EB-5CD0-9F44-97A1986EDBEA",
+          "masterId": "identity_v_survivors_lawyer",
+          "name": "弁護士",
+          "profileURL": "https://id5.fandom.com/wiki/Lawyer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "54BEB301-21DC-5FB5-A493-022892181D5A",
+          "masterId": "identity_v_survivors_thief",
+          "name": "泥棒",
+          "profileURL": "https://id5.fandom.com/wiki/Thief",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AD3B2899-0D48-50CA-8A2C-5BF98AFDBC96",
+          "masterId": "identity_v_survivors_gardener",
+          "name": "庭師",
+          "profileURL": "https://id5.fandom.com/wiki/Gardener",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5712DE3C-895C-5C30-8861-0FB4497256B1",
+          "masterId": "identity_v_survivors_magician",
+          "name": "マジシャン",
+          "profileURL": "https://id5.fandom.com/wiki/Magician",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED27A7CE-6976-5C56-B3E0-3EFE01F024EE",
+          "masterId": "identity_v_survivors_explorer",
+          "name": "冒険家",
+          "profileURL": "https://id5.fandom.com/wiki/Explorer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0594F8EF-B00E-5DA0-B591-32ED60E2F56D",
+          "masterId": "identity_v_survivors_mercenary",
+          "name": "傭兵",
+          "profileURL": "https://id5.fandom.com/wiki/Mercenary",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E98434BA-ECA1-53B7-8475-0D86ED9F19A4",
+          "masterId": "identity_v_survivors_coordinator",
+          "name": "空軍",
+          "profileURL": "https://id5.fandom.com/wiki/Coordinator",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "31CE1C52-742B-58DD-B074-2213D08B923A",
+          "masterId": "identity_v_survivors_mechanic",
+          "name": "機械技師",
+          "profileURL": "https://id5.fandom.com/wiki/Mechanic",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4412D459-D34A-5B75-BD8C-54573FD85F85",
+          "masterId": "identity_v_survivors_forward",
+          "name": "オフェンス",
+          "profileURL": "https://id5.fandom.com/wiki/Forward",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A201717D-03DC-5CFE-A686-4AD98C04899E",
+          "masterId": "identity_v_survivors_the_mind_27s_eye",
+          "name": "心眼",
+          "profileURL": "https://id5.fandom.com/wiki/The_Mind%27s_Eye",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "36DF26FB-B814-5D0B-A8DD-87292DFCEC85",
+          "masterId": "identity_v_survivors_priestess",
+          "name": "祭司",
+          "profileURL": "https://id5.fandom.com/wiki/Priestess",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51B210D7-939A-5047-BB44-5C19B57D1661",
+          "masterId": "identity_v_survivors_perfumer",
+          "name": "調香師",
+          "profileURL": "https://id5.fandom.com/wiki/Perfumer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29060511-5BF1-581F-99A7-C609A4FD7275",
+          "masterId": "identity_v_survivors_cowboy",
+          "name": "カウボーイ",
+          "profileURL": "https://id5.fandom.com/wiki/Cowboy",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF66EB6F-45BA-5ED0-A235-FD12D6E57A78",
+          "masterId": "identity_v_survivors_female_dancer",
+          "name": "踊り子",
+          "profileURL": "https://id5.fandom.com/wiki/Female_Dancer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51E04656-D938-5A0F-93A9-A97ACD46EC51",
+          "masterId": "identity_v_survivors_seer",
+          "name": "占い師",
+          "profileURL": "https://id5.fandom.com/wiki/Seer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "811C1C70-F1A8-5F60-B2CD-28A1F4DE4EE3",
+          "masterId": "identity_v_survivors_embalmer",
+          "name": "納棺師",
+          "profileURL": "https://id5.fandom.com/wiki/Embalmer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18FC1769-D049-5C87-BE6A-6CF1D9BAF41D",
+          "masterId": "identity_v_survivors_prospector",
+          "name": "探鉱者",
+          "profileURL": "https://id5.fandom.com/wiki/Prospector",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CDD5DFC9-F383-5C71-9FE5-638584F5492F",
+          "masterId": "identity_v_survivors_enchantress",
+          "name": "呪術師",
+          "profileURL": "https://id5.fandom.com/wiki/Enchantress",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02C384D4-0066-553D-AEFF-0BED042B2B9C",
+          "masterId": "identity_v_survivors_wildling",
+          "name": "野人",
+          "profileURL": "https://id5.fandom.com/wiki/Wildling",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E80A75F5-FA2A-5ABA-81C7-37E491AB3084",
+          "masterId": "identity_v_survivors_acrobat",
+          "name": "曲芸師",
+          "profileURL": "https://id5.fandom.com/wiki/Acrobat",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E684D730-AC41-549C-8512-D9B26F086753",
+          "masterId": "identity_v_survivors_first_officer",
+          "name": "一等航海士",
+          "profileURL": "https://id5.fandom.com/wiki/First_Officer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D739B65-E6E2-5847-A5E4-63CD0E0AFC1C",
+          "masterId": "identity_v_survivors_barmaid",
+          "name": "バーメイド",
+          "profileURL": "https://id5.fandom.com/wiki/Barmaid",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F1F654E-D12E-5491-BDD0-6D55E8D92DB1",
+          "masterId": "identity_v_survivors_postman",
+          "name": "ポストマン",
+          "profileURL": "https://id5.fandom.com/wiki/Postman",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00F727BA-F294-566F-B857-B7112EBF4DC4",
+          "masterId": "identity_v_survivors_grave_keeper",
+          "name": "墓守",
+          "profileURL": "https://id5.fandom.com/wiki/Grave_Keeper",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A3DB5D2-326A-54E3-A9D2-FC2533D2AAE1",
+          "masterId": "identity_v_survivors_22prisoner_22",
+          "name": "「囚人」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Prisoner%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E45C18FE-706F-5097-8F4C-ABB5659D5D4F",
+          "masterId": "identity_v_survivors_entomologist",
+          "name": "昆虫学者",
+          "profileURL": "https://id5.fandom.com/wiki/Entomologist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "24B97160-92B7-5B67-AD20-C3BDDBD0C9D8",
+          "masterId": "identity_v_survivors_painter",
+          "name": "画家",
+          "profileURL": "https://id5.fandom.com/wiki/Painter",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A18660EC-F8F7-5219-A549-0C3E5874AC5F",
+          "masterId": "identity_v_survivors_batter",
+          "name": "バッツマン",
+          "profileURL": "https://id5.fandom.com/wiki/Batter",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "88266872-D690-5E1B-B85B-AD2EA8EA88E3",
+          "masterId": "identity_v_survivors_toy_merchant",
+          "name": "玩具職人",
+          "profileURL": "https://id5.fandom.com/wiki/Toy_Merchant",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76761309-12FA-5C55-99C7-9B70BACE07AD",
+          "masterId": "identity_v_survivors_22psychologist_22",
+          "name": "「心理学者」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Psychologist%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A9FE6ED5-7A90-5376-91F7-1DD6BAFA32F4",
+          "masterId": "identity_v_survivors_patient",
+          "name": "患者",
+          "profileURL": "https://id5.fandom.com/wiki/Patient",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2BBD021D-118E-593B-94E1-CB78F8E2AEEE",
+          "masterId": "identity_v_survivors_novelist",
+          "name": "小説家",
+          "profileURL": "https://id5.fandom.com/wiki/Novelist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E96CA46F-036B-5815-BE2F-71A5C99846EA",
+          "masterId": "identity_v_survivors_22little_girl_22",
+          "name": "「少女」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Little_Girl%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4308D3B5-8E2F-5354-BBE9-FB01902FF28F",
+          "masterId": "identity_v_survivors_weeping_clown",
+          "name": "泣きピエロ",
+          "profileURL": "https://id5.fandom.com/wiki/Weeping_Clown",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "50EC1D28-500F-5C27-AC6B-47AF5D55F6FC",
+          "masterId": "identity_v_survivors_professor",
+          "name": "教授",
+          "profileURL": "https://id5.fandom.com/wiki/Professor",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3919C6D4-901C-54CD-9334-663D1E3546AF",
+          "masterId": "identity_v_survivors_antiquarian",
+          "name": "骨董商",
+          "profileURL": "https://id5.fandom.com/wiki/Antiquarian",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1AAB9339-FCCB-57AE-9409-73AF85FDD8E5",
+          "masterId": "identity_v_survivors_composer",
+          "name": "作曲家",
+          "profileURL": "https://id5.fandom.com/wiki/Composer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1B40C465-4F00-5D06-8FCA-396098B5B516",
+          "masterId": "identity_v_survivors_journalist",
+          "name": "記者",
+          "profileURL": "https://id5.fandom.com/wiki/Journalist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7AF3B7B7-F769-5B44-AAC5-0C7FA31314BB",
+          "masterId": "identity_v_survivors_aeroplanist",
+          "name": "航空エンジニア",
+          "profileURL": "https://id5.fandom.com/wiki/Aeroplanist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E65BC870-349D-5849-AF60-4C1A8DA1D7FA",
+          "masterId": "identity_v_survivors_cheerleader",
+          "name": "応援団",
+          "profileURL": "https://id5.fandom.com/wiki/Cheerleader",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFD757B1-EF17-58BF-B20A-161C0FA942FA",
+          "masterId": "identity_v_survivors_puppeteer",
+          "name": "人形師",
+          "profileURL": "https://id5.fandom.com/wiki/Puppeteer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4EFE12E9-1A5A-5989-8309-F5303A1D4C86",
+          "masterId": "identity_v_survivors_fire_investigator",
+          "name": "火災調査員",
+          "profileURL": "https://id5.fandom.com/wiki/Fire_Investigator",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "140F1B39-9B68-5061-9AB1-5EA90A7542D2",
+          "masterId": "identity_v_survivors_22faro_lady_22",
+          "name": "ファロレディ",
+          "profileURL": "https://id5.fandom.com/wiki/%22Faro_Lady%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BA114865-18E5-5AD7-9108-0646E4D882BC",
+          "masterId": "identity_v_survivors_22knight_22",
+          "name": "騎士",
+          "profileURL": "https://id5.fandom.com/wiki/%22Knight%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F2329885-C86F-5DA0-AE8D-FF1060473861",
+          "masterId": "identity_v_survivors_meteorologist",
+          "name": "気象学者",
+          "profileURL": "https://id5.fandom.com/wiki/Meteorologist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6BFAF7F3-E48F-53B2-BAED-2D5E9B698AE0",
+          "masterId": "identity_v_survivors_archer",
+          "name": "弓使い",
+          "profileURL": "https://id5.fandom.com/wiki/Archer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "54ECA83D-53C7-57B1-852C-DE78D7D3B667",
+          "masterId": "identity_v_survivors_22escapologist_22",
+          "name": "脱出マスター",
+          "profileURL": "https://id5.fandom.com/wiki/%22Escapologist%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2C222D3F-0898-5783-AE23-58F30CD93586",
+          "masterId": "identity_v_survivors_lanternist",
+          "name": "灯火師",
+          "profileURL": "https://id5.fandom.com/wiki/Lanternist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7937AE5-42B8-5CDE-862B-319A8BD0BEEE",
+          "masterId": "identity_v_survivors_matador",
+          "name": "闘牛士",
+          "profileURL": "https://id5.fandom.com/wiki/Matador",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4E6E8E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "CFA92164-6019-57FA-9CBF-90D4F817CE7C",
+      "masterId": "identity_v_hunters",
+      "name": "ハンター",
+      "isActive": true,
+      "profileURL": "https://id5.fandom.com/wiki/Hunter",
+      "colorHex": [
+        "#7A263A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/IdentityVJP",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A04600C4-1002-5773-9DF5-1F1F168C2AA0",
+          "masterId": "identity_v_hunters_hell_ember",
+          "name": "復讐者",
+          "profileURL": "https://id5.fandom.com/wiki/Hell_Ember",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8F94A696-7CFF-50FC-8FBF-D8828151ED75",
+          "masterId": "identity_v_hunters_smiley_face",
+          "name": "道化師",
+          "profileURL": "https://id5.fandom.com/wiki/Smiley_Face",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4229E115-9B04-58A7-8FE4-0C23A3A8EBBF",
+          "masterId": "identity_v_hunters_gamekeeper",
+          "name": "断罪狩人",
+          "profileURL": "https://id5.fandom.com/wiki/Gamekeeper",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9BA1B62E-6A41-5327-8E6A-E965ED5110A6",
+          "masterId": "identity_v_hunters_the_ripper",
+          "name": "リッパー",
+          "profileURL": "https://id5.fandom.com/wiki/The_Ripper",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8E4A5B7B-BE86-5111-B588-F449A3FD2B46",
+          "masterId": "identity_v_hunters_soul_weaver",
+          "name": "結魂者",
+          "profileURL": "https://id5.fandom.com/wiki/Soul_Weaver",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2565DDF1-A69B-5B96-8866-C34CE6B0D13B",
+          "masterId": "identity_v_hunters_geisha",
+          "name": "芸者",
+          "profileURL": "https://id5.fandom.com/wiki/Geisha",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EF11355A-7832-51C4-9291-7BC863A6D8E5",
+          "masterId": "identity_v_hunters_the_feaster",
+          "name": "黄衣の王",
+          "profileURL": "https://id5.fandom.com/wiki/The_Feaster",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D3A74F6B-B920-5CA1-B116-D935B1394730",
+          "masterId": "identity_v_hunters_wu_chang",
+          "name": "白黒無常",
+          "profileURL": "https://id5.fandom.com/wiki/Wu_Chang",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "49F91C31-C2C9-50BB-B0E0-9C0073C8272C",
+          "masterId": "identity_v_hunters_photographer",
+          "name": "写真家",
+          "profileURL": "https://id5.fandom.com/wiki/Photographer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "926DF8DA-150D-560C-A7BC-2BFD6B2181F3",
+          "masterId": "identity_v_hunters_mad_eyes",
+          "name": "狂眼",
+          "profileURL": "https://id5.fandom.com/wiki/Mad_Eyes",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "70E0B1F6-1945-57B7-9566-9FBC27242B22",
+          "masterId": "identity_v_hunters_dream_witch",
+          "name": "夢の魔女",
+          "profileURL": "https://id5.fandom.com/wiki/Dream_Witch",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1C114324-6303-500B-B451-DD699D47D62C",
+          "masterId": "identity_v_hunters_axe_boy",
+          "name": "泣き虫",
+          "profileURL": "https://id5.fandom.com/wiki/Axe_Boy",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5301AB7C-68DD-53E8-9E66-29A89F62C75D",
+          "masterId": "identity_v_hunters_evil_reptilian",
+          "name": "魔トカゲ",
+          "profileURL": "https://id5.fandom.com/wiki/Evil_Reptilian",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "387DE99C-3BE4-5150-BCD3-32BD0475EFFB",
+          "masterId": "identity_v_hunters_bloody_queen",
+          "name": "血の女王",
+          "profileURL": "https://id5.fandom.com/wiki/Bloody_Queen",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E1A96B67-3441-523C-A6FB-93B9A1E7C4D0",
+          "masterId": "identity_v_hunters_guard_26",
+          "name": "ガードNo.26",
+          "profileURL": "https://id5.fandom.com/wiki/Guard_26",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8EBEFAE1-054C-51F3-8239-EF90BBFCE6DA",
+          "masterId": "identity_v_hunters_22disciple_22",
+          "name": "「使徒」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Disciple%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E7E5EE53-13EC-51E0-A390-7166F014C1D6",
+          "masterId": "identity_v_hunters_violinist",
+          "name": "ヴァイオリニスト",
+          "profileURL": "https://id5.fandom.com/wiki/Violinist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "32A3DAF8-4768-5206-A6F5-F1558B6DA78A",
+          "masterId": "identity_v_hunters_sculptor",
+          "name": "彫刻師",
+          "profileURL": "https://id5.fandom.com/wiki/Sculptor",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DC11B026-C369-5652-8FD6-861A83043C07",
+          "masterId": "identity_v_hunters_22undead_22",
+          "name": "アンデッド",
+          "profileURL": "https://id5.fandom.com/wiki/%22Undead%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7779B032-6FC4-5D29-A4DF-BFD22609D4F6",
+          "masterId": "identity_v_hunters_breaking_wheel",
+          "name": "破輪",
+          "profileURL": "https://id5.fandom.com/wiki/Breaking_Wheel",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B6132208-81DB-5424-90AE-8EE2B576007A",
+          "masterId": "identity_v_hunters_naiad",
+          "name": "漁師",
+          "profileURL": "https://id5.fandom.com/wiki/Naiad",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D934DFAD-6BA9-5AA1-9063-4DB6337DCB7C",
+          "masterId": "identity_v_hunters_wax_artist",
+          "name": "蝋人形師",
+          "profileURL": "https://id5.fandom.com/wiki/Wax_Artist",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6D72EF6-7F45-58A2-9E3A-C97090BE6D18",
+          "masterId": "identity_v_hunters_22nightmare_22",
+          "name": "「悪夢」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Nightmare%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D89271E4-397F-5DD5-8708-6B6FFC413D51",
+          "masterId": "identity_v_hunters_clerk",
+          "name": "書記官",
+          "profileURL": "https://id5.fandom.com/wiki/Clerk",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7BDF9B86-5F0C-5854-B5FA-C4887172A956",
+          "masterId": "identity_v_hunters_hermit",
+          "name": "隠者",
+          "profileURL": "https://id5.fandom.com/wiki/Hermit",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "38D867B6-9B15-53F0-8A55-695EA09308DD",
+          "masterId": "identity_v_hunters_night_watch",
+          "name": "夜の番人",
+          "profileURL": "https://id5.fandom.com/wiki/Night_Watch",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1B925CF6-E06D-547D-8082-05B77485E890",
+          "masterId": "identity_v_hunters_opera_singer",
+          "name": "オペラ歌手",
+          "profileURL": "https://id5.fandom.com/wiki/Opera_Singer",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "90E3F681-71D9-50F1-B425-4BE8E7819DE0",
+          "masterId": "identity_v_hunters_22fool_27s_gold_22",
+          "name": "「フールズ・ゴールド」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Fool%27s_Gold%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "732F4113-E206-5D74-A40E-458E272D788D",
+          "masterId": "identity_v_hunters_the_shadow",
+          "name": "時空の影",
+          "profileURL": "https://id5.fandom.com/wiki/The_Shadow",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B7CD9FE0-EFA5-507B-B81D-3AA7299B0DBF",
+          "masterId": "identity_v_hunters_22goatman_22",
+          "name": "「ヤギ男」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Goatman%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C5A0A2F4-87DA-59BB-9A51-10F4455C0693",
+          "masterId": "identity_v_hunters_22hullabaloo_22",
+          "name": "「喧騒」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Hullabaloo%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D99F3560-08FA-59FB-92DE-EF9DC5D35E85",
+          "masterId": "identity_v_hunters_peddler",
+          "name": "行商人",
+          "profileURL": "https://id5.fandom.com/wiki/Peddler",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "23D94349-0929-5687-AEB0-C0A305631C54",
+          "masterId": "identity_v_hunters_22cueist_22",
+          "name": "「ビリヤード選手」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Cueist%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7364F5E6-E624-5157-97FD-D28F40CEC2EE",
+          "masterId": "identity_v_hunters_22queen_bee_22",
+          "name": "「女王蜂」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Queen_Bee%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CCD7B3D3-1C50-5716-ABF0-4A0C18A1C781",
+          "masterId": "identity_v_hunters_22dentist_22",
+          "name": "「歯科医」",
+          "profileURL": "https://id5.fandom.com/wiki/%22Dentist%22",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A263A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

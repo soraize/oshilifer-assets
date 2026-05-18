@@ -1,0 +1,1439 @@
+{
+  "agencyId": "ensemble_stars",
+  "agency": "あんさんぶるスターズ！！",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "28022508-BF51-516D-830B-F3C5E90325D9",
+      "masterId": "ensemble_stars_fine",
+      "name": "フィーネ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/fine/",
+      "colorHex": [
+        "#FFD7A0"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "60726EF3-CC82-5C35-88E5-40863C1A5981",
+          "masterId": "ensemble_stars_fine_tenshouin_eichi",
+          "name": "天祥院 英智",
+          "profileURL": "https://ensemble-stars.jp/characters/tenshouin_eichi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF3B8"
+          ],
+          "birthday": "01-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5933DE62-B39C-5521-9681-4556A5361208",
+          "masterId": "ensemble_stars_fine_hibiki_wataru",
+          "name": "日々樹 渉",
+          "profileURL": "https://ensemble-stars.jp/characters/hibiki_wataru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A1D8E2"
+          ],
+          "birthday": "02-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B6D55DC4-9349-5E18-B996-49F34865E166",
+          "masterId": "ensemble_stars_fine_himemiya_tori",
+          "name": "姫宮 桃李",
+          "profileURL": "https://ensemble-stars.jp/characters/himemiya_tori/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5B2B2"
+          ],
+          "birthday": "01-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE1DAF06-BB93-569E-B8B6-10606F33D744",
+          "masterId": "ensemble_stars_fine_fushimi_yuzuru",
+          "name": "伏見 弓弦",
+          "profileURL": "https://ensemble-stars.jp/characters/fushimi_yuzuru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3E62AD"
+          ],
+          "birthday": "10-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B109156F-0A8E-56CF-AA3E-33958EFDB9E3",
+      "masterId": "ensemble_stars_trickstar",
+      "name": "トリックスター",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/trickstar/",
+      "colorHex": [
+        "#FF8B0D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "5553786D-5D0E-5DBE-AFD2-E1DCAC44662A",
+          "masterId": "ensemble_stars_trickstar_hidaka_hokuto",
+          "name": "氷鷹 北斗",
+          "profileURL": "https://ensemble-stars.jp/characters/hidaka_hokuto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0068B7"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3A7F019-0871-513A-B5DB-B9D1B30E4F63",
+          "masterId": "ensemble_stars_trickstar_akehoshi_subaru",
+          "name": "明星 スバル",
+          "profileURL": "https://ensemble-stars.jp/characters/akehoshi_subaru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F3981D"
+          ],
+          "birthday": "06-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29160C4C-1C49-510C-B532-5ACE831DD544",
+          "masterId": "ensemble_stars_trickstar_yuuki_makoto",
+          "name": "遊木 真",
+          "profileURL": "https://ensemble-stars.jp/characters/yuuki_makoto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#65AB31"
+          ],
+          "birthday": "04-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9FC3142F-9E9A-5361-AC2E-8C8E7F942327",
+          "masterId": "ensemble_stars_trickstar_isara_mao",
+          "name": "衣更 真緒",
+          "profileURL": "https://ensemble-stars.jp/characters/isara_mao/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#941F57"
+          ],
+          "birthday": "03-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "2F172E19-03E5-5777-B012-AA566CE09E9D",
+      "masterId": "ensemble_stars_ryuseitai",
+      "name": "リュウセイタイ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/ryuseitai/",
+      "colorHex": [
+        "#24004D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "308CBDBC-A8C1-5B71-8A64-B71C9D55A32C",
+          "masterId": "ensemble_stars_ryuseitai_nagumo_tetora",
+          "name": "南雲 鉄虎",
+          "profileURL": "https://ensemble-stars.jp/characters/nagumo_tetora/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#302833"
+          ],
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9EA03DF7-0313-5B8B-93F8-F4A4A7291D9A",
+          "masterId": "ensemble_stars_ryuseitai_takamine_midori",
+          "name": "高峯 翠",
+          "profileURL": "https://ensemble-stars.jp/characters/takamine_midori/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00533F"
+          ],
+          "birthday": "08-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E56520F8-ACCC-5F14-A014-19BFD4DBD927",
+          "masterId": "ensemble_stars_ryuseitai_sengoku_shinobu",
+          "name": "仙石 忍",
+          "profileURL": "https://ensemble-stars.jp/characters/sengoku_shinobu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFDC00"
+          ],
+          "birthday": "06-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "476D2E63-1488-574B-9429-07BFEAFF2416",
+          "masterId": "ensemble_stars_ryuseitai_morisawa_chiaki",
+          "name": "守沢 千秋",
+          "profileURL": "https://ensemble-stars.jp/characters/morisawa_chiaki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E60033"
+          ],
+          "birthday": "09-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AE3E9E5C-C21B-513A-AC4C-319779B6169B",
+          "masterId": "ensemble_stars_ryuseitai_shinkai_kanata",
+          "name": "深海 奏汰",
+          "profileURL": "https://ensemble-stars.jp/characters/shinkai_kanata/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#008DB7"
+          ],
+          "birthday": "08-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "413A52F9-2FF4-5B3E-9900-201B8984B3C0",
+      "masterId": "ensemble_stars_alkaloid",
+      "name": "アルカロイド",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/alkaloid/",
+      "colorHex": [
+        "#2BB7CA"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "DFA3A443-60DE-5DA6-A229-AE9C2646BB9C",
+          "masterId": "ensemble_stars_alkaloid_amagi_hiiro",
+          "name": "天城 一彩",
+          "profileURL": "https://ensemble-stars.jp/characters/amagi_hiiro/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BA2636"
+          ],
+          "birthday": "01-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4EA4C9CD-9E63-54D2-90C5-FCE1000C6EE0",
+          "masterId": "ensemble_stars_alkaloid_shiratori_aira",
+          "name": "白鳥 藍良",
+          "profileURL": "https://ensemble-stars.jp/characters/shiratori_aira/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF1CF"
+          ],
+          "birthday": "11-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9E9AD465-C9E8-5264-AE33-DD04F4EF4DD6",
+          "masterId": "ensemble_stars_alkaloid_ayase_mayoi",
+          "name": "礼瀬 マヨイ",
+          "profileURL": "https://ensemble-stars.jp/characters/ayase_mayoi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#522F60"
+          ],
+          "birthday": "06-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66200C3A-647A-5951-B367-DC381AE03AF4",
+          "masterId": "ensemble_stars_alkaloid_kazehaya_tatsumi",
+          "name": "風早 巽",
+          "profileURL": "https://ensemble-stars.jp/characters/kazehaya_tatsumi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7EBEA5"
+          ],
+          "birthday": "12-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F9C00D4C-BA00-558D-8584-E63E858A608F",
+      "masterId": "ensemble_stars_eden",
+      "name": "エデン",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/eden/",
+      "colorHex": [
+        "#5F5B5D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "B7A232CC-36D2-5E4C-9058-294CB5A7DE52",
+          "masterId": "ensemble_stars_eden_ran_nagisa",
+          "name": "乱 凪砂",
+          "profileURL": "https://ensemble-stars.jp/characters/ran_nagisa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A73836"
+          ],
+          "birthday": "10-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AD4C9C81-0C33-5F0F-AC34-1B45A66EDB93",
+          "masterId": "ensemble_stars_eden_tomoe_hiyori",
+          "name": "巴 日和",
+          "profileURL": "https://ensemble-stars.jp/characters/tomoe_hiyori/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8D200"
+          ],
+          "birthday": "07-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "43FAC6FE-791D-55A8-9BF9-1FF087673450",
+          "masterId": "ensemble_stars_eden_saegusa_ibara",
+          "name": "七種 茨",
+          "profileURL": "https://ensemble-stars.jp/characters/saegusa_ibara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#74325C"
+          ],
+          "birthday": "11-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "440A595F-6AF3-5EC3-A96F-7F77E0F3458B",
+          "masterId": "ensemble_stars_eden_sazanami_jun",
+          "name": "漣 ジュン",
+          "profileURL": "https://ensemble-stars.jp/characters/sazanami_jun/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#192F60"
+          ],
+          "birthday": "08-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "063A4A53-ECF4-5562-8E1B-43AE852CAD90",
+      "masterId": "ensemble_stars_valkyrie",
+      "name": "ヴァルキュリー",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/valkyrie/",
+      "colorHex": [
+        "#8C2346"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F7C8136A-FDE4-580F-8E5B-C998037BECB4",
+          "masterId": "ensemble_stars_valkyrie_itsuki_shu",
+          "name": "斎宮 宗",
+          "profileURL": "https://ensemble-stars.jp/characters/itsuki_shu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E3ACAE"
+          ],
+          "birthday": "10-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "09A81903-484D-516A-A18F-005940B4C173",
+          "masterId": "ensemble_stars_valkyrie_kagehira_mika",
+          "name": "影片 みか",
+          "profileURL": "https://ensemble-stars.jp/characters/kagehira_mika/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006A6C"
+          ],
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "67B68E1B-A100-5E03-9528-9920A9578929",
+      "masterId": "ensemble_stars_2wink",
+      "name": "トゥウィンク",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/2wink/",
+      "colorHex": [
+        "#FF3B9A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A7DBBD02-9E4E-50AF-B1F8-B8A894DCDC97",
+          "masterId": "ensemble_stars_2wink_aoi_hinata",
+          "name": "葵 ひなた",
+          "profileURL": "https://ensemble-stars.jp/characters/aoi_hinata/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EB6EA0"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB97FB39-E5AF-5662-85F7-4349421C3BD6",
+          "masterId": "ensemble_stars_2wink_aoi_yuta",
+          "name": "葵 ゆうた",
+          "profileURL": "https://ensemble-stars.jp/characters/aoi_yuta/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A1E9"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "75A7249E-C60E-5FE8-A61A-400FC02E70EC",
+      "masterId": "ensemble_stars_crazyb",
+      "name": "クレイジービー",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/crazyb/",
+      "colorHex": [
+        "#FFD400"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "B09919BD-B2A3-5E6C-9A55-F172FBDFEC6E",
+          "masterId": "ensemble_stars_crazyb_amagi_rinne",
+          "name": "天城 燐音",
+          "profileURL": "https://ensemble-stars.jp/characters/amagi_rinne/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B7282E"
+          ],
+          "birthday": "05-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DACCD4C1-BD87-5402-8C3E-F3D675D2E1E6",
+          "masterId": "ensemble_stars_crazyb_himeru",
+          "name": "HiMERU",
+          "profileURL": "https://ensemble-stars.jp/characters/himeru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#89C3EB"
+          ],
+          "birthday": "07-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7AC7C24-55C3-5099-BA49-13112DD43441",
+          "masterId": "ensemble_stars_crazyb_oukawa_kohaku",
+          "name": "桜河 こはく",
+          "profileURL": "https://ensemble-stars.jp/characters/oukawa_kohaku/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4B3C2"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6BB6133E-4668-50E0-A448-879DFCE58642",
+          "masterId": "ensemble_stars_crazyb_shiina_niki",
+          "name": "椎名 ニキ",
+          "profileURL": "https://ensemble-stars.jp/characters/shiina_niki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#507EA4"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "FEE00DA8-D36F-5E7C-AE2C-5495F66766FC",
+      "masterId": "ensemble_stars_undead",
+      "name": "アンデッド",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/undead/",
+      "colorHex": [
+        "#64368F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "12F48705-88EC-5C59-9955-4C696F2CEE2F",
+          "masterId": "ensemble_stars_undead_sakuma_rei",
+          "name": "朔間 零",
+          "profileURL": "https://ensemble-stars.jp/characters/sakuma_rei/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#47266E"
+          ],
+          "birthday": "11-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2F7ED23A-A096-554C-B890-9AD3C00BD78C",
+          "masterId": "ensemble_stars_undead_hakaze_kaoru",
+          "name": "羽風 薫",
+          "profileURL": "https://ensemble-stars.jp/characters/hakaze_kaoru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FDD35C"
+          ],
+          "birthday": "11-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7785DB84-3F28-5010-8EEA-D171E5D9B2B5",
+          "masterId": "ensemble_stars_undead_ogami_koga",
+          "name": "大神 晃牙",
+          "profileURL": "https://ensemble-stars.jp/characters/ogami_koga/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C9CACA"
+          ],
+          "birthday": "07-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5C7CD07A-5BA4-50D8-AEBB-A117DF425A4F",
+          "masterId": "ensemble_stars_undead_otogari_adonis",
+          "name": "乙狩 アドニス",
+          "profileURL": "https://ensemble-stars.jp/characters/otogari_adonis/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#915DA3"
+          ],
+          "birthday": "08-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "0D08A728-2ECD-5ACB-8C60-5FF2E7C9A7F1",
+      "masterId": "ensemble_stars_rabits",
+      "name": "ラビッツ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/rabits/",
+      "colorHex": [
+        "#68C0F4"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "CF8F7C8D-C8F1-5E9F-BE8D-DE090003E240",
+          "masterId": "ensemble_stars_rabits_mashiro_tomoya",
+          "name": "真白 友也",
+          "profileURL": "https://ensemble-stars.jp/characters/mashiro_tomoya/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EEDCB3"
+          ],
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A3CDB3BB-85F8-584D-A52E-B655114219AA",
+          "masterId": "ensemble_stars_rabits_nito_nazuna",
+          "name": "仁兎 なずな",
+          "profileURL": "https://ensemble-stars.jp/characters/nito_nazuna/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFEC47"
+          ],
+          "birthday": "04-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "33220D83-584D-5461-88C0-5F9B24D3F0F3",
+          "masterId": "ensemble_stars_rabits_tenma_mitsuru",
+          "name": "天満 光",
+          "profileURL": "https://ensemble-stars.jp/characters/tenma_mitsuru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ED6D35"
+          ],
+          "birthday": "09-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3C9FE720-63AB-5650-9C17-CF95F60E6F53",
+          "masterId": "ensemble_stars_rabits_shino_hajime",
+          "name": "紫之 創",
+          "profileURL": "https://ensemble-stars.jp/characters/shino_hajime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CAB8D9"
+          ],
+          "birthday": "07-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7B6E63B5-0EF1-50E8-89FF-13FE29715CEC",
+      "masterId": "ensemble_stars_akatsuki",
+      "name": "アカツキ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/akatsuki/",
+      "colorHex": [
+        "#962828"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "ADE84F23-BF33-5D82-9159-CF2EA8A9DA75",
+          "masterId": "ensemble_stars_akatsuki_hasumi_keito",
+          "name": "蓮巳 敬人",
+          "profileURL": "https://ensemble-stars.jp/characters/hasumi_keito/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#316745"
+          ],
+          "birthday": "09-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DBF478C4-18FC-580D-9231-D058935E3D41",
+          "masterId": "ensemble_stars_akatsuki_kiryu_kuro",
+          "name": "鬼龍 紅郎",
+          "profileURL": "https://ensemble-stars.jp/characters/kiryu_kuro/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E83929"
+          ],
+          "birthday": "01-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CBC268F7-B3D0-5849-90F6-32C5689E2F90",
+          "masterId": "ensemble_stars_akatsuki_kanzaki_souma",
+          "name": "神崎 颯馬",
+          "profileURL": "https://ensemble-stars.jp/characters/kanzaki_souma/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5654A2"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "530CDA67-8322-5C7E-AE8A-F569EBD33F15",
+          "masterId": "ensemble_stars_akatsuki_taki_ibuki",
+          "name": "滝 維吹",
+          "profileURL": "https://ensemble-stars.jp/characters/taki_ibuki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#66BBCC"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "30DD3AF1-B7F2-552A-8F15-BC9ED83036D4",
+      "masterId": "ensemble_stars_mellowdearus",
+      "name": "メロウ・ディアース",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/mellowdearus/",
+      "colorHex": [
+        "#4D2118"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "89A23E37-88CE-5860-B041-D7933D55FB8A",
+          "masterId": "ensemble_stars_mellowdearus_kojika_juis",
+          "name": "小鹿 ジュイス",
+          "profileURL": "https://ensemble-stars.jp/characters/kojika_juis/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#52CC52"
+          ],
+          "birthday": "08-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2A2AEFE2-FBF0-5B7F-9DD5-EE670DF5C145",
+          "masterId": "ensemble_stars_mellowdearus_madoka_nozomi",
+          "name": "円果 望見",
+          "profileURL": "https://ensemble-stars.jp/characters/madoka_nozomi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#991557"
+          ],
+          "birthday": "06-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "745F4C7F-1F8C-5E74-8B59-CA10B3A0CCB7",
+          "masterId": "ensemble_stars_mellowdearus_kuon_mashu",
+          "name": "久遠 舞珠",
+          "profileURL": "https://ensemble-stars.jp/characters/kuon_mashu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F27989"
+          ],
+          "birthday": "12-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1814DE99-5E7C-5AC8-B896-5CE1AF7C0EF1",
+          "masterId": "ensemble_stars_mellowdearus_tsuzura_chitose",
+          "name": "甘楽 チトセ",
+          "profileURL": "https://ensemble-stars.jp/characters/tsuzura_chitose/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#304780"
+          ],
+          "birthday": "11-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F997C06E-EFBF-5D21-8BB1-B208B4BA34F3",
+      "masterId": "ensemble_stars_knights",
+      "name": "ナイツ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/knights/",
+      "colorHex": [
+        "#305DAA"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "6D640D1B-F3BE-59F4-B350-271D74AAC92F",
+          "masterId": "ensemble_stars_knights_suou_tsukasa",
+          "name": "朱桜 司",
+          "profileURL": "https://ensemble-stars.jp/characters/suou_tsukasa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#942343"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D1AD0549-2268-5EBD-A926-6754BA9C88ED",
+          "masterId": "ensemble_stars_knights_tsukinaga_leo",
+          "name": "月永 レオ",
+          "profileURL": "https://ensemble-stars.jp/characters/tsukinaga_leo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EC6D51"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DABAFCFF-C189-5430-977C-AA8ADBC37BEE",
+          "masterId": "ensemble_stars_knights_sena_izumi",
+          "name": "瀬名 泉",
+          "profileURL": "https://ensemble-stars.jp/characters/sena_izumi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BBDBF3"
+          ],
+          "birthday": "11-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9940F531-CA0D-5108-A642-DD8822CB240B",
+          "masterId": "ensemble_stars_knights_sakuma_ritsu",
+          "name": "朔間 凛月",
+          "profileURL": "https://ensemble-stars.jp/characters/sakuma_ritsu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#001E43"
+          ],
+          "birthday": "09-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "792A508A-E790-528B-BD00-B069C109F543",
+          "masterId": "ensemble_stars_knights_narukami_arashi",
+          "name": "鳴上 嵐",
+          "profileURL": "https://ensemble-stars.jp/characters/narukami_arashi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDDE7B"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F06EF725-53C9-52DB-A855-566AC4F02569",
+      "masterId": "ensemble_stars_switch",
+      "name": "スウィッチ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/switch/",
+      "colorHex": [
+        "#A3EA34"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "AD9C82EA-E57E-5087-838D-1CBEDDC7912C",
+          "masterId": "ensemble_stars_switch_sakasaki_natsume",
+          "name": "逆先 夏目",
+          "profileURL": "https://ensemble-stars.jp/characters/sakasaki_natsume/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D70035"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "820FCC06-4CD4-5130-9054-3D547C43E83A",
+          "masterId": "ensemble_stars_switch_aoba_tsumugi",
+          "name": "青葉 つむぎ",
+          "profileURL": "https://ensemble-stars.jp/characters/aoba_tsumugi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00608D"
+          ],
+          "birthday": "08-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "46C4EB28-BECA-58BB-8008-C3FE55336C42",
+          "masterId": "ensemble_stars_switch_harukawa_sora",
+          "name": "春川 宙",
+          "profileURL": "https://ensemble-stars.jp/characters/harukawa_sora/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF352"
+          ],
+          "birthday": "07-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "52199D87-B08D-5907-9258-41A88DA0E042",
+      "masterId": "ensemble_stars_mam",
+      "name": "マム",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/mam/",
+      "colorHex": [
+        "#5A6964"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "50664938-108C-5A12-8532-93FCB2C12043",
+          "masterId": "ensemble_stars_mam_mikejima_madara",
+          "name": "三毛縞 斑",
+          "profileURL": "https://ensemble-stars.jp/characters/mikejima_madara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#622D18"
+          ],
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "4AF441D6-859B-5E42-943D-DE772A20D6DE",
+      "masterId": "ensemble_stars_doubleface",
+      "name": "ダブルフェイス",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/doubleface/",
+      "colorHex": [
+        "#2C4F54"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A47D6855-938A-5F67-A5E4-35D01F7DA0D2",
+          "masterId": "ensemble_stars_doubleface_mikejima_madara",
+          "name": "三毛縞 斑",
+          "profileURL": "https://ensemble-stars.jp/characters/mikejima_madara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#622D18"
+          ],
+          "birthday": "05-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE5BB031-AA50-55AD-98E8-B3E1A161F5AA",
+          "masterId": "ensemble_stars_doubleface_oukawa_kohaku",
+          "name": "桜河 こはく",
+          "profileURL": "https://ensemble-stars.jp/characters/oukawa_kohaku/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4B3C2"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "09E3862D-530A-57C5-AF2D-843A293D6287",
+      "masterId": "ensemble_stars_specialforprincess",
+      "name": "スペシャル・フォー・プリンセス",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/specialforprincess/",
+      "colorHex": [
+        "#E6B8D2"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F19F01CB-1E0B-544A-897C-6629166EA390",
+          "masterId": "ensemble_stars_specialforprincess_esu",
+          "name": "冴霧 笑主",
+          "profileURL": "https://ensemble-stars.jp/characters/esu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#80FFF4"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AA9C0633-9ED1-5FB4-B48D-71E570B94752",
+          "masterId": "ensemble_stars_specialforprincess_kanna",
+          "name": "名都 神無",
+          "profileURL": "https://ensemble-stars.jp/characters/kanna/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BACCB8"
+          ],
+          "birthday": "06-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2B86CF1A-D0A6-58B9-B424-766F164B06B9",
+          "masterId": "ensemble_stars_specialforprincess_yume",
+          "name": "花群 冬芽",
+          "profileURL": "https://ensemble-stars.jp/characters/yume/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CCADD9"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "76B3B2EC-5EA6-52B1-A9B5-88C049ADCC94",
+          "masterId": "ensemble_stars_specialforprincess_raika",
+          "name": "宝丈 萊香",
+          "profileURL": "https://ensemble-stars.jp/characters/raika/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#298C7C"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "3F78DF61-E92F-5CE9-B44F-57524C53A135",
+      "masterId": "ensemble_stars_janda",
+      "name": "ジンアンドアキオミ",
+      "isActive": true,
+      "profileURL": "https://ensemble-stars.jp/units/janda/",
+      "colorHex": [
+        "#0F075B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ensemble_stars",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "ECF3933E-3A77-5B32-8A1F-7AE4EEFA79A5",
+          "masterId": "ensemble_stars_janda_sagami_jin",
+          "name": "佐賀美 陣",
+          "profileURL": "https://ensemble-stars.jp/characters/sagami_jin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8DA0B6"
+          ],
+          "birthday": "12-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8E65B665-D73F-503E-B6C6-B1E449668DB6",
+          "masterId": "ensemble_stars_janda_kunugi_akiomi",
+          "name": "椚 章臣",
+          "profileURL": "https://ensemble-stars.jp/characters/kunugi_akiomi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#915C8B"
+          ],
+          "birthday": "02-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

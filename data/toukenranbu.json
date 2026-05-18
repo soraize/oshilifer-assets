@@ -1,0 +1,2170 @@
+{
+  "agencyId": "toukenranbu",
+  "agency": "刀剣乱舞ONLINE",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "017F526E-AE5F-5C83-9CC3-8F496BBEB9D4",
+      "masterId": "toukenranbu_touken_danshi",
+      "name": "刀剣男士",
+      "isActive": true,
+      "profileURL": "https://www.toukenranbu.jp/character/",
+      "colorHex": [
+        "#20283B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://twitter.com/TOUKEN_STAFF",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "245E36E7-1B04-5DBF-8CDB-57220FDF3EE2",
+          "masterId": "toukenranbu_000",
+          "name": "童子切安綱 剥落",
+          "profileURL": "https://www.toukenranbu.jp/character/000/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A253C3F2-64DB-580E-8129-44EEB7D40F3C",
+          "masterId": "toukenranbu_003",
+          "name": "三日月宗近",
+          "profileURL": "https://www.toukenranbu.jp/character/003/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8506628B-BEA5-55AD-B2CA-6F5ECDAF0CC2",
+          "masterId": "toukenranbu_005",
+          "name": "小狐丸",
+          "profileURL": "https://www.toukenranbu.jp/character/005/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3A41D09-4C48-55BB-95C2-47657075BB4A",
+          "masterId": "toukenranbu_007",
+          "name": "石切丸",
+          "profileURL": "https://www.toukenranbu.jp/character/007/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "571EE016-E7E1-59FF-AEF5-3A06A8AAF279",
+          "masterId": "toukenranbu_009",
+          "name": "岩融",
+          "profileURL": "https://www.toukenranbu.jp/character/009/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F5BB96DD-51D2-57A1-BCA4-9E5D1762F64C",
+          "masterId": "toukenranbu_011",
+          "name": "今剣",
+          "profileURL": "https://www.toukenranbu.jp/character/011/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B6F2894-4759-5464-88AB-3077A5405F39",
+          "masterId": "toukenranbu_013",
+          "name": "大典太光世",
+          "profileURL": "https://www.toukenranbu.jp/character/013/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFD8E18B-15EA-579E-9B65-D57DC04AF4E4",
+          "masterId": "toukenranbu_015",
+          "name": "ソハヤノツルキ",
+          "profileURL": "https://www.toukenranbu.jp/character/015/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "250F320E-F87C-5897-BA3C-0D9E234A543A",
+          "masterId": "toukenranbu_017",
+          "name": "数珠丸恒次",
+          "profileURL": "https://www.toukenranbu.jp/character/017/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63DE2249-03FD-5D12-8B8C-C57AF653976C",
+          "masterId": "toukenranbu_019",
+          "name": "にっかり青江",
+          "profileURL": "https://www.toukenranbu.jp/character/019/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18C45A7F-8F0A-5A24-9CF8-43D7C60B10F9",
+          "masterId": "toukenranbu_021",
+          "name": "鬼丸国綱",
+          "profileURL": "https://www.toukenranbu.jp/character/021/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "414A3F16-A6D9-5714-B08B-6B596C6703EF",
+          "masterId": "toukenranbu_023",
+          "name": "鳴狐",
+          "profileURL": "https://www.toukenranbu.jp/character/023/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "68047D8E-0CBE-5466-AE37-3926B966A825",
+          "masterId": "toukenranbu_025",
+          "name": "一期一振",
+          "profileURL": "https://www.toukenranbu.jp/character/025/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47C638E1-6DA4-5244-A512-91FB63595132",
+          "masterId": "toukenranbu_027",
+          "name": "鯰尾藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/027/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B634438E-BF32-574F-A3BC-35D81F8622E9",
+          "masterId": "toukenranbu_029",
+          "name": "骨喰藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/029/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "67D91FAD-394A-5E58-9A4B-62F777CEA666",
+          "masterId": "toukenranbu_031",
+          "name": "平野藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/031/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C871164-77F5-569D-8098-93E565CC21E2",
+          "masterId": "toukenranbu_033",
+          "name": "厚藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/033/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0EB113B1-1987-5387-8F43-FC348C390963",
+          "masterId": "toukenranbu_035",
+          "name": "後藤藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/035/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "955B2BC8-80F4-51A7-A21B-881579C74277",
+          "masterId": "toukenranbu_037",
+          "name": "信濃藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/037/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "36BFAABE-B0E9-5BD5-8078-1DEBC0EBD920",
+          "masterId": "toukenranbu_039",
+          "name": "前田藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/039/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26AF7D2D-7296-5AEB-9838-7E1300227B32",
+          "masterId": "toukenranbu_041",
+          "name": "秋田藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/041/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6DBA253B-3300-58D9-9BB7-F7D82EB950BD",
+          "masterId": "toukenranbu_043",
+          "name": "博多藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/043/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47E96CB7-8FE3-523B-8771-66ABF1CDE566",
+          "masterId": "toukenranbu_045",
+          "name": "乱藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/045/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3827104-7188-58D9-8334-874A4D1876DF",
+          "masterId": "toukenranbu_047",
+          "name": "五虎退",
+          "profileURL": "https://www.toukenranbu.jp/character/047/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5CF4158B-0198-5311-894C-07B151720AEB",
+          "masterId": "toukenranbu_049",
+          "name": "薬研藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/049/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3B8ACEA8-FE76-5AC5-A902-72F0D9923984",
+          "masterId": "toukenranbu_051",
+          "name": "包丁藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/051/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B22A981B-B1EA-50F4-9FFD-22684E26E509",
+          "masterId": "toukenranbu_053",
+          "name": "大包平",
+          "profileURL": "https://www.toukenranbu.jp/character/053/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DCB9A2F7-5632-500D-87FB-192EA1956948",
+          "masterId": "toukenranbu_055",
+          "name": "鶯丸",
+          "profileURL": "https://www.toukenranbu.jp/character/055/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4035D750-C16E-5430-ADE2-640CCA704571",
+          "masterId": "toukenranbu_057",
+          "name": "明石国行",
+          "profileURL": "https://www.toukenranbu.jp/character/057/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DACB141C-5FB1-5E71-BC5A-EB399565A4BD",
+          "masterId": "toukenranbu_059",
+          "name": "蛍丸",
+          "profileURL": "https://www.toukenranbu.jp/character/059/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4BE1D6CA-B549-58CD-BA5F-198D4DFF6A8B",
+          "masterId": "toukenranbu_061",
+          "name": "愛染国俊",
+          "profileURL": "https://www.toukenranbu.jp/character/061/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FFAAD108-E67C-59B9-8DE5-814B4AFDC683",
+          "masterId": "toukenranbu_063",
+          "name": "千子村正",
+          "profileURL": "https://www.toukenranbu.jp/character/063/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F5BBE99A-024A-5FA7-AB79-7E6319054BE7",
+          "masterId": "toukenranbu_065",
+          "name": "蜻蛉切",
+          "profileURL": "https://www.toukenranbu.jp/character/065/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7266C521-95B1-55FC-87F9-7563C5438041",
+          "masterId": "toukenranbu_067",
+          "name": "物吉貞宗",
+          "profileURL": "https://www.toukenranbu.jp/character/067/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "46FB3A29-10C7-504F-A22F-1313E128FABF",
+          "masterId": "toukenranbu_069",
+          "name": "太鼓鐘貞宗",
+          "profileURL": "https://www.toukenranbu.jp/character/069/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4FCB23EF-3D9D-54A2-AD03-C1C2AC922A76",
+          "masterId": "toukenranbu_071",
+          "name": "亀甲貞宗",
+          "profileURL": "https://www.toukenranbu.jp/character/071/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "48FA6AD8-556A-5205-A1FA-89F10AC81FA7",
+          "masterId": "toukenranbu_073",
+          "name": "燭台切光忠",
+          "profileURL": "https://www.toukenranbu.jp/character/073/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7BCED629-40EC-5B7F-B20D-A716A1157FB1",
+          "masterId": "toukenranbu_075",
+          "name": "大般若長光",
+          "profileURL": "https://www.toukenranbu.jp/character/075/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1906C2CB-53F0-5BF3-AFC1-DA489C8B93C3",
+          "masterId": "toukenranbu_077",
+          "name": "小竜景光",
+          "profileURL": "https://www.toukenranbu.jp/character/077/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4266D189-5B51-53FD-A642-1141F906A42B",
+          "masterId": "toukenranbu_079",
+          "name": "江雪左文字",
+          "profileURL": "https://www.toukenranbu.jp/character/079/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BB367C48-28C3-5DF4-9D93-2683B3867B5E",
+          "masterId": "toukenranbu_081",
+          "name": "宗三左文字",
+          "profileURL": "https://www.toukenranbu.jp/character/081/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6960EA7F-E6E8-5E47-9673-B7BE88CD6AFD",
+          "masterId": "toukenranbu_083",
+          "name": "小夜左文字",
+          "profileURL": "https://www.toukenranbu.jp/character/083/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6CC81E78-454E-5BC6-A00F-7108877B527D",
+          "masterId": "toukenranbu_085",
+          "name": "加州清光",
+          "profileURL": "https://www.toukenranbu.jp/character/085/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D42F83D0-667B-54F9-9F70-3481200C355D",
+          "masterId": "toukenranbu_087",
+          "name": "大和守安定",
+          "profileURL": "https://www.toukenranbu.jp/character/087/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7C3AE548-367F-581C-924C-81F4B8D926C7",
+          "masterId": "toukenranbu_089",
+          "name": "歌仙兼定",
+          "profileURL": "https://www.toukenranbu.jp/character/089/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4D1588B8-5315-59CD-AC98-A6E0A98E242A",
+          "masterId": "toukenranbu_091",
+          "name": "和泉守兼定",
+          "profileURL": "https://www.toukenranbu.jp/character/091/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8DBCC008-FCAB-5E99-B653-6CF21E08A3B9",
+          "masterId": "toukenranbu_093",
+          "name": "陸奥守吉行",
+          "profileURL": "https://www.toukenranbu.jp/character/093/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A5DBEE86-BBD6-5534-B72D-3EBCAD478B79",
+          "masterId": "toukenranbu_095",
+          "name": "山姥切国広",
+          "profileURL": "https://www.toukenranbu.jp/character/095/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA482EFC-45CC-5B0E-9F8F-7F9F0C1D133F",
+          "masterId": "toukenranbu_097",
+          "name": "山伏国広",
+          "profileURL": "https://www.toukenranbu.jp/character/097/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6500D9DB-7CC0-5DEF-B29B-CFEDC8ABAADC",
+          "masterId": "toukenranbu_099",
+          "name": "堀川国広",
+          "profileURL": "https://www.toukenranbu.jp/character/099/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "163A9718-8F3A-5855-A994-D5C742E735CD",
+          "masterId": "toukenranbu_101",
+          "name": "蜂須賀虎徹",
+          "profileURL": "https://www.toukenranbu.jp/character/101/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C718B49F-845F-59F7-AB42-2CA42CC854C1",
+          "masterId": "toukenranbu_103",
+          "name": "浦島虎徹",
+          "profileURL": "https://www.toukenranbu.jp/character/103/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F8325DD2-296B-514B-8DB7-13E10DAEFB81",
+          "masterId": "toukenranbu_105",
+          "name": "長曽祢虎徹",
+          "profileURL": "https://www.toukenranbu.jp/character/105/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5D280B36-BBD4-5B0D-99B5-63CF1ED598E6",
+          "masterId": "toukenranbu_107",
+          "name": "髭切",
+          "profileURL": "https://www.toukenranbu.jp/character/107/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "67F362BA-E06B-52F5-BB5D-51C555D361D5",
+          "masterId": "toukenranbu_112",
+          "name": "膝丸",
+          "profileURL": "https://www.toukenranbu.jp/character/112/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E80FD906-EA04-5617-8E2D-6483854EBB50",
+          "masterId": "toukenranbu_116",
+          "name": "大倶利伽羅",
+          "profileURL": "https://www.toukenranbu.jp/character/116/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AEC47075-474B-5BA0-9BB3-1723250BA62E",
+          "masterId": "toukenranbu_118",
+          "name": "へし切長谷部",
+          "profileURL": "https://www.toukenranbu.jp/character/118/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "643F1FE9-F172-5F18-8918-8E87E38D244F",
+          "masterId": "toukenranbu_120",
+          "name": "不動行光",
+          "profileURL": "https://www.toukenranbu.jp/character/120/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B8A432F-7842-5080-A796-69E913DDABD3",
+          "masterId": "toukenranbu_122",
+          "name": "獅子王",
+          "profileURL": "https://www.toukenranbu.jp/character/122/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "97A79F9D-A1E7-5FE1-8A26-ABB5A7CB0AEA",
+          "masterId": "toukenranbu_124",
+          "name": "小烏丸",
+          "profileURL": "https://www.toukenranbu.jp/character/124/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FCD36394-83B1-5184-8B4B-F16D6389DDF9",
+          "masterId": "toukenranbu_126",
+          "name": "抜丸",
+          "profileURL": "https://www.toukenranbu.jp/character/126/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "807F1E77-0910-5807-B14F-ACC55C95E9AF",
+          "masterId": "toukenranbu_128",
+          "name": "同田貫正国",
+          "profileURL": "https://www.toukenranbu.jp/character/128/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7F8F64DF-9C35-5E78-B6F2-260F116C2EAF",
+          "masterId": "toukenranbu_130",
+          "name": "鶴丸国永",
+          "profileURL": "https://www.toukenranbu.jp/character/130/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7DBA23B0-6DAC-5235-9E05-757A7CF6E878",
+          "masterId": "toukenranbu_132",
+          "name": "太郎太刀",
+          "profileURL": "https://www.toukenranbu.jp/character/132/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D9545D3-9B9E-509B-9DF5-6DDBA70C550D",
+          "masterId": "toukenranbu_134",
+          "name": "次郎太刀",
+          "profileURL": "https://www.toukenranbu.jp/character/134/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "591FAF07-1B0C-53AA-B1D1-7AAC0944C81A",
+          "masterId": "toukenranbu_136",
+          "name": "日本号",
+          "profileURL": "https://www.toukenranbu.jp/character/136/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3D28D68-596A-567D-8423-054115B52C92",
+          "masterId": "toukenranbu_138",
+          "name": "御手杵",
+          "profileURL": "https://www.toukenranbu.jp/character/138/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A7E843B1-73FD-56A7-B964-83DC4F22B97D",
+          "masterId": "toukenranbu_140",
+          "name": "巴形薙刀",
+          "profileURL": "https://www.toukenranbu.jp/character/140/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E7B15B7-2B90-55A0-9F77-BD904250131F",
+          "masterId": "toukenranbu_142",
+          "name": "毛利藤四郎",
+          "profileURL": "https://www.toukenranbu.jp/character/142/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ADB6781D-544E-5DA3-86E5-C8BC4449D251",
+          "masterId": "toukenranbu_144",
+          "name": "篭手切江",
+          "profileURL": "https://www.toukenranbu.jp/character/144/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFB141B2-E962-5CE4-B721-935236048264",
+          "masterId": "toukenranbu_146",
+          "name": "謙信景光",
+          "profileURL": "https://www.toukenranbu.jp/character/146/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F8A4CF3-D893-5D95-96CA-B355A56C3AEF",
+          "masterId": "toukenranbu_148",
+          "name": "小豆長光",
+          "profileURL": "https://www.toukenranbu.jp/character/148/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "697C83D4-23B6-5E6D-ADAE-A7B87BFCFBF7",
+          "masterId": "toukenranbu_150",
+          "name": "日向正宗",
+          "profileURL": "https://www.toukenranbu.jp/character/150/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "891D2875-FB8D-5EA9-BA8A-418DFED2CE3E",
+          "masterId": "toukenranbu_152",
+          "name": "静形薙刀",
+          "profileURL": "https://www.toukenranbu.jp/character/152/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E4E042F0-5B97-5A49-886A-7C2F550B837B",
+          "masterId": "toukenranbu_154",
+          "name": "南泉一文字",
+          "profileURL": "https://www.toukenranbu.jp/character/154/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E95788AD-D200-538B-80EA-9146D73714E0",
+          "masterId": "toukenranbu_156",
+          "name": "千代金丸",
+          "profileURL": "https://www.toukenranbu.jp/character/156/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C2942AA8-428C-53D4-B25D-480515C5F8FA",
+          "masterId": "toukenranbu_158",
+          "name": "山姥切長義",
+          "profileURL": "https://www.toukenranbu.jp/character/158/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CC8CC7B4-991C-5034-9CE8-1AA160AF81AD",
+          "masterId": "toukenranbu_160",
+          "name": "豊前江",
+          "profileURL": "https://www.toukenranbu.jp/character/160/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "61D77E04-D0D1-5329-804B-F84E50EFE67D",
+          "masterId": "toukenranbu_162",
+          "name": "祢々切丸",
+          "profileURL": "https://www.toukenranbu.jp/character/162/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CA8F2720-F526-5C7C-ACBC-0BF0DC0C64E4",
+          "masterId": "toukenranbu_164",
+          "name": "白山吉光",
+          "profileURL": "https://www.toukenranbu.jp/character/164/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5DA11CAB-CD85-588A-9BBC-A572EBC279BA",
+          "masterId": "toukenranbu_166",
+          "name": "南海太郎朝尊",
+          "profileURL": "https://www.toukenranbu.jp/character/166/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "73CB77D1-F258-59B7-B4C5-B66296EC737E",
+          "masterId": "toukenranbu_168",
+          "name": "肥前忠広",
+          "profileURL": "https://www.toukenranbu.jp/character/168/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EAE79BB9-CB57-5761-AF5E-46E70C586172",
+          "masterId": "toukenranbu_170",
+          "name": "北谷菜切",
+          "profileURL": "https://www.toukenranbu.jp/character/170/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8C90E546-B6F6-51BB-A94B-293FE5B66898",
+          "masterId": "toukenranbu_172",
+          "name": "桑名江",
+          "profileURL": "https://www.toukenranbu.jp/character/172/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F0F978FC-AE9F-5CBB-9CF6-F21127EC70C6",
+          "masterId": "toukenranbu_174",
+          "name": "水心子正秀",
+          "profileURL": "https://www.toukenranbu.jp/character/174/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "98C3DB4B-3521-551C-A487-F25995CCA693",
+          "masterId": "toukenranbu_176",
+          "name": "源清麿",
+          "profileURL": "https://www.toukenranbu.jp/character/176/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DEAA4EC4-FB2A-5FD2-B412-A1873615D157",
+          "masterId": "toukenranbu_178",
+          "name": "松井江",
+          "profileURL": "https://www.toukenranbu.jp/character/178/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8456249C-908E-55F2-AECF-E1BDCD65D5AE",
+          "masterId": "toukenranbu_180",
+          "name": "山鳥毛",
+          "profileURL": "https://www.toukenranbu.jp/character/180/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ADCD635A-B8C3-52A3-AA0A-2661B5BD0B12",
+          "masterId": "toukenranbu_182",
+          "name": "古今伝授の太刀",
+          "profileURL": "https://www.toukenranbu.jp/character/182/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "10C72BCF-3BD3-54A0-8E9B-59A2C94F088A",
+          "masterId": "toukenranbu_184",
+          "name": "地蔵行平",
+          "profileURL": "https://www.toukenranbu.jp/character/184/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A5924E0-A9BF-5D98-A2AF-E32AF37DE733",
+          "masterId": "toukenranbu_186",
+          "name": "治金丸",
+          "profileURL": "https://www.toukenranbu.jp/character/186/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A520811-BD98-5DAC-ADD7-3BF9818DAAF3",
+          "masterId": "toukenranbu_188",
+          "name": "日光一文字",
+          "profileURL": "https://www.toukenranbu.jp/character/188/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F04943A8-D33A-5461-86A8-7AE888F9C060",
+          "masterId": "toukenranbu_190",
+          "name": "太閤左文字",
+          "profileURL": "https://www.toukenranbu.jp/character/190/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BB5E0C94-AE19-5846-9CCF-D51FA205C9A1",
+          "masterId": "toukenranbu_192",
+          "name": "五月雨江",
+          "profileURL": "https://www.toukenranbu.jp/character/192/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4BA5E2FB-7D2F-571A-8101-E07DE05C3917",
+          "masterId": "toukenranbu_194",
+          "name": "大千鳥十文字槍",
+          "profileURL": "https://www.toukenranbu.jp/character/194/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "015EA556-1489-5FA4-82D1-B52A5E5C217A",
+          "masterId": "toukenranbu_196",
+          "name": "泛塵",
+          "profileURL": "https://www.toukenranbu.jp/character/196/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F66E65F8-D440-5329-B670-6B8114453AC5",
+          "masterId": "toukenranbu_198",
+          "name": "一文字則宗",
+          "profileURL": "https://www.toukenranbu.jp/character/198/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CC8382EB-EC01-5E04-89A4-08B25FB27BBD",
+          "masterId": "toukenranbu_200",
+          "name": "村雲江",
+          "profileURL": "https://www.toukenranbu.jp/character/200/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B35FA3C-0A74-5ADF-84AA-03CEAD8F57B2",
+          "masterId": "toukenranbu_202",
+          "name": "姫鶴一文字",
+          "profileURL": "https://www.toukenranbu.jp/character/202/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B6F292FC-2EE9-5DA9-B979-CC99E219C290",
+          "masterId": "toukenranbu_204",
+          "name": "福島光忠",
+          "profileURL": "https://www.toukenranbu.jp/character/204/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "564137B9-09A2-556B-8745-DC397049B4C4",
+          "masterId": "toukenranbu_206",
+          "name": "七星剣",
+          "profileURL": "https://www.toukenranbu.jp/character/206/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F995CA35-CB08-5518-9BD8-BB0832001FE3",
+          "masterId": "toukenranbu_208",
+          "name": "丙子椒林剣",
+          "profileURL": "https://www.toukenranbu.jp/character/208/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5CFA156A-36C7-51CF-B66C-D3A3DC91453A",
+          "masterId": "toukenranbu_210",
+          "name": "稲葉江",
+          "profileURL": "https://www.toukenranbu.jp/character/210/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A99FA92E-7DF3-55CC-AAFF-4BF9A62F9B04",
+          "masterId": "toukenranbu_212",
+          "name": "笹貫",
+          "profileURL": "https://www.toukenranbu.jp/character/212/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3216AB01-766C-55C6-BD80-FD73764B5FD7",
+          "masterId": "toukenranbu_214",
+          "name": "人間無骨",
+          "profileURL": "https://www.toukenranbu.jp/character/214/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7A889A6-C2BB-53CD-B1D6-CBD24B4DC80F",
+          "masterId": "toukenranbu_216",
+          "name": "八丁念仏",
+          "profileURL": "https://www.toukenranbu.jp/character/216/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8C4DA227-7875-5C8E-B1E9-2269D1DB8EB7",
+          "masterId": "toukenranbu_218",
+          "name": "石田正宗",
+          "profileURL": "https://www.toukenranbu.jp/character/218/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4EB48B8B-A971-5365-89A1-3F3064732F81",
+          "masterId": "toukenranbu_220",
+          "name": "実休光忠",
+          "profileURL": "https://www.toukenranbu.jp/character/220/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A980D8BC-850B-5DCE-9C2D-1AFC1F77E991",
+          "masterId": "toukenranbu_222",
+          "name": "京極正宗",
+          "profileURL": "https://www.toukenranbu.jp/character/222/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FBE47FC6-6C88-5226-847A-53DECD193A71",
+          "masterId": "toukenranbu_224",
+          "name": "孫六兼元",
+          "profileURL": "https://www.toukenranbu.jp/character/224/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66D1FB68-F3B5-51D6-AC58-E73F851D9223",
+          "masterId": "toukenranbu_226",
+          "name": "後家兼光",
+          "profileURL": "https://www.toukenranbu.jp/character/226/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4C836ED-D552-5C6E-9581-1DFB300446F3",
+          "masterId": "toukenranbu_228",
+          "name": "火車切",
+          "profileURL": "https://www.toukenranbu.jp/character/228/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E603151-8FAC-5583-8FD1-D6D1CF784815",
+          "masterId": "toukenranbu_230",
+          "name": "富田江",
+          "profileURL": "https://www.toukenranbu.jp/character/230/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62401B66-1EF4-5DA3-B4BC-41CF4C9B7276",
+          "masterId": "toukenranbu_232",
+          "name": "大慶直胤",
+          "profileURL": "https://www.toukenranbu.jp/character/232/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5D392441-A438-55F8-BD80-3D8E79683451",
+          "masterId": "toukenranbu_234",
+          "name": "九鬼正宗",
+          "profileURL": "https://www.toukenranbu.jp/character/234/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C9E70805-7236-55BC-ABEF-54FCE4C66401",
+          "masterId": "toukenranbu_236",
+          "name": "雲生",
+          "profileURL": "https://www.toukenranbu.jp/character/236/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C869D0D5-5C9C-5207-8AD2-7ABAF08B2F80",
+          "masterId": "toukenranbu_238",
+          "name": "道誉一文字",
+          "profileURL": "https://www.toukenranbu.jp/character/238/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0893D90F-9D5A-5BF3-80C8-1E4C454F7B6A",
+          "masterId": "toukenranbu_240",
+          "name": "雲次",
+          "profileURL": "https://www.toukenranbu.jp/character/240/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2A92427-C580-52A0-9D25-88B849CEE36E",
+          "masterId": "toukenranbu_242",
+          "name": "面影",
+          "profileURL": "https://www.toukenranbu.jp/character/242/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3F941037-EFC3-576F-B044-E5F29ABD70C0",
+          "masterId": "toukenranbu_244",
+          "name": "古備前信房",
+          "profileURL": "https://www.toukenranbu.jp/character/244/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C889FEBE-726D-52C6-B350-4CB899BA96E3",
+          "masterId": "toukenranbu_246",
+          "name": "倶利伽羅江",
+          "profileURL": "https://www.toukenranbu.jp/character/246/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8828B829-4480-5A96-BBBA-BD7BBC205E66",
+          "masterId": "toukenranbu_248",
+          "name": "三郎国宗",
+          "profileURL": "https://www.toukenranbu.jp/character/248/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EF0E0304-8B34-5EF0-9806-E43EE65BFE66",
+          "masterId": "toukenranbu_250",
+          "name": "安宅切",
+          "profileURL": "https://www.toukenranbu.jp/character/250/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7C9EC584-BEED-5020-B651-1049068AC8A5",
+          "masterId": "toukenranbu_252",
+          "name": "二筋樋貞宗",
+          "profileURL": "https://www.toukenranbu.jp/character/252/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5CB6F2BE-548D-5D82-8B20-F8B179A7CA4B",
+          "masterId": "toukenranbu_254",
+          "name": "雲重",
+          "profileURL": "https://www.toukenranbu.jp/character/254/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6F3B981E-99A3-58B6-B0E8-E90587F5D3CB",
+          "masterId": "toukenranbu_256",
+          "name": "柏太刀",
+          "profileURL": "https://www.toukenranbu.jp/character/256/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20283B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

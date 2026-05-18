@@ -1,0 +1,363 @@
+{
+  "agencyId": "idolish7",
+  "agency": "アイドリッシュセブン",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "9CE8D70D-211A-523F-86B3-F287188F4B75",
+      "masterId": "idolish7_idolish7",
+      "name": "IDOLiSH7",
+      "isActive": true,
+      "profileURL": "https://idolish7.com/artist/idolish7",
+      "colorHex": [
+        "#E83B3B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/iD7Mng_Ogami",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "53FFEB23-39C4-54B2-947B-8DD08CBDC931",
+          "masterId": "idolish7_idolish7_nanase_riku",
+          "name": "七瀬陸",
+          "profileURL": "https://idolish7.com/artist/idolish7/nanase_riku",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E83B3B"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "273FA6F5-C266-506A-84CE-A916B3B8454B",
+          "masterId": "idolish7_idolish7_izumi_iori",
+          "name": "和泉一織",
+          "profileURL": "https://idolish7.com/artist/idolish7/izumi_iori",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1E4EA1"
+          ],
+          "birthday": "01-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26922AB3-FD00-5F8B-AE00-B0C5090A52CA",
+          "masterId": "idolish7_idolish7_nikaido_yamato",
+          "name": "二階堂大和",
+          "profileURL": "https://idolish7.com/artist/idolish7/nikaido_yamato",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2FA44A"
+          ],
+          "birthday": "02-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "571BD26C-22F3-50A8-9802-58FD612E49BC",
+          "masterId": "idolish7_idolish7_izumi_mitsuki",
+          "name": "和泉三月",
+          "profileURL": "https://idolish7.com/artist/idolish7/izumi_mitsuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": "03-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F36E4386-3149-5D0F-8F65-E6EC164A45F3",
+          "masterId": "idolish7_idolish7_yotsuba_tamaki",
+          "name": "四葉環",
+          "profileURL": "https://idolish7.com/artist/idolish7/yotsuba_tamaki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6BC6E8"
+          ],
+          "birthday": "04-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D43210FE-87C1-5E1C-B3E4-DE3FA6F85A6A",
+          "masterId": "idolish7_idolish7_oska_sogo",
+          "name": "逢坂壮五",
+          "profileURL": "https://idolish7.com/artist/idolish7/oska_sogo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B61A8"
+          ],
+          "birthday": "05-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00847B16-9608-5132-8812-2FDC1CBE398F",
+          "masterId": "idolish7_idolish7_rokuya_nagi",
+          "name": "六弥ナギ",
+          "profileURL": "https://idolish7.com/artist/idolish7/rokuya_nagi",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5D547"
+          ],
+          "birthday": "06-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F14816C3-F5F5-5B0C-88B7-A80BEEC13F47",
+      "masterId": "idolish7_trigger",
+      "name": "TRIGGER",
+      "isActive": true,
+      "profileURL": "https://idolish7.com/artist/trigger",
+      "colorHex": [
+        "#D3B26F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/iD7Mng_Ogami",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "CC4DE59E-0A7D-5077-8A34-07E68EA2DA74",
+          "masterId": "idolish7_trigger_yaotome_gaku",
+          "name": "八乙女楽",
+          "profileURL": "https://idolish7.com/artist/trigger/yaotome_gaku",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8C8C8C"
+          ],
+          "birthday": "08-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7CC130A3-2F96-546B-BA64-F42046E326DE",
+          "masterId": "idolish7_trigger_kujo_tenn",
+          "name": "九条天",
+          "profileURL": "https://idolish7.com/artist/trigger/kujo_tenn",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4A6C1"
+          ],
+          "birthday": "07-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "34D0068F-6B4F-54AF-B0A5-D33C5F8D8F67",
+          "masterId": "idolish7_trigger_tsunashi_ryunosuke",
+          "name": "十龍之介",
+          "profileURL": "https://idolish7.com/artist/trigger/tsunashi_ryunosuke",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "837F4A1A-C207-5E63-BAFE-82E7F6E71445",
+      "masterId": "idolish7_revale",
+      "name": "Re:vale",
+      "isActive": true,
+      "profileURL": "https://idolish7.com/artist/revale",
+      "colorHex": [
+        "#8BC34A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/iD7Mng_Ogami",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "61EBB93B-2372-5CC5-B1F8-01717C615F41",
+          "masterId": "idolish7_revale_momo",
+          "name": "百",
+          "profileURL": "https://idolish7.com/artist/revale/momo",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B5EBE42-5408-5B66-BB90-4715427887BF",
+          "masterId": "idolish7_revale_yuki",
+          "name": "千",
+          "profileURL": "https://idolish7.com/artist/revale/yuki",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8BC34A"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "BDFE8081-FD01-5112-B556-27629DE5D712",
+      "masterId": "idolish7_zool",
+      "name": "ŹOOĻ",
+      "isActive": true,
+      "profileURL": "https://idolish7.com/artist/zool",
+      "colorHex": [
+        "#3A3A3A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/iD7Mng_Ogami",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "8247CC8A-9B6B-5F07-AB62-4B98F78A9FBA",
+          "masterId": "idolish7_zool_isumi_haruka",
+          "name": "亥清悠",
+          "profileURL": "https://idolish7.com/artist/zool/isumi_haruka",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A4D65E"
+          ],
+          "birthday": "12-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1582712A-4ACA-5F5F-A1A8-CFD8D9ECA0E4",
+          "masterId": "idolish7_zool_inumaru_toma",
+          "name": "狗丸トウマ",
+          "profileURL": "https://idolish7.com/artist/zool/inumaru_toma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B35"
+          ],
+          "birthday": "11-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "08CA704E-8A3E-5AC6-BFF8-59EAFF6A997E",
+          "masterId": "idolish7_zool_natsume_minami",
+          "name": "棗巳波",
+          "profileURL": "https://idolish7.com/artist/zool/natsume_minami",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6F47"
+          ],
+          "birthday": "06-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "127EE1F7-A85C-5CD2-B601-33E9E4DE55AF",
+          "masterId": "idolish7_zool_mido_torao",
+          "name": "御堂虎於",
+          "profileURL": "https://idolish7.com/artist/zool/mido_torao",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A3A3A"
+          ],
+          "birthday": "03-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

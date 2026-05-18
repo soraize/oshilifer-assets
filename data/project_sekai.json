@@ -1,0 +1,575 @@
+{
+  "agencyId": "project_sekai",
+  "agency": "プロジェクトセカイ",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "DBF3D064-F933-5B14-A804-41E0A264FF94",
+      "masterId": "project_sekai_virtualsinger",
+      "name": "バーチャル・シンガー",
+      "isActive": true,
+      "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/index.html",
+      "colorHex": [
+        "#33CCBA"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pj_sekai",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "00B2FE49-4141-5EF7-81B4-6921DECC50B0",
+          "masterId": "project_sekai_virtualsinger_miku",
+          "name": "初音ミク",
+          "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/miku/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#33CCBA"
+          ],
+          "birthday": "08-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "263CC7D2-A3BE-557D-8013-769C941B203F",
+          "masterId": "project_sekai_virtualsinger_rin",
+          "name": "鏡音リン",
+          "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/rin/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#33CCBA"
+          ],
+          "birthday": "12-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "11605A94-4D60-5A8A-B9AB-C9408A438344",
+          "masterId": "project_sekai_virtualsinger_len",
+          "name": "鏡音レン",
+          "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/len/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#33CCBA"
+          ],
+          "birthday": "12-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "797F4464-7397-563A-AA49-83484386CB5C",
+          "masterId": "project_sekai_virtualsinger_luka",
+          "name": "巡音ルカ",
+          "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/luka/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#33CCBA"
+          ],
+          "birthday": "01-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B5071DBE-5671-5E72-A620-1716DB1526F7",
+          "masterId": "project_sekai_virtualsinger_meiko",
+          "name": "MEIKO",
+          "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/meiko/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#33CCBA"
+          ],
+          "birthday": "11-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1F51A340-56AE-5F01-9FE0-FD6AE77739AF",
+          "masterId": "project_sekai_virtualsinger_kaito",
+          "name": "KAITO",
+          "profileURL": "https://pjsekai.sega.jp/character/virtualsinger/kaito/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#33CCBA"
+          ],
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "3487D913-619E-5B66-9509-8FCAF5727FB6",
+      "masterId": "project_sekai_unite01",
+      "name": "Leo/need",
+      "isActive": true,
+      "profileURL": "https://pjsekai.sega.jp/character/unite01/index.html",
+      "colorHex": [
+        "#4455DD"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pj_sekai",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "96CB9B9C-819A-5201-9924-F55EDAE0AA83",
+          "masterId": "project_sekai_unite01_ichika",
+          "name": "星乃 一歌",
+          "profileURL": "https://pjsekai.sega.jp/character/unite01/ichika/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4455DD"
+          ],
+          "birthday": "08-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "57B17AE8-5E6D-5A3B-8731-DC098244F353",
+          "masterId": "project_sekai_unite01_saki",
+          "name": "天馬 咲希",
+          "profileURL": "https://pjsekai.sega.jp/character/unite01/saki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4455DD"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ADA449F9-88E4-5C7F-A8B2-385FC5193625",
+          "masterId": "project_sekai_unite01_honami",
+          "name": "望月 穂波",
+          "profileURL": "https://pjsekai.sega.jp/character/unite01/honami/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4455DD"
+          ],
+          "birthday": "10-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7BE69022-AE73-58E8-B24B-3EA7DE9051C8",
+          "masterId": "project_sekai_unite01_shiho",
+          "name": "日野森 志歩",
+          "profileURL": "https://pjsekai.sega.jp/character/unite01/shiho/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4455DD"
+          ],
+          "birthday": "01-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1BFC0F6D-9C0E-52A7-BC58-30AC6FD5EA51",
+      "masterId": "project_sekai_unite02",
+      "name": "MORE MORE JUMP！",
+      "isActive": true,
+      "profileURL": "https://pjsekai.sega.jp/character/unite02/index.html",
+      "colorHex": [
+        "#88DD44"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pj_sekai",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A2E65269-25AF-5B41-A7E8-5E2A2505C208",
+          "masterId": "project_sekai_unite02_minori",
+          "name": "花里 みのり",
+          "profileURL": "https://pjsekai.sega.jp/character/unite02/minori/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#88DD44"
+          ],
+          "birthday": "04-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A70CF875-93C9-5CF2-9A8B-37552CA835DB",
+          "masterId": "project_sekai_unite02_haruka",
+          "name": "桐谷 遥",
+          "profileURL": "https://pjsekai.sega.jp/character/unite02/haruka/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#88DD44"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18133AD4-BCAF-5404-98B8-BB2E6A1620D5",
+          "masterId": "project_sekai_unite02_airi",
+          "name": "桃井 愛莉",
+          "profileURL": "https://pjsekai.sega.jp/character/unite02/airi/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#88DD44"
+          ],
+          "birthday": "03-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B1AA669-E4C5-5E79-B478-4520279EBAB7",
+          "masterId": "project_sekai_unite02_shizuku",
+          "name": "日野森 雫",
+          "profileURL": "https://pjsekai.sega.jp/character/unite02/shizuku/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#88DD44"
+          ],
+          "birthday": "12-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "C53CFF10-2630-594B-B330-03585B9707BE",
+      "masterId": "project_sekai_unite03",
+      "name": "Vivid BAD SQUAD",
+      "isActive": true,
+      "profileURL": "https://pjsekai.sega.jp/character/unite03/index.html",
+      "colorHex": [
+        "#EE1166"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pj_sekai",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "748EB8DA-FE4B-567A-B418-652698D35425",
+          "masterId": "project_sekai_unite03_kohane",
+          "name": "小豆沢 こはね",
+          "profileURL": "https://pjsekai.sega.jp/character/unite03/kohane/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE1166"
+          ],
+          "birthday": "03-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C8BDF347-A044-5D9B-8B74-184F362DBAF8",
+          "masterId": "project_sekai_unite03_an",
+          "name": "白石 杏",
+          "profileURL": "https://pjsekai.sega.jp/character/unite03/an/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE1166"
+          ],
+          "birthday": "07-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64404626-0014-5A1A-B929-C3BF02D558BD",
+          "masterId": "project_sekai_unite03_akito",
+          "name": "東雲 彰人",
+          "profileURL": "https://pjsekai.sega.jp/character/unite03/akito/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE1166"
+          ],
+          "birthday": "11-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "231CF4CB-0123-55F7-9E5D-24F515DE137B",
+          "masterId": "project_sekai_unite03_toya",
+          "name": "青柳 冬弥",
+          "profileURL": "https://pjsekai.sega.jp/character/unite03/toya/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE1166"
+          ],
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7BEADCE4-2097-55C4-BC65-F76FC9C47CB8",
+      "masterId": "project_sekai_unite04",
+      "name": "ワンダーランズ×ショウタイム",
+      "isActive": true,
+      "profileURL": "https://pjsekai.sega.jp/character/unite04/index.html",
+      "colorHex": [
+        "#FF9900"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pj_sekai",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "EE9C9E1A-FD18-5D36-9E29-FE8A70487998",
+          "masterId": "project_sekai_unite04_tsukasa",
+          "name": "天馬 司",
+          "profileURL": "https://pjsekai.sega.jp/character/unite04/tsukasa/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9900"
+          ],
+          "birthday": "05-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "667C136D-83AA-5F81-82BF-91633F06021C",
+          "masterId": "project_sekai_unite04_emu",
+          "name": "鳳 えむ",
+          "profileURL": "https://pjsekai.sega.jp/character/unite04/emu/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9900"
+          ],
+          "birthday": "09-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C6EA1CFC-789E-5109-9082-3BC08C0F8264",
+          "masterId": "project_sekai_unite04_nene",
+          "name": "草薙 寧々",
+          "profileURL": "https://pjsekai.sega.jp/character/unite04/nene/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9900"
+          ],
+          "birthday": "07-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B51AF73A-E469-5503-8F40-C10B5EF62464",
+          "masterId": "project_sekai_unite04_rui",
+          "name": "神代 類",
+          "profileURL": "https://pjsekai.sega.jp/character/unite04/rui/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9900"
+          ],
+          "birthday": "06-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "77CD61A2-9991-5626-ADEB-B84CE867E4F3",
+      "masterId": "project_sekai_unite05",
+      "name": "25時、ナイトコードで。",
+      "isActive": true,
+      "profileURL": "https://pjsekai.sega.jp/character/unite05/index.html",
+      "colorHex": [
+        "#884499"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/pj_sekai",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "FF600C92-52C1-5E31-BEF7-91701A24E916",
+          "masterId": "project_sekai_unite05_kanade",
+          "name": "宵崎 奏",
+          "profileURL": "https://pjsekai.sega.jp/character/unite05/kanade/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#884499"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BCCB3915-726E-5793-94DB-FA23864AFAE9",
+          "masterId": "project_sekai_unite05_mafuyu",
+          "name": "朝比奈 まふゆ",
+          "profileURL": "https://pjsekai.sega.jp/character/unite05/mafuyu/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#884499"
+          ],
+          "birthday": "01-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D284D081-72C1-5DA1-A422-42979885ED4C",
+          "masterId": "project_sekai_unite05_ena",
+          "name": "東雲 絵名",
+          "profileURL": "https://pjsekai.sega.jp/character/unite05/ena/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#884499"
+          ],
+          "birthday": "04-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DA575DFD-E28A-51C5-B7E5-58A6092312EA",
+          "masterId": "project_sekai_unite05_mizuki",
+          "name": "暁山 瑞希",
+          "profileURL": "https://pjsekai.sega.jp/character/unite05/mizuki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#884499"
+          ],
+          "birthday": "08-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

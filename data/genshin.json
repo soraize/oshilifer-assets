@@ -1,0 +1,2075 @@
+{
+  "agencyId": "genshin",
+  "agency": "原神",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "5D644B48-A0D8-50B8-B640-7E8A9646642C",
+      "masterId": "genshin_mondstadt",
+      "name": "モンド",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+      "colorHex": [
+        "#4BBF8A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "DF5269D0-FCCB-53AA-9B2C-A7DFB8CA58F1",
+          "masterId": "genshin_mondstadt_163949",
+          "name": "ニコ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1AC87EB6-3C5A-5D95-8C9C-706DEA2B5FFE",
+          "masterId": "genshin_mondstadt_162625",
+          "name": "ファルカ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C03A0824-0603-591D-BCC6-F68C6F46E117",
+          "masterId": "genshin_mondstadt_161036",
+          "name": "ドゥリン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F205208-4968-5135-AC72-38B1B0680D67",
+          "masterId": "genshin_mondstadt_156697",
+          "name": "ダリア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9283DB93-4EF4-5D52-8876-EFD992A501C8",
+          "masterId": "genshin_mondstadt_105325",
+          "name": "ミカ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B8473BA3-0F2A-5932-B029-A5420FD6D7A4",
+          "masterId": "genshin_mondstadt_104819",
+          "name": "アーロイ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9837861F-F4C9-55A0-9141-F4C25EBB8B96",
+          "masterId": "genshin_mondstadt_104818",
+          "name": "エウルア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "25EB54CE-4AB1-5F73-8317-0CECCECAE1D9",
+          "masterId": "genshin_mondstadt_104817",
+          "name": "ロサリア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4316002C-5A8A-573E-8A59-70E2FC937D1D",
+          "masterId": "genshin_mondstadt_104816",
+          "name": "アルベド",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BDFBD2FA-4EF3-5B60-8EB4-13AC200C7F2F",
+          "masterId": "genshin_mondstadt_104815",
+          "name": "ディオナ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E45EC73-A0A8-5ED6-AA95-C0C3CF4D47C9",
+          "masterId": "genshin_mondstadt_104814",
+          "name": "モナ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0844BD16-387D-5636-8D1E-65F5CAC71D9C",
+          "masterId": "genshin_mondstadt_104813",
+          "name": "スクロース",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "446F2BC1-C369-5879-BC76-33744CDEE56A",
+          "masterId": "genshin_mondstadt_104812",
+          "name": "フィッシュル",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "684D13FB-9791-5CE4-83EA-9D2710FFC127",
+          "masterId": "genshin_mondstadt_104811",
+          "name": "ノエル",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BCAFAA78-4927-5314-9C26-EBC15DA3D54A",
+          "masterId": "genshin_mondstadt_104810",
+          "name": "ベネット",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E0E9E25B-BE44-5151-B25A-3F77F94A5DC9",
+          "masterId": "genshin_mondstadt_104809",
+          "name": "クレー",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D1DEC1EA-32BE-55E0-ADDE-B0D9165CABD2",
+          "masterId": "genshin_mondstadt_104808",
+          "name": "ウェンティ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B02FB604-C6E3-5C25-849D-4785430FF974",
+          "masterId": "genshin_mondstadt_104807",
+          "name": "レザー",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "81F43D5B-8CF7-5AF8-82F3-B6012A20D50B",
+          "masterId": "genshin_mondstadt_104806",
+          "name": "ディルック",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AD83369E-3927-555D-A6CF-CC2BAA427D09",
+          "masterId": "genshin_mondstadt_104805",
+          "name": "バーバラ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E6F52A6D-F73F-5FC7-98C3-EF8BCF2F5F10",
+          "masterId": "genshin_mondstadt_104804",
+          "name": "ガイア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59D26878-F81C-5ECA-835F-A8DE97E92205",
+          "masterId": "genshin_mondstadt_104803",
+          "name": "リサ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "03B90640-9E80-5779-84C8-2D7F1B43F3B6",
+          "masterId": "genshin_mondstadt_104802",
+          "name": "アンバー",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29BBCC57-2177-5B74-B308-3B6ED91DD8AC",
+          "masterId": "genshin_mondstadt_104801",
+          "name": "ジン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/mondstadt",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BBF8A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7900EA92-E4BE-5EE8-B78A-EC2D0EF0AB37",
+      "masterId": "genshin_liyue",
+      "name": "璃月",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+      "colorHex": [
+        "#D6A33A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7607143C-C997-5166-BD62-645C0BB305F8",
+          "masterId": "genshin_liyue_162095",
+          "name": "兹白",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C5CC0E7D-C6CF-59EC-A14F-8F668B32216E",
+          "masterId": "genshin_liyue_127979",
+          "name": "藍硯",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D644A68-CDD5-5573-84DB-2BF5C7EE3027",
+          "masterId": "genshin_liyue_119403",
+          "name": "嘉明",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2ABA52ED-3596-51AE-9D69-0D9A83BD8924",
+          "masterId": "genshin_liyue_119401",
+          "name": "閑雲",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F0DAC5F0-7C5B-5159-A389-3B1EA77520E2",
+          "masterId": "genshin_liyue_110845",
+          "name": "白朮",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3742DB15-4CB4-55ED-A07A-85D3E0632811",
+          "masterId": "genshin_liyue_104975",
+          "name": "ヨォーヨ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DC50C985-1504-5716-BD99-7FE2E25D933F",
+          "masterId": "genshin_liyue_104836",
+          "name": "夜蘭",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "83293501-81A3-57F1-9D6B-DDF554610880",
+          "masterId": "genshin_liyue_104835",
+          "name": "雲菫",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DA312AA7-E25E-5770-B012-D16584BECDEB",
+          "masterId": "genshin_liyue_104834",
+          "name": "申鶴",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E4FA412E-E9D4-5AAF-A32A-17D5A8D7F098",
+          "masterId": "genshin_liyue_104833",
+          "name": "煙緋",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "634573B1-65BF-57F0-B58E-409FB8ED91A0",
+          "masterId": "genshin_liyue_104832",
+          "name": "胡桃",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BA209722-06F6-553C-8768-A915C79E540A",
+          "masterId": "genshin_liyue_104831",
+          "name": "甘雨",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3C0425D-BD18-5D92-899C-857C2FCD7258",
+          "masterId": "genshin_liyue_104830",
+          "name": "辛炎",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C909B26B-8F21-515B-831B-9C3250D69CD1",
+          "masterId": "genshin_liyue_104829",
+          "name": "鍾離",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "188F695E-FDD3-5461-A5E2-2CEEA79B4539",
+          "masterId": "genshin_liyue_104828",
+          "name": "タルタリヤ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64A34A4D-29EF-50F4-B9E4-8468456C6698",
+          "masterId": "genshin_liyue_104827",
+          "name": "刻晴",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CA24E917-B9E3-5965-A97D-D5FC7DC53B8A",
+          "masterId": "genshin_liyue_104826",
+          "name": "七七",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7CF08345-0BDE-5C9F-9C0F-939D75D155F2",
+          "masterId": "genshin_liyue_104825",
+          "name": "重雲",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF415104-0A5F-5CD1-AC42-7C2921CF7ED4",
+          "masterId": "genshin_liyue_104824",
+          "name": "行秋",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62560792-F88B-5457-BECB-1046AF734325",
+          "masterId": "genshin_liyue_104823",
+          "name": "香菱",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2570D766-77DA-528C-BC78-8D793409C25B",
+          "masterId": "genshin_liyue_104822",
+          "name": "凝光",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "294F3144-D69D-511B-9170-BC2D356819EC",
+          "masterId": "genshin_liyue_104821",
+          "name": "北斗",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "197CCE6F-7293-5B6F-8EE7-435C0F05DF1B",
+          "masterId": "genshin_liyue_104820",
+          "name": "魈",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/liyue",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D6A33A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "BC8AA95C-5843-595C-B64E-453602E9BEA7",
+      "masterId": "genshin_inazuma",
+      "name": "稲妻",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+      "colorHex": [
+        "#8E63CE"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "2B314DCE-B23A-5195-AC0F-67C3BAB2E23A",
+          "masterId": "genshin_inazuma_129697",
+          "name": "夢見月瑞希",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B313F634-11B6-5F69-B99C-A447F71B8F65",
+          "masterId": "genshin_inazuma_111416",
+          "name": "綺良々",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F08039CD-30ED-5D80-867C-6D763255989C",
+          "masterId": "genshin_inazuma_104850",
+          "name": "鹿野院平蔵",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3FA9682-5D9A-5DA4-99FF-68D4A9C72C6B",
+          "masterId": "genshin_inazuma_104849",
+          "name": "久岐忍",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D689140D-654C-5BED-BF4C-6F0843A9958A",
+          "masterId": "genshin_inazuma_104848",
+          "name": "神里綾人",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CAAB8726-2690-5885-B1C8-E85C91F230F1",
+          "masterId": "genshin_inazuma_104847",
+          "name": "八重神子",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87E0CBFD-5E78-5B75-87C2-4836C84803C6",
+          "masterId": "genshin_inazuma_104846",
+          "name": "ゴロー",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2469E7D2-91AB-5C29-B0FF-79E5116031C9",
+          "masterId": "genshin_inazuma_104845",
+          "name": "荒瀧一斗",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "852A8924-BF1F-575A-A0D1-713254D54617",
+          "masterId": "genshin_inazuma_104844",
+          "name": "トーマ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5DCF95B4-5BF6-5DAB-AC62-A39234E0E7DF",
+          "masterId": "genshin_inazuma_104843",
+          "name": "珊瑚宮心海",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DBF5F96B-7CA2-50E7-996D-6FC4F344EE1B",
+          "masterId": "genshin_inazuma_104842",
+          "name": "九条裟羅",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1386FBFB-C0A3-59BB-829A-BA9E18733A78",
+          "masterId": "genshin_inazuma_104841",
+          "name": "雷電将軍",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6AC8C20A-3676-572B-9EBE-1E134FDA5E40",
+          "masterId": "genshin_inazuma_104840",
+          "name": "早柚",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "16E17626-8297-5AAA-9AD9-022A02D340DB",
+          "masterId": "genshin_inazuma_104839",
+          "name": "宵宮",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0E8B29CB-8ABC-592B-8C2A-F16DFA68D04A",
+          "masterId": "genshin_inazuma_104838",
+          "name": "楓原万葉",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CCB9839B-3D47-594F-B8D8-21310D37BB9F",
+          "masterId": "genshin_inazuma_104837",
+          "name": "神里綾華",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/inazuma",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E63CE"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A13AAE57-E221-567B-B804-14CDD178CBDA",
+      "masterId": "genshin_sumeru",
+      "name": "スメール",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+      "colorHex": [
+        "#4CAF50"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F0F9A018-92EE-567F-A406-2F05E9A591B3",
+          "masterId": "genshin_sumeru_123866",
+          "name": "セトス",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1111FB29-54ED-5857-8DDA-88362CC3E7F9",
+          "masterId": "genshin_sumeru_110848",
+          "name": "カーヴェ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D0A2E0E7-7F54-585C-B92C-1D359C1B3E04",
+          "masterId": "genshin_sumeru_105323",
+          "name": "ディシア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0532B367-3F74-5EE1-A8F7-B4CA2DB0062E",
+          "masterId": "genshin_sumeru_104974",
+          "name": "アルハイゼン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CDBA720D-F067-537F-8AFA-7B0144A270BB",
+          "masterId": "genshin_sumeru_104860",
+          "name": "ファルザン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8AC69F95-B30F-55F7-8794-C47F8F951697",
+          "masterId": "genshin_sumeru_104859",
+          "name": "放浪者",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F96EB25-2E9A-5DB1-87E4-4460D3B096B2",
+          "masterId": "genshin_sumeru_104858",
+          "name": "レイラ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9343C03C-5CAF-547E-9CBE-372861B042BF",
+          "masterId": "genshin_sumeru_104857",
+          "name": "ナヒーダ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B6197DB-C853-59A1-8F1A-855E4EB5B4B5",
+          "masterId": "genshin_sumeru_104856",
+          "name": "ニィロウ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A071D241-DD02-5766-80E2-22A6809B577D",
+          "masterId": "genshin_sumeru_104855",
+          "name": "キャンディス",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2D6D59D6-E5C0-582A-B293-F57477103142",
+          "masterId": "genshin_sumeru_104854",
+          "name": "セノ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0DA9991D-4186-5A02-A65E-0099EBC8E905",
+          "masterId": "genshin_sumeru_104853",
+          "name": "ドリー",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1EE2C35C-9448-50C7-98C8-1164909AAD85",
+          "masterId": "genshin_sumeru_104852",
+          "name": "コレイ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8672B46D-9E2B-58EE-AEDA-023179848BA7",
+          "masterId": "genshin_sumeru_104851",
+          "name": "ティナリ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/sumeru",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4CAF50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EBB117C8-A68F-5691-9E48-623AE5BA9EFF",
+      "masterId": "genshin_fontaine",
+      "name": "フォンテーヌ",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+      "colorHex": [
+        "#3BA7D8"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F9500341-854A-5B41-9B78-E2C1246F7A47",
+          "masterId": "genshin_fontaine_155630",
+          "name": "エスコフィエ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51277DC3-1B2E-594C-9DA3-9186909AFBD7",
+          "masterId": "genshin_fontaine_124961",
+          "name": "エミリエ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A3F2B9CF-EF6F-5EB0-BA25-BA51A691E679",
+          "masterId": "genshin_fontaine_124105",
+          "name": "シグウィン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "74D5B4BE-7938-532C-800D-AF5D098D5273",
+          "masterId": "genshin_fontaine_123842",
+          "name": "クロリンデ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4A434B09-3F4E-565B-9438-B85FF74D3C87",
+          "masterId": "genshin_fontaine_123167",
+          "name": "アルレッキーノ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5589CAFC-6425-523A-9B78-E2ABF4113C35",
+          "masterId": "genshin_fontaine_122720",
+          "name": "千織",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DEDA3350-1B8D-5633-94D1-955764FB5DA0",
+          "masterId": "genshin_fontaine_113800",
+          "name": "シュヴルーズ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "100ABCAC-9A1E-5C33-ADAC-372144ABFC4F",
+          "masterId": "genshin_fontaine_113799",
+          "name": "ナヴィア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "762AF1DD-5EAD-56D5-9E8D-B00CD27D4E05",
+          "masterId": "genshin_fontaine_113447",
+          "name": "フリーナ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0297EBDC-4F66-5ACF-9052-B15949B5F779",
+          "masterId": "genshin_fontaine_113448",
+          "name": "シャルロット",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "830031CC-F016-58CB-BB37-715229D4E33A",
+          "masterId": "genshin_fontaine_113013",
+          "name": "リオセスリ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "808A22EA-494F-578D-99FF-35EDAE65F319",
+          "masterId": "genshin_fontaine_113014",
+          "name": "ヌヴィレット",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E380E80-ABE1-53E2-AB34-C3369CA4160A",
+          "masterId": "genshin_fontaine_112636",
+          "name": "フレミネ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3B7C7D4D-4D25-5119-BD0B-EA1B403637D6",
+          "masterId": "genshin_fontaine_112632",
+          "name": "リネット",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E0A5AD1B-E5E6-56AD-96D4-569996A8E2E5",
+          "masterId": "genshin_fontaine_112618",
+          "name": "リネ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/fontaine",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3BA7D8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6BDEF795-0B2B-57C9-9542-4E9F31B08172",
+      "masterId": "genshin_natlan",
+      "name": "ナタ",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+      "colorHex": [
+        "#E25A2C"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F1A6A00C-7EC9-5C2C-AB08-B40AB677476D",
+          "masterId": "genshin_natlan_156698",
+          "name": "スカーク",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1AB28F9F-6E57-559E-A47E-C262CB55995A",
+          "masterId": "genshin_natlan_155631",
+          "name": "イファ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1F037CE5-B2F8-53F0-9281-FD336CB868B3",
+          "masterId": "genshin_natlan_154719",
+          "name": "イアンサ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB58479B-4BB0-5C21-95B6-E6DB418935FA",
+          "masterId": "genshin_natlan_154718",
+          "name": "ヴァレサ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "519FD1F1-832F-5D7B-843D-C85F8EB2C3AF",
+          "masterId": "genshin_natlan_127512",
+          "name": "マーヴィカ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0DDCA886-9B77-5770-9A62-E8813651EA7C",
+          "masterId": "genshin_natlan_127513",
+          "name": "シトラリ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "141D266D-2B41-5203-98B7-599A411AC427",
+          "masterId": "genshin_natlan_126887",
+          "name": "オロルン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "084F878F-5531-596E-B9FE-09ABC5717E84",
+          "masterId": "genshin_natlan_126886",
+          "name": "チャスカ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A02EB8D6-7CBD-5D04-889F-DBB9C73A899E",
+          "masterId": "genshin_natlan_126103",
+          "name": "シロネン",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "13BA63E3-0205-522C-AE09-B1D195E05906",
+          "masterId": "genshin_natlan_125716",
+          "name": "キィニチ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59DA3A02-0693-584B-AE54-63539CA63F18",
+          "masterId": "genshin_natlan_125395",
+          "name": "カチーナ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4EA939A1-1981-50B3-A355-101C3D77818C",
+          "masterId": "genshin_natlan_125394",
+          "name": "ムアラニ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/natlan",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E25A2C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "129D7311-33D6-504E-8F51-87445847162E",
+      "masterId": "genshin_nodkrai",
+      "name": "ナド・クライ",
+      "isActive": true,
+      "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+      "colorHex": [
+        "#6C7DD8"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/Genshin_7",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "4D6C996B-B534-529D-BB6C-5B7FEA110F50",
+          "masterId": "genshin_nodkrai_163297",
+          "name": "リンネア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E850C36C-0C9A-534B-8C4B-250B96982C98",
+          "masterId": "genshin_nodkrai_162096",
+          "name": "イルーガ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "03F40797-DC98-5729-9461-2925ADBBAA92",
+          "masterId": "genshin_nodkrai_162067",
+          "name": "コロンビーナ・ハイポセレニア",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5E2068B6-8D8C-5490-9335-C320B21F576D",
+          "masterId": "genshin_nodkrai_161107",
+          "name": "ヤフォダ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0420A74B-8B8A-5D7A-991F-00F969D4DEA8",
+          "masterId": "genshin_nodkrai_160183",
+          "name": "ネフェル",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7209D053-F813-5D89-A55F-7D6DB4C61D8B",
+          "masterId": "genshin_nodkrai_159269",
+          "name": "フリンズ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "41953547-76BB-52D3-970B-28D8A0DD0D41",
+          "masterId": "genshin_nodkrai_159154",
+          "name": "アイノ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5AB7E7D2-E42E-537D-9311-840AE4CB0721",
+          "masterId": "genshin_nodkrai_159015",
+          "name": "ラウマ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "297965D2-BC7A-54A9-98D6-EB5504F92DC6",
+          "masterId": "genshin_nodkrai_157730",
+          "name": "イネファ",
+          "profileURL": "https://genshin.hoyoverse.com/ja/character/nodkrai",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6C7DD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

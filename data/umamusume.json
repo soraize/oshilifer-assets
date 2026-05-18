@@ -1,0 +1,2567 @@
+{
+  "agencyId": "umamusume",
+  "agency": "ウマ娘 プリティーダービー",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "BA32AA2D-8F0F-5BEB-8296-A0579DFC6145",
+      "masterId": "umamusume_characters",
+      "name": "ウマ娘",
+      "isActive": true,
+      "profileURL": "https://umamusume.jp/character/",
+      "colorHex": [
+        "#EE6DCB",
+        "#29BD70"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/uma_musu",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "BD84F9F5-291D-5D36-B01E-DE85398163C7",
+          "masterId": "umamusume_specialweek",
+          "name": "スペシャルウィーク",
+          "profileURL": "https://umamusume.jp/character/specialweek/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE6DCB",
+            "#FFDEF9"
+          ],
+          "birthday": "05-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1AA4A694-F83B-503B-9936-E04182B1FA48",
+          "masterId": "umamusume_silencesuzuka",
+          "name": "サイレンススズカ",
+          "profileURL": "https://umamusume.jp/character/silencesuzuka/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#29BD70",
+            "#FFCE48"
+          ],
+          "birthday": "05-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "143FFC5A-D3B3-5901-BED3-1976DBE9809C",
+          "masterId": "umamusume_tokaiteio",
+          "name": "トウカイテイオー",
+          "profileURL": "https://umamusume.jp/character/tokaiteio/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3376D2",
+            "#FF99D0"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A3549EF-75E4-5AE3-B24E-AD708CED5BDC",
+          "masterId": "umamusume_maruzensky",
+          "name": "マルゼンスキー",
+          "profileURL": "https://umamusume.jp/character/maruzensky/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EA504A",
+            "#FFCD00"
+          ],
+          "birthday": "05-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "34C3089C-D67F-5982-84B0-CFAFB6976479",
+          "masterId": "umamusume_fujikiseki",
+          "name": "フジキセキ",
+          "profileURL": "https://umamusume.jp/character/fujikiseki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#444745",
+            "#33B839"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B30713EF-60CC-58DC-9B94-C8E299E09D0E",
+          "masterId": "umamusume_oguricap",
+          "name": "オグリキャップ",
+          "profileURL": "https://umamusume.jp/character/oguricap/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7AD2",
+            "#ECE7E7"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2259A921-E24B-592A-AF9F-518EFD082392",
+          "masterId": "umamusume_goldship",
+          "name": "ゴールドシップ",
+          "profileURL": "https://umamusume.jp/character/goldship/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DA3C57",
+            "#E9DA36"
+          ],
+          "birthday": "03-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "945EDC9B-670B-5160-9994-68E8A009E5FD",
+          "masterId": "umamusume_vodka",
+          "name": "ウオッカ",
+          "profileURL": "https://umamusume.jp/character/vodka/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D4C200",
+            "#3DD1D7"
+          ],
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2DD998D-883C-586B-B3CE-0419A584A0A9",
+          "masterId": "umamusume_daiwascarlet",
+          "name": "ダイワスカーレット",
+          "profileURL": "https://umamusume.jp/character/daiwascarlet/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4F64D8",
+            "#E73472"
+          ],
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "623D28ED-C3FE-5FA1-84A9-25E285015A8C",
+          "masterId": "umamusume_taikishuttle",
+          "name": "タイキシャトル",
+          "profileURL": "https://umamusume.jp/character/taikishuttle/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#73C032",
+            "#FFAC42"
+          ],
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "60ADEC78-439E-5B66-A184-6B85D04016C5",
+          "masterId": "umamusume_grasswonder",
+          "name": "グラスワンダー",
+          "profileURL": "https://umamusume.jp/character/grasswonder/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A34AC",
+            "#E3493F"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7763768E-DBBF-5657-93FF-FA596E2AA294",
+          "masterId": "umamusume_hishiamazon",
+          "name": "ヒシアマゾン",
+          "profileURL": "https://umamusume.jp/character/hishiamazon/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2185D0",
+            "#E6453A"
+          ],
+          "birthday": "03-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1702B484-2373-5E8E-9FB3-C8EFE7BB6553",
+          "masterId": "umamusume_mejiromcqueen",
+          "name": "メジロマックイーン",
+          "profileURL": "https://umamusume.jp/character/mejiromcqueen/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00B5BE",
+            "#DFC8E7"
+          ],
+          "birthday": "04-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "25804625-93F0-581E-B65E-8C28C92202A9",
+          "masterId": "umamusume_elcondorpasa",
+          "name": "エルコンドルパサー",
+          "profileURL": "https://umamusume.jp/character/elcondorpasa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DD4E31",
+            "#EFDB28"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "390064DB-D50E-5E94-8703-37F57F6B597D",
+          "masterId": "umamusume_tmoperao",
+          "name": "テイエムオペラオー",
+          "profileURL": "https://umamusume.jp/character/tmoperao/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F271C4",
+            "#FBE415"
+          ],
+          "birthday": "03-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABBD1D9A-F3DE-560C-A8F9-C38EF26F83CA",
+          "masterId": "umamusume_naritabrian",
+          "name": "ナリタブライアン",
+          "profileURL": "https://umamusume.jp/character/naritabrian/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#75358C",
+            "#D638A3"
+          ],
+          "birthday": "05-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7A3622E0-78A5-545A-9328-B0005A1393E9",
+          "masterId": "umamusume_symbolirudolf",
+          "name": "シンボリルドルフ",
+          "profileURL": "https://umamusume.jp/character/symbolirudolf/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C7763",
+            "#C6314B"
+          ],
+          "birthday": "03-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64FC238E-8F88-5663-A5CC-3D8A25728FA4",
+          "masterId": "umamusume_airgroove",
+          "name": "エアグルーヴ",
+          "profileURL": "https://umamusume.jp/character/airgroove/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0092CB",
+            "#FAE053"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7393F588-0535-56C7-A248-0C40AD177F3C",
+          "masterId": "umamusume_agnesdigital",
+          "name": "アグネスデジタル",
+          "profileURL": "https://umamusume.jp/character/agnesdigital/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F37F96",
+            "#F9F189"
+          ],
+          "birthday": "05-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E6780238-443B-56BB-BB02-FE686B6CC8C9",
+          "masterId": "umamusume_seiunsky",
+          "name": "セイウンスカイ",
+          "profileURL": "https://umamusume.jp/character/seiunsky/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#65D283",
+            "#F4DA40"
+          ],
+          "birthday": "04-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FE1DB2FC-E256-5E3B-AC71-16B704B727A7",
+          "masterId": "umamusume_tamamocross",
+          "name": "タマモクロス",
+          "profileURL": "https://umamusume.jp/character/tamamocross/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3290D6",
+            "#C6DAE7"
+          ],
+          "birthday": "05-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DABF5EF4-E08C-5578-A77D-1F8B4FC34C3F",
+          "masterId": "umamusume_finemotion",
+          "name": "ファインモーション",
+          "profileURL": "https://umamusume.jp/character/finemotion/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#20A95C",
+            "#EE5340"
+          ],
+          "birthday": "01-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29CD2F32-C282-5505-B79B-8F06F8F322A1",
+          "masterId": "umamusume_biwahayahide",
+          "name": "ビワハヤヒデ",
+          "profileURL": "https://umamusume.jp/character/biwahayahide/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B03D81",
+            "#E776B6"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "72B22C43-74C3-550D-AFD4-29E1E9FB8F09",
+          "masterId": "umamusume_mayanotopgun",
+          "name": "マヤノトップガン",
+          "profileURL": "https://umamusume.jp/character/mayanotopgun/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F57D38",
+            "#FFC845"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "731ED60D-4933-52A3-AC00-75C98DE727AE",
+          "masterId": "umamusume_manhattancafe",
+          "name": "マンハッタンカフェ",
+          "profileURL": "https://umamusume.jp/character/manhattancafe/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#494541",
+            "#E8DD4C"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "636DA40D-EECD-5D5C-B8B3-D5E19E83318D",
+          "masterId": "umamusume_mihonobourbon",
+          "name": "ミホノブルボン",
+          "profileURL": "https://umamusume.jp/character/mihonobourbon/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE60A1",
+            "#F0ED41"
+          ],
+          "birthday": "04-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "531F6EC1-F9EE-50C2-87EA-BF2584767057",
+          "masterId": "umamusume_mejiroryan",
+          "name": "メジロライアン",
+          "profileURL": "https://umamusume.jp/character/mejiroryan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#14BAAE",
+            "#7C4D3A"
+          ],
+          "birthday": "04-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "92ED1C5D-51A1-5F43-95BC-6E6133304323",
+          "masterId": "umamusume_hishiakebono",
+          "name": "ヒシアケボノ",
+          "profileURL": "https://umamusume.jp/character/hishiakebono/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#208BCD",
+            "#FA6F8B"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE51BAE5-8A01-5133-8878-4470427441DB",
+          "masterId": "umamusume_yukinobijin",
+          "name": "ユキノビジン",
+          "profileURL": "https://umamusume.jp/character/yukinobijin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#AF7E51",
+            "#C8D8EB"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB30C156-ECDA-5C84-82B1-BF367F330622",
+          "masterId": "umamusume_riceshower",
+          "name": "ライスシャワー",
+          "profileURL": "https://umamusume.jp/character/riceshower/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#384A86",
+            "#CA3E6D"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AE6AAEA8-3F00-5696-BA85-B0C3C24E68A1",
+          "masterId": "umamusume_inesfujin",
+          "name": "アイネスフウジン",
+          "profileURL": "https://umamusume.jp/character/inesfujin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F078C5",
+            "#54AE1B"
+          ],
+          "birthday": "04-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2DB61EA0-A680-5EB5-9A84-035E965C8E19",
+          "masterId": "umamusume_agnestachyon",
+          "name": "アグネスタキオン",
+          "profileURL": "https://umamusume.jp/character/agnestachyon/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#35B2B6",
+            "#E2E868"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EDDE7575-F70E-5D22-86C7-AA66A4E79823",
+          "masterId": "umamusume_admirevega",
+          "name": "アドマイヤベガ",
+          "profileURL": "https://umamusume.jp/character/admirevega/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3865A1",
+            "#78D5E1"
+          ],
+          "birthday": "03-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "007AA0E6-C66C-5212-B523-4E5BDFB57FB1",
+          "masterId": "umamusume_inarione",
+          "name": "イナリワン",
+          "profileURL": "https://umamusume.jp/character/inarione/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#AE419E",
+            "#EC86D0"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EE273ADC-250D-577A-B80D-FE9CC5F100E7",
+          "masterId": "umamusume_winningticket",
+          "name": "ウイニングチケット",
+          "profileURL": "https://umamusume.jp/character/winningticket/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DD3D5B",
+            "#EDE233"
+          ],
+          "birthday": "03-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "420B9DD7-6199-5376-B429-9EC957103E73",
+          "masterId": "umamusume_airshakur",
+          "name": "エアシャカール",
+          "profileURL": "https://umamusume.jp/character/airshakur/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2459B4",
+            "#E1E000"
+          ],
+          "birthday": "02-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "836D2CD6-DA01-5CDA-82ED-47C9C0DE7362",
+          "masterId": "umamusume_eishinflash",
+          "name": "エイシンフラッシュ",
+          "profileURL": "https://umamusume.jp/character/eishinflash/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3D3B3A",
+            "#E33067"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "13F86AD3-E7FC-50F2-B4E2-D10B60ED3028",
+          "masterId": "umamusume_currenchan",
+          "name": "カレンチャン",
+          "profileURL": "https://umamusume.jp/character/currenchan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F86669",
+            "#47423E"
+          ],
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "54F8A403-644A-50D9-876F-2378B11987D2",
+          "masterId": "umamusume_kawakamiprincess",
+          "name": "カワカミプリンセス",
+          "profileURL": "https://umamusume.jp/character/kawakamiprincess/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E146A7",
+            "#00C7B1"
+          ],
+          "birthday": "06-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DAD5F25E-39B9-5520-9534-8ADA65DA1169",
+          "masterId": "umamusume_goldcity",
+          "name": "ゴールドシチー",
+          "profileURL": "https://umamusume.jp/character/goldcity/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#245099",
+            "#E63C5C"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E48A3E7D-C596-5A89-8F27-108895BBD233",
+          "masterId": "umamusume_sakurabakushino",
+          "name": "サクラバクシンオー",
+          "profileURL": "https://umamusume.jp/character/sakurabakushino/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EE6FAB",
+            "#F2D4D7"
+          ],
+          "birthday": "04-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0B3BCBCA-2809-5F81-BCBE-E0E8F28FDBA3",
+          "masterId": "umamusume_seekingthepearl",
+          "name": "シーキングザパール",
+          "profileURL": "https://umamusume.jp/character/seekingthepearl/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B02D40",
+            "#1690D4"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4ABEDADA-6498-5E0A-99D2-E85048E55567",
+          "masterId": "umamusume_shinkowindy",
+          "name": "シンコウウインディ",
+          "profileURL": "https://umamusume.jp/character/shinkowindy/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#63666A",
+            "#6F2678"
+          ],
+          "birthday": "04-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29207D52-43A3-57DA-BF23-016C3002F7EE",
+          "masterId": "umamusume_sweeptosho",
+          "name": "スイープトウショウ",
+          "profileURL": "https://umamusume.jp/character/sweeptosho/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#926DDA",
+            "#BC204B"
+          ],
+          "birthday": "05-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5FE423A1-F360-5473-A361-B4A5DA508CAE",
+          "masterId": "umamusume_supercreek",
+          "name": "スーパークリーク",
+          "profileURL": "https://umamusume.jp/character/supercreek/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5693DA",
+            "#C8C9C7"
+          ],
+          "birthday": "05-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5074B2AC-9E2D-5B47-BB42-96457DD32516",
+          "masterId": "umamusume_smartfalcon",
+          "name": "スマートファルコン",
+          "profileURL": "https://umamusume.jp/character/smartfalcon/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F8587B",
+            "#403A35"
+          ],
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BEBD121A-B240-5CE7-89B7-72D152F7E662",
+          "masterId": "umamusume_zennorobroy",
+          "name": "ゼンノロブロイ",
+          "profileURL": "https://umamusume.jp/character/zennorobroy/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5F9B26",
+            "#F3EA5D"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C80FFB75-9F4D-5E45-82E2-3EDFBB567AB4",
+          "masterId": "umamusume_tosenjordan",
+          "name": "トーセンジョーダン",
+          "profileURL": "https://umamusume.jp/character/tosenjordan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#25B8AE",
+            "#1C57B9"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E1775EE5-1AA7-56F1-8A4B-D388803C15A8",
+          "masterId": "umamusume_nakayamafesta",
+          "name": "ナカヤマフェスタ",
+          "profileURL": "https://umamusume.jp/character/nakayamafesta/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C0453F",
+            "#236192"
+          ],
+          "birthday": "04-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5C91B53F-7181-5C21-BDC6-3016583D4099",
+          "masterId": "umamusume_naritataishin",
+          "name": "ナリタタイシン",
+          "profileURL": "https://umamusume.jp/character/naritataishin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E575CE",
+            "#F3DD6D"
+          ],
+          "birthday": "06-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BF5A35DF-D2EB-5220-84CA-419B71F5BC2A",
+          "masterId": "umamusume_nishinoflower",
+          "name": "ニシノフラワー",
+          "profileURL": "https://umamusume.jp/character/nishinoflower/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E26ECB",
+            "#F6EB61"
+          ],
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3A5AC59-6D50-583F-9C9F-4DAB986E2247",
+          "masterId": "umamusume_haruurara",
+          "name": "ハルウララ",
+          "profileURL": "https://umamusume.jp/character/haruurara/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FA7395",
+            "#EDE04B"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9CEE6679-30F3-5194-B982-4B892639005F",
+          "masterId": "umamusume_bamboomemory",
+          "name": "バンブーメモリー",
+          "profileURL": "https://umamusume.jp/character/bamboomemory/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#366965",
+            "#2D2926"
+          ],
+          "birthday": "05-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "251BAC4C-DB93-5B3D-B527-E03F8FFC94A8",
+          "masterId": "umamusume_bikopegasus",
+          "name": "ビコーペガサス",
+          "profileURL": "https://umamusume.jp/character/bikopegasus/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E7396F",
+            "#D162B8"
+          ],
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "762E9A1C-FDD8-51F9-864F-83F8D008EE0E",
+          "masterId": "umamusume_marveloussunday",
+          "name": "マーベラスサンデー",
+          "profileURL": "https://umamusume.jp/character/marveloussunday/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CA46B0",
+            "#B52542"
+          ],
+          "birthday": "05-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8690102E-48E0-53DC-9954-1E1179B91EBA",
+          "masterId": "umamusume_matikanefukukitaru",
+          "name": "マチカネフクキタル",
+          "profileURL": "https://umamusume.jp/character/matikanefukukitaru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3D89E9",
+            "#F8A717"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A454CFDC-4635-5F5E-88FE-6333168A04FA",
+          "masterId": "umamusume_mrcb",
+          "name": "ミスターシービー",
+          "profileURL": "https://umamusume.jp/character/mrcb/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6FC346",
+            "#FBE122"
+          ],
+          "birthday": "04-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "581E231D-B45B-5CFF-8427-96408E2C9590",
+          "masterId": "umamusume_meishodoto",
+          "name": "メイショウドトウ",
+          "profileURL": "https://umamusume.jp/character/meishodoto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#46449B",
+            "#D64388"
+          ],
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7FA6E536-04E8-5A51-858B-EC5B566A34F8",
+          "masterId": "umamusume_mejirodober",
+          "name": "メジロドーベル",
+          "profileURL": "https://umamusume.jp/character/mejirodober/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#19B49E",
+            "#6F3B42"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8E84252F-FDDC-53BA-AD8B-5BAA3219888F",
+          "masterId": "umamusume_nicenature",
+          "name": "ナイスネイチャ",
+          "profileURL": "https://umamusume.jp/character/nicenature/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#28A959",
+            "#B82720"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0A35F9AD-429D-54ED-8792-DA0F20893846",
+          "masterId": "umamusume_kinghalo",
+          "name": "キングヘイロー",
+          "profileURL": "https://umamusume.jp/character/kinghalo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0E9451",
+            "#1C57A5"
+          ],
+          "birthday": "04-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AFA8501A-5008-524B-B43B-ECEA349BC5FC",
+          "masterId": "umamusume_matikanetannhauser",
+          "name": "マチカネタンホイザ",
+          "profileURL": "https://umamusume.jp/character/matikanetannhauser/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0F8DCE",
+            "#EE5B56"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B10574FC-7653-5742-8CA0-C7CC111AB1D3",
+          "masterId": "umamusume_ikunodictus",
+          "name": "イクノディクタス",
+          "profileURL": "https://umamusume.jp/character/ikunodictus/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#49B73F",
+            "#C6D1D5"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F2795635-C5B5-5191-A719-9DA1CB7FC485",
+          "masterId": "umamusume_mejiropalmer",
+          "name": "メジロパーマー",
+          "profileURL": "https://umamusume.jp/character/mejiropalmer/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#27C79C",
+            "#865432"
+          ],
+          "birthday": "03-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2932A77E-47EE-55D0-B6AC-7FC62D928FFF",
+          "masterId": "umamusume_daitakuhelios",
+          "name": "ダイタクヘリオス",
+          "profileURL": "https://umamusume.jp/character/daitakuhelios/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5B64D5",
+            "#FBE247"
+          ],
+          "birthday": "04-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A1EFAF3-99E4-5725-B1D0-C5954D91C325",
+          "masterId": "umamusume_twinturbo",
+          "name": "ツインターボ",
+          "profileURL": "https://umamusume.jp/character/twinturbo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1985D2",
+            "#27B784"
+          ],
+          "birthday": "04-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B47D20F-5B10-5651-8882-70B946A4B26C",
+          "masterId": "umamusume_satonodiamond",
+          "name": "サトノダイヤモンド",
+          "profileURL": "https://umamusume.jp/character/satonodiamond/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#94BF01",
+            "#F9EB39"
+          ],
+          "birthday": "01-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EC35D0BC-1715-5A47-BF61-265B1DE15403",
+          "masterId": "umamusume_kitasanblack",
+          "name": "キタサンブラック",
+          "profileURL": "https://umamusume.jp/character/kitasanblack/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5A6065",
+            "#FC6D31"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1D189D77-20D9-5262-8A3E-C287FAD9F7C3",
+          "masterId": "umamusume_sakurachiyonoo",
+          "name": "サクラチヨノオー",
+          "profileURL": "https://umamusume.jp/character/sakurachiyonoo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F9879D",
+            "#F7DDE2"
+          ],
+          "birthday": "02-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED1FBFB4-F37F-5AF8-B15E-65664833F872",
+          "masterId": "umamusume_siriussymboli",
+          "name": "シリウスシンボリ",
+          "profileURL": "https://umamusume.jp/character/siriussymboli/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#248379",
+            "#E3628C"
+          ],
+          "birthday": "03-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ABBB763C-5138-560D-A693-24A5436D39EC",
+          "masterId": "umamusume_mejiroardan",
+          "name": "メジロアルダン",
+          "profileURL": "https://umamusume.jp/character/mejiroardan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#28BAA5",
+            "#BFE4EB"
+          ],
+          "birthday": "03-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8792A644-4E76-560B-8673-C4FB70C0FCB9",
+          "masterId": "umamusume_yaenomuteki",
+          "name": "ヤエノムテキ",
+          "profileURL": "https://umamusume.jp/character/yaenomuteki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DA483A",
+            "#FFDA93"
+          ],
+          "birthday": "04-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EB0C3299-B2BA-5838-A79D-8CECDEEAA0A8",
+          "masterId": "umamusume_tsurumarutsuyoshi",
+          "name": "ツルマルツヨシ",
+          "profileURL": "https://umamusume.jp/character/tsurumarutsuyoshi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8F4DAC",
+            "#F5CD47"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "09BC5F32-2617-5EAD-8AB3-B852E75AAFA6",
+          "masterId": "umamusume_mejirobright",
+          "name": "メジロブライト",
+          "profileURL": "https://umamusume.jp/character/mejirobright/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#45C5C1",
+            "#9F5F54"
+          ],
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C561B349-BC27-57F6-9C68-4421A481C0E1",
+          "masterId": "umamusume_daringtact",
+          "name": "デアリングタクト",
+          "profileURL": "https://umamusume.jp/character/daringtact/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#79C6DB",
+            "#6C5953"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9B6D091A-AE44-51FB-8B32-986BBD7C658E",
+          "masterId": "umamusume_sakuralaurel",
+          "name": "サクラローレル",
+          "profileURL": "https://umamusume.jp/character/sakuralaurel/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F0638A",
+            "#FECDC9"
+          ],
+          "birthday": "05-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A735FB3E-C339-59E0-8BAF-7E02A3FFE3F1",
+          "masterId": "umamusume_naritatoproad",
+          "name": "ナリタトップロード",
+          "profileURL": "https://umamusume.jp/character/naritatoproad/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EA5BC0",
+            "#8F3D7D"
+          ],
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "832E3A9A-F68F-5102-8F6C-C077E5E6A728",
+          "masterId": "umamusume_yamaninzephyr",
+          "name": "ヤマニンゼファー",
+          "profileURL": "https://umamusume.jp/character/yamaninzephyr/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5192C1",
+            "#AE4544"
+          ],
+          "birthday": "05-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F009857-EED1-50BC-939F-13DFC6D04DE2",
+          "masterId": "umamusume_furioso",
+          "name": "フリオーソ",
+          "profileURL": "https://umamusume.jp/character/furioso/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3F54BF",
+            "#DD3543"
+          ],
+          "birthday": "05-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF767E9C-E44C-54B9-B745-E0386EE785B5",
+          "masterId": "umamusume_transcend",
+          "name": "トランセンド",
+          "profileURL": "https://umamusume.jp/character/transcend/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#13A9B0",
+            "#F8475F"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E5AE777D-D7BA-5AC0-8CA1-89D6C56167DB",
+          "masterId": "umamusume_espoircity",
+          "name": "エスポワールシチー",
+          "profileURL": "https://umamusume.jp/character/espoircity/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D93842",
+            "#293AAB"
+          ],
+          "birthday": "04-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1160BDA3-4AE2-534B-BE06-AE576BC38448",
+          "masterId": "umamusume_northflight",
+          "name": "ノースフライト",
+          "profileURL": "https://umamusume.jp/character/northflight/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CA3B61",
+            "#32B5D6"
+          ],
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02500F5E-D651-5750-92D0-A055A23F8723",
+          "masterId": "umamusume_symbolikriss",
+          "name": "シンボリクリスエス",
+          "profileURL": "https://umamusume.jp/character/symbolikriss/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#12762F",
+            "#292D45"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30B9468E-AC23-58E3-9E05-95CC112D3BB5",
+          "masterId": "umamusume_taninogimlet",
+          "name": "タニノギムレット",
+          "profileURL": "https://umamusume.jp/character/taninogimlet/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DAB610",
+            "#173061"
+          ],
+          "birthday": "05-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "44604040-4E44-5B2D-B134-949C80B007CA",
+          "masterId": "umamusume_daiichiruby",
+          "name": "ダイイチルビー",
+          "profileURL": "https://umamusume.jp/character/daiichiruby/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D2445D",
+            "#6946A9"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35550D93-A9E6-560B-8CFE-47235EDFC904",
+          "masterId": "umamusume_mejiroramonu",
+          "name": "メジロラモーヌ",
+          "profileURL": "https://umamusume.jp/character/mejiroramonu/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BB6AF",
+            "#3C5161"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3D9839F-9F23-5CFD-84BB-63568CD429CA",
+          "masterId": "umamusume_astonmachan",
+          "name": "アストンマーチャン",
+          "profileURL": "https://umamusume.jp/character/astonmachan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CF4436",
+            "#E1DCCB"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29F0AFB9-FEC0-5168-9D3D-DA84E9B63938",
+          "masterId": "umamusume_satonocrown",
+          "name": "サトノクラウン",
+          "profileURL": "https://umamusume.jp/character/satonocrown/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#21713A",
+            "#F3F19D"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "58C4B5BC-F04E-5CDE-A766-347FA43AE62A",
+          "masterId": "umamusume_chevalgrand",
+          "name": "シュヴァルグラン",
+          "profileURL": "https://umamusume.jp/character/chevalgrand/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#64C3C1",
+            "#1E3872"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2936CD2-2C5E-5CCE-A509-F5CA009DBDFD",
+          "masterId": "umamusume_verxina",
+          "name": "ヴィルシーナ",
+          "profileURL": "https://umamusume.jp/character/verxina/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4747CC",
+            "#84C6E7"
+          ],
+          "birthday": "03-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9FC6682-4130-50AE-8E16-B81B8CA3EA77",
+          "masterId": "umamusume_vivlos",
+          "name": "ヴィブロス",
+          "profileURL": "https://umamusume.jp/character/vivlos/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#404FB1",
+            "#84D4E3"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "988CE012-FFBF-57A6-AF54-4FC6596CD5E4",
+          "masterId": "umamusume_dantsuflame",
+          "name": "ダンツフレーム",
+          "profileURL": "https://umamusume.jp/character/dantsuflame/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E97D97",
+            "#119D76"
+          ],
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E0394BA0-B31E-5DCA-92C9-D32C8FF5D02E",
+          "masterId": "umamusume_ksmiracle",
+          "name": "ケイエスミラクル",
+          "profileURL": "https://umamusume.jp/character/ksmiracle/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#85AAE1",
+            "#EBD64A"
+          ],
+          "birthday": "03-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9BD907D-E720-5E5B-A3D9-9C2995F9EC93",
+          "masterId": "umamusume_junglepocket",
+          "name": "ジャングルポケット",
+          "profileURL": "https://umamusume.jp/character/junglepocket/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6AC43C",
+            "#E6D734"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7F4848D-01D1-5389-A74C-6AECA98D2753",
+          "masterId": "umamusume_believe",
+          "name": "ビリーヴ",
+          "profileURL": "https://umamusume.jp/character/believe/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4BAECE",
+            "#C63663"
+          ],
+          "birthday": "04-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ADC45EFF-4929-5EAB-A7D9-2EBE20EF54BD",
+          "masterId": "umamusume_noreason",
+          "name": "ノーリーズン",
+          "profileURL": "https://umamusume.jp/character/noreason/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CB243E",
+            "#9AD2F5"
+          ],
+          "birthday": "06-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "16358A19-80FF-545B-A61D-69E1716FDC05",
+          "masterId": "umamusume_stillinlove",
+          "name": "スティルインラブ",
+          "profileURL": "https://umamusume.jp/character/stillinlove/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D83A43",
+            "#6FBBF1"
+          ],
+          "birthday": "05-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6FA7676B-B299-586C-B74E-4A181A6D452D",
+          "masterId": "umamusume_copanorickey",
+          "name": "コパノリッキー",
+          "profileURL": "https://umamusume.jp/character/copanorickey/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EEB42A",
+            "#D93C49"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A785B0F6-6E7A-5270-9DD1-2CED4A97FC2C",
+          "masterId": "umamusume_hokkotarumae",
+          "name": "ホッコータルマエ",
+          "profileURL": "https://umamusume.jp/character/hokkotarumae/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D94149",
+            "#CDDEE0"
+          ],
+          "birthday": "05-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "064293EF-5207-5C60-9777-637EF0C34939",
+          "masterId": "umamusume_wonderacute",
+          "name": "ワンダーアキュート",
+          "profileURL": "https://umamusume.jp/character/wonderacute/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D85081",
+            "#D8D2D9"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C6C8E734-39EC-5E62-AD11-1CAEAE05D961",
+          "masterId": "umamusume_samsonbig",
+          "name": "サムソンビッグ",
+          "profileURL": "https://umamusume.jp/character/samsonbig/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3DC3C2",
+            "#F0688E"
+          ],
+          "birthday": "04-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8FB47AEB-055E-5F9D-A7CA-9684A0FAC521",
+          "masterId": "umamusume_soundsofearth",
+          "name": "サウンズオブアース",
+          "profileURL": "https://umamusume.jp/character/soundsofearth/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CA4640",
+            "#305991"
+          ],
+          "birthday": "04-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35415058-2204-5BFA-87E3-EB5D5C4179E3",
+          "masterId": "umamusume_royceandroyce",
+          "name": "ロイスアンドロイス",
+          "profileURL": "https://umamusume.jp/character/royceandroyce/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E69A22",
+            "#CC382E"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "20DDC1C2-1BD9-52BA-ACA4-F06EAA10C547",
+          "masterId": "umamusume_katsuragiace",
+          "name": "カツラギエース",
+          "profileURL": "https://umamusume.jp/character/katsuragiace/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7DB0E0",
+            "#F77696"
+          ],
+          "birthday": "04-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2C18A26B-8A21-53E6-A067-F3E02A9A1594",
+          "masterId": "umamusume_neouniverse",
+          "name": "ネオユニヴァース",
+          "profileURL": "https://umamusume.jp/character/neouniverse/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5ABAE6",
+            "#F8DB55"
+          ],
+          "birthday": "05-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1EFBC134-3857-5435-B09A-AEFF5140A2B8",
+          "masterId": "umamusume_hishimiracle",
+          "name": "ヒシミラクル",
+          "profileURL": "https://umamusume.jp/character/hishimiracle/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A71B2",
+            "#BDD1E9"
+          ],
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6D87596B-AE0B-51C1-924A-FF5A3DC4D849",
+          "masterId": "umamusume_tapdancecity",
+          "name": "タップダンスシチー",
+          "profileURL": "https://umamusume.jp/character/tapdancecity/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D44853",
+            "#4840AD"
+          ],
+          "birthday": "03-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB7923F1-9FFB-5F8A-9108-AB2A21626553",
+          "masterId": "umamusume_duramente",
+          "name": "ドゥラメンテ",
+          "profileURL": "https://umamusume.jp/character/duramente/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BF3344",
+            "#4E4E4E"
+          ],
+          "birthday": "03-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "85F19F41-5550-5267-8A49-933A06CF8BA4",
+          "masterId": "umamusume_rheinkraft",
+          "name": "ラインクラフト",
+          "profileURL": "https://umamusume.jp/character/rheinkraft/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F15B75",
+            "#2C9679"
+          ],
+          "birthday": "04-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EB096BA8-3173-525B-AAA1-87C7104347F0",
+          "masterId": "umamusume_cesario",
+          "name": "シーザリオ",
+          "profileURL": "https://umamusume.jp/character/cesario/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#948EAB",
+            "#0A3874"
+          ],
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A06566B1-F5ED-5835-8F6F-03EE50578C2E",
+          "masterId": "umamusume_airmessiah",
+          "name": "エアメサイア",
+          "profileURL": "https://umamusume.jp/character/airmessiah/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2C2F9D",
+            "#FFFD8C"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "49B63220-3C3B-5EDA-B140-82C30DA7C978",
+          "masterId": "umamusume_daringheart",
+          "name": "デアリングハート",
+          "profileURL": "https://umamusume.jp/character/daringheart/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D0BA00",
+            "#38312B"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E8439577-CB89-57D8-A4F3-FEA6A25BE190",
+          "masterId": "umamusume_fusaichipandora",
+          "name": "フサイチパンドラ",
+          "profileURL": "https://umamusume.jp/character/fusaichipandora/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FD637F",
+            "#FBD872"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF912A47-661B-5800-BF8E-FAA4FF3001DC",
+          "masterId": "umamusume_buenavista",
+          "name": "ブエナビスタ",
+          "profileURL": "https://umamusume.jp/character/buenavista/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C0AF3B",
+            "#583D3E"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15E039C9-DB61-59BA-BAE1-3DFCB789DF73",
+          "masterId": "umamusume_orfevre",
+          "name": "オルフェーヴル",
+          "profileURL": "https://umamusume.jp/character/orfevre/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BE4134",
+            "#ECD898"
+          ],
+          "birthday": "05-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47E49626-8888-5FA7-A101-D9E04836C496",
+          "masterId": "umamusume_gentildonna",
+          "name": "ジェンティルドンナ",
+          "profileURL": "https://umamusume.jp/character/gentildonna/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CF2F2B",
+            "#533C3D"
+          ],
+          "birthday": "02-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1685273D-870D-5DC9-9AE7-2791869781B4",
+          "masterId": "umamusume_winvariation",
+          "name": "ウインバリアシオン",
+          "profileURL": "https://umamusume.jp/character/winvariation/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1213C",
+            "#BAD7F4"
+          ],
+          "birthday": "04-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B5788FD0-01A8-57E1-83F5-BEF6BEA24347",
+          "masterId": "umamusume_admiregroove",
+          "name": "アドマイヤグルーヴ",
+          "profileURL": "https://umamusume.jp/character/admiregroove/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#344D99",
+            "#5CBAC8"
+          ],
+          "birthday": "04-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00AA3281-C0C5-58BB-A426-E5421E6A7CE9",
+          "masterId": "umamusume_dreamjourney",
+          "name": "ドリームジャーニー",
+          "profileURL": "https://umamusume.jp/character/dreamjourney/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#332D1F",
+            "#E6E08A"
+          ],
+          "birthday": "02-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8480359E-8EE9-5936-8748-16110E793042",
+          "masterId": "umamusume_calstonelighto",
+          "name": "カルストンライトオ",
+          "profileURL": "https://umamusume.jp/character/calstonelighto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#131B4C",
+            "#F7EB49"
+          ],
+          "birthday": "05-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8EFCF37-4CC1-5300-96F0-29B5073E218D",
+          "masterId": "umamusume_durandal",
+          "name": "デュランダル",
+          "profileURL": "https://umamusume.jp/character/durandal/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EFA605",
+            "#D22630"
+          ],
+          "birthday": "05-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "43D45945-E654-527F-A802-46F857AA396F",
+          "masterId": "umamusume_bubblegumfellow",
+          "name": "バブルガムフェロー",
+          "profileURL": "https://umamusume.jp/character/bubblegumfellow/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E5BD00",
+            "#0047BB"
+          ],
+          "birthday": "04-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B6C63061-C12A-56C9-A7F6-701EC10AE659",
+          "masterId": "umamusume_sakurachitoseo",
+          "name": "サクラチトセオー",
+          "profileURL": "https://umamusume.jp/character/sakurachitoseo/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FA83CB",
+            "#D8C8D1"
+          ],
+          "birthday": "05-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2F2A4BA-AC3F-5CF8-9556-BB9F98577992",
+          "masterId": "umamusume_fenomeno",
+          "name": "フェノーメノ",
+          "profileURL": "https://umamusume.jp/character/fenomeno/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#574A74",
+            "#F4DB4E"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5BC289B6-1A47-5E1D-87A2-6398674FEF5A",
+          "masterId": "umamusume_blastonepiece",
+          "name": "ブラストワンピース",
+          "profileURL": "https://umamusume.jp/character/blastonepiece/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#009CBD",
+            "#0CB85F"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DDB146A6-46DA-5F9E-835D-29E8604BF558",
+          "masterId": "umamusume_almondeye",
+          "name": "アーモンドアイ",
+          "profileURL": "https://umamusume.jp/character/almondeye/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#69A9E9",
+            "#CC3300"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7C4B0675-AD84-5A2D-9935-7676434757DE",
+          "masterId": "umamusume_luckylilac",
+          "name": "ラッキーライラック",
+          "profileURL": "https://umamusume.jp/character/luckylilac/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#454152",
+            "#907594"
+          ],
+          "birthday": "04-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A429D55F-9886-5D3A-BD8E-A14D7A21F456",
+          "masterId": "umamusume_granalegria",
+          "name": "グランアレグリア",
+          "profileURL": "https://umamusume.jp/character/granalegria/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#53565A",
+            "#EF4D60"
+          ],
+          "birthday": "01-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A52F19B4-2C24-5B5A-B8A3-A947BA46C85A",
+          "masterId": "umamusume_lovesonlyyou",
+          "name": "ラヴズオンリーユー",
+          "profileURL": "https://umamusume.jp/character/lovesonlyyou/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#424840",
+            "#268745"
+          ],
+          "birthday": "03-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "68E6E2D3-5A82-5874-A8B5-49CF8B14A7A3",
+          "masterId": "umamusume_chronogenesis",
+          "name": "クロノジェネシス",
+          "profileURL": "https://umamusume.jp/character/chronogenesis/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#464647",
+            "#50A19F"
+          ],
+          "birthday": "03-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CE13D5C9-881F-506B-9054-F1AEC70D5466",
+          "masterId": "umamusume_currenbouquetdor",
+          "name": "カレンブーケドール",
+          "profileURL": "https://umamusume.jp/character/currenbouquetdor/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8E8180",
+            "#473D3C"
+          ],
+          "birthday": "04-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "236F8CDA-23EC-5194-8FCA-E55FF1EDF46C",
+          "masterId": "umamusume_staygold",
+          "name": "ステイゴールド",
+          "profileURL": "https://umamusume.jp/character/staygold/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BFB33E",
+            "#49699C"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B59899F8-FC76-501E-B378-4D4F087DED56",
+          "masterId": "umamusume_reddesire",
+          "name": "レッドディザイア",
+          "profileURL": "https://umamusume.jp/character/reddesire/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CB3A43",
+            "#802F2D"
+          ],
+          "birthday": "04-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C08C5171-D860-51BD-A38B-58098DD8025D",
+          "masterId": "umamusume_kiseki",
+          "name": "キセキ",
+          "profileURL": "https://umamusume.jp/character/kiseki/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2C9C46",
+            "#C8DBE9"
+          ],
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6AF654D3-079D-569D-90E1-2DC4E70BEFD5",
+          "masterId": "umamusume_foreveryoung",
+          "name": "フォーエバーヤング",
+          "profileURL": "https://umamusume.jp/character/foreveryoung/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#822B4A",
+            "#D8CED2"
+          ],
+          "birthday": "02-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B372C0C6-7492-5DBB-8CB0-04201C74EDC9",
+          "masterId": "umamusume_marchelorraine",
+          "name": "マルシュロレーヌ",
+          "profileURL": "https://umamusume.jp/character/marchelorraine/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1538",
+            "#E9A2B2"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7DDA372B-6099-55D9-8066-F8C0C7FF6235",
+          "masterId": "umamusume_epiphaneia",
+          "name": "エピファネイア",
+          "profileURL": "https://umamusume.jp/character/epiphaneia/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#17AF87",
+            "#D0DEE8"
+          ],
+          "birthday": "02-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DBF5CD13-853F-56CE-9B58-73B6CB8AA4B6",
+          "masterId": "umamusume_logotype",
+          "name": "ロゴタイプ",
+          "profileURL": "https://umamusume.jp/character/logotype/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7E2D40",
+            "#BD9B60"
+          ],
+          "birthday": "03-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F644C2BE-ECAE-53EF-8F64-F39C57FC5DF7",
+          "masterId": "umamusume_victoirepisa",
+          "name": "ヴィクトワールピサ",
+          "profileURL": "https://umamusume.jp/character/victoirepisa/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4146B8",
+            "#F1EB9D"
+          ],
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E54A2D81-A87F-54FC-9A5F-7BBEA05F2571",
+          "masterId": "umamusume_rosekingdom",
+          "name": "ローズキングダム",
+          "profileURL": "https://umamusume.jp/character/rosekingdom/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#CB363D",
+            "#52606B"
+          ],
+          "birthday": "05-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0CE807B0-E17E-5E50-B7E8-8D2558D49FE9",
+          "masterId": "umamusume_rulership",
+          "name": "ルーラーシップ",
+          "profileURL": "https://umamusume.jp/character/rulership/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BEAB08",
+            "#3A4C5C"
+          ],
+          "birthday": "05-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

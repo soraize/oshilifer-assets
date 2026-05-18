@@ -164,6 +164,47 @@
     ]
   },
   {
+    "categoryId": "game_character",
+    "name": "ゲーム・キャラクター",
+    "agencies": [
+      {
+        "agencyId": "toukenranbu",
+        "name": "刀剣乱舞ONLINE",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/toukenranbu.json"
+      },
+      {
+        "agencyId": "umamusume",
+        "name": "ウマ娘 プリティーダービー",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/umamusume.json"
+      },
+      {
+        "agencyId": "ensemble_stars",
+        "name": "あんさんぶるスターズ！！",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/ensemble_stars.json"
+      },
+      {
+        "agencyId": "idolish7",
+        "name": "アイドリッシュセブン",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/idolish7.json"
+      },
+      {
+        "agencyId": "twisted_wonderland",
+        "name": "ディズニー ツイステッドワンダーランド",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/twisted_wonderland.json"
+      },
+      {
+        "agencyId": "project_sekai",
+        "name": "プロジェクトセカイ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/project_sekai.json"
+      },
+      {
+        "agencyId": "genshin",
+        "name": "原神",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/genshin.json"
+      }
+    ]
+  },
+  {
     "categoryId": "entertainment",
     "name": "芸能・タレント",
     "agencies": [

@@ -1,0 +1,583 @@
+{
+  "agencyId": "twisted_wonderland",
+  "agency": "ディズニー ツイステッドワンダーランド",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "42D6D6D6-0838-52C2-ADBE-F58F091E0A5D",
+      "masterId": "twisted_wonderland_heartslabyul",
+      "name": "ハーツラビュル寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#F40000"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "218AE106-8BF0-5217-B150-001A6E660BE3",
+          "masterId": "twisted_wonderland_riddle",
+          "name": "リドル・ローズハート",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/riddle",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F40000"
+          ],
+          "birthday": "08-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2095C13C-77E2-5FD5-B57D-946B12B0C650",
+          "masterId": "twisted_wonderland_ace",
+          "name": "エース・トラッポラ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/ace",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F40000"
+          ],
+          "birthday": "09-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8F983665-E9F3-5F7A-91FD-508B216E1F6A",
+          "masterId": "twisted_wonderland_deuce",
+          "name": "デュース・スペード",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/deuce",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F40000"
+          ],
+          "birthday": "06-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1C2036ED-DD15-5D95-B0F0-7D2C58D123BD",
+          "masterId": "twisted_wonderland_trey",
+          "name": "トレイ・クローバー",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/trey",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F40000"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18688A8F-D024-5064-AA9A-CA1E703AA78F",
+          "masterId": "twisted_wonderland_cater",
+          "name": "ケイト・ダイヤモンド",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/cater",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F40000"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "280B859A-E2F3-56BC-9673-8C834584D4B1",
+      "masterId": "twisted_wonderland_savanaclaw",
+      "name": "サバナクロー寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#EBAB1C"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F16B0D1E-168A-5C13-9446-58A23B44D613",
+          "masterId": "twisted_wonderland_leona",
+          "name": "レオナ・キングスカラー",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/leona",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EBAB1C"
+          ],
+          "birthday": "07-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "475C2896-6F85-5CFD-B70F-C9E72ED567FB",
+          "masterId": "twisted_wonderland_jack",
+          "name": "ジャック・ハウル",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/jack",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EBAB1C"
+          ],
+          "birthday": "10-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "19E3AAA1-66AC-5F6F-BA77-48849C67CDEC",
+          "masterId": "twisted_wonderland_ruggie",
+          "name": "ラギー・ブッチ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/ruggie",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EBAB1C"
+          ],
+          "birthday": "04-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "52D4DDF6-4F9C-5148-BDEF-F571FB2FDC74",
+      "masterId": "twisted_wonderland_octavinelle",
+      "name": "オクタヴィネル寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#8EAABA"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "C7FBAB41-C25E-51C9-AD97-B565B47D9B17",
+          "masterId": "twisted_wonderland_azul",
+          "name": "アズール・アーシェングロット",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/azul",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EAABA"
+          ],
+          "birthday": "02-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0CBEC9CA-5464-5379-A952-19AC0E8D6AD0",
+          "masterId": "twisted_wonderland_jade",
+          "name": "ジェイド・リーチ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/jade",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EAABA"
+          ],
+          "birthday": "11-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47734328-115E-570E-A3F2-7A053EC3C0C9",
+          "masterId": "twisted_wonderland_floyd",
+          "name": "フロイド・リーチ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/floyd",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EAABA"
+          ],
+          "birthday": "11-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8922630F-41AD-5598-AC6B-A76B62811796",
+      "masterId": "twisted_wonderland_scarabia",
+      "name": "スカラビア寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#9A1719"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "AE0F9777-2CE2-5096-94F5-F0C40230A827",
+          "masterId": "twisted_wonderland_kalim",
+          "name": "カリム・アルアジーム",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/kalim",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9A1719"
+          ],
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3F606E98-FD40-58B3-9F12-5CFD37687DF5",
+          "masterId": "twisted_wonderland_jamil",
+          "name": "ジャミル・バイパー",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/jamil",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9A1719"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8027D7C9-7729-50DC-884E-2A6D5638856D",
+      "masterId": "twisted_wonderland_pomefiore",
+      "name": "ポムフィオーレ寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#352687"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "676473BD-D25D-51E8-94FB-08D017297163",
+          "masterId": "twisted_wonderland_vil",
+          "name": "ヴィル・シェーンハイト",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/vil",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#352687"
+          ],
+          "birthday": "04-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63C4B96C-7FC0-5645-938E-6E1F395230FA",
+          "masterId": "twisted_wonderland_epel",
+          "name": "エペル・フェルミエ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/epel",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#352687"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D88B6DC5-F940-5BE1-868C-8AC94EF16058",
+          "masterId": "twisted_wonderland_rook",
+          "name": "ルーク・ハント",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/rook",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#352687"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EA04BA95-3163-5B79-AAC6-983BE9BDC96E",
+      "masterId": "twisted_wonderland_ignihyde",
+      "name": "イグニハイド寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#1675BD"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "523D16C5-73E3-50BE-B4E6-C36AE0135862",
+          "masterId": "twisted_wonderland_idia",
+          "name": "イデア・シュラウド",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/idia",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1675BD"
+          ],
+          "birthday": "12-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9EFE96CD-CB3A-56D7-9A41-29C1BB244C0B",
+          "masterId": "twisted_wonderland_ortho",
+          "name": "オルト・シュラウド",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/ortho",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1675BD"
+          ],
+          "birthday": "08-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9DE99EE4-0C9F-52CC-9925-51A7235EE50D",
+      "masterId": "twisted_wonderland_diasomnia",
+      "name": "ディアソムニア寮",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#85C02E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "BC95A845-3550-57EA-A28E-616C2B61ED41",
+          "masterId": "twisted_wonderland_malleus",
+          "name": "マレウス・ドラコニア",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/malleus",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#85C02E"
+          ],
+          "birthday": "01-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A47AEADB-0B16-5B76-A6DB-D1CCC1AC6A55",
+          "masterId": "twisted_wonderland_lilia",
+          "name": "リリア・ヴァンルージュ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/lilia",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#85C02E"
+          ],
+          "birthday": "01-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "944836C1-ADDE-5E68-BDFA-22F6A64005C0",
+          "masterId": "twisted_wonderland_silver",
+          "name": "シルバー",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/silver",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#85C02E"
+          ],
+          "birthday": "05-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A70EAA53-0D7E-51B0-9808-0BBC68BC682D",
+          "masterId": "twisted_wonderland_sebek",
+          "name": "セベク・ジグボルト",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/sebek",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#85C02E"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "3E2208E8-1B27-5BFE-9AE8-BBCD11968331",
+      "masterId": "twisted_wonderland_rsa",
+      "name": "ロイヤルソードアカデミー",
+      "isActive": true,
+      "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/",
+      "colorHex": [
+        "#05AA6E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/twst_jp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "9BC9D1C9-CCE9-55F8-B0CF-1E1661BD2C2E",
+          "masterId": "twisted_wonderland_rielle",
+          "name": "リエーレ・コーラリア",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/rielle",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#05AA6E"
+          ],
+          "birthday": "10-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B87C5609-8DDE-5202-A499-8DE85C9AEDA1",
+          "masterId": "twisted_wonderland_minajael",
+          "name": "ミナジール・ティラージャ",
+          "profileURL": "https://twisted-wonderland.aniplex.co.jp/character/minajael",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A9C6"
+          ],
+          "birthday": "02-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

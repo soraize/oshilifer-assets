@@ -1,0 +1,1035 @@
+{
+  "agencyId": "disney",
+  "agency": "ディズニー",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "F7D099EA-F1F4-5AC6-81B1-DDCAC6132CEE",
+      "masterId": "disney_mickey_and_friends",
+      "name": "ミッキー＆フレンズ",
+      "isActive": true,
+      "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+      "colorHex": [
+        "#E31B23"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/disneyjp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "C0FB9DDE-7B8B-535A-ADE0-02D7F2D9317C",
+          "masterId": "disney_mickey_and_friends_mickey_mouse",
+          "name": "ミッキーマウス",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E31B23"
+          ],
+          "birthday": "11-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "75A6403F-09B5-5532-BFA5-A54F4F15C4D1",
+          "masterId": "disney_mickey_and_friends_minnie_mouse",
+          "name": "ミニーマウス",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E94B87"
+          ],
+          "birthday": "11-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D33CBFF-8BEF-567F-8507-DC4DD4BB096B",
+          "masterId": "disney_mickey_and_friends_donald_duck",
+          "name": "ドナルドダック",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F71C8"
+          ],
+          "birthday": "06-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A1A72836-6EB2-5C98-8234-016024B205CC",
+          "masterId": "disney_mickey_and_friends_daisy_duck",
+          "name": "デイジーダック",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A45BD8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3624B749-90C2-52F7-8043-371428BBF555",
+          "masterId": "disney_mickey_and_friends_goofy",
+          "name": "グーフィー",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "111AF5B5-1EDD-59B9-BF14-BC6D88F512CC",
+          "masterId": "disney_mickey_and_friends_pluto",
+          "name": "プルート",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4C430"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02B7B8CC-466F-5D34-A5F0-914B49619852",
+          "masterId": "disney_mickey_and_friends_chip",
+          "name": "チップ",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B5A2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D3969515-0E26-54A1-A3A6-825846AE24C8",
+          "masterId": "disney_mickey_and_friends_dale",
+          "name": "デール",
+          "profileURL": "https://www.disney.co.jp/fc/mickey-friends/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C47A3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "591A00AC-4DDD-5704-ACDB-6DAD41C9894C",
+      "masterId": "disney_disney_princess",
+      "name": "ディズニープリンセス",
+      "isActive": true,
+      "profileURL": "https://store.disney.co.jp/characters-list.html",
+      "colorHex": [
+        "#C5A24A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/disneyjp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "E687A126-F331-5F90-8235-2314A320CEDD",
+          "masterId": "disney_disney_princess_snow_white",
+          "name": "白雪姫",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7E04B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "95139E80-077F-5857-9933-DAB1AFACF3D4",
+          "masterId": "disney_disney_princess_cinderella",
+          "name": "シンデレラ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9FD3FF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9A14097C-52D6-5F6C-8664-184D2400CA1F",
+          "masterId": "disney_disney_princess_aurora",
+          "name": "オーロラ姫",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4A7C6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E0A73319-48E3-54E1-960D-096C79F7B253",
+          "masterId": "disney_disney_princess_ariel",
+          "name": "アリエル",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#39B7A5"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C9BBF6DC-AAAF-53F5-B5B1-E9B64AC8D72B",
+          "masterId": "disney_disney_princess_belle",
+          "name": "ベル",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5C542"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5099874C-2275-5673-96B6-8F087D7A268B",
+          "masterId": "disney_disney_princess_jasmine",
+          "name": "ジャスミン",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2BB8B8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62708832-D638-59DB-AF51-7145445D891E",
+          "masterId": "disney_disney_princess_pocahontas",
+          "name": "ポカホンタス",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B06D3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2C09B476-58C6-5FA4-BA29-B8A121D816D9",
+          "masterId": "disney_disney_princess_mulan",
+          "name": "ムーラン",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CA11F9C8-5F1C-5A04-9613-DA22FD021B98",
+          "masterId": "disney_disney_princess_tiana",
+          "name": "ティアナ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#74B72E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "71B1AAE1-7EBD-53C1-99F1-99B5E7A85E05",
+          "masterId": "disney_disney_princess_rapunzel",
+          "name": "ラプンツェル",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B67AD9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "82189CEB-3C61-56FE-B212-2DFD07F312D0",
+          "masterId": "disney_disney_princess_merida",
+          "name": "メリダ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F7A4D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4EAAAECC-4017-5CCE-BB1A-663D825B2E39",
+          "masterId": "disney_disney_princess_moana",
+          "name": "モアナ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E56B4A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AD3C6268-A31C-586A-9ACA-AA6A8AAD8BE3",
+          "masterId": "disney_disney_princess_raya",
+          "name": "ラーヤ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F6F8B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "C6BFC555-C4DC-5DBB-A109-8E5835374D21",
+      "masterId": "disney_disney_villains",
+      "name": "ディズニーヴィランズ",
+      "isActive": true,
+      "profileURL": "https://store.disney.co.jp/characters-list.html",
+      "colorHex": [
+        "#4B1E78"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/disneyjp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7AB94E69-CF24-5D4F-A54A-7A12345AF055",
+          "masterId": "disney_disney_villains_maleficent",
+          "name": "マレフィセント",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B1E78"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "87019818-30E3-5D29-93A9-98CB3F1A8165",
+          "masterId": "disney_disney_villains_evil_queen",
+          "name": "女王",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6B1E3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DF73282D-827F-50A8-B00C-D2F9C5DE9A17",
+          "masterId": "disney_disney_villains_ursula",
+          "name": "アースラ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7D4AA3"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AB5102BC-0332-5188-82BB-B1D96EEED3EF",
+          "masterId": "disney_disney_villains_jafar",
+          "name": "ジャファー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B11226"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B49B5A64-17FF-5BB5-948B-4C71A80A2293",
+          "masterId": "disney_disney_villains_cruella_de_vil",
+          "name": "クルエラ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222",
+            "#FFFFFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9FA7A43D-082D-5B5A-AD47-62C8F4EDC24B",
+          "masterId": "disney_disney_villains_captain_hook",
+          "name": "フック船長",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C21F30"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AC6986D9-1B5F-5C23-9A7B-A1B3A61ED60C",
+          "masterId": "disney_disney_villains_hades",
+          "name": "ハデス",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#39AEEA"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F19A75E7-AB42-5D9A-BF1D-8649BDFD1ADD",
+          "masterId": "disney_disney_villains_scar",
+          "name": "スカー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8A5A2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5600E062-D4A1-5922-A9FF-83DF387630C5",
+          "masterId": "disney_disney_villains_queen_of_hearts",
+          "name": "ハートの女王",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "078B6663-9473-521E-A08E-76D3DEA9BE1F",
+      "masterId": "disney_winnie_the_pooh",
+      "name": "くまのプーさん",
+      "isActive": true,
+      "profileURL": "https://store.disney.co.jp/characters-list.html",
+      "colorHex": [
+        "#F5C542"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/disneyjp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "B6465DD6-C675-5B4D-99EE-F0841A0BE52A",
+          "masterId": "disney_winnie_the_pooh_winnie_the_pooh",
+          "name": "プー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5C542"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9D9B0C5-5B96-556B-97EC-856B749A39F6",
+          "masterId": "disney_winnie_the_pooh_piglet",
+          "name": "ピグレット",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4A7C6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B230089B-3E23-5D42-ADD8-227DFCF7A401",
+          "masterId": "disney_winnie_the_pooh_tigger",
+          "name": "ティガー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1462932A-0F8E-5C1B-BC76-4FC6D88E2F49",
+          "masterId": "disney_winnie_the_pooh_eeyore",
+          "name": "イーヨー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7C83A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AE9E7A05-361E-5ACF-A27E-A7E5E089B99F",
+          "masterId": "disney_winnie_the_pooh_rabbit",
+          "name": "ラビット",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E8D36A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1F08468A-997F-55AC-910E-AE491BB6F7FB",
+          "masterId": "disney_winnie_the_pooh_roo",
+          "name": "ルー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C79058"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8026A504-8A30-5E5E-BD32-E2F17EB99F61",
+      "masterId": "disney_pixar",
+      "name": "ピクサー",
+      "isActive": true,
+      "profileURL": "https://store.disney.co.jp/characters-list.html",
+      "colorHex": [
+        "#2F71C8"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/disneyjp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A9677C2D-F9EB-5FA4-AC1C-AE6C2D8BAB1C",
+          "masterId": "disney_pixar_woody",
+          "name": "ウッディ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C14E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "299C3B22-88D8-5A45-912C-B79B7D094FA4",
+          "masterId": "disney_pixar_buzz_lightyear",
+          "name": "バズ・ライトイヤー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7AC943"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4D91252-15AA-503F-B69A-054BC4D0C809",
+          "masterId": "disney_pixar_jessie",
+          "name": "ジェシー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B15F0D39-DEDF-57AB-88D2-73D490B7451A",
+          "masterId": "disney_pixar_alien",
+          "name": "エイリアン",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7AC943"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15E3FBB3-73C4-58D0-A4BA-012AB991469D",
+          "masterId": "disney_pixar_sulley",
+          "name": "サリー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4DA3D9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "17150AB3-BDC2-5F3B-A0BE-8D1139FDA166",
+          "masterId": "disney_pixar_mike_wazowski",
+          "name": "マイク",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8CC63F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7431001B-27C1-5DEB-A261-275EC18C4495",
+          "masterId": "disney_pixar_nemo",
+          "name": "ニモ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6CA0BD86-6982-5050-B840-E184EE9E8CC7",
+          "masterId": "disney_pixar_dory",
+          "name": "ドリー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F71C8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "57BF2955-B3F1-5E11-A8E3-1B2B25E27D3C",
+          "masterId": "disney_pixar_lightning_mcqueen",
+          "name": "ライトニング・マックィーン",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D134A562-CA07-5779-A4D3-59B5B83AF87A",
+          "masterId": "disney_pixar_remy",
+          "name": "レミー",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6F91C7"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0582E834-1B33-5D58-BC64-891DC89A658F",
+          "masterId": "disney_pixar_joy",
+          "name": "ヨロコビ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5C542"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6DA1ED6E-8C11-54EC-8EC7-B1946544F881",
+          "masterId": "disney_pixar_sadness",
+          "name": "カナシミ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4D8BD6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7F1D949C-C528-5E04-90A6-FAE076D2A163",
+      "masterId": "disney_frozen",
+      "name": "アナと雪の女王",
+      "isActive": true,
+      "profileURL": "https://store.disney.co.jp/characters-list.html",
+      "colorHex": [
+        "#7EC8E3"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/disneyjp",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7241FA41-A833-5092-9B1D-4D134B5B9451",
+          "masterId": "disney_frozen_elsa",
+          "name": "エルサ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7EC8E3"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B41A8894-DB12-52F3-ABCE-CE9BC4F1B1F5",
+          "masterId": "disney_frozen_anna",
+          "name": "アナ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B24D8F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7D2F9208-2E30-5095-9126-71BD162E175E",
+          "masterId": "disney_frozen_olaf",
+          "name": "オラフ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7A3E82A6-2B2F-52D6-B160-76890E4C297E",
+          "masterId": "disney_frozen_kristoff",
+          "name": "クリストフ",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6B4E2E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62F397DE-BC06-5D0B-976D-94A86CD3B1E0",
+          "masterId": "disney_frozen_sven",
+          "name": "スヴェン",
+          "profileURL": "https://store.disney.co.jp/characters-list.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6F47"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

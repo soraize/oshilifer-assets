@@ -1,0 +1,369 @@
+{
+  "agencyId": "sanrio",
+  "agency": "サンリオ",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "A11BEF03-5601-5667-8F40-13CADC59C8E0",
+      "masterId": "sanrio_sanrio_characters",
+      "name": "サンリオキャラクターズ",
+      "isActive": true,
+      "profileURL": "https://shop.sanrio.co.jp/character",
+      "colorHex": [
+        "#E94B87"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/sanrio_news",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "324112DB-7E9B-509A-ABE4-7ED41078147C",
+          "masterId": "sanrio_sanrio_characters_hello_kitty",
+          "name": "ハローキティ",
+          "profileURL": "https://www.sanrio.co.jp/characters/hellokitty/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E60033"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D6679DC-6A93-504C-9C69-76E83F2669C3",
+          "masterId": "sanrio_sanrio_characters_cinnamoroll",
+          "name": "シナモロール",
+          "profileURL": "https://www.sanrio.co.jp/characters/cinnamoroll/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7AC9F5"
+          ],
+          "birthday": "03-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BB0F3104-C24F-55B0-9863-2F0225C35019",
+          "masterId": "sanrio_sanrio_characters_pompompurin",
+          "name": "ポムポムプリン",
+          "profileURL": "https://www.sanrio.co.jp/characters/pompompurin/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C948"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0FDA9EC4-025B-5FA1-84C5-EBD9C0542CB0",
+          "masterId": "sanrio_sanrio_characters_kuromi",
+          "name": "クロミ",
+          "profileURL": "https://www.sanrio.co.jp/characters/kuromi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6B4FA3"
+          ],
+          "birthday": "10-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9294167C-6D2D-53BA-9978-FD473C66CC39",
+          "masterId": "sanrio_sanrio_characters_my_melody",
+          "name": "マイメロディ",
+          "profileURL": "https://www.sanrio.co.jp/characters/mymelody/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5A6C8"
+          ],
+          "birthday": "01-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "896AF7CF-C475-5303-B3B6-D41D65957940",
+          "masterId": "sanrio_sanrio_characters_pochacco",
+          "name": "ポチャッコ",
+          "profileURL": "https://www.sanrio.co.jp/characters/pochacco/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F71C8"
+          ],
+          "birthday": "02-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D8EE0AF5-B059-5D90-839A-0FEB205072A4",
+          "masterId": "sanrio_sanrio_characters_hangyodon",
+          "name": "ハンギョドン",
+          "profileURL": "https://www.sanrio.co.jp/characters/hangyodon/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5AB3C4"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "88D5F4EF-4A46-5AD4-BB0E-9EB3EAC800D8",
+          "masterId": "sanrio_sanrio_characters_tuxedosam",
+          "name": "タキシードサム",
+          "profileURL": "https://www.sanrio.co.jp/characters/tuxedosam/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4FB4D8"
+          ],
+          "birthday": "05-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BF9880F5-560E-5C75-A229-3ACE3F6DA6F2",
+          "masterId": "sanrio_sanrio_characters_kerokerokeroppi",
+          "name": "けろけろけろっぴ",
+          "profileURL": "https://www.sanrio.co.jp/characters/keroppi/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#54B948"
+          ],
+          "birthday": "07-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "86B1F0F1-9A54-5A2D-BA3F-E8499B14ED55",
+          "masterId": "sanrio_sanrio_characters_badtz_maru",
+          "name": "バッドばつ丸",
+          "profileURL": "https://www.sanrio.co.jp/characters/badtzmaru/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222"
+          ],
+          "birthday": "04-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9AD3C90F-B6A2-5176-A5D8-09C3F9AD3BED",
+          "masterId": "sanrio_sanrio_characters_little_twin_stars",
+          "name": "リトルツインスターズ",
+          "profileURL": "https://www.sanrio.co.jp/characters/kikilala/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#87CEEB",
+            "#F8B7D8"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A32149E5-FD40-58F3-8574-435F932B44C1",
+          "masterId": "sanrio_sanrio_characters_gudetama",
+          "name": "ぐでたま",
+          "profileURL": "https://www.sanrio.co.jp/characters/gudetama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F5C342"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "84BD4C00-AC80-54FC-ACE1-2ADCB8B1D516",
+          "masterId": "sanrio_sanrio_characters_aggretsuko",
+          "name": "アグレッシブ烈子",
+          "profileURL": "https://www.sanrio.co.jp/characters/aggressiveretsuko/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "85246574-CFA2-5C24-9994-2539471D5064",
+          "masterId": "sanrio_sanrio_characters_wish_me_mell",
+          "name": "ウィッシュミーメル",
+          "profileURL": "https://www.sanrio.co.jp/characters/wishmemell/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4A7B9"
+          ],
+          "birthday": "09-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E22F941-1657-540E-91E5-FEA4DFCA3362",
+          "masterId": "sanrio_sanrio_characters_ahiru_no_pekkle",
+          "name": "あひるのペックル",
+          "profileURL": "https://www.sanrio.co.jp/characters/pekkle/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F6D358"
+          ],
+          "birthday": "07-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED976EA2-6912-5573-BA3C-21F79619565F",
+          "masterId": "sanrio_sanrio_characters_chococat",
+          "name": "チョコキャット",
+          "profileURL": "https://www.sanrio.co.jp/characters/chococat/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#222222"
+          ],
+          "birthday": "05-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "931C694E-09CA-5725-9824-C73981E5D9D8",
+          "masterId": "sanrio_sanrio_characters_kirimi_chan",
+          "name": "KIRIMIちゃん.",
+          "profileURL": "https://www.sanrio.co.jp/characters/kirimichan/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF8A65"
+          ],
+          "birthday": "08-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8E637FE6-1842-5167-AA75-96EF0DDF1935",
+          "masterId": "sanrio_sanrio_characters_cogimyun",
+          "name": "こぎみゅん",
+          "profileURL": "https://www.sanrio.co.jp/characters/cogimyun/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7E6C4"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1531A27F-EF6F-5D37-85AF-8303874294CA",
+          "masterId": "sanrio_sanrio_characters_my_sweet_piano",
+          "name": "マイスウィートピアノ",
+          "profileURL": "https://www.sanrio.co.jp/characters/mysweetpiano/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7B7C8"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "150C91D0-0D93-525B-8ED6-02BAFCEE99C1",
+          "masterId": "sanrio_sanrio_characters_hanamaruobake",
+          "name": "はなまるおばけ",
+          "profileURL": "https://www.sanrio.co.jp/characters/hanamaruobake/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#DADADA"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

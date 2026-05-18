@@ -266,6 +266,27 @@
     ]
   },
   {
+    "categoryId": "character",
+    "name": "キャラクター",
+    "agencies": [
+      {
+        "agencyId": "sanrio",
+        "name": "サンリオ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/sanrio.json"
+      },
+      {
+        "agencyId": "chiikawa",
+        "name": "ちいかわ",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/chiikawa.json"
+      },
+      {
+        "agencyId": "disney",
+        "name": "ディズニー",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/disney.json"
+      }
+    ]
+  },
+  {
     "categoryId": "entertainment",
     "name": "芸能・タレント",
     "agencies": [

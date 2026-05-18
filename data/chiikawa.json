@@ -1,0 +1,232 @@
+{
+  "agencyId": "chiikawa",
+  "agency": "ちいかわ",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "F4951D89-369C-5A68-BBEC-C52D034E1656",
+      "masterId": "chiikawa_chiikawa_characters",
+      "name": "ちいかわ",
+      "isActive": true,
+      "profileURL": "https://www.anime-chiikawa.jp/",
+      "colorHex": [
+        "#F4B6C2"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/ngnchiikawa",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "25BDFA79-0BCE-521B-A2A2-52EB900BAE6E",
+          "masterId": "chiikawa_chiikawa_characters_chiikawa",
+          "name": "ちいかわ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F7C6D0"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FD4294C4-19FE-56AC-B351-51C71EE9DD72",
+          "masterId": "chiikawa_chiikawa_characters_hachiware",
+          "name": "ハチワレ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7DB7E8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0358429B-102C-5BA2-8527-B43BB474F52D",
+          "masterId": "chiikawa_chiikawa_characters_usagi",
+          "name": "うさぎ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F6D65B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ECFDCC40-B636-56AC-8603-F9C984ABA7FC",
+          "masterId": "chiikawa_chiikawa_characters_momonga",
+          "name": "モモンガ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C9A7E8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B12AD2FD-9FEE-52E6-9117-A7CCE6E1048D",
+          "masterId": "chiikawa_chiikawa_characters_kurimanju",
+          "name": "くりまんじゅう",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A8733A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "486DA8B6-BAC8-51E7-BBAB-AF3A1DEAA10C",
+          "masterId": "chiikawa_chiikawa_characters_rakko",
+          "name": "ラッコ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6F91C7"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7F5712EC-2402-5901-9CF3-BC5EE92A2598",
+          "masterId": "chiikawa_chiikawa_characters_shisa",
+          "name": "シーサー",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2A45F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BEBBFA42-C92A-5AA7-91DA-AF62CB338839",
+          "masterId": "chiikawa_chiikawa_characters_furuhonya",
+          "name": "古本屋",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F1A6C2"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4EB9756-F413-5E5A-8D68-3AFF299E3142",
+          "masterId": "chiikawa_chiikawa_characters_yoroi_san",
+          "name": "鎧さん",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9CA3AF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7000219F-9406-5621-AD54-E456DD391CEC",
+          "masterId": "chiikawa_chiikawa_characters_anoko",
+          "name": "あのこ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D9A066"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BB531E39-E163-5F36-9A9D-3C94A08D3666",
+          "masterId": "chiikawa_chiikawa_characters_dekatsuyo",
+          "name": "でかつよ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8BA2C9"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E559349C-8C8C-54CF-B310-43AA64D1BA2E",
+          "masterId": "chiikawa_chiikawa_characters_kabutomushi",
+          "name": "カブトムシ",
+          "profileURL": "https://www.anime-chiikawa.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7A4B2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

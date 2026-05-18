@@ -321,6 +321,11 @@
         "agencyId": "voice_actors",
         "name": "声優",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/voice_actors.json"
+      },
+      {
+        "agencyId": "takarazuka",
+        "name": "宝塚歌劇団",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/takarazuka.json"
       }
     ]
   },

@@ -1,0 +1,677 @@
+{
+  "agencyId": "takarazuka",
+  "agency": "宝塚歌劇団",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "F8922B9C-BB26-5502-B09E-10A8C0314ECE",
+      "masterId": "takarazuka_flower",
+      "name": "花組",
+      "isActive": true,
+      "profileURL": "https://kageki.hankyu.co.jp/star/flower.html",
+      "colorHex": [
+        "#E67AA0"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kageki_staff",
+        "instagram": "https://www.instagram.com/takarazukarevue.official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kageki.hankyu.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "50AF4C2F-FB80-5600-9AB2-533C9430DC90",
+          "masterId": "takarazuka_flower_towaki_sea",
+          "name": "永久輝 せあ",
+          "profileURL": "https://kageki.hankyu.co.jp/star/towaki_sea.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E67AA0"
+          ],
+          "birthday": "08-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "27E78747-8B33-5C61-BA18-8E416EB952FA",
+          "masterId": "takarazuka_flower_hoshizora_misaki",
+          "name": "星空 美咲",
+          "profileURL": "https://kageki.hankyu.co.jp/star/hoshizora_misaki.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E67AA0"
+          ],
+          "birthday": "03-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FB2673FF-D89E-53FD-B497-4E37CB15448E",
+          "masterId": "takarazuka_flower_seino_asuka",
+          "name": "聖乃 あすか",
+          "profileURL": "https://kageki.hankyu.co.jp/star/seino_asuka.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E67AA0"
+          ],
+          "birthday": "01-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "141632F6-2B7E-5660-BF83-A05DEB60E066",
+          "masterId": "takarazuka_flower_kiwami_shin",
+          "name": "極美 慎",
+          "profileURL": "https://kageki.hankyu.co.jp/star/kiwami_shin.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E67AA0"
+          ],
+          "birthday": "07-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F8A1563-73F3-50A8-AC97-A8F7FE994346",
+          "masterId": "takarazuka_flower_mihane_ai",
+          "name": "美羽 愛",
+          "profileURL": "https://kageki.hankyu.co.jp/star/mihane_ai.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E67AA0"
+          ],
+          "birthday": "07-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "E8E54B1B-8200-545F-8D5C-898EF355D4D3",
+      "masterId": "takarazuka_moon",
+      "name": "月組",
+      "isActive": true,
+      "profileURL": "https://kageki.hankyu.co.jp/star/moon.html",
+      "colorHex": [
+        "#F2D55C"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kageki_staff",
+        "instagram": "https://www.instagram.com/takarazukarevue.official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kageki.hankyu.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "C05BD8E7-D2F8-5414-A4E1-7AEBC77A73F0",
+          "masterId": "takarazuka_moon_hozuki_an",
+          "name": "鳳月 杏",
+          "profileURL": "https://kageki.hankyu.co.jp/star/hozuki_an.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2D55C"
+          ],
+          "birthday": "06-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "43A4DF0A-B513-5D25-89C8-D81DD97A8B95",
+          "masterId": "takarazuka_moon_amashi_juri",
+          "name": "天紫 珠李",
+          "profileURL": "https://kageki.hankyu.co.jp/star/amashi_juri.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2D55C"
+          ],
+          "birthday": "01-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A9B4828-EBB7-557A-A15F-5489BBBAB0EE",
+          "masterId": "takarazuka_moon_kazama_yuno",
+          "name": "風間 柚乃",
+          "profileURL": "https://kageki.hankyu.co.jp/star/kazama_yuno.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2D55C"
+          ],
+          "birthday": "05-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "98D24284-7016-5A61-A540-1FE1A36C26AA",
+          "masterId": "takarazuka_moon_reika_haru",
+          "name": "礼華 はる",
+          "profileURL": "https://kageki.hankyu.co.jp/star/reika_haru.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2D55C"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CFAA6580-1EA1-53EF-BB76-020979230022",
+          "masterId": "takarazuka_moon_ayami_sera",
+          "name": "彩海 せら",
+          "profileURL": "https://kageki.hankyu.co.jp/star/ayami_sera.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2D55C"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "140D6DCF-E560-50BC-A242-F67543557763",
+      "masterId": "takarazuka_snow",
+      "name": "雪組",
+      "isActive": true,
+      "profileURL": "https://kageki.hankyu.co.jp/star/snow.html",
+      "colorHex": [
+        "#8EC5E8"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kageki_staff",
+        "instagram": "https://www.instagram.com/takarazukarevue.official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kageki.hankyu.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "92C14404-D2AA-52C5-AE5F-D974FD5887D1",
+          "masterId": "takarazuka_snow_asami_jun",
+          "name": "朝美 絢",
+          "profileURL": "https://kageki.hankyu.co.jp/star/asami_jun.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EC5E8"
+          ],
+          "birthday": "11-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A5D6DA7-8530-53A8-9A44-186E9415B136",
+          "masterId": "takarazuka_snow_neiro_yui",
+          "name": "音彩 唯",
+          "profileURL": "https://kageki.hankyu.co.jp/star/neiro_yui.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EC5E8"
+          ],
+          "birthday": "12-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D8B5203-1FB4-585F-A779-D9C01B7A1284",
+          "masterId": "takarazuka_snow_seo_yuria",
+          "name": "瀬央 ゆりあ",
+          "profileURL": "https://kageki.hankyu.co.jp/star/seo_yuria.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EC5E8"
+          ],
+          "birthday": "06-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C2B711C1-D46D-5DCF-8311-2DDF4830AF56",
+          "masterId": "takarazuka_snow_suwa_saki",
+          "name": "諏訪 さき",
+          "profileURL": "https://kageki.hankyu.co.jp/star/suwa_saki.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EC5E8"
+          ],
+          "birthday": "10-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D0C6BAA-82EB-5D9E-86F7-E9A7478428CB",
+          "masterId": "takarazuka_snow_agata_sen",
+          "name": "縣 千",
+          "profileURL": "https://kageki.hankyu.co.jp/star/agata_sen.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8EC5E8"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5BAFCACF-0EE0-51C1-9D15-DB515EC47493",
+      "masterId": "takarazuka_star",
+      "name": "星組",
+      "isActive": true,
+      "profileURL": "https://kageki.hankyu.co.jp/star/star.html",
+      "colorHex": [
+        "#4F7FDB"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kageki_staff",
+        "instagram": "https://www.instagram.com/takarazukarevue.official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kageki.hankyu.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "9832FA0C-BB08-578F-AF3E-4A250397DE23",
+          "masterId": "takarazuka_star_akatsuki_chisei",
+          "name": "暁 千星",
+          "profileURL": "https://kageki.hankyu.co.jp/star/akatsuki_chisei.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4F7FDB"
+          ],
+          "birthday": "09-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E9920FA1-AF38-557E-93A8-C86B880FDD14",
+          "masterId": "takarazuka_star_uta_chizuru",
+          "name": "詩 ちづる",
+          "profileURL": "https://kageki.hankyu.co.jp/star/uta_chizuru.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4F7FDB"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5D80EF91-9023-5708-B2D5-7520473FAD0F",
+          "masterId": "takarazuka_star_rukaze_hikaru",
+          "name": "瑠風 輝",
+          "profileURL": "https://kageki.hankyu.co.jp/star/rukaze_hikaru.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4F7FDB"
+          ],
+          "birthday": "01-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4813D36C-A9A2-561B-89A9-C6FC7BB66BC7",
+          "masterId": "takarazuka_star_amato_kanon",
+          "name": "天飛 華音",
+          "profileURL": "https://kageki.hankyu.co.jp/star/amato_kanon.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4F7FDB"
+          ],
+          "birthday": "02-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB6EDEAC-A191-5265-A1F4-ECB24F17DEE5",
+          "masterId": "takarazuka_star_kisho_kazuto",
+          "name": "稀惺 かずと",
+          "profileURL": "https://kageki.hankyu.co.jp/star/kisho_kazuto.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4F7FDB"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B8458DE3-B573-5F34-B563-DA2112D24E32",
+      "masterId": "takarazuka_cosmos",
+      "name": "宙組",
+      "isActive": true,
+      "profileURL": "https://kageki.hankyu.co.jp/star/cosmos.html",
+      "colorHex": [
+        "#8B6FC9"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kageki_staff",
+        "instagram": "https://www.instagram.com/takarazukarevue.official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kageki.hankyu.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "D925056E-8E9D-5455-922B-409185529629",
+          "masterId": "takarazuka_cosmos_sakuragi_minato",
+          "name": "桜木 みなと",
+          "profileURL": "https://kageki.hankyu.co.jp/star/sakuragi_minato.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6FC9"
+          ],
+          "birthday": "12-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B5135158-9388-5813-95CF-C20B8D19B14B",
+          "masterId": "takarazuka_cosmos_haruno_sakura",
+          "name": "春乃 さくら",
+          "profileURL": "https://kageki.hankyu.co.jp/star/haruno_sakura.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6FC9"
+          ],
+          "birthday": "03-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4D41E026-6D65-5D40-BD58-83C481B2D40F",
+          "masterId": "takarazuka_cosmos_minami_maito",
+          "name": "水美 舞斗",
+          "profileURL": "https://kageki.hankyu.co.jp/star/minami_maito.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6FC9"
+          ],
+          "birthday": "06-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "041175BC-EEC9-5949-9296-E99F8A0F1D31",
+          "masterId": "takarazuka_cosmos_amairo_mineri",
+          "name": "天彩 峰里",
+          "profileURL": "https://kageki.hankyu.co.jp/star/amairo_mineri.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6FC9"
+          ],
+          "birthday": "03-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "90DD00CF-29F1-59C9-8A02-B2432C0FFEC3",
+          "masterId": "takarazuka_cosmos_takato_chiaki",
+          "name": "鷹翔 千空",
+          "profileURL": "https://kageki.hankyu.co.jp/star/takato_chiaki.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6FC9"
+          ],
+          "birthday": "05-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9396E190-BF0D-5CDA-801D-2D327662921C",
+          "masterId": "takarazuka_cosmos_kazeiro_hyuga",
+          "name": "風色 日向",
+          "profileURL": "https://kageki.hankyu.co.jp/star/kazeiro_hyuga.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B6FC9"
+          ],
+          "birthday": "06-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "70D4BF5C-2EAC-5634-8463-49F585214604",
+      "masterId": "takarazuka_special",
+      "name": "専科",
+      "isActive": true,
+      "profileURL": "https://kageki.hankyu.co.jp/star/special.html",
+      "colorHex": [
+        "#B8A15A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kageki_staff",
+        "instagram": "https://www.instagram.com/takarazukarevue.official/",
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": "https://kageki.hankyu.co.jp/schedule/",
+      "members": [
+        {
+          "uuid": "F6109EBC-B5A2-5A27-B6CE-7123FD98973B",
+          "masterId": "takarazuka_special_ema_naoki",
+          "name": "英真 なおき",
+          "profileURL": "https://kageki.hankyu.co.jp/star/ema_naoki.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8A15A"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D0C7944-9CB2-5853-8F9D-74631024C984",
+          "masterId": "takarazuka_special_natori_rei",
+          "name": "汝鳥 伶",
+          "profileURL": "https://kageki.hankyu.co.jp/star/natori_rei.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8A15A"
+          ],
+          "birthday": "04-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "174D81C1-15C3-58CA-97C0-136389AB348D",
+          "masterId": "takarazuka_special_itsuki_chihiro",
+          "name": "一樹 千尋",
+          "profileURL": "https://kageki.hankyu.co.jp/star/itsuki_chihiro.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8A15A"
+          ],
+          "birthday": "05-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "568433C1-18B2-55E2-A49E-B249079C5A95",
+          "masterId": "takarazuka_special_rinjo_kira",
+          "name": "凛城 きら",
+          "profileURL": "https://kageki.hankyu.co.jp/star/rinjo_kira.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8A15A"
+          ],
+          "birthday": "01-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC5F30A4-98DD-566A-9DA4-DCAB5D73A39F",
+          "masterId": "takarazuka_special_kizuki_yuma",
+          "name": "輝月 ゆうま",
+          "profileURL": "https://kageki.hankyu.co.jp/star/kizuki_yuma.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8A15A"
+          ],
+          "birthday": "09-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "93443FC5-4527-503A-9FB1-94BDCEAF6E68",
+          "masterId": "takarazuka_special_kozakura_honoka",
+          "name": "小桜 ほのか",
+          "profileURL": "https://kageki.hankyu.co.jp/star/kozakura_honoka.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8A15A"
+          ],
+          "birthday": "05-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

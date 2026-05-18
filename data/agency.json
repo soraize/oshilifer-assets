@@ -164,13 +164,18 @@
     ]
   },
   {
-    "categoryId": "actor_stage",
-    "name": "俳優・舞台",
+    "categoryId": "entertainment",
+    "name": "芸能・タレント",
     "agencies": [
       {
         "agencyId": "stage_actors",
         "name": "2.5次元俳優",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stage_actors.json"
+      },
+      {
+        "agencyId": "voice_actors",
+        "name": "声優",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/voice_actors.json"
       }
     ]
   },

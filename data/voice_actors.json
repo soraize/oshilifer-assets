@@ -1,0 +1,436 @@
+{
+  "agencyId": "voice_actors",
+  "agency": "声優",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "76C56795-ABFB-5552-80C3-4D61C2A2063B",
+      "masterId": "voice_actors_main",
+      "name": "声優",
+      "isActive": true,
+      "profileURL": null,
+      "colorHex": [
+        "#4A6FA5"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A88F97E2-A32C-5CAB-BFCA-1C92C2E130DE",
+          "masterId": "voice_actor_yamadera_koichi",
+          "name": "山寺宏一",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%AF%BA%E5%AE%8F%E4%B8%80",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "06-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "906A6330-0048-5A98-90BD-33679180C938",
+          "masterId": "voice_actor_hanae_natsuki",
+          "name": "花江夏樹",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%B1%9F%E5%A4%8F%E6%A8%B9",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "06-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64F6DAEC-2EFD-5EA8-9AF6-E3DD3E4640C9",
+          "masterId": "voice_actor_miyano_mamoru",
+          "name": "宮野真守",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "06-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6179BCF1-2B02-58FA-890B-3733511AFF36",
+          "masterId": "voice_actor_kamiya_hiroshi",
+          "name": "神谷浩史",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%B0%B7%E6%B5%A9%E5%8F%B2",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "01-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FD8853E7-5EC3-537B-8D91-35E4398E7D0C",
+          "masterId": "voice_actor_nakamura_yuichi",
+          "name": "中村悠一",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "02-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "599BE897-1828-5CC9-886E-7D5C4037AAA8",
+          "masterId": "voice_actor_sugita_tomokazu",
+          "name": "杉田智和",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "10-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E49A692E-9C77-581B-BB96-226E71F03E67",
+          "masterId": "voice_actor_kaji_yuki",
+          "name": "梶裕貴",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%A3%95%E8%B2%B4",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "09-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59D81E8C-3320-536C-9C99-A71CF4EAD639",
+          "masterId": "voice_actor_shimono_hiro",
+          "name": "下野紘",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E9%87%8E%E7%B4%98",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "04-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8496B249-FD70-5978-A060-D3D56B14CED8",
+          "masterId": "voice_actor_eguchi_takuya",
+          "name": "江口拓也",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%8F%A3%E6%8B%93%E4%B9%9F",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "05-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0900E4F5-183D-500B-85AD-6902E8CA52A7",
+          "masterId": "voice_actor_uchiyama_koki",
+          "name": "内山昂輝",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E6%98%82%E8%BC%9D",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "08-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66C987A1-1771-5A3F-A62B-18873FF4F1B2",
+          "masterId": "voice_actor_hayami_saori",
+          "name": "早見沙織",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "05-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B288EE50-DE44-5997-AD59-F8DD66C1A3EC",
+          "masterId": "voice_actor_hanazawa_kana",
+          "name": "花澤香菜",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "02-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9F8064A-8F5D-52E6-98E3-1CF4507F6D0E",
+          "masterId": "voice_actor_sawashiro_miyuki",
+          "name": "沢城みゆき",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%B2%A2%E5%9F%8E%E3%81%BF%E3%82%86%E3%81%8D",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "06-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F2234580-140B-5327-B4D3-2A6771C1D7A6",
+          "masterId": "voice_actor_mizuki_nana",
+          "name": "水樹奈々",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%A8%B9%E5%A5%88%E3%80%85",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF45E8A3-759F-5BD9-9CED-D9E44B10439B",
+          "masterId": "voice_actor_kugimiya_rie",
+          "name": "釘宮理恵",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "05-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E08C1862-0A11-52FC-8278-24D8EF293C5C",
+          "masterId": "voice_actor_sakamoto_maaya",
+          "name": "坂本真綾",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "79D75587-3F74-5ECB-9286-E7D45B36FBF8",
+          "masterId": "voice_actor_uchida_maaya",
+          "name": "内田真礼",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E7%9C%9F%E7%A4%BC",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "12-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "04EF47DE-C1D9-56A1-A086-A85732155B3E",
+          "masterId": "voice_actor_minase_inori",
+          "name": "水瀬いのり",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%80%AC%E3%81%84%E3%81%AE%E3%82%8A",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0EE2BB41-346B-5DAB-A8E2-E0DB17DC857D",
+          "masterId": "voice_actor_kito_akari",
+          "name": "鬼頭明里",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E9%A0%AD%E6%98%8E%E9%87%8C",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "10-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "43325DB1-F99C-5D2D-867B-84B4306DD732",
+          "masterId": "voice_actor_fairouz_ai",
+          "name": "ファイルーズあい",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%BC%E3%82%BA%E3%81%82%E3%81%84",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64B92BEE-683C-58C6-9576-C6F4811F1FBF",
+          "masterId": "voice_actor_tanezaki_atsumi",
+          "name": "種﨑敦美",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E7%A8%AE%EF%A8%91%E6%95%A6%E7%BE%8E",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "09-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D85680D0-327C-57D2-BA52-EE9A824224EB",
+          "masterId": "voice_actor_yuuki_aoi",
+          "name": "悠木碧",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "03-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "42275B6D-9506-51F0-A396-53E3C16E6F86",
+          "masterId": "voice_actor_ogura_yui",
+          "name": "小倉唯",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%80%89%E5%94%AF",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "08-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C05993D1-2E3D-5CD6-A188-204633AF0E67",
+          "masterId": "voice_actor_takahashi_rie",
+          "name": "高橋李依",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A6FA5"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

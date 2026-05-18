@@ -164,6 +164,17 @@
     ]
   },
   {
+    "categoryId": "actor_stage",
+    "name": "俳優・舞台",
+    "agencies": [
+      {
+        "agencyId": "stage_actors",
+        "name": "2.5次元俳優",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/stage_actors.json"
+      }
+    ]
+  },
+  {
     "categoryId": "sports",
     "name": "スポーツ",
     "agencies": [

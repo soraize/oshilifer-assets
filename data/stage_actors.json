@@ -1,0 +1,368 @@
+{
+  "agencyId": "stage_actors",
+  "agency": "2.5次元俳優",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "562E0D03-D6CD-587F-B523-8239225E924E",
+      "masterId": "stage_actors_2_5d",
+      "name": "2.5次元俳優",
+      "isActive": true,
+      "profileURL": null,
+      "colorHex": [
+        "#8B1E3F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": null,
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7F64C531-D8F1-5D4C-870C-015AD598F88F",
+          "masterId": "stage_actor_aramaki_yoshihiko",
+          "name": "荒牧慶彦",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E8%8D%92%E7%89%A7%E6%85%B6%E5%BD%A6",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E858594-1D99-5BBB-8482-45B30731BCFC",
+          "masterId": "stage_actor_wada_masanari",
+          "name": "和田雅成",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%92%8C%E7%94%B0%E9%9B%85%E6%88%90",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B7B34DD8-7BBC-5158-A90C-3458B8D85B24",
+          "masterId": "stage_actor_suzuki_hiroki",
+          "name": "鈴木拡樹",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E6%8B%A1%E6%A8%B9",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "06-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "07252ABB-E009-5696-A5B6-D77924C51918",
+          "masterId": "stage_actor_ueda_keisuke",
+          "name": "植田圭輔",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%94%B0%E5%9C%AD%E8%BC%94",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "09-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "875A4B5A-733B-5E82-8927-F8F11B9CA681",
+          "masterId": "stage_actor_sato_ryuji",
+          "name": "佐藤流司",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%B5%81%E5%8F%B8",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "01-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8651FE0C-554F-58CC-8703-01B7E3D4374E",
+          "masterId": "stage_actor_takano_akira",
+          "name": "高野洸",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E6%B4%B8",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "07-22",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BF291BBA-8250-5032-A079-7313F257284F",
+          "masterId": "stage_actor_kuroba_mario",
+          "name": "黒羽麻璃央",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%BE%BD%E9%BA%BB%E7%92%83%E5%A4%AE",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F01A17EB-CB4E-5C3B-BDE9-66087F8EDBC9",
+          "masterId": "stage_actor_kitamura_ryo",
+          "name": "北村諒",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E8%AB%92",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "01-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4FDAF713-8C43-5CE3-AB1E-2FA5F4AFA29B",
+          "masterId": "stage_actor_sakiyama_tsubasa",
+          "name": "崎山つばさ",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%B4%8E%E5%B1%B1%E3%81%A4%E3%81%B0%E3%81%95",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "11-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "66D313DC-5EEB-5511-B621-3C0CB71B35F0",
+          "masterId": "stage_actor_konishi_eito",
+          "name": "小西詠斗",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E8%A9%A0%E6%96%97",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "01-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "564EFFAD-7113-5BC4-A22A-F1051308E3E3",
+          "masterId": "stage_actor_tateishi_toshiki",
+          "name": "立石俊樹",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E7%9F%B3%E4%BF%8A%E6%A8%B9",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "12-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1612EC30-AC83-5BA0-8734-3F0D17212E22",
+          "masterId": "stage_actor_sasamori_hiroki",
+          "name": "笹森裕貴",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E7%AC%B9%E6%A3%AE%E8%A3%95%E8%B2%B4",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "06-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6A95C2E4-5CA0-5855-ABE1-78EE53CE717E",
+          "masterId": "stage_actor_makishima_hikaru",
+          "name": "牧島輝",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%B3%B6%E8%BC%9D",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "08-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED8CE517-0082-584A-BF40-847B4BFB6022",
+          "masterId": "stage_actor_itokawa_yohjiro",
+          "name": "糸川耀士郎",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E5%B7%9D%E8%80%80%E5%A3%AB%E9%83%8E",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "05-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "52D9FCCB-64E6-53D9-AF3A-F291C2B764A9",
+          "masterId": "stage_actor_hashimoto_shohei",
+          "name": "橋本祥平",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E7%A5%A5%E5%B9%B3",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "12-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28393E64-0369-582E-A3A0-96CC3D3D2C3B",
+          "masterId": "stage_actor_torigoe_yuki",
+          "name": "鳥越裕貴",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E8%B6%8A%E8%A3%95%E8%B2%B4",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "03-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "395364EB-CA2E-55C4-AAFA-57767C8A5258",
+          "masterId": "stage_actor_someya_toshiyuki",
+          "name": "染谷俊之",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%9F%93%E8%B0%B7%E4%BF%8A%E4%B9%8B",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "12-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "31F12978-2131-580E-B949-15F89DE69B3E",
+          "masterId": "stage_actor_hirose_daisuke",
+          "name": "廣瀬大介",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%BB%A3%E7%80%AC%E5%A4%A7%E4%BB%8B",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "06-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "36772FFB-5065-5E8E-B5A3-5560C1CDAE30",
+          "masterId": "stage_actor_sadamoto_fuma",
+          "name": "定本楓馬",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E5%AE%9A%E6%9C%AC%E6%A5%93%E9%A6%AC",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "11-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E123C704-23CF-5988-BF33-DF1135C27D73",
+          "masterId": "stage_actor_arisawa_shotaro",
+          "name": "有澤樟太郎",
+          "profileURL": "https://ja.wikipedia.org/wiki/%E6%9C%89%E6%BE%A4%E6%A8%9F%E5%A4%AA%E9%83%8E",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8B1E3F"
+          ],
+          "birthday": "09-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

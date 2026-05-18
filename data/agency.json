@@ -178,6 +178,11 @@
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jleague.json"
       },
       {
+        "agencyId": "volleyball",
+        "name": "バレーボール",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/volleyball.json"
+      },
+      {
         "agencyId": "golf",
         "name": "ゴルフ",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/golf.json"

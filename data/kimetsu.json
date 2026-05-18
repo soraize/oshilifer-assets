@@ -1,0 +1,563 @@
+{
+  "agencyId": "kimetsu",
+  "agency": "鬼滅の刃",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "B58DC87A-FCF5-5501-996F-B3BC28E5FF26",
+      "masterId": "kimetsu_demon_slayer_corps",
+      "name": "鬼殺隊",
+      "isActive": true,
+      "profileURL": "https://kimetsu.com/anime/",
+      "colorHex": [
+        "#2E6F50"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kimetsu_off",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7395465F-F8B9-59EA-BA83-82D84BFB8CA4",
+          "masterId": "kimetsu_demon_slayer_corps_竈門炭治郎",
+          "name": "竈門炭治郎",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7438B022-5CE4-51B2-BEEC-A7A5D16F0766",
+          "masterId": "kimetsu_demon_slayer_corps_竈門禰豆子",
+          "name": "竈門禰豆子",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "51AB6F3B-7AF5-5BD2-97A4-577A498A8AD9",
+          "masterId": "kimetsu_demon_slayer_corps_我妻善逸",
+          "name": "我妻善逸",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5B35BF37-0582-5D17-AF5E-72C8A1EFA1B3",
+          "masterId": "kimetsu_demon_slayer_corps_嘴平伊之助",
+          "name": "嘴平伊之助",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6F34D1B-E59F-5796-9E1D-9379A16D638B",
+          "masterId": "kimetsu_demon_slayer_corps_栗花落カナヲ",
+          "name": "栗花落カナヲ",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2014FD93-0D87-5AC1-ADB9-148DFFE8786F",
+          "masterId": "kimetsu_demon_slayer_corps_不死川玄弥",
+          "name": "不死川玄弥",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0AF042A2-096E-5F5E-A648-CF65BCA10131",
+          "masterId": "kimetsu_demon_slayer_corps_村田",
+          "name": "村田",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DFDE6539-0C42-52DC-9DB8-730CB0B5EB8D",
+          "masterId": "kimetsu_demon_slayer_corps_神崎アオイ",
+          "name": "神崎アオイ",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E6F50"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "48B7C473-CCDC-5421-978D-0838DB85F890",
+      "masterId": "kimetsu_hashira",
+      "name": "柱",
+      "isActive": true,
+      "profileURL": "https://kimetsu.com/anime/",
+      "colorHex": [
+        "#B3934B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kimetsu_off",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "E6E76449-A612-5EAC-A8A7-67F05D87B109",
+          "masterId": "kimetsu_hashira_冨岡義勇",
+          "name": "冨岡義勇",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3F0E9124-7BB7-50D4-96D2-953A59D1D7D0",
+          "masterId": "kimetsu_hashira_胡蝶しのふ",
+          "name": "胡蝶しのぶ",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5FACE246-A745-5372-9AD9-F76EE5369F1A",
+          "masterId": "kimetsu_hashira_煉獄杏寿郎",
+          "name": "煉獄杏寿郎",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4D548D7D-F19D-5399-BCF9-4B54447AAD5D",
+          "masterId": "kimetsu_hashira_宇髄天元",
+          "name": "宇髄天元",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B53DDD56-E06A-58CA-92FF-058BF85E71BF",
+          "masterId": "kimetsu_hashira_甘露寺蜜璃",
+          "name": "甘露寺蜜璃",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3534E0E7-4D9D-5890-AFEF-0C9E6E047EEE",
+          "masterId": "kimetsu_hashira_時透無一郎",
+          "name": "時透無一郎",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E863CCF3-EE99-5708-AB89-A63C443992DE",
+          "masterId": "kimetsu_hashira_悲鳴嶼行冥",
+          "name": "悲鳴嶼行冥",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E25A89E1-789C-5CB6-BB68-8B865A154FE3",
+          "masterId": "kimetsu_hashira_伊黒小芭内",
+          "name": "伊黒小芭内",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4B2EACB3-69A1-5FCB-BC1C-8A862CC1CE03",
+          "masterId": "kimetsu_hashira_不死川実弥",
+          "name": "不死川実弥",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B3934B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "5036182F-0CE8-5B70-895D-876DCC66FA2E",
+      "masterId": "kimetsu_demons",
+      "name": "鬼",
+      "isActive": true,
+      "profileURL": "https://kimetsu.com/anime/",
+      "colorHex": [
+        "#6E1B3A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/kimetsu_off",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "1327EAA4-4235-5D13-9BB6-11E815A17459",
+          "masterId": "kimetsu_demons_鬼舞辻無惨",
+          "name": "鬼舞辻無惨",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "109170DF-0FB3-5074-A660-12B4030AD3FA",
+          "masterId": "kimetsu_demons_猗窩座",
+          "name": "猗窩座",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "84AC73E6-F531-5FE8-8E1F-F6ECAB4C8117",
+          "masterId": "kimetsu_demons_童磨",
+          "name": "童磨",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "37D9DB7B-D587-5132-A59E-5175B81BC93C",
+          "masterId": "kimetsu_demons_黒死牟",
+          "name": "黒死牟",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3DC5C205-0C24-51F6-8D28-EDCB94649F14",
+          "masterId": "kimetsu_demons_半天狗",
+          "name": "半天狗",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DB52E0E9-0C07-55DC-8D83-7EC5EE5B7096",
+          "masterId": "kimetsu_demons_玉壺",
+          "name": "玉壺",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C198BF3E-3DEC-58A3-934C-3B9B66DA8BED",
+          "masterId": "kimetsu_demons_堕姫",
+          "name": "堕姫",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DCCEA61D-A221-5225-9A15-E6D8B0776272",
+          "masterId": "kimetsu_demons_妓夫太郎",
+          "name": "妓夫太郎",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15839582-FB63-5DB5-9C0A-C0E669AC0174",
+          "masterId": "kimetsu_demons_魘夢",
+          "name": "魘夢",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6CBF0060-A874-56A2-BFF9-F3B15E1D185F",
+          "masterId": "kimetsu_demons_累",
+          "name": "累",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ECDEAF92-C945-53A6-99EC-12100283E9E1",
+          "masterId": "kimetsu_demons_珠世",
+          "name": "珠世",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6D1022C0-FE4F-5695-9A50-E186ED8DCDBD",
+          "masterId": "kimetsu_demons_愈史郎",
+          "name": "愈史郎",
+          "profileURL": "https://kimetsu.com/anime/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1B3A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

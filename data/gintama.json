@@ -1,0 +1,516 @@
+{
+  "agencyId": "gintama",
+  "agency": "銀魂",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "99AE7493-9924-5C16-996C-5D7D30A330D8",
+      "masterId": "gintama_yorozuya",
+      "name": "万事屋",
+      "isActive": true,
+      "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+      "colorHex": [
+        "#4A90E2"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/gintamamovie",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "F47A1243-5469-5F3D-9E2C-EE4EC1FE8A95",
+          "masterId": "gintama_yorozuya_坂田銀時",
+          "name": "坂田銀時",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A90E2"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2EAE1CBA-DB89-5D0C-A26A-2674703623CE",
+          "masterId": "gintama_yorozuya_志村新八",
+          "name": "志村新八",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A90E2"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "475449D2-84B7-5AF6-9C6D-88BBD0471D71",
+          "masterId": "gintama_yorozuya_神楽",
+          "name": "神楽",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A90E2"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C2D9FC26-D256-5F8C-B7BB-C13924973D0E",
+          "masterId": "gintama_yorozuya_定春",
+          "name": "定春",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4A90E2"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "94B06FD6-6057-5192-B32A-A885ECF5AE89",
+      "masterId": "gintama_shinsengumi",
+      "name": "真選組",
+      "isActive": true,
+      "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+      "colorHex": [
+        "#111111"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/gintamamovie",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "2BB4238A-7327-501B-BE99-EC3D630DD066",
+          "masterId": "gintama_shinsengumi_近藤勲",
+          "name": "近藤勲",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F81D486A-9DC1-5029-B75E-C4AA2E93143A",
+          "masterId": "gintama_shinsengumi_土方十四郎",
+          "name": "土方十四郎",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29075CCD-C7FA-5B5B-952F-C11B6716A326",
+          "masterId": "gintama_shinsengumi_沖田総悟",
+          "name": "沖田総悟",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E1E5693A-77B2-560C-909B-10B283338CAA",
+          "masterId": "gintama_shinsengumi_山崎退",
+          "name": "山崎退",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DBDC7E51-3836-532C-A384-06529A2F39BF",
+          "masterId": "gintama_shinsengumi_伊東鴨太郎",
+          "name": "伊東鴨太郎",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D66DA224-A0B6-59E1-BD78-D64410C95088",
+          "masterId": "gintama_shinsengumi_斉藤終",
+          "name": "斉藤終",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "49AFD3BC-81CF-505A-B603-F5C5F30ACCB8",
+      "masterId": "gintama_joui",
+      "name": "攘夷志士・鬼兵隊",
+      "isActive": true,
+      "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+      "colorHex": [
+        "#7B2CBF"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/gintamamovie",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "C414F7FA-54C0-5DAC-8740-3B5D7656F414",
+          "masterId": "gintama_joui_桂小太郎",
+          "name": "桂小太郎",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CE511893-7E86-5AA1-B59A-60D3E693EF24",
+          "masterId": "gintama_joui_エリサ_ヘ_ス",
+          "name": "エリザベス",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5B5D0297-0671-5F37-8265-9C396DCBBAB4",
+          "masterId": "gintama_joui_高杉晋助",
+          "name": "高杉晋助",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59826499-0FFD-5EC2-9F28-D0B95F327180",
+          "masterId": "gintama_joui_河上万斉",
+          "name": "河上万斉",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F9AB30E4-FD52-5377-B132-883985F12B40",
+          "masterId": "gintama_joui_来島また子",
+          "name": "来島また子",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8071EBBC-0FA1-54FB-8C69-F48B94DB6E13",
+          "masterId": "gintama_joui_武市変平太",
+          "name": "武市変平太",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2AC57CEA-2A94-5C45-A0F8-24C3AD50A2FF",
+          "masterId": "gintama_joui_岡田似蔵",
+          "name": "岡田似蔵",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B0A04EFE-63AB-5F5B-957F-48F4BD918128",
+      "masterId": "gintama_kabukicho",
+      "name": "かぶき町・周辺人物",
+      "isActive": true,
+      "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+      "colorHex": [
+        "#C08A2D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/gintamamovie",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "8E1384B7-22F0-5E7A-8984-50876BF5578C",
+          "masterId": "gintama_kabukicho_志村妙",
+          "name": "志村妙",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9A90354B-9B33-54BA-A6E5-7D29541343BE",
+          "masterId": "gintama_kabukicho_お登勢",
+          "name": "お登勢",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "23DACDA6-78AA-5C5C-946D-7463FA24173E",
+          "masterId": "gintama_kabukicho_キャサリン",
+          "name": "キャサリン",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29BCE35A-BCD2-53C0-AB7A-D3121380CDC2",
+          "masterId": "gintama_kabukicho_たま",
+          "name": "たま",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "152F75B9-8516-5FD0-91F6-C8F3D5013862",
+          "masterId": "gintama_kabukicho_長谷川泰三",
+          "name": "長谷川泰三",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "03203828-81B3-53A3-BCC0-EB7C9423E4F5",
+          "masterId": "gintama_kabukicho_月詠",
+          "name": "月詠",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62BBAE36-24AE-5ACB-B7C3-26BF6F614A4A",
+          "masterId": "gintama_kabukicho_猿飛あやめ",
+          "name": "猿飛あやめ",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "50A374FD-4E0C-5AC5-89ED-D9036A7F2634",
+          "masterId": "gintama_kabukicho_柳生九兵衛",
+          "name": "柳生九兵衛",
+          "profileURL": "https://www.bn-pictures.co.jp/gintama/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

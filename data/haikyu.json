@@ -1,0 +1,1394 @@
+{
+  "agencyId": "haikyu",
+  "agency": "ハイキュー!!",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "C9ACE2C4-4320-5531-BDBA-BA5F2A497B98",
+      "masterId": "haikyu_karasuno",
+      "name": "烏野高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#F39800"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "62F2ED8D-B4DB-5AFF-83A1-A3ABBD2E897C",
+          "masterId": "haikyu_karasuno_日向_翔陽",
+          "name": "日向 翔陽",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E195579B-4697-5442-9BAE-2E1C1B31AF5E",
+          "masterId": "haikyu_karasuno_影山_飛雄",
+          "name": "影山 飛雄",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A903ED68-1544-560D-8A54-AF7BF3922A59",
+          "masterId": "haikyu_karasuno_澤村_大地",
+          "name": "澤村 大地",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F202D5D1-972A-5BA0-A87A-24D5C1D1AB0A",
+          "masterId": "haikyu_karasuno_菅原_孝支",
+          "name": "菅原 孝支",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B1F3725-AF5D-5DB6-B128-3DA9F87606AF",
+          "masterId": "haikyu_karasuno_田中_龍之介",
+          "name": "田中 龍之介",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E723C5A0-AD9F-5ED6-9435-974AA5364867",
+          "masterId": "haikyu_karasuno_東峰_旭",
+          "name": "東峰 旭",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5E76E611-E38D-53A8-9D35-8D5DF3755B46",
+          "masterId": "haikyu_karasuno_西谷_夕",
+          "name": "西谷 夕",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6CE0E8B3-DB79-5747-82B6-1791677CB8F1",
+          "masterId": "haikyu_karasuno_月島_蛍",
+          "name": "月島 蛍",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E99559E-5248-584C-8781-2C82866C40DD",
+          "masterId": "haikyu_karasuno_山口_忠",
+          "name": "山口 忠",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B06A309D-0FFC-5DE4-A3B7-4DECCA83077F",
+          "masterId": "haikyu_karasuno_縁下_力",
+          "name": "縁下 力",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8F4B3F9E-6A74-5C86-91B1-E2959E5AED15",
+          "masterId": "haikyu_karasuno_清水_潔子",
+          "name": "清水 潔子",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DB07E92F-9394-5F6C-9298-BFCA158C1EB7",
+          "masterId": "haikyu_karasuno_谷地_仁花",
+          "name": "谷地 仁花",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39C27454-8AB7-5C04-ACAB-AFBE3E23FADE",
+          "masterId": "haikyu_karasuno_武田_一鉄",
+          "name": "武田 一鉄",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0FE1F939-98D0-5423-B051-04DFCA48774E",
+          "masterId": "haikyu_karasuno_烏養_繋心",
+          "name": "烏養 繋心",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FF9ABF7A-DAEA-5ED0-8469-246C56F6702B",
+          "masterId": "haikyu_karasuno_月島_明光",
+          "name": "月島 明光",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F39800"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6F43D246-C4A0-5DF2-AA03-00AA8957CE34",
+      "masterId": "haikyu_nekoma",
+      "name": "音駒高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#C8102E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "5077B82F-A52E-5EEC-80B5-DC7321B5BC83",
+          "masterId": "haikyu_nekoma_孤爪_研磨",
+          "name": "孤爪 研磨",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B3258876-C63C-5A30-8C3C-A12488CAABFC",
+          "masterId": "haikyu_nekoma_黒尾_鉄朗",
+          "name": "黒尾 鉄朗",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5ECF4E71-9018-5DA2-922A-36DFEBCF5D4A",
+          "masterId": "haikyu_nekoma_夜久_衛輔",
+          "name": "夜久 衛輔",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "15674335-973A-52A1-B6F0-6A64F4FBA91E",
+          "masterId": "haikyu_nekoma_灰羽_リエーフ",
+          "name": "灰羽 リエーフ",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AD9CF9DB-AEAB-51EF-B752-81D23990986D",
+          "masterId": "haikyu_nekoma_山本_猛虎",
+          "name": "山本 猛虎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1DEC2EB8-DC11-52E6-B374-25E921886FAA",
+          "masterId": "haikyu_nekoma_海_信行",
+          "name": "海 信行",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B46D04E0-B60B-5C29-B6FC-E640E67B6C24",
+          "masterId": "haikyu_nekoma_福永_招平",
+          "name": "福永 招平",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "46D42399-7818-58E3-BB5E-A6F4FFF72186",
+          "masterId": "haikyu_nekoma_犬岡_走",
+          "name": "犬岡 走",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D71EE526-04DD-5D00-BA0F-82E737DE10A6",
+          "masterId": "haikyu_nekoma_芝山_優生",
+          "name": "芝山 優生",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C8102E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "813D96F5-0CDD-5797-9BF8-0F964436F927",
+      "masterId": "haikyu_aoba_johsai",
+      "name": "青葉城西高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#67B7DC"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "29ADEE3D-CE9D-5FFF-B9E8-6858A4188785",
+          "masterId": "haikyu_aoba_johsai_及川_徹",
+          "name": "及川 徹",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5EFB9391-896E-58E8-8EA8-7E4734B7A49F",
+          "masterId": "haikyu_aoba_johsai_岩泉_一",
+          "name": "岩泉 一",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "84C3F071-88E8-5E97-AF97-454EC673CC6E",
+          "masterId": "haikyu_aoba_johsai_京谷_賢太郎",
+          "name": "京谷 賢太郎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D6D2993-4CFC-5C64-8459-A370462E6AC0",
+          "masterId": "haikyu_aoba_johsai_金田一_勇太郎",
+          "name": "金田一 勇太郎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C71283EA-BDA6-52D4-9C39-83A5EACA0412",
+          "masterId": "haikyu_aoba_johsai_国見_英",
+          "name": "国見 英",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B726A58E-B3C3-54B5-8CBF-56883A856D14",
+          "masterId": "haikyu_aoba_johsai_松川_一静",
+          "name": "松川 一静",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63309B72-7B78-55C0-8539-CF9D90C0925F",
+          "masterId": "haikyu_aoba_johsai_花巻_貴大",
+          "name": "花巻 貴大",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "296849CA-0DF2-546E-BEDB-E6382699D61B",
+          "masterId": "haikyu_aoba_johsai_矢巾_秀",
+          "name": "矢巾 秀",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#67B7DC"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "0BCF9B31-F9E8-5138-B245-A58CD398EA0A",
+      "masterId": "haikyu_date_tech",
+      "name": "伊達工業高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#1D4F91"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "27E5CE5D-7516-5392-BCB7-FEFF0C652DD9",
+          "masterId": "haikyu_date_tech_青根_高伸",
+          "name": "青根 高伸",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D4F91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FED78DC3-41DD-5EB7-BA4B-B12B2A553DA7",
+          "masterId": "haikyu_date_tech_二口_堅治",
+          "name": "二口 堅治",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D4F91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "27A9AFF5-ED83-5BBC-BB8C-D1528B50FEE5",
+          "masterId": "haikyu_date_tech_黄金川_貫至",
+          "name": "黄金川 貫至",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D4F91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4D3BF7C-C0B9-5BDF-8145-1AE2696B27DD",
+          "masterId": "haikyu_date_tech_茂庭_要",
+          "name": "茂庭 要",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D4F91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "67F653DA-AB8A-5805-9787-1C3FCFB4D0F6",
+          "masterId": "haikyu_date_tech_鎌先_靖志",
+          "name": "鎌先 靖志",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D4F91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39800050-2ADD-50C0-84CA-D945ABF1FC53",
+          "masterId": "haikyu_date_tech_笹谷_武仁",
+          "name": "笹谷 武仁",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D4F91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6C689126-315F-5F84-85FF-42FACDD9FCB2",
+      "masterId": "haikyu_fukurodani",
+      "name": "梟谷学園高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#111111"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "2883D725-85CA-5F78-AF67-89B13F7892DA",
+          "masterId": "haikyu_fukurodani_木兎_光太郎",
+          "name": "木兎 光太郎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8D62FFC5-6E86-54B7-9B56-437325650F83",
+          "masterId": "haikyu_fukurodani_赤葦_京治",
+          "name": "赤葦 京治",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FEEB80FF-CFB2-551D-8537-54A00C5EA19E",
+          "masterId": "haikyu_fukurodani_木葉_秋紀",
+          "name": "木葉 秋紀",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "129E8278-BCD6-526F-A3AF-25A39E904E02",
+          "masterId": "haikyu_fukurodani_猿杙_大和",
+          "name": "猿杙 大和",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9C024298-E764-5D9E-BEE0-1F773E5AE324",
+          "masterId": "haikyu_fukurodani_小見_春樹",
+          "name": "小見 春樹",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "82507436-7611-5176-8597-714F530F073D",
+      "masterId": "haikyu_shiratorizawa",
+      "name": "白鳥沢学園高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#6D3E91"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "551D9A88-E63D-50C9-9552-608FCA70B774",
+          "masterId": "haikyu_shiratorizawa_牛島_若利",
+          "name": "牛島 若利",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BBD02671-ACB4-518E-839E-13DA600C0CD5",
+          "masterId": "haikyu_shiratorizawa_天童_覚",
+          "name": "天童 覚",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9EE38459-91E6-53CA-B9FB-8688FC30CCBF",
+          "masterId": "haikyu_shiratorizawa_五色_工",
+          "name": "五色 工",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "713F63DF-36A6-53C5-8EC9-2DE6CAB42A3A",
+          "masterId": "haikyu_shiratorizawa_白布_賢二郎",
+          "name": "白布 賢二郎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "293B23A3-C60A-578E-B178-901CDCE2FC40",
+          "masterId": "haikyu_shiratorizawa_大平_獅音",
+          "name": "大平 獅音",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DF68CE11-5E61-5B10-863C-24E5B064113D",
+          "masterId": "haikyu_shiratorizawa_瀬見_英太",
+          "name": "瀬見 英太",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "945B88C9-30F2-5DDC-8CBB-FAA28FFD589D",
+          "masterId": "haikyu_shiratorizawa_山形_隼人",
+          "name": "山形 隼人",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0D9CBDBE-A5C1-5CF1-9E87-7CF63A3A5430",
+          "masterId": "haikyu_shiratorizawa_川西_太一",
+          "name": "川西 太一",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0AB1512E-2634-5BA3-B1E5-556827CE14B2",
+          "masterId": "haikyu_shiratorizawa_鷲匠_鍛治",
+          "name": "鷲匠 鍛治",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6D3E91"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1080D116-92A7-566B-A2D5-96617BA0DBB6",
+      "masterId": "haikyu_inarizaki",
+      "name": "稲荷崎高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#4B286D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "2931869C-85CE-5124-8FD6-01187B232738",
+          "masterId": "haikyu_inarizaki_宮_侑",
+          "name": "宮 侑",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BEECDF95-BFCE-5F2A-8C1B-AF48B4CE6A87",
+          "masterId": "haikyu_inarizaki_宮_治",
+          "name": "宮 治",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39E40A53-5715-5EE0-9E94-945FDBC06A27",
+          "masterId": "haikyu_inarizaki_北_信介",
+          "name": "北 信介",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "633B6224-615A-5DD1-A9E7-DB3D4C4A8A30",
+          "masterId": "haikyu_inarizaki_角名_倫太郎",
+          "name": "角名 倫太郎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9B7D00BE-814C-501B-B11C-531107BC1BE1",
+          "masterId": "haikyu_inarizaki_尾白_アラン",
+          "name": "尾白 アラン",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "36506ECA-989C-5D04-8093-2FED30D5D3ED",
+          "masterId": "haikyu_inarizaki_赤木_路成",
+          "name": "赤木 路成",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6EE90B40-BAED-5F2D-963D-C3F7786D18D8",
+          "masterId": "haikyu_inarizaki_大耳_練",
+          "name": "大耳 練",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "80EC850F-8C66-5388-AA14-103FFF4A50C8",
+          "masterId": "haikyu_inarizaki_銀島_結",
+          "name": "銀島 結",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#4B286D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6EF0DB36-3331-53DE-8B22-A668332DBBC9",
+      "masterId": "haikyu_kamomedai",
+      "name": "鴎台高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#2A9D8F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "80D3FF61-96CD-5C11-B865-F1E332FC529C",
+          "masterId": "haikyu_kamomedai_星海_光来",
+          "name": "星海 光来",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2A9D8F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF437C32-BA50-561E-B64F-CBB2236B267B",
+          "masterId": "haikyu_kamomedai_昼神_幸郎",
+          "name": "昼神 幸郎",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2A9D8F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C955378F-407C-51B6-A065-24183B419446",
+          "masterId": "haikyu_kamomedai_白馬_芽生",
+          "name": "白馬 芽生",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2A9D8F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B1F36879-64F7-5554-8FF9-23964CCC6174",
+          "masterId": "haikyu_kamomedai_諏訪_愛吉",
+          "name": "諏訪 愛吉",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2A9D8F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "B9799463-99BD-5EBA-9E0E-CF0B55EF4574",
+      "masterId": "haikyu_itachiyama",
+      "name": "井闥山学院高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#7F8C8D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "146A487A-007D-51F0-B0F8-8376970EC7F3",
+          "masterId": "haikyu_itachiyama_佐久早_聖臣",
+          "name": "佐久早 聖臣",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F8C8D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0EC1D425-8101-55A1-9910-A6E148C30E9F",
+          "masterId": "haikyu_itachiyama_古森_元也",
+          "name": "古森 元也",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7F8C8D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1F80727E-45C6-5F67-AFC2-1E23E020D8BB",
+      "masterId": "haikyu_johzenji",
+      "name": "条善寺高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#F2C94C"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "93B73E17-0A2E-53A3-8EDB-C0CA26CA0C99",
+          "masterId": "haikyu_johzenji_照島_遊児",
+          "name": "照島 遊児",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7A6D2638-26E4-5084-AC40-0AC2E2ACCF97",
+      "masterId": "haikyu_wakutani_minami",
+      "name": "和久谷南高校",
+      "isActive": true,
+      "profileURL": "https://haikyu.jp/",
+      "colorHex": [
+        "#2E8B57"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animehaikyu_com",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "87DCF5F9-88AC-5382-A070-AB2055A4FDEC",
+          "masterId": "haikyu_wakutani_minami_中島_猛",
+          "name": "中島 猛",
+          "profileURL": "https://haikyu.jp/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E8B57"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

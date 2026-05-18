@@ -1,0 +1,703 @@
+{
+  "agencyId": "naruto_boruto",
+  "agency": "NARUTO/BORUTO",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "58FF96C3-3A61-5023-8B33-21EC76B23DE8",
+      "masterId": "naruto_boruto_team_7",
+      "name": "第七班",
+      "isActive": true,
+      "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+      "colorHex": [
+        "#F28C28"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/NARUTOtoBORUTO",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "22258556-5C0D-5CEA-97B4-B3D4B275F076",
+          "masterId": "naruto_boruto_team_7_うす_まきナルト",
+          "name": "うずまきナルト",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "49D60AE6-57ED-51C9-A637-504D87B7F27A",
+          "masterId": "naruto_boruto_team_7_うちはサスケ",
+          "name": "うちはサスケ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "524D2C26-1FA1-5468-A400-D661BE118C3E",
+          "masterId": "naruto_boruto_team_7_春野サクラ",
+          "name": "春野サクラ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B94DBDCD-41EC-5834-8D26-9B4A219F83B4",
+          "masterId": "naruto_boruto_team_7_はたけカカシ",
+          "name": "はたけカカシ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F543CECD-4DF5-56A2-8415-48651B78B4E9",
+          "masterId": "naruto_boruto_team_7_サイ",
+          "name": "サイ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A6616D9A-01E1-5591-B81D-D687E1543F1E",
+          "masterId": "naruto_boruto_team_7_ヤマト",
+          "name": "ヤマト",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F28C28"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "2EA4E861-82FA-504D-9C9C-508EAE0119DB",
+      "masterId": "naruto_boruto_konoha",
+      "name": "木ノ葉隠れの里",
+      "isActive": true,
+      "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+      "colorHex": [
+        "#2E7D32"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/NARUTOtoBORUTO",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "E0E2B746-0AB5-5C5E-AE27-8DDE311A418E",
+          "masterId": "naruto_boruto_konoha_奈良シカマル",
+          "name": "奈良シカマル",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "197F22AF-33C0-5D32-B98E-771D7F88460C",
+          "masterId": "naruto_boruto_konoha_秋道チョウシ",
+          "name": "秋道チョウジ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF15187D-A2B6-5B62-8066-4B6362242FF6",
+          "masterId": "naruto_boruto_konoha_山中いの",
+          "name": "山中いの",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "262B3E2E-8BD7-5E66-88A1-0316F204B39E",
+          "masterId": "naruto_boruto_konoha_日向ヒナタ",
+          "name": "日向ヒナタ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9C2978B6-6952-5220-A1B5-21179CAE26DA",
+          "masterId": "naruto_boruto_konoha_犬塚キハ",
+          "name": "犬塚キバ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3B683A18-2C3B-5B6D-9834-43E04EC6C190",
+          "masterId": "naruto_boruto_konoha_油女シノ",
+          "name": "油女シノ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6584A3B8-A880-5168-8154-36407106E822",
+          "masterId": "naruto_boruto_konoha_ロックリー",
+          "name": "ロック・リー",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D4C6579C-5F09-552E-A312-706084786CC4",
+          "masterId": "naruto_boruto_konoha_日向ネシ",
+          "name": "日向ネジ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "57AE1ADD-B619-533E-9EC9-5D6F65A7D00E",
+          "masterId": "naruto_boruto_konoha_テンテン",
+          "name": "テンテン",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "983B3FA7-CF4F-56E2-A560-F211304CEFD3",
+          "masterId": "naruto_boruto_konoha_綱手",
+          "name": "綱手",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9823C48-7D5D-511E-B740-0C46158827B2",
+          "masterId": "naruto_boruto_konoha_自来也",
+          "name": "自来也",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "67A098DC-864A-5170-830B-C94AF8B9CF70",
+          "masterId": "naruto_boruto_konoha_大蛇丸",
+          "name": "大蛇丸",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "7864C921-BD38-50A5-845D-DE0EC5022EDC",
+      "masterId": "naruto_boruto_akatsuki",
+      "name": "暁",
+      "isActive": true,
+      "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+      "colorHex": [
+        "#C1121F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/NARUTOtoBORUTO",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "9A8A22A5-0DCC-5C23-A51F-82D343474057",
+          "masterId": "naruto_boruto_akatsuki_うちはイタチ",
+          "name": "うちはイタチ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D8C58277-3EDA-57BF-AE9A-99DE6F7866ED",
+          "masterId": "naruto_boruto_akatsuki_干柿鬼鮫",
+          "name": "干柿鬼鮫",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F45C3003-DD88-5FAA-870C-B5F233E6703D",
+          "masterId": "naruto_boruto_akatsuki_テ_イタ_ラ",
+          "name": "デイダラ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B800449-7FC0-530F-A6BB-AE5B4C93F9E5",
+          "masterId": "naruto_boruto_akatsuki_サソリ",
+          "name": "サソリ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B2F7F68D-C2D5-547A-8A32-D1F39068A009",
+          "masterId": "naruto_boruto_akatsuki_飛段",
+          "name": "飛段",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E2A5D9B-453B-5D1D-A5FD-C6BD5440A857",
+          "masterId": "naruto_boruto_akatsuki_角都",
+          "name": "角都",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B0637BD-981F-5F62-9AB1-22B4B44FD6E4",
+          "masterId": "naruto_boruto_akatsuki_ヘ_イン",
+          "name": "ペイン",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F13FCE56-AE80-5187-84F3-7C6BCCE009F7",
+          "masterId": "naruto_boruto_akatsuki_小南",
+          "name": "小南",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9F9A8FE-8DFD-5191-A099-D2BE23F67DF8",
+          "masterId": "naruto_boruto_akatsuki_トヒ",
+          "name": "トビ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0434DFD2-2388-5D95-BEFB-AFF80F0540B6",
+          "masterId": "naruto_boruto_akatsuki_セ_ツ",
+          "name": "ゼツ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/naruto2002/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C1121F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6535DDE2-AC7D-58B7-93A5-C51A638C58B0",
+      "masterId": "naruto_boruto_boruto_generation",
+      "name": "BORUTO世代",
+      "isActive": true,
+      "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+      "colorHex": [
+        "#2F80ED"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/NARUTOtoBORUTO",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "FF12E184-D5DF-5F2E-A87E-3E039B600232",
+          "masterId": "naruto_boruto_boruto_generation_うす_まきホ_ルト",
+          "name": "うずまきボルト",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2FB7236-4F20-543C-BCDE-886A5773C61F",
+          "masterId": "naruto_boruto_boruto_generation_うちはサラタ",
+          "name": "うちはサラダ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D176CFA3-0F02-5B62-8697-ABB793DE77D3",
+          "masterId": "naruto_boruto_boruto_generation_ミツキ",
+          "name": "ミツキ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6E3F3EDC-2F9B-5465-82A4-0984BEFB7DE6",
+          "masterId": "naruto_boruto_boruto_generation_奈良シカタ_イ",
+          "name": "奈良シカダイ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C1210F70-42E6-56CC-94A6-35E5F37D9F2B",
+          "masterId": "naruto_boruto_boruto_generation_秋道チョウチョウ",
+          "name": "秋道チョウチョウ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35340A1F-1CA1-5E53-A25C-FC512CBCA4E0",
+          "masterId": "naruto_boruto_boruto_generation_山中いのし_ん",
+          "name": "山中いのじん",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "940CBDDD-A939-5F33-BB53-735F0052F51B",
+          "masterId": "naruto_boruto_boruto_generation_カワキ",
+          "name": "カワキ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CFA4D1AA-2F20-5C65-8164-8E9C2516DA7B",
+          "masterId": "naruto_boruto_boruto_generation_筧スミレ",
+          "name": "筧スミレ",
+          "profileURL": "https://www.tv-tokyo.co.jp/anime/boruto/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2F80ED"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "agencyId": "detective_conan",
+  "agency": "名探偵コナン",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "3A989AA2-8A2A-568E-9B09-85D8685A1DF4",
+      "masterId": "detective_conan_detective_agency",
+      "name": "毛利探偵事務所・主要人物",
+      "isActive": true,
+      "profileURL": "https://www.ytv.co.jp/conan/character/",
+      "colorHex": [
+        "#1F5DA8"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/conan_file",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "8B44C296-62E2-5D37-BCCB-7E4743A2772E",
+          "masterId": "detective_conan_detective_agency_江戸川コナン",
+          "name": "江戸川コナン",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CA21CB5A-FB69-5F0D-BD61-180D910ED618",
+          "masterId": "detective_conan_detective_agency_工藤新一",
+          "name": "工藤新一",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F3640FA5-97CC-5AFB-9C00-28A5968F545E",
+          "masterId": "detective_conan_detective_agency_毛利蘭",
+          "name": "毛利蘭",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "22798477-5967-5E37-81D3-EC0B45284346",
+          "masterId": "detective_conan_detective_agency_毛利小五郎",
+          "name": "毛利小五郎",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1A05B789-8040-5769-A8E9-7DB9C8A1B64E",
+          "masterId": "detective_conan_detective_agency_灰原哀",
+          "name": "灰原哀",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "55F2E2DB-F936-515F-873A-5FFA31C9EBFD",
+          "masterId": "detective_conan_detective_agency_阿笠博士",
+          "name": "阿笠博士",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D5562E34-8B58-5F33-9EC6-3EBB02F9ED40",
+          "masterId": "detective_conan_detective_agency_吉田歩美",
+          "name": "吉田歩美",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2A80877-BFF2-5EDF-B09E-E651E56349AA",
+          "masterId": "detective_conan_detective_agency_円谷光彦",
+          "name": "円谷光彦",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "80E2F259-DED3-58B7-B897-C0197CA6B4DC",
+          "masterId": "detective_conan_detective_agency_小嶋元太",
+          "name": "小嶋元太",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "BA9F8080-FFEA-5029-B354-4FA5FBC911B3",
+      "masterId": "detective_conan_police",
+      "name": "警察関係者",
+      "isActive": true,
+      "profileURL": "https://www.ytv.co.jp/conan/character/",
+      "colorHex": [
+        "#2E7D32"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/conan_file",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "143F0A5A-819C-51BE-A9BC-179B4758C72C",
+          "masterId": "detective_conan_police_目暮十三",
+          "name": "目暮十三",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8B85EAFC-1A7E-5B79-BDD6-425104F0F196",
+          "masterId": "detective_conan_police_高木渉",
+          "name": "高木渉",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A9C67427-4A36-5615-B1EE-BE777D8FF1BD",
+          "masterId": "detective_conan_police_佐藤美和子",
+          "name": "佐藤美和子",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39A5D287-3CB0-539F-B72E-16EB39505BD8",
+          "masterId": "detective_conan_police_白鳥任三郎",
+          "name": "白鳥任三郎",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63D87B7E-A7A3-5F0B-AABF-FC454822BD38",
+          "masterId": "detective_conan_police_千葉和伸",
+          "name": "千葉和伸",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D2AC0754-70C0-54E0-85A0-ABD7514E8755",
+          "masterId": "detective_conan_police_安室透",
+          "name": "安室透",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9552EF1D-D3F7-5FB3-9946-48237CA8F941",
+          "masterId": "detective_conan_police_風見裕也",
+          "name": "風見裕也",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BFB3C8F2-D089-5324-BDC6-2B78203B4E09",
+          "masterId": "detective_conan_police_服部平蔵",
+          "name": "服部平蔵",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F606A201-8ABC-5425-980D-2F1CA58651BD",
+          "masterId": "detective_conan_police_遠山銀司郎",
+          "name": "遠山銀司郎",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D32"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "653823D6-D6B4-50A6-96E7-9D21F8506198",
+      "masterId": "detective_conan_fbi_black_org",
+      "name": "FBI・黒ずくめの組織",
+      "isActive": true,
+      "profileURL": "https://www.ytv.co.jp/conan/character/",
+      "colorHex": [
+        "#111111"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/conan_file",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "992C887A-5956-5E71-81B7-E0AED1C08C34",
+          "masterId": "detective_conan_fbi_black_org_赤井秀一",
+          "name": "赤井秀一",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4BF22969-39C8-5373-9DAD-BA88669EA0C4",
+          "masterId": "detective_conan_fbi_black_org_シ_ョテ_ィスターリンク",
+          "name": "ジョディ・スターリング",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C844CBC2-5329-50D0-BD7A-E8B3A9ACC5FE",
+          "masterId": "detective_conan_fbi_black_org_シ_ェイムス_フ_ラック",
+          "name": "ジェイムズ・ブラック",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62E9767A-5671-5C6B-A6FB-48BDCDF0F584",
+          "masterId": "detective_conan_fbi_black_org_シ_ン",
+          "name": "ジン",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C54EB4E2-7973-5907-83CC-BF27B38B87F4",
+          "masterId": "detective_conan_fbi_black_org_ウォッカ",
+          "name": "ウォッカ",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2C6C528-FDFE-5DFA-8554-31DCA62B56F0",
+          "masterId": "detective_conan_fbi_black_org_ヘ_ルモット",
+          "name": "ベルモット",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "659DB00D-0078-5041-B6D0-88821E2BD38D",
+          "masterId": "detective_conan_fbi_black_org_キャンティ",
+          "name": "キャンティ",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AC6A2F27-5DCE-54E9-A40A-2FCFD2B8A475",
+          "masterId": "detective_conan_fbi_black_org_コルン",
+          "name": "コルン",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1BE52980-A39E-5A1A-AA98-F09C44744883",
+          "masterId": "detective_conan_fbi_black_org_ラム",
+          "name": "ラム",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1EDD9C83-CFF9-515F-A30D-470018B8AB9B",
+      "masterId": "detective_conan_friends_rivals",
+      "name": "友人・ライバル",
+      "isActive": true,
+      "profileURL": "https://www.ytv.co.jp/conan/character/",
+      "colorHex": [
+        "#C08A2D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/conan_file",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "139275ED-4FD8-52F1-812D-8049A220C6C7",
+          "masterId": "detective_conan_friends_rivals_服部平次",
+          "name": "服部平次",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28E6BB09-DFF1-5CDB-8E3F-FC8148766B34",
+          "masterId": "detective_conan_friends_rivals_遠山和葉",
+          "name": "遠山和葉",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0E4BB61B-2387-5307-AA42-8929EF8688AD",
+          "masterId": "detective_conan_friends_rivals_怪盗キット",
+          "name": "怪盗キッド",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BD9B999F-43BE-51CB-8C20-AB0A748E3B69",
+          "masterId": "detective_conan_friends_rivals_京極真",
+          "name": "京極真",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F633E80B-35FA-5617-AD35-3BB1FB6078E5",
+          "masterId": "detective_conan_friends_rivals_鈴木園子",
+          "name": "鈴木園子",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E4C4BC52-BA51-5CE8-8875-7D18F81025D2",
+          "masterId": "detective_conan_friends_rivals_世良真純",
+          "name": "世良真純",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E788261B-0D7B-577C-9A1B-6C1DD52D86F2",
+          "masterId": "detective_conan_friends_rivals_羽田秀吉",
+          "name": "羽田秀吉",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "91EEA846-F75C-502F-BFB6-6244BDF6ABA7",
+          "masterId": "detective_conan_friends_rivals_沖矢昴",
+          "name": "沖矢昴",
+          "profileURL": "https://www.ytv.co.jp/conan/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C08A2D"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "agencyId": "heroaca",
+  "agency": "僕のヒーローアカデミア",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "9305E525-659B-53D9-9368-D326EDD39091",
+      "masterId": "heroaca_ua_class_1a",
+      "name": "雄英高校ヒーロー科1年A組",
+      "isActive": true,
+      "profileURL": "https://heroaca.com/character/",
+      "colorHex": [
+        "#2D6CDF"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/heroaca_anime",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "35064D3C-3BFE-59E6-A33D-1E730B07B43E",
+          "masterId": "heroaca_ua_class_1a_緑谷出久",
+          "name": "緑谷出久",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FADBC7E4-B5C2-5269-A32B-B0AB3A3B2C59",
+          "masterId": "heroaca_ua_class_1a_爆豪勝己",
+          "name": "爆豪勝己",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FD19FC66-2227-5701-A9CE-33CA32603A6B",
+          "masterId": "heroaca_ua_class_1a_麗日お茶子",
+          "name": "麗日お茶子",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "089B1E25-A120-5918-84D6-AF5A641DDFD1",
+          "masterId": "heroaca_ua_class_1a_飯田天哉",
+          "name": "飯田天哉",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1BFD1FF9-6ACB-50A9-9121-E6E30C93A154",
+          "masterId": "heroaca_ua_class_1a_轟焦凍",
+          "name": "轟焦凍",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ED0D9A27-7F9C-5719-995A-439B5FD77D6E",
+          "masterId": "heroaca_ua_class_1a_蛙吹梅雨",
+          "name": "蛙吹梅雨",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3425E99C-86AB-5066-9B32-7CAACBBD215A",
+          "masterId": "heroaca_ua_class_1a_切島鋭児郎",
+          "name": "切島鋭児郎",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "50EECB41-9A85-53EE-BCE6-E51961AAA3C0",
+          "masterId": "heroaca_ua_class_1a_八百万百",
+          "name": "八百万百",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "25F1655A-8548-56F0-B29A-622AE7D942E7",
+          "masterId": "heroaca_ua_class_1a_上鳴電気",
+          "name": "上鳴電気",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6286B58A-9222-56EE-9423-2099D29B20DE",
+          "masterId": "heroaca_ua_class_1a_常闇踏陰",
+          "name": "常闇踏陰",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7896A494-9076-519D-A181-CC6BA0FC546F",
+          "masterId": "heroaca_ua_class_1a_耳郎響香",
+          "name": "耳郎響香",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "21F6FF97-A451-5D7D-B539-139C76603406",
+          "masterId": "heroaca_ua_class_1a_芦戸三奈",
+          "name": "芦戸三奈",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "913A1005-10BD-5F8D-B3E2-31DDA2F3CCAA",
+          "masterId": "heroaca_ua_class_1a_峰田実",
+          "name": "峰田実",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62AF1FC1-1373-52C1-903E-AE3516CF08BB",
+          "masterId": "heroaca_ua_class_1a_障子目蔵",
+          "name": "障子目蔵",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0BC0B377-983D-51A1-B2BB-ACFACA8AE1DB",
+          "masterId": "heroaca_ua_class_1a_口田甲司",
+          "name": "口田甲司",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28534F04-9497-5521-86DE-BF2D21E19492",
+          "masterId": "heroaca_ua_class_1a_砂藤力道",
+          "name": "砂藤力道",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63B4D74F-572E-5548-B90A-26198E11D425",
+          "masterId": "heroaca_ua_class_1a_瀬呂範太",
+          "name": "瀬呂範太",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4E578B65-74ED-5EA4-9CA5-5957BCB0555E",
+          "masterId": "heroaca_ua_class_1a_葉隠透",
+          "name": "葉隠透",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4995A2D5-5AED-5F94-A9AC-8179CDC2985B",
+          "masterId": "heroaca_ua_class_1a_青山優雅",
+          "name": "青山優雅",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F536852-934D-54C6-84CC-5C0FC8A9141D",
+          "masterId": "heroaca_ua_class_1a_尾白猿夫",
+          "name": "尾白猿夫",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2D6CDF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "D8C88CFF-21CE-581D-B84D-EBAD076491F2",
+      "masterId": "heroaca_pro_heroes",
+      "name": "プロヒーロー",
+      "isActive": true,
+      "profileURL": "https://heroaca.com/character/",
+      "colorHex": [
+        "#D62828"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/heroaca_anime",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "172C8914-7703-594E-8B23-DA61FDF1DC39",
+          "masterId": "heroaca_pro_heroes_オールマイト",
+          "name": "オールマイト",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "709CA33D-DF98-5A61-96BA-F2C12EA06EE9",
+          "masterId": "heroaca_pro_heroes_相澤消太",
+          "name": "相澤消太",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2614BDD9-11D6-5958-82C3-DEC0BD7FF8FB",
+          "masterId": "heroaca_pro_heroes_フ_レセ_ントマイク",
+          "name": "プレゼント・マイク",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "16544723-3140-51EF-9E7B-14723B7E7FBD",
+          "masterId": "heroaca_pro_heroes_エンテ_ウ_ァー",
+          "name": "エンデヴァー",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "17C80105-BB5C-527B-8DA2-993EBF58E8B6",
+          "masterId": "heroaca_pro_heroes_ホークス",
+          "name": "ホークス",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "52648933-0A56-55EB-90D4-B5FE6C2A4BB7",
+          "masterId": "heroaca_pro_heroes_ヘ_ストシ_ーニスト",
+          "name": "ベストジーニスト",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4C9297AD-EA7D-59DF-9B46-1AE601894138",
+          "masterId": "heroaca_pro_heroes_ミルコ",
+          "name": "ミルコ",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6FDADE55-EC0B-5B63-B613-AD820C38E474",
+          "masterId": "heroaca_pro_heroes_ミット_ナイト",
+          "name": "ミッドナイト",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A9567A50-B2F8-5F48-9CA1-769E86035DDF",
+          "masterId": "heroaca_pro_heroes_ファットカ_ム",
+          "name": "ファットガム",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6737DE62-797F-58D3-91BD-7E0EF47B6513",
+          "masterId": "heroaca_pro_heroes_サーナイトアイ",
+          "name": "サー・ナイトアイ",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D62828"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6EE80028-BBD4-51FA-94F4-CD63EBCED9FF",
+      "masterId": "heroaca_villains",
+      "name": "敵〈ヴィラン〉",
+      "isActive": true,
+      "profileURL": "https://heroaca.com/character/",
+      "colorHex": [
+        "#2B2B2B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/heroaca_anime",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "DB41A18F-8525-50E4-801C-FD479C4B8996",
+          "masterId": "heroaca_villains_死柄木弔",
+          "name": "死柄木弔",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9DA8B50F-7F60-568E-A0A9-1BF1EF3F064F",
+          "masterId": "heroaca_villains_荼毘",
+          "name": "荼毘",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A7A14F6-E75C-5E7D-93A8-BC3AE49E7EA7",
+          "masterId": "heroaca_villains_トカ_ヒミコ",
+          "name": "トガヒミコ",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E52A2CCA-4BA8-5C68-B4DC-0182AB9277D5",
+          "masterId": "heroaca_villains_トゥワイス",
+          "name": "トゥワイス",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E8E09D89-B63C-5E11-B11B-1B9596CA46F0",
+          "masterId": "heroaca_villains_mr_コンフ_レス",
+          "name": "Mr.コンプレス",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E8A35233-8115-5DDF-8DBB-D9F604CD4168",
+          "masterId": "heroaca_villains_スヒ_ナー",
+          "name": "スピナー",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2BEC476F-48D9-5CA9-B665-017F3B126235",
+          "masterId": "heroaca_villains_黒霧",
+          "name": "黒霧",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0723B6D9-F2FA-5A2D-B09E-BF1972AADC73",
+          "masterId": "heroaca_villains_オールフォーワン",
+          "name": "オール・フォー・ワン",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "943052D3-C2B0-5E5B-93EF-FF63862FBCB1",
+          "masterId": "heroaca_villains_ステイン",
+          "name": "ステイン",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D6E49042-9AB5-5D37-AE40-12A34FC57F8D",
+          "masterId": "heroaca_villains_オーハ_ーホール",
+          "name": "オーバーホール",
+          "profileURL": "https://heroaca.com/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2B2B2B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

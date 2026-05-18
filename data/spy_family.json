@@ -1,0 +1,325 @@
+{
+  "agencyId": "spy_family",
+  "agency": "SPY×FAMILY",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "A7A7771D-C7EF-5123-912D-346C482E52D4",
+      "masterId": "spy_family_forger_family",
+      "name": "フォージャー家",
+      "isActive": true,
+      "profileURL": "https://spy-family.net/tvseries/",
+      "colorHex": [
+        "#2E7D5B"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/spyfamily_anime",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "A0D883F6-9CDD-5A9A-B8DA-D47E0FC87AE9",
+          "masterId": "spy_family_forger_family_ロイト_フォーシ_ャー",
+          "name": "ロイド・フォージャー",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D5B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FA7E47B1-D7C1-53DB-B437-DB5386E5EE25",
+          "masterId": "spy_family_forger_family_アーニャフォーシ_ャー",
+          "name": "アーニャ・フォージャー",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D5B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4105552D-BD36-5531-BD2E-1CEEEFBA9571",
+          "masterId": "spy_family_forger_family_ヨルフォーシ_ャー",
+          "name": "ヨル・フォージャー",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D5B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "42EEBCF0-C67D-5DFE-A3CE-E692E418FE99",
+          "masterId": "spy_family_forger_family_ホ_ント_フォーシ_ャー",
+          "name": "ボンド・フォージャー",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#2E7D5B"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "463FE57E-A149-5DEE-A83E-FAE3571B7711",
+      "masterId": "spy_family_eden_academy",
+      "name": "イーデン校",
+      "isActive": true,
+      "profileURL": "https://spy-family.net/tvseries/",
+      "colorHex": [
+        "#6E4C1E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/spyfamily_anime",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "1ACE88C0-83CF-5343-8E86-B0FE3EBD467D",
+          "masterId": "spy_family_eden_academy_タ_ミアンテ_ス_モント",
+          "name": "ダミアン・デズモンド",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E4C1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1C37CD5A-7990-5B5A-805B-CB4DA6F96DE5",
+          "masterId": "spy_family_eden_academy_ヘ_ッキーフ_ラックヘ_ル",
+          "name": "ベッキー・ブラックベル",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E4C1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "88C8051D-A8EE-5D39-AD70-1FB4FDF7D48E",
+          "masterId": "spy_family_eden_academy_ユーインエッシ_ハ_ーク",
+          "name": "ユーイン・エッジバーグ",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E4C1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F63A48D8-5A2C-535B-975C-18CC3CB51295",
+          "masterId": "spy_family_eden_academy_エミールエルマン",
+          "name": "エミール・エルマン",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E4C1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "17C072C2-CBC8-5B4B-AC8B-E408A7C98885",
+          "masterId": "spy_family_eden_academy_ヘンリーヘンタ_ーソン",
+          "name": "ヘンリー・ヘンダーソン",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E4C1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A9999881-A0FE-580C-AA17-20689E605BE9",
+      "masterId": "spy_family_wise_garden",
+      "name": "WISE・ガーデン・関係者",
+      "isActive": true,
+      "profileURL": "https://spy-family.net/tvseries/",
+      "colorHex": [
+        "#1F5DA8"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/spyfamily_anime",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "6B3CCE77-7F22-5E68-8D0D-E370BA68A68A",
+          "masterId": "spy_family_wise_garden_フランキーフランクリン",
+          "name": "フランキー・フランクリン",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "794C1F5E-1279-5762-BDD8-18C8B3ACD91B",
+          "masterId": "spy_family_wise_garden_シルウ_ィアシャーウット",
+          "name": "シルヴィア・シャーウッド",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7B6E8B60-CA5E-51E3-9FFF-32EF6BC652B4",
+          "masterId": "spy_family_wise_garden_フィオナフロスト",
+          "name": "フィオナ・フロスト",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "99E25766-A6C0-5DDF-922E-B47C0565BDDC",
+          "masterId": "spy_family_wise_garden_ユーリフ_ライア",
+          "name": "ユーリ・ブライア",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5B257326-DCB6-58C2-BCE4-DC5A467BB446",
+          "masterId": "spy_family_wise_garden_ト_ノハ_ンテ_ス_モント",
+          "name": "ドノバン・デズモンド",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D704D69E-A716-59EF-A81F-CAF23668B90C",
+          "masterId": "spy_family_wise_garden_メリンタ_テ_ス_モント",
+          "name": "メリンダ・デズモンド",
+          "profileURL": "https://spy-family.net/tvseries/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1F5DA8"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

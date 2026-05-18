@@ -205,6 +205,62 @@
     ]
   },
   {
+    "categoryId": "manga_anime_character",
+    "name": "漫画・アニメキャラクター",
+    "agencies": [
+      {
+        "agencyId": "one_piece",
+        "name": "ONE PIECE",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/one_piece.json"
+      },
+      {
+        "agencyId": "haikyu",
+        "name": "ハイキュー!!",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/haikyu.json"
+      },
+      {
+        "agencyId": "jujutsu_kaisen",
+        "name": "呪術廻戦",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/jujutsu_kaisen.json"
+      },
+      {
+        "agencyId": "kimetsu",
+        "name": "鬼滅の刃",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/kimetsu.json"
+      },
+      {
+        "agencyId": "heroaca",
+        "name": "僕のヒーローアカデミア",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/heroaca.json"
+      },
+      {
+        "agencyId": "blue_lock",
+        "name": "ブルーロック",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/blue_lock.json"
+      },
+      {
+        "agencyId": "detective_conan",
+        "name": "名探偵コナン",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/detective_conan.json"
+      },
+      {
+        "agencyId": "naruto_boruto",
+        "name": "NARUTO/BORUTO",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/naruto_boruto.json"
+      },
+      {
+        "agencyId": "gintama",
+        "name": "銀魂",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/gintama.json"
+      },
+      {
+        "agencyId": "spy_family",
+        "name": "SPY×FAMILY",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/spy_family.json"
+      }
+    ]
+  },
+  {
     "categoryId": "entertainment",
     "name": "芸能・タレント",
     "agencies": [

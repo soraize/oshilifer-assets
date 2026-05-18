@@ -1,0 +1,2729 @@
+{
+  "agencyId": "one_piece",
+  "agency": "ONE PIECE",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "6AFA1462-1B2E-5767-8D99-8C53E28755CE",
+      "masterId": "one_piece_straw_hat_pirates",
+      "name": "麦わらの一味",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15279&sortKey=new&page=1",
+      "colorHex": [
+        "#D7262F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "C4FC8FBA-5B67-5E8B-994B-A3CFDC11D5A6",
+          "masterId": "one_piece_straw_hat_pirates_luffy",
+          "name": "モンキー・D・ルフィ",
+          "profileURL": "https://one-piece.com/character/luffy/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "05-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "00992FD8-0A61-5FF1-B18F-ABD0E4435307",
+          "masterId": "one_piece_straw_hat_pirates_zoro",
+          "name": "ロロノア・ゾロ",
+          "profileURL": "https://one-piece.com/character/zoro/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D1AF31F0-C2E7-5CC7-9BD8-B457614BE0D5",
+          "masterId": "one_piece_straw_hat_pirates_nami",
+          "name": "ナミ",
+          "profileURL": "https://one-piece.com/character/nami/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "07-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3C89CD2B-6259-52D7-BFDD-828256D9CC18",
+          "masterId": "one_piece_straw_hat_pirates_usopp",
+          "name": "ウソップ",
+          "profileURL": "https://one-piece.com/character/usopp/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "04-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C075C84F-E282-5D7A-843E-6A63BAA8138A",
+          "masterId": "one_piece_straw_hat_pirates_sanji",
+          "name": "サンジ",
+          "profileURL": "https://one-piece.com/character/sanji/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "03-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E21C4E38-4825-5283-B8BC-D99173F4BBBE",
+          "masterId": "one_piece_straw_hat_pirates_chopper",
+          "name": "トニートニー・チョッパー",
+          "profileURL": "https://one-piece.com/character/chopper/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "12-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "18A08F3A-1FDA-595C-857C-D3F8455094BB",
+          "masterId": "one_piece_straw_hat_pirates_robin",
+          "name": "ニコ・ロビン",
+          "profileURL": "https://one-piece.com/character/robin/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "02-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "917CE23B-A1EA-5C5A-9F29-62A9B8C56FF2",
+          "masterId": "one_piece_straw_hat_pirates_franky",
+          "name": "フランキー",
+          "profileURL": "https://one-piece.com/character/franky/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "77A2AA6B-0B16-502E-A2EE-187D667A139B",
+          "masterId": "one_piece_straw_hat_pirates_brook",
+          "name": "ブルック",
+          "profileURL": "https://one-piece.com/character/brook/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "04-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "016A7950-3F2D-596C-B9CB-2160DB1D44C4",
+          "masterId": "one_piece_straw_hat_pirates_jinbe",
+          "name": "ジンベエ",
+          "profileURL": "https://one-piece.com/character/Jinbe/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#D7262F"
+          ],
+          "birthday": "04-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "91F3308D-2DA8-5503-85BD-A0FA8FF31665",
+      "masterId": "one_piece_heart_pirates",
+      "name": "ハートの海賊団",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15315&sortKey=new&page=1",
+      "colorHex": [
+        "#F2C94C"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "B5EFDB55-7D6A-5803-8C88-51B785A49D2D",
+          "masterId": "one_piece_heart_pirates_law",
+          "name": "トラファルガー・ロー",
+          "profileURL": "https://one-piece.com/character/law/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "10-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "93D033FC-307D-51E0-B920-79950F7FCB98",
+          "masterId": "one_piece_heart_pirates_bepo",
+          "name": "ベポ",
+          "profileURL": "https://one-piece.com/character/Bepo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "11-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EDB87F37-A8D1-5E19-898B-DAA763ECB1C2",
+          "masterId": "one_piece_heart_pirates_killer_whale",
+          "name": "シャチ",
+          "profileURL": "https://one-piece.com/character/Killer_whale/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "04-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E865A764-8682-5EE3-903A-E46F301456A5",
+          "masterId": "one_piece_heart_pirates_penguin",
+          "name": "ペンギン",
+          "profileURL": "https://one-piece.com/character/Penguin/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "04-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A13DEFE2-69CE-50A1-9377-F42ED7CC8B1B",
+          "masterId": "one_piece_heart_pirates_jean_bart",
+          "name": "ジャンバール",
+          "profileURL": "https://one-piece.com/character/Jean_Bart/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26881417-523D-57B8-895F-B6E36E443FAC",
+          "masterId": "one_piece_heart_pirates_ikkaku",
+          "name": "イッカク",
+          "profileURL": "https://one-piece.com/character/ikkaku/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "12-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E844115D-747E-5842-8F26-BFC68F742093",
+          "masterId": "one_piece_heart_pirates_clione",
+          "name": "クリオネ",
+          "profileURL": "https://one-piece.com/character/Clione/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F2C94C"
+          ],
+          "birthday": "02-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "FCAFCE66-3CCD-55F5-8C14-7BFECBB94A72",
+      "masterId": "one_piece_red_hair_pirates",
+      "name": "赤髪海賊団",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=16390&sortKey=new&page=1",
+      "colorHex": [
+        "#A31621"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "FF8AD5C4-72E4-5E82-B3B7-42C5C49B4F80",
+          "masterId": "one_piece_red_hair_pirates_shanks",
+          "name": "シャンクス",
+          "profileURL": "https://one-piece.com/character/Shanks/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": "03-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A487DD56-9FD7-56F7-9181-C168F9BBB27E",
+          "masterId": "one_piece_red_hair_pirates_ben_beckman",
+          "name": "ベン・ベックマン",
+          "profileURL": "https://one-piece.com/character/Ben_Beckman/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": "11-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9B8615E-3046-564F-AF08-256AE6E94107",
+          "masterId": "one_piece_red_hair_pirates_yasopp",
+          "name": "ヤソップ",
+          "profileURL": "https://one-piece.com/character/Yasopp/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": "08-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C5EA17F-3620-537B-8D04-F52E92EC243B",
+          "masterId": "one_piece_red_hair_pirates_lucky_roux",
+          "name": "ラッキー・ルウ",
+          "profileURL": "https://one-piece.com/character/Lucky_Roux/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "95615C17-7FB4-5820-8CC0-15923B205E7C",
+          "masterId": "one_piece_red_hair_pirates_rockstar",
+          "name": "ロックスター",
+          "profileURL": "https://one-piece.com/character/Rockstar/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": "06-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "09A9D5CF-E167-53CC-A2D3-AA676809C991",
+          "masterId": "one_piece_red_hair_pirates_hongo",
+          "name": "ホンゴウ",
+          "profileURL": "https://one-piece.com/character/Hongo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7CD14D16-CF29-55EC-A098-0F1B0CCE0189",
+          "masterId": "one_piece_red_hair_pirates_limejuice",
+          "name": "ライムジュース",
+          "profileURL": "https://one-piece.com/character/LimeJuice/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FBADC53D-7BC9-5679-A9C2-60F11DBF6072",
+          "masterId": "one_piece_red_hair_pirates_bonk_punch",
+          "name": "ボンク・パンチ",
+          "profileURL": "https://one-piece.com/character/Bonk_Punch/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "787B0E05-C60B-533A-91E9-FD29B7E25313",
+          "masterId": "one_piece_red_hair_pirates_building_snake",
+          "name": "ビルディング・スネイク",
+          "profileURL": "https://one-piece.com/character/Building_Snake/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E7A87AC4-E149-51FF-B762-8839D9AFE5D3",
+          "masterId": "one_piece_red_hair_pirates_howling_gabu",
+          "name": "〝ハウリング〟ガブ",
+          "profileURL": "https://one-piece.com/character/Howling_Gabu/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FCFA903E-7B50-57AC-A627-ECDF569ACB49",
+          "masterId": "one_piece_red_hair_pirates_monster",
+          "name": "モンスター",
+          "profileURL": "https://one-piece.com/character/Monster/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#A31621"
+          ],
+          "birthday": "10-31",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9C6A9C5D-19B8-55CF-AE2B-27F3078EB4F7",
+      "masterId": "one_piece_blackbeard_pirates",
+      "name": "黒ひげ海賊団",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15445&sortKey=new&page=1",
+      "colorHex": [
+        "#1D1D1D"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "25BC791F-59E9-58F9-AF8E-F7ED34C35989",
+          "masterId": "one_piece_blackbeard_pirates_marshall_d_teech",
+          "name": "マーシャル・Ｄ・ティーチ",
+          "profileURL": "https://one-piece.com/character/Marshall_D_Teech/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "08-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8FC68FF9-0BCE-573F-9FF9-82426498E548",
+          "masterId": "one_piece_blackbeard_pirates_kuzan",
+          "name": "クザン",
+          "profileURL": "https://one-piece.com/character/kuzan/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "09-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "392BCCA7-E2E6-5411-9E74-8BB5361E3136",
+          "masterId": "one_piece_blackbeard_pirates_shiryu",
+          "name": "シリュウ",
+          "profileURL": "https://one-piece.com/character/Shiryu/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "06-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "39B276EA-2B67-5B93-B948-7F2693A40F3B",
+          "masterId": "one_piece_blackbeard_pirates_burgess",
+          "name": "ジーザス・バージェス",
+          "profileURL": "https://one-piece.com/character/burgess/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "12-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E1DE2F3B-D3C7-552D-B552-B062268481FD",
+          "masterId": "one_piece_blackbeard_pirates_van_ogre",
+          "name": "ヴァン・オーガー",
+          "profileURL": "https://one-piece.com/character/Van_Ogre/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "32FF90F9-83AC-5B9F-A7CA-76C41ADB7844",
+          "masterId": "one_piece_blackbeard_pirates_lafitte",
+          "name": "ラフィット",
+          "profileURL": "https://one-piece.com/character/Lafitte/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "03-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E757D22-BA6D-57AE-B93B-8C9326C2D56A",
+          "masterId": "one_piece_blackbeard_pirates_doc_q",
+          "name": "ドクＱ",
+          "profileURL": "https://one-piece.com/character/Doc_Q/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "10-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A98924BC-5243-54B0-9D7C-EAF202EB6EF5",
+          "masterId": "one_piece_blackbeard_pirates_strongheart",
+          "name": "ストロンガー",
+          "profileURL": "https://one-piece.com/character/Strongheart/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "04-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DF73C552-CB8C-52C2-9B86-785ECE30D9FA",
+          "masterId": "one_piece_blackbeard_pirates_catalina_devon",
+          "name": "カタリーナ・デボン",
+          "profileURL": "https://one-piece.com/character/Catalina_Devon/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "03-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E72C99F1-7E2E-551C-9D2C-7A96657A5021",
+          "masterId": "one_piece_blackbeard_pirates_avolo_pizzaro",
+          "name": "アバロ・ピサロ",
+          "profileURL": "https://one-piece.com/character/Avolo_Pizzaro/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "09-30",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A40E3172-1708-5600-AA0C-C34A850ACB44",
+          "masterId": "one_piece_blackbeard_pirates_vasco_shot",
+          "name": "バスコ・ショット",
+          "profileURL": "https://one-piece.com/character/Vasco_Shot/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "08-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "55D2B3B5-2375-5C85-ACB0-5D5A71F68314",
+          "masterId": "one_piece_blackbeard_pirates_san_juan_wolf",
+          "name": "サンファン・ウルフ",
+          "profileURL": "https://one-piece.com/character/San_Juan_Wolf/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1D1D1D"
+          ],
+          "birthday": "03-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "DFEABEF3-E6D0-5B6E-AA5B-6CD5F753D9FD",
+      "masterId": "one_piece_whitebeard_pirates",
+      "name": "白ひげ海賊団",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15683&sortKey=new&page=1",
+      "colorHex": [
+        "#EDE8D0"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "CF12D425-2027-52BA-B770-1C043FD295C2",
+          "masterId": "one_piece_whitebeard_pirates_edward_newgate",
+          "name": "エドワード・ニューゲート",
+          "profileURL": "https://one-piece.com/character/edward_newgate/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EC79FA72-F449-5CE3-A274-3B83D6FCEF3C",
+          "masterId": "one_piece_whitebeard_pirates_ace",
+          "name": "ポートガス・D・エース",
+          "profileURL": "https://one-piece.com/character/ace/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "01-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "90F86773-E613-5C6E-8C5E-B4D6DEE0E73F",
+          "masterId": "one_piece_whitebeard_pirates_marco",
+          "name": "マルコ",
+          "profileURL": "https://one-piece.com/character/marco/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A974166F-6D51-5244-AC5D-C58DADC2D28E",
+          "masterId": "one_piece_whitebeard_pirates_jozu",
+          "name": "ジョズ",
+          "profileURL": "https://one-piece.com/character/jozu/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "36992FF1-1C38-5ECC-AC5D-AD79AE7D5B24",
+          "masterId": "one_piece_whitebeard_pirates_bista",
+          "name": "ビスタ",
+          "profileURL": "https://one-piece.com/character/bista/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C4FF445B-4C26-5722-AA9F-38045B31F3A3",
+          "masterId": "one_piece_whitebeard_pirates_izo",
+          "name": "イゾウ",
+          "profileURL": "https://one-piece.com/character/izo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "10-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7E1E08B2-4A14-599C-9A09-065BEFF2B7FD",
+          "masterId": "one_piece_whitebeard_pirates_thatch",
+          "name": "サッチ",
+          "profileURL": "https://one-piece.com/character/thatch/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28470214-7550-5F35-AED7-220EDACECEF3",
+          "masterId": "one_piece_whitebeard_pirates_atmos",
+          "name": "アトモス",
+          "profileURL": "https://one-piece.com/character/atmos/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "03-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "411922AE-0AE6-5D36-B111-AC96FE3EFD81",
+          "masterId": "one_piece_whitebeard_pirates_kingdew",
+          "name": "キングデュー",
+          "profileURL": "https://one-piece.com/character/kingdew/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "11-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E3124651-AFB3-503C-8F2D-B721948E8A1F",
+          "masterId": "one_piece_whitebeard_pirates_creele",
+          "name": "クリエル",
+          "profileURL": "https://one-piece.com/character/creele/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "09-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "55D78565-AD92-555F-976E-FB0B070419FB",
+          "masterId": "one_piece_whitebeard_pirates_speed_jill",
+          "name": "スピード・ジル",
+          "profileURL": "https://one-piece.com/character/speed_jill/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "04-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D0340EED-8D80-5A35-900A-5A82093D0DF3",
+          "masterId": "one_piece_whitebeard_pirates_namyul",
+          "name": "ナミュール",
+          "profileURL": "https://one-piece.com/character/namyul/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "07-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "99084C19-B343-5785-991F-A1AC8702105F",
+          "masterId": "one_piece_whitebeard_pirates_halta",
+          "name": "ハルタ",
+          "profileURL": "https://one-piece.com/character/halta/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "02-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "197A37F8-468E-513A-B858-A452F0A88FD9",
+          "masterId": "one_piece_whitebeard_pirates_fossa",
+          "name": "フォッサ",
+          "profileURL": "https://one-piece.com/character/fossa/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "04-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "651BD8BE-7530-5742-B972-359FD8DD0B1F",
+          "masterId": "one_piece_whitebeard_pirates_bramenko",
+          "name": "ブラメンコ",
+          "profileURL": "https://one-piece.com/character/bramenko/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3AB7CF21-15F3-5B28-9020-5D20A6B61DA5",
+          "masterId": "one_piece_whitebeard_pirates_brenheim",
+          "name": "ブレンハイム",
+          "profileURL": "https://one-piece.com/character/brenheim/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "08-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9C8E17F1-CD8A-5B6B-9F73-26494981E926",
+          "masterId": "one_piece_whitebeard_pirates_rakuyo",
+          "name": "ラクヨウ",
+          "profileURL": "https://one-piece.com/character/rakuyo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#EDE8D0"
+          ],
+          "birthday": "09-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "E67B11B6-E629-5E32-9603-C3FF8040CE06",
+      "masterId": "one_piece_marines",
+      "name": "海軍本部",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15425&sortKey=new&page=1",
+      "colorHex": [
+        "#315E9F"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "DA2F74FC-5A76-5B97-80E0-7513CA8F577C",
+          "masterId": "one_piece_marines_sakazuki",
+          "name": "サカズキ",
+          "profileURL": "https://one-piece.com/character/Sakazuki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "08-16",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "419F0B9A-2B0B-5AA1-AA05-3D432D035B56",
+          "masterId": "one_piece_marines_borsalino",
+          "name": "ボルサリーノ",
+          "profileURL": "https://one-piece.com/character/Borsalino/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "11-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3575400B-BD28-504F-A13B-881B971F4A14",
+          "masterId": "one_piece_marines_kuzan",
+          "name": "クザン",
+          "profileURL": "https://one-piece.com/character/kuzan/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "09-21",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47322406-3D23-534C-90E0-B5F30D214328",
+          "masterId": "one_piece_marines_fujitora",
+          "name": "イッショウ",
+          "profileURL": "https://one-piece.com/character/fujitora/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "08-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "30A97053-0ACF-5DBC-A01C-6EC36D81D398",
+          "masterId": "one_piece_marines_aramaki",
+          "name": "アラマキ",
+          "profileURL": "https://one-piece.com/character/Aramaki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "02-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9F895881-19DA-53B5-89C7-F0A07CA6179D",
+          "masterId": "one_piece_marines_monkey_d_garp",
+          "name": "モンキー・Ｄ・ガープ",
+          "profileURL": "https://one-piece.com/character/Monkey_D_Garp/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "05-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9E2BE1F4-BD0A-59D3-941B-4BE90FC80A5A",
+          "masterId": "one_piece_marines_coby",
+          "name": "コビー",
+          "profileURL": "https://one-piece.com/character/Coby/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "05-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "70933477-2120-5E97-AE9B-4D33AA21F8C7",
+          "masterId": "one_piece_marines_smoker",
+          "name": "スモーカー",
+          "profileURL": "https://one-piece.com/character/smoker/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E42A93AF-86C1-5A11-AFF6-174706BC5AEE",
+          "masterId": "one_piece_marines_tashigi",
+          "name": "たしぎ",
+          "profileURL": "https://one-piece.com/character/tashigi/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "10-06",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C65E5728-C9C8-588A-9157-5BF7B09C80E1",
+          "masterId": "one_piece_marines_corazon",
+          "name": "ドンキホーテ・ロシナンテ(コラソン)",
+          "profileURL": "https://one-piece.com/character/Corazon/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "07-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "622BA5A5-FE57-539D-8631-84610803CD13",
+          "masterId": "one_piece_marines_kujaku",
+          "name": "孔雀",
+          "profileURL": "https://one-piece.com/character/Kujaku/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "09-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2975AB51-5B76-54CC-B50C-B55F45E249C6",
+          "masterId": "one_piece_marines_hibari",
+          "name": "ひばり",
+          "profileURL": "https://one-piece.com/character/Hibari/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "01-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A5781EC2-4A74-5524-B32A-C8DC0A263AF0",
+          "masterId": "one_piece_marines_prince_grus",
+          "name": "プリンス・グルス",
+          "profileURL": "https://one-piece.com/character/Prince_Grus/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "10-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "11351B90-C2D4-5B9A-8383-43312E1FAFAB",
+          "masterId": "one_piece_marines_doll",
+          "name": "ドール",
+          "profileURL": "https://one-piece.com/character/Doll/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D3D5ACCD-9ED3-5599-9B27-73A8CB58DA20",
+          "masterId": "one_piece_marines_drfish_bone",
+          "name": "Dr.フィッシュボーネン",
+          "profileURL": "https://one-piece.com/character/Drfish_bone/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E881792E-1F51-50A0-8AEB-51CB3C1143B1",
+          "masterId": "one_piece_marines_72903",
+          "name": "ウルバン",
+          "profileURL": "https://one-piece.com/character/72903/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "33F35B05-C5A2-570E-AF5C-F4EB2614AA2F",
+          "masterId": "one_piece_marines_onigumo",
+          "name": "オニグモ",
+          "profileURL": "https://one-piece.com/character/Onigumo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "02-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "33D4490C-275C-5737-AF4B-461E8455BFB8",
+          "masterId": "one_piece_marines_kandore",
+          "name": "カンドレ",
+          "profileURL": "https://one-piece.com/character/kandore/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A7A5BA39-3913-5990-9F1C-ED198CFA6B1B",
+          "masterId": "one_piece_marines_72899",
+          "name": "ギロチン",
+          "profileURL": "https://one-piece.com/character/72899/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "70A2DA14-1854-5B63-B181-B30CC36AFBB3",
+          "masterId": "one_piece_marines_captain_gorilla",
+          "name": "ゴリラ",
+          "profileURL": "https://one-piece.com/character/Captain_Gorilla/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "05-18",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6CA240FA-91A2-5C8B-8E6D-6BE4AC4F0BB4",
+          "masterId": "one_piece_marines_dalmecia",
+          "name": "ダルメシアン",
+          "profileURL": "https://one-piece.com/character/Dalmecia/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CE010981-9B2F-57A9-B917-E729D4A2FF84",
+          "masterId": "one_piece_marines_72897",
+          "name": "ハウンド",
+          "profileURL": "https://one-piece.com/character/72897/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2E5C2E9D-12FE-5D74-ACAE-604362949530",
+          "masterId": "one_piece_marines_bastille",
+          "name": "バスティーユ",
+          "profileURL": "https://one-piece.com/character/bastille/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "07-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3F6A027F-9786-5778-855A-22AB1AC174C0",
+          "masterId": "one_piece_marines_72900",
+          "name": "ブルーグラス",
+          "profileURL": "https://one-piece.com/character/72900/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6AF8216A-1D8D-5DD9-86E9-F89E3264F758",
+          "masterId": "one_piece_marines_bogard",
+          "name": "ボガード",
+          "profileURL": "https://one-piece.com/character/Bogard/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "943281F1-2899-54D2-8557-978EFF31AADB",
+          "masterId": "one_piece_marines_72902",
+          "name": "ポンスキー",
+          "profileURL": "https://one-piece.com/character/72902/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7DD88EB5-61F8-515A-A3BA-BAE38E3059B5",
+          "masterId": "one_piece_marines_maynard",
+          "name": "メイナード",
+          "profileURL": "https://one-piece.com/character/Maynard/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "05-07",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "43732AB9-57AE-525D-B032-D83B05B5B61C",
+          "masterId": "one_piece_marines_rakuro",
+          "name": "ラクロワ",
+          "profileURL": "https://one-piece.com/character/Rakuro/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "06-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7862102B-AB65-5F5B-AE31-88A16EE4C2E4",
+          "masterId": "one_piece_marines_72898",
+          "name": "レッドキング",
+          "profileURL": "https://one-piece.com/character/72898/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "16C8B1A6-3764-59ED-89A6-89A88F849368",
+          "masterId": "one_piece_marines_lonz",
+          "name": "ロンズ",
+          "profileURL": "https://one-piece.com/character/Lonz/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": "06-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF80A55C-DD30-53FE-B9C4-67D765DACCF4",
+          "masterId": "one_piece_marines_72901",
+          "name": "土茶",
+          "profileURL": "https://one-piece.com/character/72901/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#315E9F"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "6FC8E09E-1245-542E-BA39-1B8E57FE7542",
+      "masterId": "one_piece_revolutionary_army",
+      "name": "革命軍",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15482&sortKey=new&page=1",
+      "colorHex": [
+        "#3A7D44"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7A8C7C9B-D087-57C9-BAB0-EE18F9457227",
+          "masterId": "one_piece_revolutionary_army_monkey_d_dragon",
+          "name": "モンキー・D・ドラゴン",
+          "profileURL": "https://one-piece.com/character/Monkey_D_Dragon/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7D44"
+          ],
+          "birthday": "10-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CCA23AFB-784B-5A24-8874-5FE892630C3C",
+          "masterId": "one_piece_revolutionary_army_sabo",
+          "name": "サボ",
+          "profileURL": "https://one-piece.com/character/sabo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7D44"
+          ],
+          "birthday": "03-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7AEED357-397B-5598-B76A-7B0BC4EAEC98",
+          "masterId": "one_piece_revolutionary_army_koala",
+          "name": "コアラ",
+          "profileURL": "https://one-piece.com/character/Koala/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7D44"
+          ],
+          "birthday": "10-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A8222C10-A826-52CB-B09B-19672DF0B77F",
+          "masterId": "one_piece_revolutionary_army_bartholomew_kuma",
+          "name": "バーソロミュー・くま",
+          "profileURL": "https://one-piece.com/character/Bartholomew_Kuma/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7D44"
+          ],
+          "birthday": "02-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1E402CAC-B978-5718-83F0-735EE0109576",
+          "masterId": "one_piece_revolutionary_army_hack",
+          "name": "ハック",
+          "profileURL": "https://one-piece.com/character/hack/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7D44"
+          ],
+          "birthday": "08-09",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FE9DA745-ACCD-5CCA-8D03-416D14DADC0A",
+          "masterId": "one_piece_revolutionary_army_vanie_joe",
+          "name": "バニー・ジョー",
+          "profileURL": "https://one-piece.com/character/vanie_joe/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#3A7D44"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "0112E500-DC55-5CD6-A50E-5A959C918EDE",
+      "masterId": "one_piece_beasts_pirates",
+      "name": "百獣海賊団",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15331&sortKey=new&page=1",
+      "colorHex": [
+        "#7B2CBF"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "D8FC394C-5CF5-5B3F-8D5C-D81DFA9BFCFF",
+          "masterId": "one_piece_beasts_pirates_kaido",
+          "name": "カイドウ",
+          "profileURL": "https://one-piece.com/character/Kaido/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "05-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "034C8356-DE49-5D4C-990E-F8E398919EB5",
+          "masterId": "one_piece_beasts_pirates_yamato",
+          "name": "ヤマト",
+          "profileURL": "https://one-piece.com/character/YAMATO/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "11-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EF640669-2D9E-5516-AC54-F7B3DD069A94",
+          "masterId": "one_piece_beasts_pirates_king",
+          "name": "キング",
+          "profileURL": "https://one-piece.com/character/King/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "12-01",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "17BB931E-94CD-5BF8-8E6A-7EC761FF4679",
+          "masterId": "one_piece_beasts_pirates_queen",
+          "name": "クイーン",
+          "profileURL": "https://one-piece.com/character/Queen/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "07-13",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "02B6825F-25DC-5B86-8EAE-D688706B09E8",
+          "masterId": "one_piece_beasts_pirates_jack",
+          "name": "ジャック",
+          "profileURL": "https://one-piece.com/character/Jack/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "09-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9BFA66C3-F04D-5D70-B007-D7D96B0052C0",
+          "masterId": "one_piece_beasts_pirates_ulti",
+          "name": "うるティ",
+          "profileURL": "https://one-piece.com/character/ulti/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "01-04",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F6E89DCE-66B9-5B9B-906D-6CC6BE23EDFE",
+          "masterId": "one_piece_beasts_pirates_page_one",
+          "name": "ページワン",
+          "profileURL": "https://one-piece.com/character/Page_One/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6FDE2F96-E9C4-5B7C-BFF7-FB5F5B4C12B1",
+          "masterId": "one_piece_beasts_pirates_blackmaria",
+          "name": "ブラックマリア",
+          "profileURL": "https://one-piece.com/character/blackmaria/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "09-24",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "63930B5E-EC0F-53AC-98BD-49846FED3E04",
+          "masterId": "one_piece_beasts_pirates_whos_who",
+          "name": "フーズ・フー",
+          "profileURL": "https://one-piece.com/character/whos_who/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "03-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3D456B9B-B145-5AFF-9D34-1BAFF92BEE23",
+          "masterId": "one_piece_beasts_pirates_sasaki",
+          "name": "ササキ",
+          "profileURL": "https://one-piece.com/character/sasaki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "02-03",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "173E1C75-6934-5A20-A33A-EA2A9CC62FD0",
+          "masterId": "one_piece_beasts_pirates_baofun",
+          "name": "バオファン",
+          "profileURL": "https://one-piece.com/character/baofun/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5D41EBA1-6099-5B94-94DE-93B526B96882",
+          "masterId": "one_piece_beasts_pirates_alpacaman",
+          "name": "アルパカマン",
+          "profileURL": "https://one-piece.com/character/Alpacaman/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26A807F1-6E86-55FD-BFED-E431C2D118E5",
+          "masterId": "one_piece_beasts_pirates_gazelleman",
+          "name": "ガゼルマン",
+          "profileURL": "https://one-piece.com/character/gazelleman/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D8991BEF-E257-52FC-83CC-FF81078E7ADB",
+          "masterId": "one_piece_beasts_pirates_sarahebi",
+          "name": "さらへび先生",
+          "profileURL": "https://one-piece.com/character/sarahebi/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "01A46ABC-40C8-57A5-8384-9B42886C36F9",
+          "masterId": "one_piece_beasts_pirates_solitaire",
+          "name": "ソリティア",
+          "profileURL": "https://one-piece.com/character/Solitaire/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E9539E63-0096-56B1-AA4A-CE88AAA49423",
+          "masterId": "one_piece_beasts_pirates_daifugo",
+          "name": "ダイフゴー",
+          "profileURL": "https://one-piece.com/character/Daifugo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FF2B90CB-A80A-5C88-A3C2-AE6CDCA23B95",
+          "masterId": "one_piece_beasts_pirates_dobon",
+          "name": "ドボン",
+          "profileURL": "https://one-piece.com/character/Dobon/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8790360C-1703-5502-BE9E-4CFE44463E8C",
+          "masterId": "one_piece_beasts_pirates_babanuki",
+          "name": "ババヌキ",
+          "profileURL": "https://one-piece.com/character/Babanuki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47B380F4-D50C-5B9D-9B38-42F120FC1013",
+          "masterId": "one_piece_beasts_pirates_burisukora",
+          "name": "ブリスコラ",
+          "profileURL": "https://one-piece.com/character/burisukora/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "68F9A941-8BC7-5EF1-B831-352D8DB6501A",
+          "masterId": "one_piece_beasts_pirates_porker",
+          "name": "ポーカー",
+          "profileURL": "https://one-piece.com/character/porker/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "01D999DC-64E6-570D-BE32-BFF7A5E85D7E",
+          "masterId": "one_piece_beasts_pirates_mizeruka",
+          "name": "ミゼルカ",
+          "profileURL": "https://one-piece.com/character/mizeruka/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "62B905B9-3E9C-5DA9-8FA0-9239E7F82594",
+          "masterId": "one_piece_beasts_pirates_goki",
+          "name": "五鬼",
+          "profileURL": "https://one-piece.com/character/goki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7F71EF3E-2787-53CB-BCAB-070D61376D19",
+          "masterId": "one_piece_beasts_pirates_jaki",
+          "name": "四鬼",
+          "profileURL": "https://one-piece.com/character/jaki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0EBD2C72-947F-5918-9164-C326D9773C49",
+          "masterId": "one_piece_beasts_pirates_nangi",
+          "name": "七鬼",
+          "profileURL": "https://one-piece.com/character/nangi/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FF531CA9-1692-500D-A45F-B9A75CE0A8C0",
+          "masterId": "one_piece_beasts_pirates_juki",
+          "name": "十鬼",
+          "profileURL": "https://one-piece.com/character/juki/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3229CDE4-37AE-55FC-B05E-C757411C20D9",
+          "masterId": "one_piece_beasts_pirates_fuga",
+          "name": "二牙",
+          "profileURL": "https://one-piece.com/character/Fuga/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "02-05",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF8AB73D-C5B1-560C-9BB3-AE1751984927",
+          "masterId": "one_piece_beasts_pirates_haccha",
+          "name": "八茶",
+          "profileURL": "https://one-piece.com/character/haccha/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7B2CBF"
+          ],
+          "birthday": "10-08",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "FD1973D2-4FD4-5C6A-85BD-5A218CC846CF",
+      "masterId": "one_piece_big_mom_pirates",
+      "name": "ビッグ・マム海賊団",
+      "isActive": true,
+      "profileURL": "https://one-piece.com/character/index.html?orgName=15634&sortKey=new&page=1",
+      "colorHex": [
+        "#F06AA6"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/OPcom_info",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "4F14E31C-48EC-5DD5-A82E-6194E562EA32",
+          "masterId": "one_piece_big_mom_pirates_charlottelinlin",
+          "name": "シャーロット・リンリン",
+          "profileURL": "https://one-piece.com/character/CharlotteLinlin/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "02-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0A4C1921-EA58-507E-98C4-B92E1377B7CB",
+          "masterId": "one_piece_big_mom_pirates_charlotte_katakuri",
+          "name": "シャーロット・カタクリ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Katakuri/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "11-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "29F24761-F9A4-5063-BBB8-58643DE6002C",
+          "masterId": "one_piece_big_mom_pirates_charlotte_prin",
+          "name": "シャーロット・プリン",
+          "profileURL": "https://one-piece.com/character/Charlotte_Prin/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "06-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "55C3A15A-8F42-59EE-B371-CAF339BC82D7",
+          "masterId": "one_piece_big_mom_pirates_perospero",
+          "name": "シャーロット・ペロスペロー",
+          "profileURL": "https://one-piece.com/character/perospero/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "03-14",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A9B2473A-2CAC-5C63-8D2A-6AAE2AF79075",
+          "masterId": "one_piece_big_mom_pirates_charlotte_cracker",
+          "name": "シャーロット・クラッカー",
+          "profileURL": "https://one-piece.com/character/Charlotte_Cracker/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "02-28",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A2145814-0067-5AA4-951F-359BED8D1DDE",
+          "masterId": "one_piece_big_mom_pirates_charlotte_smoothies",
+          "name": "シャーロット・スムージー",
+          "profileURL": "https://one-piece.com/character/Charlotte_smoothies/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "10-12",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CB9AB3B0-6BFC-5A29-8BE5-67A9B824FFB9",
+          "masterId": "one_piece_big_mom_pirates_charlotte_oven",
+          "name": "シャーロット・オーブン",
+          "profileURL": "https://one-piece.com/character/Charlotte_Oven/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "11-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "99532DCA-12AC-5685-B707-013E8A0AB612",
+          "masterId": "one_piece_big_mom_pirates_charlotte_daifuku",
+          "name": "シャーロット・ダイフク",
+          "profileURL": "https://one-piece.com/character/Charlotte_Daifuku/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "11-25",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "82030FE6-A99B-5B79-A758-8D67B88796F2",
+          "masterId": "one_piece_big_mom_pirates_charlotte_compote",
+          "name": "シャーロット・コンポート",
+          "profileURL": "https://one-piece.com/character/Charlotte_Compote/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "10-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C1EDDFFD-97F1-5868-AD2F-338D624C444B",
+          "masterId": "one_piece_big_mom_pirates_zeus",
+          "name": "ゼウス",
+          "profileURL": "https://one-piece.com/character/Zeus/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "06-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1B8F284C-482C-5AEB-8569-986D58411DC7",
+          "masterId": "one_piece_big_mom_pirates_prometheus",
+          "name": "プロメテウス",
+          "profileURL": "https://one-piece.com/character/Prometheus/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "07-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EDE36D1B-6179-5EC9-965F-0BFB31CAC9C1",
+          "masterId": "one_piece_big_mom_pirates_napoleon",
+          "name": "ナポレオン",
+          "profileURL": "https://one-piece.com/character/Napoleon/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "506C02B9-BE51-53C3-B281-77C7A1C31B60",
+          "masterId": "one_piece_big_mom_pirates_hera",
+          "name": "ヘラ",
+          "profileURL": "https://one-piece.com/character/Hera/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "03-17",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "08E6FDDF-5706-5F93-8A62-9C53A7551C4F",
+          "masterId": "one_piece_big_mom_pirates_charlotte_custard",
+          "name": "シャーロット・カスタード",
+          "profileURL": "https://one-piece.com/character/Charlotte_Custard/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "61D182DB-A8CF-5516-9264-CC7AF565F8C0",
+          "masterId": "one_piece_big_mom_pirates_charlotte_gala",
+          "name": "シャーロット・ガラ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Gala/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "09-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "333F240C-57D1-5086-B799-055C7A238AA1",
+          "masterId": "one_piece_big_mom_pirates_charlotte_joscarpone",
+          "name": "シャーロット・ジョスカルポーネ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Joscarpone/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6B418499-D88D-550F-BDDE-047D85E72459",
+          "masterId": "one_piece_big_mom_pirates_charlotte_snack",
+          "name": "シャーロット・スナック",
+          "profileURL": "https://one-piece.com/character/Charlotte_Snack/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "10-29",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0DF064C3-3994-5438-9BA4-F9C300AD4768",
+          "masterId": "one_piece_big_mom_pirates_charlotte_newgo",
+          "name": "シャーロット・ニューゴ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Newgo/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "12-02",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AF1A707E-FA24-57C0-920C-5F4A95D79064",
+          "masterId": "one_piece_big_mom_pirates_charlotte_nusstorte",
+          "name": "シャーロット・ヌストルテ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Nusstorte/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "01-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A4A3B450-5C02-53DE-8734-913A045FEC35",
+          "masterId": "one_piece_big_mom_pirates_charlotte_noisette",
+          "name": "シャーロット・ノアゼット",
+          "profileURL": "https://one-piece.com/character/Charlotte_noisette/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "12-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DE818D3B-B3D5-51F6-A655-482AFA6B44A0",
+          "masterId": "one_piece_big_mom_pirates_charlotte_flampe",
+          "name": "シャーロット・フランペ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Flampe/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "02-11",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A0C9479-B502-52A4-BF75-DCD9D138D153",
+          "masterId": "one_piece_big_mom_pirates_charlotte_broyer",
+          "name": "シャーロット・ブロワイエ",
+          "profileURL": "https://one-piece.com/character/Charlotte_broyer/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "12-26",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2DECD6E8-A5C9-5CC9-958F-7BBAF03EB008",
+          "masterId": "one_piece_big_mom_pirates_charlotte_poire",
+          "name": "シャーロット・ポワール",
+          "profileURL": "https://one-piece.com/character/Charlotte_Poire/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "10-19",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D9CBC44C-788D-5C5A-9229-CD775B72B877",
+          "masterId": "one_piece_big_mom_pirates_charlotte_mascarpone",
+          "name": "シャーロット・マスカルポーネ",
+          "profileURL": "https://one-piece.com/character/Charlotte_Mascarpone/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "02-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CEB2412F-A078-51A1-AC5F-2339354E8222",
+          "masterId": "one_piece_big_mom_pirates_charlotte_marnier",
+          "name": "シャーロット・マルニエ",
+          "profileURL": "https://one-piece.com/character/Charlotte_marnier/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "12-20",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A1E85A2C-4E1C-504A-801F-EBE43D335CF6",
+          "masterId": "one_piece_big_mom_pirates_charlotte_coen",
+          "name": "シャーロット・ユーエン",
+          "profileURL": "https://one-piece.com/character/Charlotte_Coen/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "10-15",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AFC0A517-4798-531F-9DA8-DC2FD021DD7A",
+          "masterId": "one_piece_big_mom_pirates_charlotte_raisin",
+          "name": "シャーロット・レザン",
+          "profileURL": "https://one-piece.com/character/Charlotte_Raisin/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "03-23",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9ECA5D3A-E3CC-5645-8498-05A32E19E0B6",
+          "masterId": "one_piece_big_mom_pirates_streusen",
+          "name": "シュトロイゼン",
+          "profileURL": "https://one-piece.com/character/Streusen/index.html",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F06AA6"
+          ],
+          "birthday": "04-27",
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "agencyId": "blue_lock",
+  "agency": "ブルーロック",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "25953AB3-0873-5807-B19D-317B7600735A",
+      "masterId": "blue_lock_blue_lock",
+      "name": "ブルーロック",
+      "isActive": true,
+      "profileURL": "https://www.bluelock-kc.com/characters/",
+      "colorHex": [
+        "#006BFF"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/BLUELOCK_WM",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "01158AF8-2183-520A-B87E-07ACDF53D255",
+          "masterId": "blue_lock_blue_lock_潔世一",
+          "name": "潔世一",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "999AE1C1-71E2-5417-A65F-4CBBC25336C4",
+          "masterId": "blue_lock_blue_lock_蜂楽廻",
+          "name": "蜂楽廻",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1491B0E8-109E-53F6-8E19-F6709D528557",
+          "masterId": "blue_lock_blue_lock_國神錬介",
+          "name": "國神錬介",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "940CB598-A892-5F5E-8C48-B77A4E7DE989",
+          "masterId": "blue_lock_blue_lock_千切豹馬",
+          "name": "千切豹馬",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "86565598-97F4-5D41-A46E-30ADAA466C3C",
+          "masterId": "blue_lock_blue_lock_久遠渉",
+          "name": "久遠渉",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7F5B6761-EAA1-5F3C-B073-59B2DA87D554",
+          "masterId": "blue_lock_blue_lock_雷市陣吾",
+          "name": "雷市陣吾",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "941462E4-0C8E-5ECD-B49E-358EEAAEA855",
+          "masterId": "blue_lock_blue_lock_我牙丸吟",
+          "name": "我牙丸吟",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "19F49B3B-6E51-5387-8D5C-1D5496F198C7",
+          "masterId": "blue_lock_blue_lock_成早朝日",
+          "name": "成早朝日",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "060BF93E-0387-5936-86D3-6A5857A39AEC",
+          "masterId": "blue_lock_blue_lock_伊右衛門送人",
+          "name": "伊右衛門送人",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A502BE63-8977-54B8-88E1-C3443FC439B0",
+          "masterId": "blue_lock_blue_lock_五十嵐栗夢",
+          "name": "五十嵐栗夢",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#006BFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "D439D09B-6F39-5592-84A3-9A723A056473",
+      "masterId": "blue_lock_rivals",
+      "name": "ライバル・主要選手",
+      "isActive": true,
+      "profileURL": "https://www.bluelock-kc.com/characters/",
+      "colorHex": [
+        "#00A6A6"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/BLUELOCK_WM",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "AFFEA529-0F05-51F4-A944-C21BD31C5B80",
+          "masterId": "blue_lock_rivals_凪誠士郎",
+          "name": "凪誠士郎",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2E006E19-7D56-5DF2-BD47-81466A9C7E6D",
+          "masterId": "blue_lock_rivals_御影玲王",
+          "name": "御影玲王",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "23CCA60C-B3F9-58AE-8D5D-48156972D98A",
+          "masterId": "blue_lock_rivals_糸師凛",
+          "name": "糸師凛",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AAD8E132-328C-50A7-9727-893B41A7B8B7",
+          "masterId": "blue_lock_rivals_糸師冴",
+          "name": "糸師冴",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E4174AE7-AF9D-5AED-8D5E-7A977428DA4E",
+          "masterId": "blue_lock_rivals_蟻生十兵衛",
+          "name": "蟻生十兵衛",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BE6D4F4A-52BA-5034-A443-364CD3068C9E",
+          "masterId": "blue_lock_rivals_時光青志",
+          "name": "時光青志",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D4FF3829-A530-5745-968F-54BC1008BCD2",
+          "masterId": "blue_lock_rivals_士道龍聖",
+          "name": "士道龍聖",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "99531B28-A69C-58E6-ADC9-9F4D389CF70B",
+          "masterId": "blue_lock_rivals_馬狼照英",
+          "name": "馬狼照英",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "4F976319-B465-5F67-9654-6944FFEB5BD6",
+          "masterId": "blue_lock_rivals_二子一揮",
+          "name": "二子一揮",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2B26080B-AB21-54A8-B517-EAE52A2280DA",
+          "masterId": "blue_lock_rivals_剣城斬鉄",
+          "name": "剣城斬鉄",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#00A6A6"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "14203A3C-E945-57AB-A984-C1787B88BA1E",
+      "masterId": "blue_lock_staff_world",
+      "name": "スタッフ・世界選抜",
+      "isActive": true,
+      "profileURL": "https://www.bluelock-kc.com/characters/",
+      "colorHex": [
+        "#111111"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/BLUELOCK_WM",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "9EB2F99C-4ADF-530C-8FDC-142776C9F9BC",
+          "masterId": "blue_lock_staff_world_絵心甚八",
+          "name": "絵心甚八",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A442165B-01A0-540B-B786-227A464EB82A",
+          "masterId": "blue_lock_staff_world_帝襟アンリ",
+          "name": "帝襟アンリ",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "01DCF55D-5BD1-51C5-9E3F-415D68353A96",
+          "masterId": "blue_lock_staff_world_オリウ_ァ愛空",
+          "name": "オリヴァ・愛空",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "64C18077-1A2A-501C-A9E5-E6F4220B21BD",
+          "masterId": "blue_lock_staff_world_ミヒャエルカイサ_ー",
+          "name": "ミヒャエル・カイザー",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CA0081EE-E0C2-58DF-A774-70D21891EE9D",
+          "masterId": "blue_lock_staff_world_アレクシスネス",
+          "name": "アレクシス・ネス",
+          "profileURL": "https://www.bluelock-kc.com/characters/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#111111"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

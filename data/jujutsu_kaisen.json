@@ -1,0 +1,563 @@
+{
+  "agencyId": "jujutsu_kaisen",
+  "agency": "呪術廻戦",
+  "isActive": true,
+  "groups": [
+    {
+      "uuid": "591D5D74-C355-5507-87E3-BD2758EDF707",
+      "masterId": "jujutsu_kaisen_tokyo_jjk_high",
+      "name": "東京都立呪術高等専門学校",
+      "isActive": true,
+      "profileURL": "https://jujutsukaisen.jp/character/",
+      "colorHex": [
+        "#1C1F2A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animejujutsu",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "7DA40472-8D21-5A2B-BC2E-92A9615EC4A6",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_虎杖悠仁",
+          "name": "虎杖悠仁",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3784885D-BF70-5703-9BDD-37DC8A4F3FA9",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_伏黒恵",
+          "name": "伏黒恵",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5ACE8FF6-75D9-5E4A-AE2B-E5E48AA1F622",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_釘崎野薔薇",
+          "name": "釘崎野薔薇",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FF86D103-F935-572D-B9EE-EECDE2D25F48",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_五条悟",
+          "name": "五条悟",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "59E23C8C-FA7F-585D-8AB1-F953258B118D",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_乙骨憂太",
+          "name": "乙骨憂太",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BA4B256A-4601-5DA1-BD3F-5EB2566100C2",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_禪院真希",
+          "name": "禪院真希",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DC139BA7-00CA-5125-8836-06EC7CB9EBC2",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_狗巻棘",
+          "name": "狗巻棘",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B56685F2-D578-58A7-AF8D-DCCAC6E46A48",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_ハ_ンタ",
+          "name": "パンダ",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AEE01AD3-48D2-59DA-A207-F5F75FC9AED5",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_七海建人",
+          "name": "七海建人",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5F068EC0-23F8-58F2-88F3-FC5893E1E103",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_家入硝子",
+          "name": "家入硝子",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F7A32D60-8E12-58F4-AC89-000EC57CB3F3",
+          "masterId": "jujutsu_kaisen_tokyo_jjk_high_夜蛾正道",
+          "name": "夜蛾正道",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1C1F2A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9FC7C42D-17A0-50C7-9152-476AA3E81E5A",
+      "masterId": "jujutsu_kaisen_kyoto_jjk_high",
+      "name": "京都府立呪術高等専門学校",
+      "isActive": true,
+      "profileURL": "https://jujutsukaisen.jp/character/",
+      "colorHex": [
+        "#5D2A7A"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animejujutsu",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "641325CC-F682-506C-B691-E1AC920AD92F",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_東堂葵",
+          "name": "東堂葵",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CA3B7690-6784-5271-AA36-B9CE6100A181",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_禪院真依",
+          "name": "禪院真依",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "58214233-5630-52E3-A8CF-E0799650AE34",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_三輪霞",
+          "name": "三輪霞",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "38166E2E-0174-5BE0-B59B-EDA945CB9C2D",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_西宮桃",
+          "name": "西宮桃",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "53AF81E2-A5E8-51B5-8D8D-546D86657605",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_加茂憲紀",
+          "name": "加茂憲紀",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B400A023-BE4D-5156-8110-52B740BD3A92",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_究極メカ丸",
+          "name": "究極メカ丸",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "570EE15C-50B1-5BE0-8533-203D65373E34",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_庵歌姫",
+          "name": "庵歌姫",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8EC8C8B8-25C9-5251-83C4-01171E23CBD9",
+          "masterId": "jujutsu_kaisen_kyoto_jjk_high_楽巌寺嘉伸",
+          "name": "楽巌寺嘉伸",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5D2A7A"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "F33CDBDC-BAF1-5BFB-AD83-0999884A2975",
+      "masterId": "jujutsu_kaisen_curses_curse_users",
+      "name": "呪詛師・呪霊",
+      "isActive": true,
+      "profileURL": "https://jujutsukaisen.jp/character/",
+      "colorHex": [
+        "#6E1E1E"
+      ],
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/animejujutsu",
+        "instagram": null,
+        "tiktok": null
+      },
+      "timeTreeURL": null,
+      "timeTreeLabel": null,
+      "scheduleURL": null,
+      "members": [
+        {
+          "uuid": "EBEADDFB-B81C-55A2-AE66-68BA72936235",
+          "masterId": "jujutsu_kaisen_curses_curse_users_両面宿儺",
+          "name": "両面宿儺",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2838289C-6AC1-5EBD-AB0E-EE6A534755D8",
+          "masterId": "jujutsu_kaisen_curses_curse_users_夏油傑",
+          "name": "夏油傑",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7BA0E825-81F9-56E7-ACF3-6153A0F13FC1",
+          "masterId": "jujutsu_kaisen_curses_curse_users_羂索",
+          "name": "羂索",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "23DD3819-9C54-5DC4-BE6C-6C8A28D217F5",
+          "masterId": "jujutsu_kaisen_curses_curse_users_真人",
+          "name": "真人",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "26D85061-F887-50ED-96E0-47C4610A747F",
+          "masterId": "jujutsu_kaisen_curses_curse_users_伏黒甚爾",
+          "name": "伏黒甚爾",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C2129B10-CA10-5F5D-84F4-6F73B79BC475",
+          "masterId": "jujutsu_kaisen_curses_curse_users_脹相",
+          "name": "脹相",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1E472DB7-382D-571A-A7E8-89A0A8D67B8D",
+          "masterId": "jujutsu_kaisen_curses_curse_users_漏瑚",
+          "name": "漏瑚",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9639FBBA-DF2C-5092-8AC5-05C3B9C6201D",
+          "masterId": "jujutsu_kaisen_curses_curse_users_花御",
+          "name": "花御",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7431AD06-C142-5A93-A371-41B30A59FE10",
+          "masterId": "jujutsu_kaisen_curses_curse_users_陀艮",
+          "name": "陀艮",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A992019F-56FC-55C4-A58B-9BDE84C984C7",
+          "masterId": "jujutsu_kaisen_curses_curse_users_裏梅",
+          "name": "裏梅",
+          "profileURL": "https://jujutsukaisen.jp/character/",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6E1E1E"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    }
+  ]
+}

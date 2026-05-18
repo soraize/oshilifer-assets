@@ -183,6 +183,11 @@
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/volleyball.json"
       },
       {
+        "agencyId": "basketball",
+        "name": "バスケットボール",
+        "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/basketball.json"
+      },
+      {
         "agencyId": "golf",
         "name": "ゴルフ",
         "detailURL": "https://raw.githubusercontent.com/soraize/oshilifer-assets/main/data/golf.json"

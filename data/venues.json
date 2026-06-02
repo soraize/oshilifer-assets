@@ -781,24 +781,10 @@
     "capacityNote": "センチュリーホール客席数（参考）"
   },
   {
-    "address": "東京都大田区羽田空港1-1-4",
-    "aliases": [
-      "Zepp Haneda(TOKYO)",
-      "Zepp Haneda Tokyo"
-    ],
-    "lat": 35.5481,
-    "lng": 139.7554,
-    "name": "Zepp Haneda",
-    "prefecture": "東京都",
-    "venueId": "zepp_haneda",
-    "capacity": 2925,
-    "capacityType": "standing",
-    "capacityNote": "スタンディング最大（参考）"
-  },
-  {
     "address": "東京都大田区羽田空港1-1-4 HANEDA INNOVATION CITY ZONE H",
     "aliases": [
       "Zepp Haneda",
+      "Zepp Haneda(TOKYO)",
       "Zepp Haneda Tokyo"
     ],
     "lat": 35.548007,

@@ -5437,5 +5437,20 @@
     "name": "桜坂セントラル",
     "prefecture": "沖縄県",
     "venueId": "naha_cyber_box"
+  },
+  {
+    "address": "神奈川県横浜市中区新港1-1",
+    "aliases": [
+      "横浜赤レンガパーク",
+      "Yokohama Red Brick Park"
+    ],
+    "lat": 35.452782,
+    "lng": 139.642495,
+    "name": "赤レンガパーク",
+    "prefecture": "神奈川県",
+    "venueId": "yokohama_red_brick_park",
+    "capacity": null,
+    "capacityType": null,
+    "capacityNote": null
   }
 ]

@@ -6,26 +6,25 @@
   "drawingOrientation": "stageTop",
   "notes": [
     "Draft row-line schema for precise seat pinning.",
-    "Use nippon_budokan.editor.html first to adjust block polygons, then import polygons here.",
     "Each block owns row definitions with start/end seat numbers and line endpoints."
   ],
   "stage": {
     "polygon": [
       [
-        0.405,
-        0.34
+        0.364563,
+        0.343526
       ],
       [
-        0.595,
-        0.34
+        0.457801,
+        0.343324
       ],
       [
-        0.595,
-        0.41
+        0.45791,
+        0.408907
       ],
       [
-        0.405,
-        0.41
+        0.364768,
+        0.408893
       ]
     ]
   },
@@ -68,6 +67,20 @@
           0.442543
         ]
       ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "アリーナ",
+        "arena"
+      ],
       "rows": [
         {
           "row": "A",
@@ -111,10 +124,6 @@
             0.69
           ]
         }
-      ],
-      "aliases": [
-        "アリーナ",
-        "arena"
       ]
     },
     {
@@ -139,180 +148,147 @@
           0.336683
         ]
       ],
-      "rows": [
-        {
-          "row": "A",
-          "seatStart": 7,
-          "seatEnd": 42,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.361347,
-            0.331717
-          ],
-          "lineEnd": [
-            0.461498,
-            0.331526
-          ]
-        },
-        {
-          "row": "B",
-          "seatStart": 6,
-          "seatEnd": 43,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.358724,
-            0.324804
-          ],
-          "lineEnd": [
-            0.463942,
-            0.325087
-          ]
-        },
-        {
-          "row": "C",
-          "seatStart": 6,
-          "seatEnd": 43,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.358684,
-            0.318454
-          ],
-          "lineEnd": [
-            0.463661,
-            0.318415
-          ]
-        },
-        {
-          "row": "D",
-          "seatStart": 5,
-          "seatEnd": 44,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.356645,
-            0.312204
-          ],
-          "lineEnd": [
-            0.46616,
-            0.312084
-          ]
-        },
-        {
-          "row": "E",
-          "seatStart": 4,
-          "seatEnd": 45,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.353837,
-            0.305758
-          ],
-          "lineEnd": [
-            0.468662,
-            0.305984
-          ]
-        },
-        {
-          "row": "F",
-          "seatStart": 3,
-          "seatEnd": 46,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.351529,
-            0.299526
-          ],
-          "lineEnd": [
-            0.471439,
-            0.299142
-          ]
-        },
-        {
-          "row": "G",
-          "seatStart": 2,
-          "seatEnd": 47,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.349253,
-            0.29296
-          ],
-          "lineEnd": [
-            0.473112,
-            0.292824
-          ]
-        },
-        {
-          "row": "H",
-          "seatStart": 1,
-          "seatEnd": 48,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.347159,
-            0.286525
-          ],
-          "lineEnd": [
-            0.47557,
-            0.286521
-          ]
-        },
-        {
-          "row": "J",
-          "seatStart": 1,
-          "seatEnd": 48,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.347067,
-            0.279909
-          ],
-          "lineEnd": [
-            0.475478,
-            0.279905
-          ]
-        },
-        {
-          "row": "K",
-          "seatStart": 7,
-          "seatEnd": 20,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.39528,
-            0.266171
-          ],
-          "lineEnd": [
-            0.427575,
-            0.266277
-          ]
-        },
-        {
-          "row": "K",
-          "seatStart": 21,
-          "seatEnd": 26,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.357612,
-            0.266385
-          ],
-          "lineEnd": [
-            0.373087,
-            0.266345
-          ]
-        },
-        {
-          "row": "K",
-          "seatStart": 1,
-          "seatEnd": 6,
-          "seatOrder": "rightToLeft",
-          "lineStart": [
-            0.450498,
-            0.266596
-          ],
-          "lineEnd": [
-            0.465503,
-            0.266438
-          ]
-        }
+      "rowRange": [
+        1,
+        20
       ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
         "北",
         "N",
         "north"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 100,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.38,
+            0.285
+          ],
+          "lineEnd": [
+            0.62,
+            0.285
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 100,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.38,
+            0.32
+          ],
+          "lineEnd": [
+            0.62,
+            0.32
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 100,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.38,
+            0.355
+          ],
+          "lineEnd": [
+            0.62,
+            0.355
+          ]
+        }
+      ]
+    },
+    {
+      "id": "level1_northeast",
+      "label": "1階 北東",
+      "level": "1",
+      "polygon": [
+        [
+          0.485593,
+          0.259734
+        ],
+        [
+          0.592147,
+          0.410863
+        ],
+        [
+          0.5375,
+          0.440784
+        ],
+        [
+          0.464284,
+          0.337283
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "北東",
+        "NE",
+        "northeast",
+        "north east"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.487299,
+            0.304997
+          ],
+          "lineEnd": [
+            0.569132,
+            0.304997
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.487299,
+            0.350259
+          ],
+          "lineEnd": [
+            0.569132,
+            0.350259
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.487299,
+            0.395522
+          ],
+          "lineEnd": [
+            0.569132,
+            0.395522
+          ]
+        }
       ]
     },
     {
@@ -336,6 +312,21 @@
           0.537107,
           0.588214
         ]
+      ],
+      "rowRange": [
+        1,
+        40
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "東",
+        "E",
+        "east"
       ],
       "rows": [
         {
@@ -380,11 +371,89 @@
             0.645
           ]
         }
+      ]
+    },
+    {
+      "id": "level1_southeast",
+      "label": "1階 南東",
+      "level": "1",
+      "polygon": [
+        [
+          0.537107,
+          0.588214
+        ],
+        [
+          0.592152,
+          0.62112
+        ],
+        [
+          0.486244,
+          0.770041
+        ],
+        [
+          0.463679,
+          0.692339
+        ]
       ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
-        "東",
-        "E",
-        "east"
+        "南東",
+        "SE",
+        "southeast",
+        "south east"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.486804,
+            0.633671
+          ],
+          "lineEnd": [
+            0.569027,
+            0.633671
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.486804,
+            0.679127
+          ],
+          "lineEnd": [
+            0.569027,
+            0.679127
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.486804,
+            0.724584
+          ],
+          "lineEnd": [
+            0.569027,
+            0.724584
+          ]
+        }
       ]
     },
     {
@@ -409,54 +478,301 @@
           0.770235
         ]
       ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "南",
+        "S",
+        "south"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 7,
+          "seatEnd": 42,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.361492,
+            0.697968
+          ],
+          "lineEnd": [
+            0.462174,
+            0.69824
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 6,
+          "seatEnd": 43,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.358746,
+            0.704666
+          ],
+          "lineEnd": [
+            0.464011,
+            0.704605
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 6,
+          "seatEnd": 43,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.358785,
+            0.711186
+          ],
+          "lineEnd": [
+            0.464237,
+            0.710995
+          ]
+        },
+        {
+          "row": "D",
+          "seatStart": 5,
+          "seatEnd": 44,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.356944,
+            0.717169
+          ],
+          "lineEnd": [
+            0.466711,
+            0.717214
+          ]
+        },
+        {
+          "row": "E",
+          "seatStart": 4,
+          "seatEnd": 45,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.354117,
+            0.723793
+          ],
+          "lineEnd": [
+            0.468764,
+            0.723844
+          ]
+        },
+        {
+          "row": "F",
+          "seatStart": 3,
+          "seatEnd": 46,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.352302,
+            0.730127
+          ],
+          "lineEnd": [
+            0.471308,
+            0.730294
+          ]
+        },
+        {
+          "row": "G",
+          "seatStart": 2,
+          "seatEnd": 12,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.34939,
+            0.73671
+          ],
+          "lineEnd": [
+            0.376165,
+            0.736753
+          ]
+        },
+        {
+          "row": "G",
+          "seatStart": 37,
+          "seatEnd": 47,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.447066,
+            0.736713
+          ],
+          "lineEnd": [
+            0.473841,
+            0.736756
+          ]
+        },
+        {
+          "row": "H",
+          "seatStart": 1,
+          "seatEnd": 12,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.347181,
+            0.743043
+          ],
+          "lineEnd": [
+            0.376239,
+            0.742989
+          ]
+        },
+        {
+          "row": "H",
+          "seatStart": 37,
+          "seatEnd": 48,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.44716,
+            0.742997
+          ],
+          "lineEnd": [
+            0.476113,
+            0.743348
+          ]
+        },
+        {
+          "row": "J",
+          "seatStart": 1,
+          "seatEnd": 12,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.347125,
+            0.749505
+          ],
+          "lineEnd": [
+            0.376183,
+            0.749451
+          ]
+        },
+        {
+          "row": "J",
+          "seatStart": 37,
+          "seatEnd": 48,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.447216,
+            0.749407
+          ],
+          "lineEnd": [
+            0.476169,
+            0.749758
+          ]
+        },
+        {
+          "row": "K",
+          "seatStart": 1,
+          "seatEnd": 6,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.357741,
+            0.763268
+          ],
+          "lineEnd": [
+            0.372661,
+            0.763122
+          ]
+        },
+        {
+          "row": "L",
+          "seatStart": 7,
+          "seatEnd": 12,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.450085,
+            0.763299
+          ],
+          "lineEnd": [
+            0.465005,
+            0.763153
+          ]
+        }
+      ]
+    },
+    {
+      "id": "level1_southwest",
+      "label": "1階 南西",
+      "level": "1",
+      "polygon": [
+        [
+          0.359608,
+          0.692421
+        ],
+        [
+          0.336271,
+          0.770235
+        ],
+        [
+          0.231122,
+          0.619801
+        ],
+        [
+          0.285905,
+          0.58712
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "南西",
+        "SW",
+        "southwest",
+        "south west"
+      ],
       "rows": [
         {
           "row": "A",
           "seatStart": 1,
-          "seatEnd": 100,
+          "seatEnd": 80,
           "seatOrder": "leftToRight",
           "lineStart": [
-            0.38,
-            0.735
+            0.254249,
+            0.632899
           ],
           "lineEnd": [
-            0.62,
-            0.735
+            0.336481,
+            0.632899
           ]
         },
         {
           "row": "B",
           "seatStart": 1,
-          "seatEnd": 100,
+          "seatEnd": 80,
           "seatOrder": "leftToRight",
           "lineStart": [
-            0.38,
-            0.77
+            0.254249,
+            0.678678
           ],
           "lineEnd": [
-            0.62,
-            0.77
+            0.336481,
+            0.678678
           ]
         },
         {
           "row": "C",
           "seatStart": 1,
-          "seatEnd": 100,
+          "seatEnd": 80,
           "seatOrder": "leftToRight",
           "lineStart": [
-            0.38,
-            0.805
+            0.254249,
+            0.724456
           ],
           "lineEnd": [
-            0.62,
-            0.805
+            0.336481,
+            0.724456
           ]
         }
-      ],
-      "aliases": [
-        "南",
-        "S",
-        "south"
       ]
     },
     {
@@ -480,6 +796,21 @@
           0.231122,
           0.619801
         ]
+      ],
+      "rowRange": [
+        1,
+        40
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "西",
+        "W",
+        "west"
       ],
       "rows": [
         {
@@ -524,11 +855,89 @@
             0.68
           ]
         }
+      ]
+    },
+    {
+      "id": "level1_northwest",
+      "label": "1階 北西",
+      "level": "1",
+      "polygon": [
+        [
+          0.23101,
+          0.409472
+        ],
+        [
+          0.336794,
+          0.259572
+        ],
+        [
+          0.359239,
+          0.336683
+        ],
+        [
+          0.286388,
+          0.441361
+        ]
       ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
-        "西",
-        "W",
-        "west"
+        "北西",
+        "NW",
+        "northwest",
+        "north west"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.254091,
+            0.305019
+          ],
+          "lineEnd": [
+            0.336158,
+            0.305019
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.254091,
+            0.350467
+          ],
+          "lineEnd": [
+            0.336158,
+            0.350467
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.254091,
+            0.395914
+          ],
+          "lineEnd": [
+            0.336158,
+            0.395914
+          ]
+        }
       ]
     },
     {
@@ -552,6 +961,21 @@
           0.336806,
           0.258747
         ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "北",
+        "N",
+        "north"
       ],
       "rows": [
         {
@@ -596,11 +1020,88 @@
             0.255
           ]
         }
+      ]
+    },
+    {
+      "id": "level2_northeast",
+      "label": "2階 北東",
+      "level": "2",
+      "polygon": [
+        [
+          0.546727,
+          0.053293
+        ],
+        [
+          0.737182,
+          0.322504
+        ],
+        [
+          0.593112,
+          0.40879
+        ],
+        [
+          0.486904,
+          0.259057
+        ]
       ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
         "北",
         "N",
         "north"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.531954,
+            0.142167
+          ],
+          "lineEnd": [
+            0.692132,
+            0.142167
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.531954,
+            0.231042
+          ],
+          "lineEnd": [
+            0.692132,
+            0.231042
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.531954,
+            0.319916
+          ],
+          "lineEnd": [
+            0.692132,
+            0.319916
+          ]
+        }
       ]
     },
     {
@@ -624,6 +1125,21 @@
           0.594397,
           0.620467
         ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "東",
+        "E",
+        "east"
       ],
       "rows": [
         {
@@ -668,11 +1184,88 @@
             0.675
           ]
         }
+      ]
+    },
+    {
+      "id": "level2_southeast",
+      "label": "2階 南東",
+      "level": "2",
+      "polygon": [
+        [
+          0.737089,
+          0.706117
+        ],
+        [
+          0.545924,
+          0.975828
+        ],
+        [
+          0.487194,
+          0.771524
+        ],
+        [
+          0.593301,
+          0.620599
+        ]
       ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
         "東",
         "E",
         "east"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.532175,
+            0.709406
+          ],
+          "lineEnd": [
+            0.692108,
+            0.709406
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.532175,
+            0.798214
+          ],
+          "lineEnd": [
+            0.692108,
+            0.798214
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.532175,
+            0.887021
+          ],
+          "lineEnd": [
+            0.692108,
+            0.887021
+          ]
+        }
       ]
     },
     {
@@ -696,6 +1289,21 @@
           0.27638,
           0.976326
         ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "南",
+        "S",
+        "south"
       ],
       "rows": [
         {
@@ -740,11 +1348,88 @@
             0.885
           ]
         }
+      ]
+    },
+    {
+      "id": "level2_southwest",
+      "label": "2階 南西",
+      "level": "2",
+      "polygon": [
+        [
+          0.336599,
+          0.770657
+        ],
+        [
+          0.276545,
+          0.976517
+        ],
+        [
+          0.085666,
+          0.705643
+        ],
+        [
+          0.230919,
+          0.620952
+        ]
       ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
         "南",
         "S",
         "south"
+      ],
+      "rows": [
+        {
+          "row": "A",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.130834,
+            0.709843
+          ],
+          "lineEnd": [
+            0.291431,
+            0.709843
+          ]
+        },
+        {
+          "row": "B",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.130834,
+            0.798734
+          ],
+          "lineEnd": [
+            0.291431,
+            0.798734
+          ]
+        },
+        {
+          "row": "C",
+          "seatStart": 1,
+          "seatEnd": 80,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.130834,
+            0.887626
+          ],
+          "lineEnd": [
+            0.291431,
+            0.887626
+          ]
+        }
       ]
     },
     {
@@ -768,6 +1453,21 @@
           0.085198,
           0.705824
         ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "aliases": [
+        "西",
+        "W",
+        "west"
       ],
       "rows": [
         {
@@ -812,315 +1512,88 @@
             0.71
           ]
         }
-      ],
-      "aliases": [
-        "西",
-        "W",
-        "west"
       ]
     },
     {
-      "id": "level3_north",
-      "label": "3階 北",
-      "level": "3",
+      "id": "level2_northwest",
+      "label": "2階 北西",
+      "level": "2",
       "polygon": [
         [
-          0.24,
-          0.1
+          0.084997,
+          0.324395
         ],
         [
-          0.76,
-          0.1
+          0.276805,
+          0.052591
         ],
         [
-          0.76,
-          0.18
+          0.336395,
+          0.258457
         ],
         [
-          0.24,
-          0.18
+          0.230283,
+          0.408982
         ]
       ],
-      "rows": [
-        {
-          "row": "A",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.27,
-            0.115
-          ],
-          "lineEnd": [
-            0.73,
-            0.115
-          ]
-        },
-        {
-          "row": "B",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.27,
-            0.14
-          ],
-          "lineEnd": [
-            0.73,
-            0.14
-          ]
-        },
-        {
-          "row": "C",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.27,
-            0.165
-          ],
-          "lineEnd": [
-            0.73,
-            0.165
-          ]
-        }
+      "rowRange": [
+        1,
+        60
       ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
       "aliases": [
         "北",
         "N",
         "north"
-      ]
-    },
-    {
-      "id": "level3_east",
-      "label": "3階 東",
-      "level": "3",
-      "polygon": [
-        [
-          0.89,
-          0.31
-        ],
-        [
-          0.97,
-          0.37
-        ],
-        [
-          0.97,
-          0.73
-        ],
-        [
-          0.89,
-          0.79
-        ],
-        [
-          0.86,
-          0.72
-        ],
-        [
-          0.86,
-          0.38
-        ]
       ],
       "rows": [
         {
           "row": "A",
           "seatStart": 1,
-          "seatEnd": 140,
+          "seatEnd": 80,
           "seatOrder": "leftToRight",
           "lineStart": [
-            0.895,
-            0.365
+            0.130249,
+            0.141689
           ],
           "lineEnd": [
-            0.945,
-            0.405
+            0.291143,
+            0.141689
           ]
         },
         {
           "row": "B",
           "seatStart": 1,
-          "seatEnd": 140,
+          "seatEnd": 80,
           "seatOrder": "leftToRight",
           "lineStart": [
-            0.875,
-            0.55
+            0.130249,
+            0.230787
           ],
           "lineEnd": [
-            0.955,
-            0.55
+            0.291143,
+            0.230787
           ]
         },
         {
           "row": "C",
           "seatStart": 1,
-          "seatEnd": 140,
+          "seatEnd": 80,
           "seatOrder": "leftToRight",
           "lineStart": [
-            0.895,
-            0.735
+            0.130249,
+            0.319884
           ],
           "lineEnd": [
-            0.945,
-            0.695
+            0.291143,
+            0.319884
           ]
         }
-      ],
-      "aliases": [
-        "東",
-        "E",
-        "east"
-      ]
-    },
-    {
-      "id": "level3_south",
-      "label": "3階 南",
-      "level": "3",
-      "polygon": [
-        [
-          0.24,
-          0.9
-        ],
-        [
-          0.76,
-          0.9
-        ],
-        [
-          0.76,
-          0.98
-        ],
-        [
-          0.24,
-          0.98
-        ]
-      ],
-      "rows": [
-        {
-          "row": "A",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.27,
-            0.915
-          ],
-          "lineEnd": [
-            0.73,
-            0.915
-          ]
-        },
-        {
-          "row": "B",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.27,
-            0.94
-          ],
-          "lineEnd": [
-            0.73,
-            0.94
-          ]
-        },
-        {
-          "row": "C",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.27,
-            0.965
-          ],
-          "lineEnd": [
-            0.73,
-            0.965
-          ]
-        }
-      ],
-      "aliases": [
-        "南",
-        "S",
-        "south"
-      ]
-    },
-    {
-      "id": "level3_west",
-      "label": "3階 西",
-      "level": "3",
-      "polygon": [
-        [
-          0.03,
-          0.37
-        ],
-        [
-          0.11,
-          0.31
-        ],
-        [
-          0.14,
-          0.38
-        ],
-        [
-          0.14,
-          0.72
-        ],
-        [
-          0.11,
-          0.79
-        ],
-        [
-          0.03,
-          0.73
-        ]
-      ],
-      "rows": [
-        {
-          "row": "A",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.055,
-            0.405
-          ],
-          "lineEnd": [
-            0.105,
-            0.365
-          ]
-        },
-        {
-          "row": "B",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.045,
-            0.55
-          ],
-          "lineEnd": [
-            0.125,
-            0.55
-          ]
-        },
-        {
-          "row": "C",
-          "seatStart": 1,
-          "seatEnd": 140,
-          "seatOrder": "leftToRight",
-          "lineStart": [
-            0.055,
-            0.695
-          ],
-          "lineEnd": [
-            0.105,
-            0.735
-          ]
-        }
-      ],
-      "aliases": [
-        "西",
-        "W",
-        "west"
       ]
     }
   ]

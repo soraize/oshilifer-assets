@@ -1,0 +1,479 @@
+{
+  "schemaVersion": 1,
+  "venueId": "nippon_budokan",
+  "name": "日本武道館",
+  "coordinateSpace": "normalized",
+  "drawingOrientation": "stageTop",
+  "notes": [
+    "Initial rough template based on the official Nippon Budokan seating PDF.",
+    "Source: https://www.nipponbudokan.or.jp/pdf/about/2007.pdf",
+    "This version prioritizes broad arena and directional stand areas. Row-level precision can be added later."
+  ],
+  "stage": {
+    "polygon": [
+      [
+        0.405,
+        0.34
+      ],
+      [
+        0.595,
+        0.34
+      ],
+      [
+        0.595,
+        0.41
+      ],
+      [
+        0.405,
+        0.41
+      ]
+    ]
+  },
+  "blocks": [
+    {
+      "id": "arena",
+      "label": "アリーナ",
+      "level": "1",
+      "polygon": [
+        [
+          0.30,
+          0.43
+        ],
+        [
+          0.70,
+          0.43
+        ],
+        [
+          0.70,
+          0.70
+        ],
+        [
+          0.30,
+          0.70
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level1_north",
+      "label": "1階 北",
+      "level": "1",
+      "polygon": [
+        [
+          0.36,
+          0.27
+        ],
+        [
+          0.64,
+          0.27
+        ],
+        [
+          0.64,
+          0.37
+        ],
+        [
+          0.36,
+          0.37
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level1_east",
+      "label": "1階 東",
+      "level": "1",
+      "polygon": [
+        [
+          0.69,
+          0.38
+        ],
+        [
+          0.80,
+          0.43
+        ],
+        [
+          0.80,
+          0.67
+        ],
+        [
+          0.69,
+          0.72
+        ],
+        [
+          0.66,
+          0.65
+        ],
+        [
+          0.66,
+          0.45
+        ]
+      ],
+      "rowRange": [
+        1,
+        40
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level1_south",
+      "label": "1階 南",
+      "level": "1",
+      "polygon": [
+        [
+          0.36,
+          0.72
+        ],
+        [
+          0.64,
+          0.72
+        ],
+        [
+          0.64,
+          0.82
+        ],
+        [
+          0.36,
+          0.82
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level1_west",
+      "label": "1階 西",
+      "level": "1",
+      "polygon": [
+        [
+          0.20,
+          0.43
+        ],
+        [
+          0.31,
+          0.38
+        ],
+        [
+          0.34,
+          0.45
+        ],
+        [
+          0.34,
+          0.65
+        ],
+        [
+          0.31,
+          0.72
+        ],
+        [
+          0.20,
+          0.67
+        ]
+      ],
+      "rowRange": [
+        1,
+        40
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_north",
+      "label": "2階 北",
+      "level": "2",
+      "polygon": [
+        [
+          0.30,
+          0.08
+        ],
+        [
+          0.70,
+          0.08
+        ],
+        [
+          0.64,
+          0.25
+        ],
+        [
+          0.36,
+          0.25
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_northeast",
+      "label": "2階 北東",
+      "level": "2",
+      "polygon": [
+        [
+          0.72,
+          0.10
+        ],
+        [
+          0.90,
+          0.28
+        ],
+        [
+          0.82,
+          0.43
+        ],
+        [
+          0.66,
+          0.32
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_east",
+      "label": "2階 東",
+      "level": "2",
+      "polygon": [
+        [
+          0.82,
+          0.35
+        ],
+        [
+          0.94,
+          0.40
+        ],
+        [
+          0.94,
+          0.62
+        ],
+        [
+          0.82,
+          0.67
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_southeast",
+      "label": "2階 南東",
+      "level": "2",
+      "polygon": [
+        [
+          0.82,
+          0.67
+        ],
+        [
+          0.90,
+          0.82
+        ],
+        [
+          0.72,
+          0.95
+        ],
+        [
+          0.66,
+          0.73
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_south",
+      "label": "2階 南",
+      "level": "2",
+      "polygon": [
+        [
+          0.36,
+          0.84
+        ],
+        [
+          0.64,
+          0.84
+        ],
+        [
+          0.70,
+          0.97
+        ],
+        [
+          0.30,
+          0.97
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_southwest",
+      "label": "2階 南西",
+      "level": "2",
+      "polygon": [
+        [
+          0.34,
+          0.73
+        ],
+        [
+          0.28,
+          0.95
+        ],
+        [
+          0.10,
+          0.82
+        ],
+        [
+          0.18,
+          0.67
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_west",
+      "label": "2階 西",
+      "level": "2",
+      "polygon": [
+        [
+          0.06,
+          0.40
+        ],
+        [
+          0.18,
+          0.35
+        ],
+        [
+          0.18,
+          0.67
+        ],
+        [
+          0.06,
+          0.62
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    },
+    {
+      "id": "level2_northwest",
+      "label": "2階 北西",
+      "level": "2",
+      "polygon": [
+        [
+          0.10,
+          0.28
+        ],
+        [
+          0.28,
+          0.10
+        ],
+        [
+          0.34,
+          0.32
+        ],
+        [
+          0.18,
+          0.43
+        ]
+      ],
+      "rowRange": [
+        1,
+        60
+      ],
+      "seatRange": [
+        1,
+        100
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight"
+    }
+  ]
+}

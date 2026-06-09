@@ -299,7 +299,10 @@
     "venueId": "k_arena_yokohama",
     "capacity": 20033,
     "capacityType": "seated",
-    "capacityNote": "全席指定時（参考）"
+    "capacityNote": "全席指定時（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "神奈川県横浜市港北区新横浜3-10",

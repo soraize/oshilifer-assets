@@ -377,7 +377,10 @@
     "venueId": "nippon_budokan",
     "capacity": 14471,
     "capacityType": "max",
-    "capacityNote": "最大席数（参考）"
+    "capacityNote": "最大席数（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "東京都渋谷区神南2-1-1",

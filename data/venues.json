@@ -53,7 +53,9 @@
     "name": "東京ドーム",
     "prefecture": "東京都",
     "venueId": "tokyo_dome",
-    "supportsSeatMap": true,
+    "seatMap": {
+      "enabled": true
+    },
     "capacity": 55000,
     "capacityType": "max",
     "capacityNote": "最大収容人数（参考）"

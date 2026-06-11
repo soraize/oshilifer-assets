@@ -2974,16 +2974,44 @@
           0.595133
         ],
         [
-          0.45395,
-          0.584551
+          0.477725,
+          0.592469
         ],
         [
-          0.428456,
-          0.564705
+          0.475922,
+          0.600113
         ],
         [
-          0.39205,
-          0.528891
+          0.461593,
+          0.595347
+        ],
+        [
+          0.449198,
+          0.589687
+        ],
+        [
+          0.437329,
+          0.58139
+        ],
+        [
+          0.425254,
+          0.570538
+        ],
+        [
+          0.41246,
+          0.558649
+        ],
+        [
+          0.400634,
+          0.54652
+        ],
+        [
+          0.387569,
+          0.531136
+        ],
+        [
+          0.390686,
+          0.52797
         ],
         [
           0.350755,
@@ -3126,7 +3154,1548 @@
         "3塁側",
         "third base"
       ],
-      "seatZones": []
+      "seatZones": [
+        {
+          "id": "stand_1f_third_base_zone_1",
+          "label": "A26",
+          "rowRange": [
+            1,
+            26
+          ],
+          "seatRange": [
+            21,
+            40
+          ],
+          "polygon": [
+            [
+              0.479028,
+              0.594691
+            ],
+            [
+              0.489156,
+              0.596964
+            ],
+            [
+              0.484556,
+              0.663745
+            ],
+            [
+              0.466275,
+              0.660191
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2",
+          "label": "A27",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            41,
+            60
+          ],
+          "polygon": [
+            [
+              0.46314,
+              0.598054
+            ],
+            [
+              0.472716,
+              0.601007
+            ],
+            [
+              0.461866,
+              0.659021
+            ],
+            [
+              0.445525,
+              0.654074
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy",
+          "label": "A28",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            61,
+            80
+          ],
+          "polygon": [
+            [
+              0.450535,
+              0.59261
+            ],
+            [
+              0.458753,
+              0.596097
+            ],
+            [
+              0.440977,
+              0.652601
+            ],
+            [
+              0.423298,
+              0.64499
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy",
+          "label": "A29",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            81,
+            100
+          ],
+          "polygon": [
+            [
+              0.437651,
+              0.584456
+            ],
+            [
+              0.446453,
+              0.590008
+            ],
+            [
+              0.419347,
+              0.642285
+            ],
+            [
+              0.404392,
+              0.632326
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy",
+          "label": "A30",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            101,
+            120
+          ],
+          "polygon": [
+            [
+              0.425803,
+              0.573234
+            ],
+            [
+              0.43427,
+              0.580776
+            ],
+            [
+              0.40063,
+              0.62911
+            ],
+            [
+              0.387439,
+              0.617624
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy",
+          "label": "A31",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            121,
+            140
+          ],
+          "polygon": [
+            [
+              0.413326,
+              0.561246
+            ],
+            [
+              0.42238,
+              0.570157
+            ],
+            [
+              0.38405,
+              0.614104
+            ],
+            [
+              0.371283,
+              0.602866
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy",
+          "label": "A32",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            141,
+            160
+          ],
+          "polygon": [
+            [
+              0.400567,
+              0.549139
+            ],
+            [
+              0.409455,
+              0.557935
+            ],
+            [
+              0.368093,
+              0.599176
+            ],
+            [
+              0.356737,
+              0.58763
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy",
+          "label": "A33",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            161,
+            180
+          ],
+          "polygon": [
+            [
+              0.387256,
+              0.534127
+            ],
+            [
+              0.397128,
+              0.545538
+            ],
+            [
+              0.353101,
+              0.584051
+            ],
+            [
+              0.341575,
+              0.571725
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A34",
+          "rowRange": [
+            3,
+            26
+          ],
+          "seatRange": [
+            181,
+            200
+          ],
+          "polygon": [
+            [
+              0.376034,
+              0.51688
+            ],
+            [
+              0.386321,
+              0.528641
+            ],
+            [
+              0.338443,
+              0.56853
+            ],
+            [
+              0.32774,
+              0.55572
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A35",
+          "rowRange": [
+            3,
+            26
+          ],
+          "seatRange": [
+            201,
+            220
+          ],
+          "polygon": [
+            [
+              0.362739,
+              0.501332
+            ],
+            [
+              0.372971,
+              0.513039
+            ],
+            [
+              0.324181,
+              0.552137
+            ],
+            [
+              0.313424,
+              0.538633
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A36",
+          "rowRange": [
+            3,
+            26
+          ],
+          "seatRange": [
+            221,
+            240
+          ],
+          "polygon": [
+            [
+              0.350098,
+              0.486585
+            ],
+            [
+              0.359194,
+              0.497783
+            ],
+            [
+              0.310277,
+              0.534644
+            ],
+            [
+              0.300683,
+              0.522037
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A37",
+          "rowRange": [
+            1,
+            26
+          ],
+          "seatRange": [
+            241,
+            260
+          ],
+          "polygon": [
+            [
+              0.342671,
+              0.468324
+            ],
+            [
+              0.351294,
+              0.479558
+            ],
+            [
+              0.297075,
+              0.518448
+            ],
+            [
+              0.287894,
+              0.5064
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A38",
+          "rowRange": [
+            1,
+            26
+          ],
+          "seatRange": [
+            261,
+            280
+          ],
+          "polygon": [
+            [
+              0.330566,
+              0.452799
+            ],
+            [
+              0.339433,
+              0.464146
+            ],
+            [
+              0.284425,
+              0.502306
+            ],
+            [
+              0.274373,
+              0.488956
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A39",
+          "rowRange": [
+            1,
+            26
+          ],
+          "seatRange": [
+            281,
+            300
+          ],
+          "polygon": [
+            [
+              0.318252,
+              0.436495
+            ],
+            [
+              0.327406,
+              0.448802
+            ],
+            [
+              0.271277,
+              0.485315
+            ],
+            [
+              0.261376,
+              0.472247
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A40",
+          "rowRange": [
+            1,
+            26
+          ],
+          "seatRange": [
+            301,
+            320
+          ],
+          "polygon": [
+            [
+              0.307864,
+              0.421754
+            ],
+            [
+              0.315365,
+              0.432481
+            ],
+            [
+              0.259048,
+              0.468789
+            ],
+            [
+              0.249736,
+              0.454459
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A41",
+          "rowRange": [
+            1,
+            26
+          ],
+          "seatRange": [
+            321,
+            340
+          ],
+          "polygon": [
+            [
+              0.302227,
+              0.412505
+            ],
+            [
+              0.305397,
+              0.417567
+            ],
+            [
+              0.247124,
+              0.449906
+            ],
+            [
+              0.23862,
+              0.434716
+            ],
+            [
+              0.296033,
+              0.406289
+            ],
+            [
+              0.300217,
+              0.413763
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A42",
+          "rowRange": [
+            2,
+            26
+          ],
+          "seatRange": [
+            341,
+            360
+          ],
+          "polygon": [
+            [
+              0.289936,
+              0.394205
+            ],
+            [
+              0.293714,
+              0.402404
+            ],
+            [
+              0.236709,
+              0.430418
+            ],
+            [
+              0.229216,
+              0.415108
+            ],
+            [
+              0.286203,
+              0.392337
+            ],
+            [
+              0.287961,
+              0.39517
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A43",
+          "rowRange": [
+            3,
+            26
+          ],
+          "seatRange": [
+            361,
+            380
+          ],
+          "polygon": [
+            [
+              0.2795,
+              0.375725
+            ],
+            [
+              0.284572,
+              0.387703
+            ],
+            [
+              0.227864,
+              0.410706
+            ],
+            [
+              0.220894,
+              0.393099
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A44",
+          "rowRange": [
+            4,
+            26
+          ],
+          "seatRange": [
+            381,
+            400
+          ],
+          "polygon": [
+            [
+              0.273418,
+              0.365257
+            ],
+            [
+              0.275306,
+              0.371571
+            ],
+            [
+              0.219414,
+              0.388355
+            ],
+            [
+              0.2147,
+              0.372093
+            ],
+            [
+              0.26904,
+              0.359529
+            ],
+            [
+              0.271572,
+              0.365961
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A45",
+          "rowRange": [
+            6,
+            26
+          ],
+          "seatRange": [
+            401,
+            420
+          ],
+          "polygon": [
+            [
+              0.263641,
+              0.348854
+            ],
+            [
+              0.265371,
+              0.354904
+            ],
+            [
+              0.213198,
+              0.366913
+            ],
+            [
+              0.209473,
+              0.350703
+            ],
+            [
+              0.259858,
+              0.342376
+            ],
+            [
+              0.261619,
+              0.349569
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A46",
+          "rowRange": [
+            8,
+            26
+          ],
+          "seatRange": [
+            421,
+            440
+          ],
+          "polygon": [
+            [
+              0.255283,
+              0.332203
+            ],
+            [
+              0.256025,
+              0.337654
+            ],
+            [
+              0.208666,
+              0.345801
+            ],
+            [
+              0.206535,
+              0.329784
+            ],
+            [
+              0.2515,
+              0.325725
+            ],
+            [
+              0.2526,
+              0.332365
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A47",
+          "rowRange": [
+            10,
+            26
+          ],
+          "seatRange": [
+            441,
+            460
+          ],
+          "polygon": [
+            [
+              0.248027,
+              0.316638
+            ],
+            [
+              0.248812,
+              0.320817
+            ],
+            [
+              0.205981,
+              0.324744
+            ],
+            [
+              0.20519,
+              0.30848
+            ],
+            [
+              0.242703,
+              0.308058
+            ],
+            [
+              0.242882,
+              0.312993
+            ],
+            [
+              0.245666,
+              0.313117
+            ],
+            [
+              0.24589,
+              0.315881
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_2_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "A48",
+          "rowRange": [
+            14,
+            26
+          ],
+          "seatRange": [
+            461,
+            480
+          ],
+          "polygon": [
+            [
+              0.237772,
+              0.289631
+            ],
+            [
+              0.237753,
+              0.302722
+            ],
+            [
+              0.205153,
+              0.303157
+            ],
+            [
+              0.204935,
+              0.287381
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24",
+          "label": "B26",
+          "rowRange": [
+            27,
+            39
+          ],
+          "seatRange": [
+            21,
+            40
+          ],
+          "polygon": [
+            [
+              0.46924,
+              0.667191
+            ],
+            [
+              0.483648,
+              0.669712
+            ],
+            [
+              0.481171,
+              0.706295
+            ],
+            [
+              0.453966,
+              0.7013
+            ],
+            [
+              0.455682,
+              0.690792
+            ],
+            [
+              0.465423,
+              0.692507
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy",
+          "label": "B27",
+          "rowRange": [
+            27,
+            39
+          ],
+          "seatRange": [
+            41,
+            60
+          ],
+          "polygon": [
+            [
+              0.443771,
+              0.660141
+            ],
+            [
+              0.456817,
+              0.663894
+            ],
+            [
+              0.449926,
+              0.699774
+            ],
+            [
+              0.432953,
+              0.69494
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy",
+          "label": "B28",
+          "rowRange": [
+            27,
+            44
+          ],
+          "seatRange": [
+            61,
+            80
+          ],
+          "polygon": [
+            [
+              0.420447,
+              0.649936
+            ],
+            [
+              0.439287,
+              0.658137
+            ],
+            [
+              0.423821,
+              0.70636
+            ],
+            [
+              0.397413,
+              0.694267
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy",
+          "label": "B29",
+          "rowRange": [
+            27,
+            45
+          ],
+          "seatRange": [
+            81,
+            100
+          ],
+          "polygon": [
+            [
+              0.404117,
+              0.639361
+            ],
+            [
+              0.416314,
+              0.64723
+            ],
+            [
+              0.391877,
+              0.693985
+            ],
+            [
+              0.370431,
+              0.680753
+            ],
+            [
+              0.384907,
+              0.660568
+            ],
+            [
+              0.389115,
+              0.662955
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy",
+          "label": "B30",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            101,
+            120
+          ],
+          "polygon": [
+            [
+              0.383633,
+              0.621505
+            ],
+            [
+              0.393909,
+              0.630903
+            ],
+            [
+              0.376599,
+              0.653235
+            ],
+            [
+              0.381455,
+              0.657088
+            ],
+            [
+              0.366524,
+              0.677712
+            ],
+            [
+              0.357986,
+              0.670729
+            ],
+            [
+              0.354409,
+              0.674906
+            ],
+            [
+              0.344348,
+              0.666642
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy",
+          "label": "B31",
+          "rowRange": [
+            27,
+            35
+          ],
+          "seatRange": [
+            121,
+            140
+          ],
+          "polygon": [
+            [
+              0.367441,
+              0.606764
+            ],
+            [
+              0.380026,
+              0.618466
+            ],
+            [
+              0.363382,
+              0.637098
+            ],
+            [
+              0.349505,
+              0.624132
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy",
+          "label": "B32",
+          "rowRange": [
+            27,
+            35
+          ],
+          "seatRange": [
+            141,
+            160
+          ],
+          "polygon": [
+            [
+              0.355603,
+              0.594779
+            ],
+            [
+              0.363586,
+              0.603249
+            ],
+            [
+              0.345927,
+              0.620565
+            ],
+            [
+              0.336951,
+              0.610919
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B33",
+          "rowRange": [
+            27,
+            35
+          ],
+          "seatRange": [
+            161,
+            180
+          ],
+          "polygon": [
+            [
+              0.337032,
+              0.575339
+            ],
+            [
+              0.345631,
+              0.584097
+            ],
+            [
+              0.326959,
+              0.600692
+            ],
+            [
+              0.31838,
+              0.591479
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B34",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            181,
+            200
+          ],
+          "polygon": [
+            [
+              0.32337,
+              0.559274
+            ],
+            [
+              0.334693,
+              0.572059
+            ],
+            [
+              0.288529,
+              0.609341
+            ],
+            [
+              0.277074,
+              0.596313
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B35",
+          "rowRange": [
+            27,
+            39
+          ],
+          "seatRange": [
+            201,
+            220
+          ],
+          "polygon": [
+            [
+              0.312232,
+              0.545939
+            ],
+            [
+              0.320203,
+              0.55536
+            ],
+            [
+              0.292086,
+              0.578078
+            ],
+            [
+              0.280215,
+              0.564079
+            ],
+            [
+              0.286525,
+              0.559412
+            ],
+            [
+              0.289742,
+              0.563149
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B36",
+          "rowRange": [
+            27,
+            38
+          ],
+          "seatRange": [
+            221,
+            240
+          ],
+          "polygon": [
+            [
+              0.295219,
+              0.525223
+            ],
+            [
+              0.30319,
+              0.534644
+            ],
+            [
+              0.28005,
+              0.551301
+            ],
+            [
+              0.28318,
+              0.555129
+            ],
+            [
+              0.279132,
+              0.558539
+            ],
+            [
+              0.268304,
+              0.545132
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B37",
+          "rowRange": [
+            27,
+            38
+          ],
+          "seatRange": [
+            241,
+            260
+          ],
+          "polygon": [
+            [
+              0.282767,
+              0.50939
+            ],
+            [
+              0.292498,
+              0.521507
+            ],
+            [
+              0.265389,
+              0.541124
+            ],
+            [
+              0.255371,
+              0.528485
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B38",
+          "rowRange": [
+            27,
+            39
+          ],
+          "seatRange": [
+            261,
+            280
+          ],
+          "polygon": [
+            [
+              0.269321,
+              0.491802
+            ],
+            [
+              0.279755,
+              0.505844
+            ],
+            [
+              0.249743,
+              0.526128
+            ],
+            [
+              0.238602,
+              0.511643
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B39",
+          "rowRange": [
+            27,
+            39
+          ],
+          "seatRange": [
+            281,
+            300
+          ],
+          "polygon": [
+            [
+              0.256468,
+              0.475029
+            ],
+            [
+              0.266451,
+              0.487698
+            ],
+            [
+              0.235772,
+              0.507766
+            ],
+            [
+              0.226124,
+              0.494613
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B40",
+          "rowRange": [
+            27,
+            45
+          ],
+          "seatRange": [
+            301,
+            320
+          ],
+          "polygon": [
+            [
+              0.244894,
+              0.457014
+            ],
+            [
+              0.254112,
+              0.471468
+            ],
+            [
+              0.208786,
+              0.499509
+            ],
+            [
+              0.198005,
+              0.483082
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B41",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            321,
+            340
+          ],
+          "polygon": [
+            [
+              0.233067,
+              0.436656
+            ],
+            [
+              0.242145,
+              0.452667
+            ],
+            [
+              0.190559,
+              0.481653
+            ],
+            [
+              0.181661,
+              0.465753
+            ],
+            [
+              0.186521,
+              0.463164
+            ],
+            [
+              0.185344,
+              0.460605
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B42",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            341,
+            360
+          ],
+          "polygon": [
+            [
+              0.223557,
+              0.416438
+            ],
+            [
+              0.231391,
+              0.432837
+            ],
+            [
+              0.180867,
+              0.457095
+            ],
+            [
+              0.172365,
+              0.439957
+            ],
+            [
+              0.169667,
+              0.441213
+            ],
+            [
+              0.168556,
+              0.438955
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B43",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            361,
+            380
+          ],
+          "polygon": [
+            [
+              0.214953,
+              0.394151
+            ],
+            [
+              0.221832,
+              0.4127
+            ],
+            [
+              0.169211,
+              0.433171
+            ],
+            [
+              0.162616,
+              0.414105
+            ],
+            [
+              0.159514,
+              0.414759
+            ],
+            [
+              0.158766,
+              0.411738
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B44",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            381,
+            400
+          ],
+          "polygon": [
+            [
+              0.209198,
+              0.373522
+            ],
+            [
+              0.213653,
+              0.389772
+            ],
+            [
+              0.159282,
+              0.406216
+            ],
+            [
+              0.154689,
+              0.389562
+            ],
+            [
+              0.151667,
+              0.390173
+            ],
+            [
+              0.150839,
+              0.387195
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B45",
+          "rowRange": [
+            27,
+            45
+          ],
+          "seatRange": [
+            401,
+            420
+          ],
+          "polygon": [
+            [
+              0.20399,
+              0.351408
+            ],
+            [
+              0.207584,
+              0.368691
+            ],
+            [
+              0.152747,
+              0.381189
+            ],
+            [
+              0.148832,
+              0.365255
+            ],
+            [
+              0.151537,
+              0.364806
+            ],
+            [
+              0.150857,
+              0.360378
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B46",
+          "rowRange": [
+            27,
+            47
+          ],
+          "seatRange": [
+            421,
+            440
+          ],
+          "polygon": [
+            [
+              0.201029,
+              0.330313
+            ],
+            [
+              0.203197,
+              0.346867
+            ],
+            [
+              0.144521,
+              0.35661
+            ],
+            [
+              0.14384,
+              0.350197
+            ],
+            [
+              0.1468,
+              0.349719
+            ],
+            [
+              0.145424,
+              0.33508
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B47",
+          "rowRange": [
+            27,
+            45
+          ],
+          "seatRange": [
+            441,
+            460
+          ],
+          "polygon": [
+            [
+              0.1995,
+              0.308141
+            ],
+            [
+              0.200255,
+              0.325256
+            ],
+            [
+              0.147668,
+              0.329764
+            ],
+            [
+              0.147142,
+              0.321119
+            ],
+            [
+              0.15323,
+              0.309036
+            ]
+          ]
+        },
+        {
+          "id": "stand_1f_third_base_zone_24_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy",
+          "label": "B48",
+          "rowRange": [
+            27,
+            40
+          ],
+          "seatRange": [
+            461,
+            480
+          ],
+          "polygon": [
+            [
+              0.199567,
+              0.28658
+            ],
+            [
+              0.199345,
+              0.30332
+            ],
+            [
+              0.160787,
+              0.30376
+            ],
+            [
+              0.16084,
+              0.29826
+            ],
+            [
+              0.171417,
+              0.284684
+            ]
+          ]
+        }
+      ]
     },
     {
       "id": "balcony_first_base",

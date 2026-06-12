@@ -414,7 +414,10 @@
     "venueId": "pia_arena_mm",
     "capacity": 12000,
     "capacityType": "max",
-    "capacityNote": "アリーナ最大（参考）"
+    "capacityNote": "アリーナ最大（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "北海道札幌市南区真駒内公園1-1",

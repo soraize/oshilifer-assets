@@ -1,0 +1,2658 @@
+{
+  "schemaVersion": 2,
+  "venueId": "pia_arena_mm",
+  "name": "ぴあアリーナMM",
+  "coordinateSpace": "normalized",
+  "drawingOrientation": "stageTop",
+  "notes": [
+    "Draft row-line schema for precise seat pinning.",
+    "Arena is split into 26 temporary blocks. Stand seats keep 2F/3F/4F L/C/R blocks."
+  ],
+  "stage": {
+    "polygon": [
+      [
+        0.208,
+        0.127
+      ],
+      [
+        0.637,
+        0.127
+      ],
+      [
+        0.637,
+        0.191
+      ],
+      [
+        0.208,
+        0.191
+      ]
+    ]
+  },
+  "blocks": [
+    {
+      "id": "arena_a1",
+      "label": "アリーナA1",
+      "level": "1",
+      "aliases": [
+        "A1",
+        "アリーナA1",
+        "アリーナ A1",
+        "1階A1",
+        "1階 A1"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.246543,
+          0.206861
+        ],
+        [
+          0.312527,
+          0.207021
+        ],
+        [
+          0.31247,
+          0.321042
+        ],
+        [
+          0.246705,
+          0.320999
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_a2",
+      "label": "アリーナA2",
+      "level": "1",
+      "aliases": [
+        "A2",
+        "アリーナA2",
+        "アリーナ A2",
+        "1階A2",
+        "1階 A2"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.31988,
+          0.206984
+        ],
+        [
+          0.385864,
+          0.207144
+        ],
+        [
+          0.385807,
+          0.321165
+        ],
+        [
+          0.320042,
+          0.321122
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_a3",
+      "label": "アリーナA3",
+      "level": "1",
+      "aliases": [
+        "A3",
+        "アリーナA3",
+        "アリーナ A3",
+        "1階A3",
+        "1階 A3"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.393345,
+          0.207104
+        ],
+        [
+          0.459329,
+          0.207264
+        ],
+        [
+          0.459272,
+          0.321285
+        ],
+        [
+          0.393507,
+          0.321242
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_a4",
+      "label": "アリーナA4",
+      "level": "1",
+      "aliases": [
+        "A4",
+        "アリーナA4",
+        "アリーナ A4",
+        "1階A4",
+        "1階 A4"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.466583,
+          0.207001
+        ],
+        [
+          0.532567,
+          0.207161
+        ],
+        [
+          0.53251,
+          0.321182
+        ],
+        [
+          0.466745,
+          0.321139
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_a5",
+      "label": "アリーナA5",
+      "level": "1",
+      "aliases": [
+        "A5",
+        "アリーナA5",
+        "アリーナ A5",
+        "1階A5",
+        "1階 A5"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.539717,
+          0.206764
+        ],
+        [
+          0.605701,
+          0.206924
+        ],
+        [
+          0.605644,
+          0.320945
+        ],
+        [
+          0.539879,
+          0.320902
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_a6",
+      "label": "アリーナA6",
+      "level": "1",
+      "aliases": [
+        "A6",
+        "アリーナA6",
+        "アリーナ A6",
+        "1階A6",
+        "1階 A6"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.612847,
+          0.206796
+        ],
+        [
+          0.678831,
+          0.206956
+        ],
+        [
+          0.678774,
+          0.320977
+        ],
+        [
+          0.613009,
+          0.320934
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_a7",
+      "label": "アリーナA7",
+      "level": "1",
+      "aliases": [
+        "A7",
+        "アリーナA7",
+        "アリーナ A7",
+        "1階A7",
+        "1階 A7"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.686274,
+          0.206782
+        ],
+        [
+          0.752258,
+          0.206942
+        ],
+        [
+          0.752201,
+          0.320963
+        ],
+        [
+          0.686436,
+          0.32092
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b1",
+      "label": "アリーナB1",
+      "level": "1",
+      "aliases": [
+        "B1",
+        "アリーナB1",
+        "アリーナ B1",
+        "1階B1",
+        "1階 B1"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.246364,
+          0.343444
+        ],
+        [
+          0.312348,
+          0.343604
+        ],
+        [
+          0.312291,
+          0.457625
+        ],
+        [
+          0.246526,
+          0.457582
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b2",
+      "label": "アリーナB2",
+      "level": "1",
+      "aliases": [
+        "B2",
+        "アリーナB2",
+        "アリーナ B2",
+        "1階B2",
+        "1階 B2"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.319828,
+          0.343579
+        ],
+        [
+          0.385812,
+          0.343739
+        ],
+        [
+          0.385755,
+          0.45776
+        ],
+        [
+          0.31999,
+          0.457717
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b3",
+      "label": "アリーナB3",
+      "level": "1",
+      "aliases": [
+        "B3",
+        "アリーナB3",
+        "アリーナ B3",
+        "1階B3",
+        "1階 B3"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.392888,
+          0.343412
+        ],
+        [
+          0.458872,
+          0.343572
+        ],
+        [
+          0.458815,
+          0.457593
+        ],
+        [
+          0.39305,
+          0.45755
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b4",
+      "label": "アリーナB4",
+      "level": "1",
+      "aliases": [
+        "B4",
+        "アリーナB4",
+        "アリーナ B4",
+        "1階B4",
+        "1階 B4"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.466667,
+          0.343564
+        ],
+        [
+          0.532651,
+          0.343724
+        ],
+        [
+          0.532594,
+          0.457745
+        ],
+        [
+          0.466829,
+          0.457702
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b5",
+      "label": "アリーナB5",
+      "level": "1",
+      "aliases": [
+        "B5",
+        "アリーナB5",
+        "アリーナ B5",
+        "1階B5",
+        "1階 B5"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.539773,
+          0.343615
+        ],
+        [
+          0.605757,
+          0.343775
+        ],
+        [
+          0.6057,
+          0.457796
+        ],
+        [
+          0.539935,
+          0.457753
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b6",
+      "label": "アリーナB6",
+      "level": "1",
+      "aliases": [
+        "B6",
+        "アリーナB6",
+        "アリーナ B6",
+        "1階B6",
+        "1階 B6"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.61299,
+          0.343538
+        ],
+        [
+          0.678974,
+          0.343698
+        ],
+        [
+          0.678917,
+          0.457719
+        ],
+        [
+          0.613152,
+          0.457676
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_b7",
+      "label": "アリーナB7",
+      "level": "1",
+      "aliases": [
+        "B7",
+        "アリーナB7",
+        "アリーナ B7",
+        "1階B7",
+        "1階 B7"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.686299,
+          0.34362
+        ],
+        [
+          0.752283,
+          0.34378
+        ],
+        [
+          0.752226,
+          0.457801
+        ],
+        [
+          0.686461,
+          0.457758
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c1",
+      "label": "アリーナC1",
+      "level": "1",
+      "aliases": [
+        "C1",
+        "アリーナC1",
+        "アリーナ C1",
+        "1階C1",
+        "1階 C1"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.246455,
+          0.480961
+        ],
+        [
+          0.312439,
+          0.481121
+        ],
+        [
+          0.312382,
+          0.595142
+        ],
+        [
+          0.246617,
+          0.595099
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c2",
+      "label": "アリーナC2",
+      "level": "1",
+      "aliases": [
+        "C2",
+        "アリーナC2",
+        "アリーナ C2",
+        "1階C2",
+        "1階 C2"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.319819,
+          0.480809
+        ],
+        [
+          0.385803,
+          0.480969
+        ],
+        [
+          0.385746,
+          0.59499
+        ],
+        [
+          0.319981,
+          0.594947
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c3",
+      "label": "アリーナC3",
+      "level": "1",
+      "aliases": [
+        "C3",
+        "アリーナC3",
+        "アリーナ C3",
+        "1階C3",
+        "1階 C3"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.393157,
+          0.48094
+        ],
+        [
+          0.459141,
+          0.4811
+        ],
+        [
+          0.459084,
+          0.595121
+        ],
+        [
+          0.393319,
+          0.595078
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c4",
+      "label": "アリーナC4",
+      "level": "1",
+      "aliases": [
+        "C4",
+        "アリーナC4",
+        "アリーナ C4",
+        "1階C4",
+        "1階 C4"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.466559,
+          0.480962
+        ],
+        [
+          0.532543,
+          0.481122
+        ],
+        [
+          0.532486,
+          0.595143
+        ],
+        [
+          0.466721,
+          0.5951
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c5",
+      "label": "アリーナC5",
+      "level": "1",
+      "aliases": [
+        "C5",
+        "アリーナC5",
+        "アリーナ C5",
+        "1階C5",
+        "1階 C5"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.539708,
+          0.480756
+        ],
+        [
+          0.605692,
+          0.480916
+        ],
+        [
+          0.605635,
+          0.594937
+        ],
+        [
+          0.53987,
+          0.594894
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c6",
+      "label": "アリーナC6",
+      "level": "1",
+      "aliases": [
+        "C6",
+        "アリーナC6",
+        "アリーナ C6",
+        "1階C6",
+        "1階 C6"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.612997,
+          0.480631
+        ],
+        [
+          0.678981,
+          0.480791
+        ],
+        [
+          0.678924,
+          0.594812
+        ],
+        [
+          0.613159,
+          0.594769
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_c7",
+      "label": "アリーナC7",
+      "level": "1",
+      "aliases": [
+        "C7",
+        "アリーナC7",
+        "アリーナ C7",
+        "1階C7",
+        "1階 C7"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.686148,
+          0.480775
+        ],
+        [
+          0.752132,
+          0.480935
+        ],
+        [
+          0.752075,
+          0.594956
+        ],
+        [
+          0.68631,
+          0.594913
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_d2",
+      "label": "アリーナD2",
+      "level": "1",
+      "aliases": [
+        "D2",
+        "アリーナD2",
+        "アリーナ D2",
+        "1階D2",
+        "1階 D2"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.319821,
+          0.615038
+        ],
+        [
+          0.386024,
+          0.615151
+        ],
+        [
+          0.385808,
+          0.691208
+        ],
+        [
+          0.319679,
+          0.6909
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_d3",
+      "label": "アリーナD3",
+      "level": "1",
+      "aliases": [
+        "D3",
+        "アリーナD3",
+        "アリーナ D3",
+        "1階D3",
+        "1階 D3"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.393108,
+          0.615135
+        ],
+        [
+          0.459311,
+          0.615248
+        ],
+        [
+          0.459095,
+          0.691305
+        ],
+        [
+          0.392966,
+          0.690997
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_d4",
+      "label": "アリーナD4",
+      "level": "1",
+      "aliases": [
+        "D4",
+        "アリーナD4",
+        "アリーナ D4",
+        "1階D4",
+        "1階 D4"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.466484,
+          0.61492
+        ],
+        [
+          0.532687,
+          0.615033
+        ],
+        [
+          0.532747,
+          0.691018
+        ],
+        [
+          0.466342,
+          0.690782
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_d5",
+      "label": "アリーナD5",
+      "level": "1",
+      "aliases": [
+        "D5",
+        "アリーナD5",
+        "アリーナ D5",
+        "1階D5",
+        "1階 D5"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.539634,
+          0.614913
+        ],
+        [
+          0.605837,
+          0.615026
+        ],
+        [
+          0.605897,
+          0.691011
+        ],
+        [
+          0.539492,
+          0.690775
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "arena_d6",
+      "label": "アリーナD6",
+      "level": "1",
+      "aliases": [
+        "D6",
+        "アリーナD6",
+        "アリーナ D6",
+        "1階D6",
+        "1階 D6"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.613009,
+          0.615078
+        ],
+        [
+          0.679212,
+          0.615191
+        ],
+        [
+          0.679272,
+          0.691176
+        ],
+        [
+          0.612867,
+          0.69094
+        ]
+      ],
+      "rowRange": [
+        1,
+        20
+      ],
+      "seatRange": [
+        1,
+        30
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level2_left",
+      "label": "2階L",
+      "level": "2",
+      "aliases": [
+        "2F L",
+        "2階 L",
+        "L",
+        "L側",
+        "スタンドL",
+        "Lブロック"
+      ],
+      "polygon": [
+        [
+          0.127405,
+          0.192991
+        ],
+        [
+          0.221332,
+          0.192875
+        ],
+        [
+          0.221304,
+          0.606268
+        ],
+        [
+          0.330162,
+          0.723552
+        ],
+        [
+          0.283593,
+          0.798751
+        ],
+        [
+          0.127297,
+          0.629586
+        ]
+      ],
+      "rowRange": [
+        1,
+        9
+      ],
+      "seatRange": [
+        1,
+        130
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": [
+        {
+          "row": "1",
+          "seatStart": 3,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.213253,
+            0.214446
+          ],
+          "lineEnd": [
+            0.213183,
+            0.226052
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.213062,
+            0.233132
+          ],
+          "lineEnd": [
+            0.213084,
+            0.30997
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.213048,
+            0.316568
+          ],
+          "lineEnd": [
+            0.21312,
+            0.393708
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.213203,
+            0.401021
+          ],
+          "lineEnd": [
+            0.212974,
+            0.478262
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.213207,
+            0.484623
+          ],
+          "lineEnd": [
+            0.212978,
+            0.561864
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 78,
+          "seatEnd": 84,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.21292,
+            0.568544
+          ],
+          "lineEnd": [
+            0.212999,
+            0.598457
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 96,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.223494,
+            0.619903
+          ],
+          "lineEnd": [
+            0.242592,
+            0.640834
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.245975,
+            0.644096
+          ],
+          "lineEnd": [
+            0.303587,
+            0.705994
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 120,
+          "seatEnd": 124,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.306699,
+            0.709927
+          ],
+          "lineEnd": [
+            0.322611,
+            0.726914
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 1,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.205308,
+            0.205287
+          ],
+          "lineEnd": [
+            0.205323,
+            0.226167
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.205394,
+            0.232993
+          ],
+          "lineEnd": [
+            0.205466,
+            0.310133
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.205563,
+            0.316811
+          ],
+          "lineEnd": [
+            0.205635,
+            0.393951
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.205373,
+            0.401038
+          ],
+          "lineEnd": [
+            0.205144,
+            0.478279
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.205468,
+            0.484607
+          ],
+          "lineEnd": [
+            0.205239,
+            0.561848
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 78,
+          "seatEnd": 85,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.205528,
+            0.568435
+          ],
+          "lineEnd": [
+            0.205284,
+            0.602818
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 95,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.214291,
+            0.620201
+          ],
+          "lineEnd": [
+            0.23652,
+            0.644242
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.239898,
+            0.647832
+          ],
+          "lineEnd": [
+            0.29751,
+            0.70973
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 120,
+          "seatEnd": 124,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.300772,
+            0.713634
+          ],
+          "lineEnd": [
+            0.316684,
+            0.730621
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 1,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.197748,
+            0.205311
+          ],
+          "lineEnd": [
+            0.197763,
+            0.226191
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.197774,
+            0.23307
+          ],
+          "lineEnd": [
+            0.197846,
+            0.31021
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.197843,
+            0.316981
+          ],
+          "lineEnd": [
+            0.197915,
+            0.394121
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.197819,
+            0.401006
+          ],
+          "lineEnd": [
+            0.19759,
+            0.478247
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.197972,
+            0.484677
+          ],
+          "lineEnd": [
+            0.197743,
+            0.561918
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 78,
+          "seatEnd": 86,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.197922,
+            0.568497
+          ],
+          "lineEnd": [
+            0.197726,
+            0.607141
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 94,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.204936,
+            0.620396
+          ],
+          "lineEnd": [
+            0.230268,
+            0.647761
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.233903,
+            0.651597
+          ],
+          "lineEnd": [
+            0.291515,
+            0.713495
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 120,
+          "seatEnd": 125,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.294722,
+            0.717292
+          ],
+          "lineEnd": [
+            0.313716,
+            0.737484
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 1,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.190057,
+            0.205289
+          ],
+          "lineEnd": [
+            0.190072,
+            0.226169
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.190146,
+            0.233174
+          ],
+          "lineEnd": [
+            0.190218,
+            0.310314
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.190227,
+            0.316877
+          ],
+          "lineEnd": [
+            0.190299,
+            0.394017
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.190296,
+            0.401026
+          ],
+          "lineEnd": [
+            0.190067,
+            0.478267
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.190392,
+            0.484681
+          ],
+          "lineEnd": [
+            0.190163,
+            0.561922
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 78,
+          "seatEnd": 86,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.190337,
+            0.568504
+          ],
+          "lineEnd": [
+            0.190141,
+            0.607148
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 93,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.195474,
+            0.62048
+          ],
+          "lineEnd": [
+            0.224144,
+            0.651585
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.22767,
+            0.65521
+          ],
+          "lineEnd": [
+            0.285282,
+            0.717108
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 120,
+          "seatEnd": 126,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.2887,
+            0.720972
+          ],
+          "lineEnd": [
+            0.310597,
+            0.744633
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 1,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.182692,
+            0.2053
+          ],
+          "lineEnd": [
+            0.182707,
+            0.22618
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.182335,
+            0.233323
+          ],
+          "lineEnd": [
+            0.182407,
+            0.310463
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.182645,
+            0.317022
+          ],
+          "lineEnd": [
+            0.182717,
+            0.394162
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.182708,
+            0.400905
+          ],
+          "lineEnd": [
+            0.182479,
+            0.478146
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.18275,
+            0.484709
+          ],
+          "lineEnd": [
+            0.182521,
+            0.56195
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 78,
+          "seatEnd": 87,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.182651,
+            0.568571
+          ],
+          "lineEnd": [
+            0.18238,
+            0.611087
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 92,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.18633,
+            0.620756
+          ],
+          "lineEnd": [
+            0.217887,
+            0.655272
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.221539,
+            0.658792
+          ],
+          "lineEnd": [
+            0.279151,
+            0.72069
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 120,
+          "seatEnd": 127,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.282524,
+            0.724571
+          ],
+          "lineEnd": [
+            0.307598,
+            0.751566
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 1,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.174921,
+            0.205398
+          ],
+          "lineEnd": [
+            0.174936,
+            0.226278
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.175035,
+            0.233396
+          ],
+          "lineEnd": [
+            0.175107,
+            0.310536
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.174897,
+            0.316972
+          ],
+          "lineEnd": [
+            0.174969,
+            0.394112
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.175049,
+            0.400959
+          ],
+          "lineEnd": [
+            0.174838,
+            0.478049
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.175023,
+            0.484574
+          ],
+          "lineEnd": [
+            0.174794,
+            0.561815
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 78,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.175096,
+            0.568603
+          ],
+          "lineEnd": [
+            0.174857,
+            0.615598
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 91,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.177009,
+            0.621091
+          ],
+          "lineEnd": [
+            0.211947,
+            0.658882
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.215238,
+            0.662583
+          ],
+          "lineEnd": [
+            0.27285,
+            0.724481
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 120,
+          "seatEnd": 128,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.276422,
+            0.727948
+          ],
+          "lineEnd": [
+            0.304924,
+            0.758992
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 2,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167372,
+            0.20983
+          ],
+          "lineEnd": [
+            0.167085,
+            0.226409
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167366,
+            0.233272
+          ],
+          "lineEnd": [
+            0.167438,
+            0.310412
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167331,
+            0.317146
+          ],
+          "lineEnd": [
+            0.167403,
+            0.394286
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167144,
+            0.400912
+          ],
+          "lineEnd": [
+            0.166915,
+            0.478153
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167553,
+            0.484594
+          ],
+          "lineEnd": [
+            0.167324,
+            0.561835
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 78,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167243,
+            0.568791
+          ],
+          "lineEnd": [
+            0.167004,
+            0.615786
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 90,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.167674,
+            0.621278
+          ],
+          "lineEnd": [
+            0.20562,
+            0.66239
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.209292,
+            0.666344
+          ],
+          "lineEnd": [
+            0.266904,
+            0.728242
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 120,
+          "seatEnd": 129,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.270051,
+            0.731895
+          ],
+          "lineEnd": [
+            0.301779,
+            0.765998
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 2,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.159923,
+            0.209805
+          ],
+          "lineEnd": [
+            0.159636,
+            0.226384
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.159811,
+            0.23334
+          ],
+          "lineEnd": [
+            0.159648,
+            0.310391
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.159822,
+            0.31729
+          ],
+          "lineEnd": [
+            0.159894,
+            0.39443
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.159848,
+            0.400931
+          ],
+          "lineEnd": [
+            0.159619,
+            0.478172
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.159681,
+            0.484734
+          ],
+          "lineEnd": [
+            0.159452,
+            0.561975
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 90,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.158238,
+            0.621427
+          ],
+          "lineEnd": [
+            0.199972,
+            0.666027
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.203335,
+            0.669916
+          ],
+          "lineEnd": [
+            0.260947,
+            0.731814
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 120,
+          "seatEnd": 129,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.264076,
+            0.735499
+          ],
+          "lineEnd": [
+            0.295804,
+            0.769602
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 2,
+          "seatEnd": 5,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.152308,
+            0.209671
+          ],
+          "lineEnd": [
+            0.152021,
+            0.22625
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 6,
+          "seatEnd": 23,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.152333,
+            0.233258
+          ],
+          "lineEnd": [
+            0.152405,
+            0.310398
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 24,
+          "seatEnd": 41,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.152056,
+            0.31735
+          ],
+          "lineEnd": [
+            0.152128,
+            0.39449
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 42,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.152201,
+            0.400874
+          ],
+          "lineEnd": [
+            0.151972,
+            0.478115
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 60,
+          "seatEnd": 77,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.152263,
+            0.484547
+          ],
+          "lineEnd": [
+            0.152034,
+            0.561788
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 89,
+          "seatEnd": 101,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.155475,
+            0.628302
+          ],
+          "lineEnd": [
+            0.193743,
+            0.66978
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 102,
+          "seatEnd": 119,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.196962,
+            0.673452
+          ],
+          "lineEnd": [
+            0.254574,
+            0.73535
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 120,
+          "seatEnd": 130,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.258125,
+            0.739155
+          ],
+          "lineEnd": [
+            0.292942,
+            0.776919
+          ]
+        }
+      ]
+    },
+    {
+      "id": "level2_center",
+      "label": "2階C",
+      "level": "2",
+      "aliases": [
+        "2F C",
+        "2階 C",
+        "C",
+        "C側",
+        "スタンドC",
+        "Cブロック"
+      ],
+      "polygon": [
+        [
+          0.330581,
+          0.723815
+        ],
+        [
+          0.668137,
+          0.723896
+        ],
+        [
+          0.715231,
+          0.798441
+        ],
+        [
+          0.283509,
+          0.798442
+        ]
+      ],
+      "rowRange": [
+        16,
+        23
+      ],
+      "seatRange": [
+        89,
+        242
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level2_right",
+      "label": "2階R",
+      "level": "2",
+      "aliases": [
+        "2F R",
+        "2階 R",
+        "R",
+        "R側",
+        "スタンドR",
+        "Rブロック"
+      ],
+      "polygon": [
+        [
+          0.777677,
+          0.192972
+        ],
+        [
+          0.871895,
+          0.192966
+        ],
+        [
+          0.872021,
+          0.630427
+        ],
+        [
+          0.715839,
+          0.798293
+        ],
+        [
+          0.668901,
+          0.723593
+        ],
+        [
+          0.777802,
+          0.606194
+        ]
+      ],
+      "rowRange": [
+        24,
+        38
+      ],
+      "seatRange": [
+        243,
+        330
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level3_left",
+      "label": "3階L",
+      "level": "3",
+      "aliases": [
+        "3F L",
+        "3階 L",
+        "L",
+        "L側",
+        "スタンドL",
+        "Lブロック"
+      ],
+      "polygon": [
+        [
+          0.0711,
+          0.193049
+        ],
+        [
+          0.127474,
+          0.193086
+        ],
+        [
+          0.127368,
+          0.629974
+        ],
+        [
+          0.282944,
+          0.798534
+        ],
+        [
+          0.253121,
+          0.844765
+        ],
+        [
+          0.071004,
+          0.648478
+        ]
+      ],
+      "rowRange": [
+        1,
+        15
+      ],
+      "seatRange": [
+        1,
+        88
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level3_center",
+      "label": "3階C",
+      "level": "3",
+      "aliases": [
+        "3F C",
+        "3階 C",
+        "C",
+        "C側",
+        "スタンドC",
+        "Cブロック"
+      ],
+      "polygon": [
+        [
+          0.283414,
+          0.798601
+        ],
+        [
+          0.715555,
+          0.798389
+        ],
+        [
+          0.745392,
+          0.844556
+        ],
+        [
+          0.253406,
+          0.844598
+        ]
+      ],
+      "rowRange": [
+        16,
+        23
+      ],
+      "seatRange": [
+        89,
+        242
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level3_right",
+      "label": "3階R",
+      "level": "3",
+      "aliases": [
+        "3F R",
+        "3階 R",
+        "R",
+        "R側",
+        "スタンドR",
+        "Rブロック"
+      ],
+      "polygon": [
+        [
+          0.871896,
+          0.192994
+        ],
+        [
+          0.928614,
+          0.193002
+        ],
+        [
+          0.928776,
+          0.647318
+        ],
+        [
+          0.745795,
+          0.844886
+        ],
+        [
+          0.715897,
+          0.798458
+        ],
+        [
+          0.872293,
+          0.63
+        ]
+      ],
+      "rowRange": [
+        24,
+        38
+      ],
+      "seatRange": [
+        243,
+        330
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level4_left",
+      "label": "4階L",
+      "level": "4",
+      "aliases": [
+        "4F L",
+        "4階 L",
+        "L",
+        "L側",
+        "スタンドL",
+        "Lブロック"
+      ],
+      "polygon": [
+        [
+          0.021945,
+          0.192798
+        ],
+        [
+          0.071074,
+          0.193238
+        ],
+        [
+          0.070828,
+          0.647972
+        ],
+        [
+          0.25283,
+          0.844454
+        ],
+        [
+          0.227617,
+          0.884598
+        ],
+        [
+          0.02222,
+          0.663311
+        ]
+      ],
+      "rowRange": [
+        1,
+        15
+      ],
+      "seatRange": [
+        1,
+        88
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level4_center",
+      "label": "4階C",
+      "level": "4",
+      "aliases": [
+        "4F C",
+        "4階 C",
+        "C",
+        "C側",
+        "スタンドC",
+        "Cブロック"
+      ],
+      "polygon": [
+        [
+          0.253564,
+          0.844762
+        ],
+        [
+          0.745352,
+          0.84456
+        ],
+        [
+          0.77144,
+          0.884513
+        ],
+        [
+          0.228037,
+          0.884497
+        ]
+      ],
+      "rowRange": [
+        16,
+        23
+      ],
+      "seatRange": [
+        89,
+        242
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    },
+    {
+      "id": "level4_right",
+      "label": "4階R",
+      "level": "4",
+      "aliases": [
+        "4F R",
+        "4階 R",
+        "R",
+        "R側",
+        "スタンドR",
+        "Rブロック"
+      ],
+      "polygon": [
+        [
+          0.928895,
+          0.193164
+        ],
+        [
+          0.976912,
+          0.193021
+        ],
+        [
+          0.977,
+          0.66296
+        ],
+        [
+          0.771314,
+          0.884647
+        ],
+        [
+          0.745702,
+          0.844483
+        ],
+        [
+          0.92847,
+          0.647756
+        ]
+      ],
+      "rowRange": [
+        24,
+        38
+      ],
+      "seatRange": [
+        243,
+        330
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": []
+    }
+  ]
+}

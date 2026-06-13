@@ -319,7 +319,10 @@
     "venueId": "yokohama_arena",
     "capacity": 17000,
     "capacityType": "max",
-    "capacityNote": "最大収容人数（参考）"
+    "capacityNote": "最大収容人数（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "大阪府大阪市中央区大阪城3-1",

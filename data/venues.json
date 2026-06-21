@@ -598,7 +598,10 @@
     "venueId": "tokyo_garden_theater",
     "capacity": 8000,
     "capacityType": "seated",
-    "capacityNote": "客席数（参考）"
+    "capacityNote": "客席数（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "北海道札幌市豊平区豊平5条11丁目1-1",

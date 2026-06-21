@@ -913,7 +913,10 @@
     "venueId": "tachikawa_stage_garden",
     "capacity": 2500,
     "capacityType": "seated",
-    "capacityNote": "客席数（参考）"
+    "capacityNote": "客席数（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "神奈川県横浜市中区山下町3-1",

@@ -62,14 +62,6 @@
           0.263648
         ]
       ],
-      "rowRange": [
-        1,
-        7
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -203,14 +195,6 @@
           0.262352
         ]
       ],
-      "rowRange": [
-        1,
-        7
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -343,14 +327,6 @@
           0.553175,
           0.262127
         ]
-      ],
-      "rowRange": [
-        1,
-        7
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -508,14 +484,6 @@
           0.294581,
           0.273048
         ]
-      ],
-      "rowRange": [
-        1,
-        20
-      ],
-      "seatRange": [
-        1,
-        28
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -1000,14 +968,6 @@
           0.382867
         ]
       ],
-      "rowRange": [
-        1,
-        20
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -1342,14 +1302,6 @@
           0.553353,
           0.383257
         ]
-      ],
-      "rowRange": [
-        1,
-        20
-      ],
-      "seatRange": [
-        1,
-        28
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -1850,14 +1802,6 @@
           0.390274
         ]
       ],
-      "rowRange": [
-        1,
-        9
-      ],
-      "seatRange": [
-        1,
-        31
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -2161,14 +2105,6 @@
           0.45296
         ]
       ],
-      "rowRange": [
-        1,
-        11
-      ],
-      "seatRange": [
-        1,
-        18
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -2369,14 +2305,6 @@
           0.549899,
           0.452205
         ]
-      ],
-      "rowRange": [
-        1,
-        9
-      ],
-      "seatRange": [
-        1,
-        31
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -2672,14 +2600,6 @@
           0.311692
         ]
       ],
-      "rowRange": [
-        1,
-        9
-      ],
-      "seatRange": [
-        1,
-        13
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -2855,14 +2775,6 @@
           0.137524,
           0.365026
         ]
-      ],
-      "rowRange": [
-        1,
-        12
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -3065,14 +2977,6 @@
           0.226682,
           0.482965
         ]
-      ],
-      "rowRange": [
-        1,
-        11
-      ],
-      "seatRange": [
-        1,
-        17
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -3277,14 +3181,6 @@
           0.318463,
           0.526279
         ]
-      ],
-      "rowRange": [
-        1,
-        13
-      ],
-      "seatRange": [
-        1,
-        18
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -3554,14 +3450,6 @@
           0.516747
         ]
       ],
-      "rowRange": [
-        1,
-        10
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -3759,14 +3647,6 @@
           0.564213,
           0.516495
         ]
-      ],
-      "rowRange": [
-        1,
-        13
-      ],
-      "seatRange": [
-        1,
-        18
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -3988,14 +3868,6 @@
           0.490361
         ]
       ],
-      "rowRange": [
-        1,
-        11
-      ],
-      "seatRange": [
-        1,
-        17
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -4199,14 +4071,6 @@
           0.773107,
           0.482659
         ]
-      ],
-      "rowRange": [
-        1,
-        12
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -4422,14 +4286,6 @@
           0.273013
         ]
       ],
-      "rowRange": [
-        1,
-        9
-      ],
-      "seatRange": [
-        1,
-        13
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -4590,14 +4446,6 @@
           0.387567
         ]
       ],
-      "rowRange": [
-        1,
-        6
-      ],
-      "seatRange": [
-        1,
-        13
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -4727,14 +4575,6 @@
           0.106294,
           0.410935
         ]
-      ],
-      "rowRange": [
-        1,
-        12
-      ],
-      "seatRange": [
-        1,
-        19
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -4949,14 +4789,6 @@
           0.170698,
           0.54313
         ]
-      ],
-      "rowRange": [
-        1,
-        13
-      ],
-      "seatRange": [
-        1,
-        19
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -5189,14 +5021,6 @@
           0.284662,
           0.596951
         ]
-      ],
-      "rowRange": [
-        1,
-        14
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -5468,14 +5292,6 @@
           0.628985
         ]
       ],
-      "rowRange": [
-        1,
-        14
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -5717,14 +5533,6 @@
           0.578151,
           0.628763
         ]
-      ],
-      "rowRange": [
-        1,
-        14
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -5968,14 +5776,6 @@
           0.598556
         ]
       ],
-      "rowRange": [
-        1,
-        13
-      ],
-      "seatRange": [
-        1,
-        19
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -6204,14 +6004,6 @@
           0.54206
         ]
       ],
-      "rowRange": [
-        1,
-        12
-      ],
-      "seatRange": [
-        1,
-        19
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -6414,14 +6206,6 @@
           0.330679
         ]
       ],
-      "rowRange": [
-        1,
-        6
-      ],
-      "seatRange": [
-        1,
-        13
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -6543,14 +6327,6 @@
           0.025578,
           0.45607
         ]
-      ],
-      "rowRange": [
-        1,
-        6
-      ],
-      "seatRange": [
-        1,
-        10
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -6677,14 +6453,6 @@
           0.025129,
           0.600575
         ]
-      ],
-      "rowRange": [
-        1,
-        8
-      ],
-      "seatRange": [
-        1,
-        18
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -6843,14 +6611,6 @@
           0.070771,
           0.679692
         ]
-      ],
-      "rowRange": [
-        1,
-        14
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -7098,14 +6858,6 @@
           0.74888
         ]
       ],
-      "rowRange": [
-        1,
-        13
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -7338,14 +7090,6 @@
           0.793326
         ]
       ],
-      "rowRange": [
-        1,
-        11
-      ],
-      "seatRange": [
-        1,
-        20
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -7549,14 +7293,6 @@
           0.597075,
           0.792815
         ]
-      ],
-      "rowRange": [
-        1,
-        13
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -7785,14 +7521,6 @@
           0.741813,
           0.677506
         ]
-      ],
-      "rowRange": [
-        1,
-        14
-      ],
-      "seatRange": [
-        1,
-        20
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
@@ -8036,14 +7764,6 @@
           0.557497
         ]
       ],
-      "rowRange": [
-        1,
-        8
-      ],
-      "seatRange": [
-        1,
-        17
-      ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",
       "rows": [
@@ -8189,14 +7909,6 @@
           0.894447,
           0.410408
         ]
-      ],
-      "rowRange": [
-        1,
-        6
-      ],
-      "seatRange": [
-        1,
-        10
       ],
       "rowOrder": "topToBottom",
       "seatOrder": "leftToRight",

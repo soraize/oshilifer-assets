@@ -402,7 +402,10 @@
     "venueId": "yoyogi_national_gymnasium_first",
     "capacity": 12542,
     "capacityType": "max",
-    "capacityNote": "第一体育館最大（参考）"
+    "capacityNote": "第一体育館最大（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "神奈川県横浜市西区みなとみらい3-2-2",

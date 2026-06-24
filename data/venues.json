@@ -572,7 +572,10 @@
     "venueId": "makuhari_messe_event_hall",
     "capacity": 9000,
     "capacityType": "max",
-    "capacityNote": "イベントホール最大（参考）"
+    "capacityNote": "イベントホール最大（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "千葉県千葉市美浜区中瀬2-1",

@@ -47,7 +47,7 @@
     },
     {
       "id": "a_2f",
-      "label": "Aブロック 2F",
+      "label": "A 2F",
       "level": "2",
       "aliases": [
         "Aブロック 2F",
@@ -572,7 +572,7 @@
     },
     {
       "id": "b_2f",
-      "label": "Bブロック 2F",
+      "label": "B 2F",
       "level": "2",
       "aliases": [
         "Bブロック 2F",
@@ -605,7 +605,7 @@
     },
     {
       "id": "c_2f",
-      "label": "Cブロック 2F",
+      "label": "C 2F",
       "level": "2",
       "aliases": [
         "Cブロック 2F",
@@ -638,7 +638,7 @@
     },
     {
       "id": "d_2f",
-      "label": "Dブロック 2F",
+      "label": "D 2F",
       "level": "2",
       "aliases": [
         "Dブロック 2F",
@@ -671,7 +671,7 @@
     },
     {
       "id": "e_2f",
-      "label": "Eブロック 2F",
+      "label": "E 2F",
       "level": "2",
       "aliases": [
         "Eブロック 2F",
@@ -704,7 +704,7 @@
     },
     {
       "id": "f_2f",
-      "label": "Fブロック 2F",
+      "label": "F 2F",
       "level": "2",
       "aliases": [
         "Fブロック 2F",
@@ -856,7 +856,7 @@
     },
     {
       "id": "g_2f",
-      "label": "Gブロック 2F",
+      "label": "G 2F",
       "level": "2",
       "aliases": [
         "Gブロック 2F",
@@ -889,7 +889,7 @@
     },
     {
       "id": "h_2f",
-      "label": "Hブロック 2F",
+      "label": "H 2F",
       "level": "2",
       "aliases": [
         "Hブロック 2F",
@@ -930,7 +930,7 @@
     },
     {
       "id": "j_2f",
-      "label": "Jブロック 2F",
+      "label": "J 2F",
       "level": "2",
       "aliases": [
         "Jブロック 2F",
@@ -971,7 +971,7 @@
     },
     {
       "id": "k_2f",
-      "label": "Kブロック 2F",
+      "label": "K 2F",
       "level": "2",
       "aliases": [
         "Kブロック 2F",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "b_3f",
-      "label": "Bブロック 3F",
+      "label": "B 3F",
       "level": "3",
       "aliases": [
         "Bブロック 3F",
@@ -1061,7 +1061,7 @@
     },
     {
       "id": "c_3f",
-      "label": "Cブロック 3F",
+      "label": "C 3F",
       "level": "3",
       "aliases": [
         "Cブロック 3F",
@@ -1102,7 +1102,7 @@
     },
     {
       "id": "d_3f",
-      "label": "Dブロック 3F",
+      "label": "D 3F",
       "level": "3",
       "aliases": [
         "Dブロック 3F",
@@ -1143,7 +1143,7 @@
     },
     {
       "id": "e_3f",
-      "label": "Eブロック 3F",
+      "label": "E 3F",
       "level": "3",
       "aliases": [
         "Eブロック 3F",
@@ -1200,7 +1200,7 @@
     },
     {
       "id": "g_3f",
-      "label": "Gブロック 3F",
+      "label": "G 3F",
       "level": "3",
       "aliases": [
         "Gブロック 3F",
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "h_3f",
-      "label": "Hブロック 3F",
+      "label": "H 3F",
       "level": "3",
       "aliases": [
         "Hブロック 3F",
@@ -1298,7 +1298,7 @@
     },
     {
       "id": "j_3f",
-      "label": "Jブロック 3F",
+      "label": "J 3F",
       "level": "3",
       "aliases": [
         "Jブロック 3F",
@@ -1339,7 +1339,7 @@
     },
     {
       "id": "k_3f",
-      "label": "Kブロック 3F",
+      "label": "K 3F",
       "level": "3",
       "aliases": [
         "Kブロック 3F",

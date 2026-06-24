@@ -11,7 +11,6 @@
     "A and F 2F blocks include movable seats and are marked temporary.",
     "Arena is temporary because event layouts vary."
   ],
-  "stage": null,
   "blocks": [
     {
       "id": "arena",

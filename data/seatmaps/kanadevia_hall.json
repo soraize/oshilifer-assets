@@ -1,0 +1,2919 @@
+{
+  "schemaVersion": 2,
+  "venueId": "kanadevia_hall",
+  "name": "Kanadevia Hall",
+  "venueName": "Kanadevia Hall",
+  "coordinateSpace": "normalized",
+  "drawingOrientation": "stageTop",
+  "notes": [
+    "Initial simplified reconstruction from 8760.pdf. The reference image itself is only used for editing.",
+    "The source image was rendered at 3600x4400 and placed on a 4400x4400 white canvas with 400px side margins to keep 1:1 coordinates.",
+    "Ticket examples use balcony names such as 第2バルコニー C1扉 4列60番. Door labels such as C1 are not modeled as blocks.",
+    "Arena layout is temporary because event layouts vary."
+  ],
+  "stage": {
+    "label": "ステージ",
+    "polygon": [
+      [
+        0.282695,
+        0.150389
+      ],
+      [
+        0.717273,
+        0.150415
+      ],
+      [
+        0.717772,
+        0.209392
+      ],
+      [
+        0.282639,
+        0.209184
+      ]
+    ]
+  },
+  "blocks": [
+    {
+      "id": "arena",
+      "label": "アリーナ",
+      "level": "arena",
+      "aliases": [
+        "アリーナ",
+        "アリーナ席",
+        "arena",
+        "ARENA",
+        "B3F"
+      ],
+      "seatReliability": "temporary",
+      "polygon": [
+        [
+          0.2827,
+          0.229227
+        ],
+        [
+          0.717535,
+          0.22947
+        ],
+        [
+          0.71789,
+          0.325926
+        ],
+        [
+          0.722331,
+          0.326208
+        ],
+        [
+          0.700772,
+          0.405823
+        ],
+        [
+          0.708211,
+          0.408077
+        ],
+        [
+          0.677371,
+          0.465313
+        ],
+        [
+          0.666447,
+          0.45825
+        ],
+        [
+          0.616951,
+          0.458608
+        ],
+        [
+          0.614332,
+          0.447449
+        ],
+        [
+          0.567617,
+          0.461275
+        ],
+        [
+          0.566755,
+          0.499672
+        ],
+        [
+          0.433023,
+          0.499071
+        ],
+        [
+          0.433572,
+          0.461389
+        ],
+        [
+          0.385902,
+          0.447102
+        ],
+        [
+          0.383073,
+          0.458101
+        ],
+        [
+          0.33514,
+          0.457816
+        ],
+        [
+          0.323335,
+          0.465281
+        ],
+        [
+          0.292058,
+          0.407893
+        ],
+        [
+          0.299635,
+          0.406194
+        ],
+        [
+          0.278201,
+          0.325408
+        ],
+        [
+          0.282709,
+          0.325739
+        ]
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": [
+        {
+          "row": "1",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436464,
+            0.237291
+          ],
+          "lineEnd": [
+            0.563598,
+            0.237442
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 9,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.344469,
+            0.237382
+          ],
+          "lineEnd": [
+            0.419659,
+            0.237415
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 41,
+          "seatEnd": 52,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.582856,
+            0.237405
+          ],
+          "lineEnd": [
+            0.658638,
+            0.23743
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 7,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.331126,
+            0.248986
+          ],
+          "lineEnd": [
+            0.419932,
+            0.249024
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439672,
+            0.249101
+          ],
+          "lineEnd": [
+            0.566651,
+            0.249134
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 41,
+          "seatEnd": 54,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583141,
+            0.249143
+          ],
+          "lineEnd": [
+            0.671592,
+            0.249125
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 4,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.311756,
+            0.260893
+          ],
+          "lineEnd": [
+            0.4201,
+            0.260973
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 41,
+          "seatEnd": 57,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583235,
+            0.26098
+          ],
+          "lineEnd": [
+            0.69109,
+            0.260971
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436544,
+            0.261142
+          ],
+          "lineEnd": [
+            0.563523,
+            0.261175
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.292828,
+            0.272743
+          ],
+          "lineEnd": [
+            0.419995,
+            0.272717
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439637,
+            0.272725
+          ],
+          "lineEnd": [
+            0.566616,
+            0.272758
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.582937,
+            0.272705
+          ],
+          "lineEnd": [
+            0.710098,
+            0.27278
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436709,
+            0.284261
+          ],
+          "lineEnd": [
+            0.563688,
+            0.284294
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583148,
+            0.284401
+          ],
+          "lineEnd": [
+            0.710309,
+            0.284476
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.292834,
+            0.284602
+          ],
+          "lineEnd": [
+            0.420001,
+            0.284576
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.292957,
+            0.296162
+          ],
+          "lineEnd": [
+            0.420124,
+            0.296136
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.58319,
+            0.296168
+          ],
+          "lineEnd": [
+            0.710351,
+            0.296243
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439775,
+            0.2962
+          ],
+          "lineEnd": [
+            0.566754,
+            0.296233
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.29296,
+            0.307896
+          ],
+          "lineEnd": [
+            0.420127,
+            0.30787
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436463,
+            0.30806
+          ],
+          "lineEnd": [
+            0.563442,
+            0.308093
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583334,
+            0.308216
+          ],
+          "lineEnd": [
+            0.710495,
+            0.308291
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583302,
+            0.319734
+          ],
+          "lineEnd": [
+            0.710463,
+            0.319809
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439546,
+            0.319881
+          ],
+          "lineEnd": [
+            0.566525,
+            0.319914
+          ]
+        },
+        {
+          "row": "8",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.292759,
+            0.319986
+          ],
+          "lineEnd": [
+            0.419926,
+            0.31996
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.292609,
+            0.331615
+          ],
+          "lineEnd": [
+            0.419776,
+            0.331589
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436386,
+            0.331606
+          ],
+          "lineEnd": [
+            0.563365,
+            0.331639
+          ]
+        },
+        {
+          "row": "9",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.58324,
+            0.331837
+          ],
+          "lineEnd": [
+            0.710401,
+            0.331912
+          ]
+        },
+        {
+          "row": "10",
+          "seatStart": 1,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.292631,
+            0.343309
+          ],
+          "lineEnd": [
+            0.419798,
+            0.343283
+          ]
+        },
+        {
+          "row": "10",
+          "seatStart": 41,
+          "seatEnd": 60,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583115,
+            0.343485
+          ],
+          "lineEnd": [
+            0.710276,
+            0.34356
+          ]
+        },
+        {
+          "row": "10",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439443,
+            0.343537
+          ],
+          "lineEnd": [
+            0.566422,
+            0.34357
+          ]
+        },
+        {
+          "row": "11",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.43649,
+            0.355299
+          ],
+          "lineEnd": [
+            0.563469,
+            0.355332
+          ]
+        },
+        {
+          "row": "11",
+          "seatStart": 41,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583397,
+            0.355318
+          ],
+          "lineEnd": [
+            0.703626,
+            0.355413
+          ]
+        },
+        {
+          "row": "11",
+          "seatStart": 2,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.299135,
+            0.355264
+          ],
+          "lineEnd": [
+            0.419988,
+            0.355539
+          ]
+        },
+        {
+          "row": "12",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.43942,
+            0.366952
+          ],
+          "lineEnd": [
+            0.566399,
+            0.366985
+          ]
+        },
+        {
+          "row": "12",
+          "seatStart": 2,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.299274,
+            0.367058
+          ],
+          "lineEnd": [
+            0.420127,
+            0.367333
+          ]
+        },
+        {
+          "row": "12",
+          "seatStart": 41,
+          "seatEnd": 59,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583186,
+            0.367148
+          ],
+          "lineEnd": [
+            0.703415,
+            0.367243
+          ]
+        },
+        {
+          "row": "13",
+          "seatStart": 3,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.305829,
+            0.378562
+          ],
+          "lineEnd": [
+            0.420056,
+            0.378706
+          ]
+        },
+        {
+          "row": "13",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.4368,
+            0.3787
+          ],
+          "lineEnd": [
+            0.563779,
+            0.378733
+          ]
+        },
+        {
+          "row": "13",
+          "seatStart": 41,
+          "seatEnd": 58,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583117,
+            0.378875
+          ],
+          "lineEnd": [
+            0.697241,
+            0.378733
+          ]
+        },
+        {
+          "row": "14",
+          "seatStart": 41,
+          "seatEnd": 58,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583183,
+            0.390435
+          ],
+          "lineEnd": [
+            0.697307,
+            0.390293
+          ]
+        },
+        {
+          "row": "14",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439518,
+            0.390577
+          ],
+          "lineEnd": [
+            0.566497,
+            0.39061
+          ]
+        },
+        {
+          "row": "14",
+          "seatStart": 3,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.305963,
+            0.390565
+          ],
+          "lineEnd": [
+            0.42019,
+            0.390709
+          ]
+        },
+        {
+          "row": "15",
+          "seatStart": 41,
+          "seatEnd": 57,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583142,
+            0.402271
+          ],
+          "lineEnd": [
+            0.690639,
+            0.402327
+          ]
+        },
+        {
+          "row": "15",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436331,
+            0.402325
+          ],
+          "lineEnd": [
+            0.56331,
+            0.402358
+          ]
+        },
+        {
+          "row": "15",
+          "seatStart": 4,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.312244,
+            0.402582
+          ],
+          "lineEnd": [
+            0.42017,
+            0.40264
+          ]
+        },
+        {
+          "row": "16",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439746,
+            0.413903
+          ],
+          "lineEnd": [
+            0.566725,
+            0.413936
+          ]
+        },
+        {
+          "row": "16",
+          "seatStart": 41,
+          "seatEnd": 57,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583066,
+            0.413998
+          ],
+          "lineEnd": [
+            0.690563,
+            0.414054
+          ]
+        },
+        {
+          "row": "16",
+          "seatStart": 4,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.312063,
+            0.414283
+          ],
+          "lineEnd": [
+            0.419989,
+            0.414341
+          ]
+        },
+        {
+          "row": "17",
+          "seatStart": 41,
+          "seatEnd": 56,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.583158,
+            0.42615
+          ],
+          "lineEnd": [
+            0.684651,
+            0.425818
+          ]
+        },
+        {
+          "row": "17",
+          "seatStart": 5,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.318606,
+            0.425982
+          ],
+          "lineEnd": [
+            0.419911,
+            0.426047
+          ]
+        },
+        {
+          "row": "17",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436561,
+            0.426072
+          ],
+          "lineEnd": [
+            0.56354,
+            0.426105
+          ]
+        },
+        {
+          "row": "18",
+          "seatStart": 6,
+          "seatEnd": 13,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.324596,
+            0.437779
+          ],
+          "lineEnd": [
+            0.375448,
+            0.437699
+          ]
+        },
+        {
+          "row": "18",
+          "seatStart": 48,
+          "seatEnd": 55,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.627826,
+            0.437842
+          ],
+          "lineEnd": [
+            0.67819,
+            0.437695
+          ]
+        },
+        {
+          "row": "18",
+          "seatStart": 21,
+          "seatEnd": 40,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.439663,
+            0.43793
+          ],
+          "lineEnd": [
+            0.566642,
+            0.437963
+          ]
+        }
+      ]
+    },
+    {
+      "id": "balcony_1",
+      "label": "第1バルコニー",
+      "level": "balcony",
+      "aliases": [
+        "第1バルコニー",
+        "第1バル",
+        "1バルコニー",
+        "1バル",
+        "B2F"
+      ],
+      "polygon": [
+        [
+          0.242717,
+          0.238061
+        ],
+        [
+          0.282786,
+          0.237964
+        ],
+        [
+          0.282644,
+          0.32523
+        ],
+        [
+          0.277975,
+          0.325404
+        ],
+        [
+          0.299105,
+          0.405796
+        ],
+        [
+          0.292111,
+          0.4074
+        ],
+        [
+          0.323183,
+          0.466755
+        ],
+        [
+          0.333797,
+          0.458165
+        ],
+        [
+          0.378934,
+          0.458248
+        ],
+        [
+          0.433262,
+          0.474629
+        ],
+        [
+          0.43308,
+          0.499445
+        ],
+        [
+          0.567257,
+          0.499806
+        ],
+        [
+          0.567245,
+          0.474763
+        ],
+        [
+          0.62,
+          0.458565
+        ],
+        [
+          0.665621,
+          0.458053
+        ],
+        [
+          0.676934,
+          0.465938
+        ],
+        [
+          0.70835,
+          0.408
+        ],
+        [
+          0.701122,
+          0.405557
+        ],
+        [
+          0.721936,
+          0.326153
+        ],
+        [
+          0.717581,
+          0.326589
+        ],
+        [
+          0.717912,
+          0.238472
+        ],
+        [
+          0.757435,
+          0.237678
+        ],
+        [
+          0.757937,
+          0.468457
+        ],
+        [
+          0.750775,
+          0.497514
+        ],
+        [
+          0.755574,
+          0.499544
+        ],
+        [
+          0.726178,
+          0.552124
+        ],
+        [
+          0.726695,
+          0.530514
+        ],
+        [
+          0.72395,
+          0.522308
+        ],
+        [
+          0.566047,
+          0.567631
+        ],
+        [
+          0.565122,
+          0.541092
+        ],
+        [
+          0.434381,
+          0.541137
+        ],
+        [
+          0.434409,
+          0.568002
+        ],
+        [
+          0.27588,
+          0.521998
+        ],
+        [
+          0.273645,
+          0.52927
+        ],
+        [
+          0.273404,
+          0.550109
+        ],
+        [
+          0.244427,
+          0.49754
+        ],
+        [
+          0.249846,
+          0.494661
+        ],
+        [
+          0.242484,
+          0.467736
+        ]
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": [
+        {
+          "row": "1",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.274168,
+            0.250575
+          ],
+          "lineEnd": [
+            0.274033,
+            0.314673
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.726278,
+            0.314939
+          ],
+          "lineEnd": [
+            0.726039,
+            0.250471
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 101,
+          "seatEnd": 110,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.712288,
+            0.397289
+          ],
+          "lineEnd": [
+            0.729023,
+            0.334683
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 11,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.271342,
+            0.334993
+          ],
+          "lineEnd": [
+            0.287868,
+            0.397425
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 21,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.283427,
+            0.417388
+          ],
+          "lineEnd": [
+            0.308769,
+            0.462268
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 91,
+          "seatEnd": 98,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.691227,
+            0.46224
+          ],
+          "lineEnd": [
+            0.716607,
+            0.417682
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 43,
+          "seatEnd": 50,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.369896,
+            0.465236
+          ],
+          "lineEnd": [
+            0.419165,
+            0.479804
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 71,
+          "seatEnd": 78,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.58084,
+            0.479841
+          ],
+          "lineEnd": [
+            0.630032,
+            0.465381
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436915,
+            0.51025
+          ],
+          "lineEnd": [
+            0.565908,
+            0.51026
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.737996,
+            0.314563
+          ],
+          "lineEnd": [
+            0.737757,
+            0.250095
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.26264,
+            0.250811
+          ],
+          "lineEnd": [
+            0.262505,
+            0.314909
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 14,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.265022,
+            0.356787
+          ],
+          "lineEnd": [
+            0.276466,
+            0.400364
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 101,
+          "seatEnd": 107,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.723798,
+            0.400141
+          ],
+          "lineEnd": [
+            0.735282,
+            0.357106
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 21,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.273369,
+            0.423348
+          ],
+          "lineEnd": [
+            0.298711,
+            0.468228
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 91,
+          "seatEnd": 98,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.701463,
+            0.46814
+          ],
+          "lineEnd": [
+            0.726795,
+            0.423504
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 39,
+          "seatEnd": 50,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.344411,
+            0.469678
+          ],
+          "lineEnd": [
+            0.4188,
+            0.491676
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 71,
+          "seatEnd": 82,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.581139,
+            0.491914
+          ],
+          "lineEnd": [
+            0.655722,
+            0.469835
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.43353,
+            0.52187
+          ],
+          "lineEnd": [
+            0.562764,
+            0.52187
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.250721,
+            0.250644
+          ],
+          "lineEnd": [
+            0.250586,
+            0.314742
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.749601,
+            0.314718
+          ],
+          "lineEnd": [
+            0.749362,
+            0.25025
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 14,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.253502,
+            0.359594
+          ],
+          "lineEnd": [
+            0.264946,
+            0.403171
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 101,
+          "seatEnd": 107,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.73515,
+            0.403071
+          ],
+          "lineEnd": [
+            0.746634,
+            0.360036
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 22,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.266431,
+            0.434988
+          ],
+          "lineEnd": [
+            0.288612,
+            0.474196
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 91,
+          "seatEnd": 97,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.711612,
+            0.474273
+          ],
+          "lineEnd": [
+            0.73381,
+            0.435015
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 36,
+          "seatEnd": 50,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.326008,
+            0.480711
+          ],
+          "lineEnd": [
+            0.419404,
+            0.508052
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 71,
+          "seatEnd": 85,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.580578,
+            0.508136
+          ],
+          "lineEnd": [
+            0.67417,
+            0.480706
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.436545,
+            0.533528
+          ],
+          "lineEnd": [
+            0.565887,
+            0.533758
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 95,
+          "seatEnd": 97,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.73444,
+            0.457916
+          ],
+          "lineEnd": [
+            0.743824,
+            0.441246
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 22,
+          "seatEnd": 24,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.256403,
+            0.441314
+          ],
+          "lineEnd": [
+            0.265948,
+            0.458234
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 71,
+          "seatEnd": 87,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.580999,
+            0.519993
+          ],
+          "lineEnd": [
+            0.686887,
+            0.489004
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 34,
+          "seatEnd": 50,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.313238,
+            0.489266
+          ],
+          "lineEnd": [
+            0.419226,
+            0.520329
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 71,
+          "seatEnd": 89,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.581729,
+            0.532333
+          ],
+          "lineEnd": [
+            0.699882,
+            0.497671
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 32,
+          "seatEnd": 50,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.300215,
+            0.497619
+          ],
+          "lineEnd": [
+            0.418711,
+            0.532434
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 31,
+          "seatEnd": 50,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.293364,
+            0.50767
+          ],
+          "lineEnd": [
+            0.417749,
+            0.544351
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 71,
+          "seatEnd": 90,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.582289,
+            0.544371
+          ],
+          "lineEnd": [
+            0.706549,
+            0.50801
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 31,
+          "seatEnd": 49,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.287206,
+            0.51817
+          ],
+          "lineEnd": [
+            0.405557,
+            0.552885
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 72,
+          "seatEnd": 90,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.594386,
+            0.553183
+          ],
+          "lineEnd": [
+            0.712781,
+            0.518084
+          ]
+        }
+      ]
+    },
+    {
+      "id": "balcony_2",
+      "label": "第2バルコニー",
+      "level": "balcony",
+      "aliases": [
+        "第2バルコニー",
+        "第2バル",
+        "2バルコニー",
+        "2バル",
+        "B1F"
+      ],
+      "polygon": [
+        [
+          0.180817,
+          0.53253
+        ],
+        [
+          0.181363,
+          0.297719
+        ],
+        [
+          0.23312,
+          0.297705
+        ],
+        [
+          0.233274,
+          0.40383
+        ],
+        [
+          0.226072,
+          0.403864
+        ],
+        [
+          0.250532,
+          0.495301
+        ],
+        [
+          0.24367,
+          0.496435
+        ],
+        [
+          0.283165,
+          0.566452
+        ],
+        [
+          0.27383,
+          0.571629
+        ],
+        [
+          0.411214,
+          0.609616
+        ],
+        [
+          0.411225,
+          0.624195
+        ],
+        [
+          0.589197,
+          0.623943
+        ],
+        [
+          0.589024,
+          0.609327
+        ],
+        [
+          0.726925,
+          0.571034
+        ],
+        [
+          0.718705,
+          0.565153
+        ],
+        [
+          0.756696,
+          0.499125
+        ],
+        [
+          0.750149,
+          0.497586
+        ],
+        [
+          0.775376,
+          0.403639
+        ],
+        [
+          0.767369,
+          0.403899
+        ],
+        [
+          0.767815,
+          0.297645
+        ],
+        [
+          0.819333,
+          0.297726
+        ],
+        [
+          0.818821,
+          0.536501
+        ],
+        [
+          0.806849,
+          0.579734
+        ],
+        [
+          0.814565,
+          0.584626
+        ],
+        [
+          0.766407,
+          0.668779
+        ],
+        [
+          0.777515,
+          0.675528
+        ],
+        [
+          0.762653,
+          0.679646
+        ],
+        [
+          0.763705,
+          0.655759
+        ],
+        [
+          0.644999,
+          0.687745
+        ],
+        [
+          0.651049,
+          0.710673
+        ],
+        [
+          0.59733,
+          0.725659
+        ],
+        [
+          0.597278,
+          0.740288
+        ],
+        [
+          0.404332,
+          0.74005
+        ],
+        [
+          0.404309,
+          0.725193
+        ],
+        [
+          0.350681,
+          0.71036
+        ],
+        [
+          0.355912,
+          0.687783
+        ],
+        [
+          0.238249,
+          0.656062
+        ],
+        [
+          0.237873,
+          0.679223
+        ],
+        [
+          0.223449,
+          0.676073
+        ],
+        [
+          0.234725,
+          0.668593
+        ],
+        [
+          0.186598,
+          0.585228
+        ],
+        [
+          0.193927,
+          0.580402
+        ]
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": [
+        {
+          "row": "1",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.221529,
+            0.30695
+          ],
+          "lineEnd": [
+            0.221612,
+            0.393534
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.777982,
+            0.393896
+          ],
+          "lineEnd": [
+            0.778145,
+            0.306925
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 101,
+          "seatEnd": 110,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.760596,
+            0.492768
+          ],
+          "lineEnd": [
+            0.78366,
+            0.408948
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 11,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.216211,
+            0.409188
+          ],
+          "lineEnd": [
+            0.239204,
+            0.492681
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 21,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.23588,
+            0.504403
+          ],
+          "lineEnd": [
+            0.269851,
+            0.564808
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 91,
+          "seatEnd": 98,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.730207,
+            0.565259
+          ],
+          "lineEnd": [
+            0.764557,
+            0.504599
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 74,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.597549,
+            0.615824
+          ],
+          "lineEnd": [
+            0.723779,
+            0.581612
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 32,
+          "seatEnd": 46,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.27581,
+            0.582082
+          ],
+          "lineEnd": [
+            0.402021,
+            0.615427
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.206776,
+            0.307071
+          ],
+          "lineEnd": [
+            0.206859,
+            0.393655
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.79354,
+            0.393928
+          ],
+          "lineEnd": [
+            0.793703,
+            0.306957
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 101,
+          "seatEnd": 107,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.776277,
+            0.497034
+          ],
+          "lineEnd": [
+            0.792406,
+            0.438831
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 14,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.207161,
+            0.439157
+          ],
+          "lineEnd": [
+            0.223186,
+            0.497225
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 91,
+          "seatEnd": 98,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.744131,
+            0.572334
+          ],
+          "lineEnd": [
+            0.77853,
+            0.512349
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 21,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.221405,
+            0.51256
+          ],
+          "lineEnd": [
+            0.255376,
+            0.572965
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 31,
+          "seatEnd": 47,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.258717,
+            0.591908
+          ],
+          "lineEnd": [
+            0.401864,
+            0.630177
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 73,
+          "seatEnd": 89,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.597805,
+            0.630678
+          ],
+          "lineEnd": [
+            0.740597,
+            0.592333
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.410733,
+            0.631572
+          ],
+          "lineEnd": [
+            0.585136,
+            0.631752
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.808488,
+            0.393899
+          ],
+          "lineEnd": [
+            0.808651,
+            0.306928
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.191208,
+            0.307218
+          ],
+          "lineEnd": [
+            0.191291,
+            0.393802
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 101,
+          "seatEnd": 107,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.792208,
+            0.501319
+          ],
+          "lineEnd": [
+            0.808337,
+            0.443116
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 14,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.191283,
+            0.443433
+          ],
+          "lineEnd": [
+            0.207308,
+            0.501501
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 91,
+          "seatEnd": 97,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.757984,
+            0.580546
+          ],
+          "lineEnd": [
+            0.788057,
+            0.527771
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 22,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.211923,
+            0.528028
+          ],
+          "lineEnd": [
+            0.24204,
+            0.580802
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 72,
+          "seatEnd": 89,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.59763,
+            0.644685
+          ],
+          "lineEnd": [
+            0.749146,
+            0.604235
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 31,
+          "seatEnd": 48,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.250502,
+            0.604152
+          ],
+          "lineEnd": [
+            0.401689,
+            0.644777
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.414737,
+            0.646199
+          ],
+          "lineEnd": [
+            0.58914,
+            0.646379
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 22,
+          "seatEnd": 24,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.198302,
+            0.535888
+          ],
+          "lineEnd": [
+            0.211195,
+            0.557929
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 95,
+          "seatEnd": 97,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.789485,
+            0.558136
+          ],
+          "lineEnd": [
+            0.801935,
+            0.535732
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 71,
+          "seatEnd": 89,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.598047,
+            0.659279
+          ],
+          "lineEnd": [
+            0.757656,
+            0.616442
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 31,
+          "seatEnd": 49,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.241982,
+            0.616391
+          ],
+          "lineEnd": [
+            0.401976,
+            0.659612
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.411049,
+            0.660915
+          ],
+          "lineEnd": [
+            0.585452,
+            0.661095
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 31,
+          "seatEnd": 49,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.233952,
+            0.629088
+          ],
+          "lineEnd": [
+            0.393946,
+            0.672309
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 71,
+          "seatEnd": 89,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.605567,
+            0.672268
+          ],
+          "lineEnd": [
+            0.765176,
+            0.629431
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.414677,
+            0.675843
+          ],
+          "lineEnd": [
+            0.58908,
+            0.676023
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 31,
+          "seatEnd": 47,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.226443,
+            0.641685
+          ],
+          "lineEnd": [
+            0.369302,
+            0.680096
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 73,
+          "seatEnd": 89,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.630324,
+            0.68052
+          ],
+          "lineEnd": [
+            0.773522,
+            0.641648
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.41088,
+            0.690537
+          ],
+          "lineEnd": [
+            0.585283,
+            0.690717
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 63,
+          "seatEnd": 66,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.520807,
+            0.705953
+          ],
+          "lineEnd": [
+            0.554679,
+            0.705925
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 54,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.442249,
+            0.706086
+          ],
+          "lineEnd": [
+            0.476121,
+            0.706058
+          ]
+        }
+      ]
+    },
+    {
+      "id": "balcony_3",
+      "label": "第3バルコニー",
+      "level": "balcony",
+      "aliases": [
+        "第3バルコニー",
+        "第3バル",
+        "3バルコニー",
+        "3バル",
+        "1F"
+      ],
+      "polygon": [
+        [
+          0.110189,
+          0.345215
+        ],
+        [
+          0.172466,
+          0.34462
+        ],
+        [
+          0.17232,
+          0.469183
+        ],
+        [
+          0.162191,
+          0.4693
+        ],
+        [
+          0.193658,
+          0.581053
+        ],
+        [
+          0.186115,
+          0.584638
+        ],
+        [
+          0.234497,
+          0.668855
+        ],
+        [
+          0.22317,
+          0.675561
+        ],
+        [
+          0.403542,
+          0.72497
+        ],
+        [
+          0.403595,
+          0.740236
+        ],
+        [
+          0.596794,
+          0.740199
+        ],
+        [
+          0.597092,
+          0.725075
+        ],
+        [
+          0.777158,
+          0.675352
+        ],
+        [
+          0.766449,
+          0.669237
+        ],
+        [
+          0.814731,
+          0.584074
+        ],
+        [
+          0.807283,
+          0.579942
+        ],
+        [
+          0.838635,
+          0.469319
+        ],
+        [
+          0.828278,
+          0.469213
+        ],
+        [
+          0.828915,
+          0.344417
+        ],
+        [
+          0.889384,
+          0.343859
+        ],
+        [
+          0.889718,
+          0.497686
+        ],
+        [
+          0.856051,
+          0.497236
+        ],
+        [
+          0.855772,
+          0.845085
+        ],
+        [
+          0.1446,
+          0.844806
+        ],
+        [
+          0.145108,
+          0.497352
+        ],
+        [
+          0.110639,
+          0.497357
+        ]
+      ],
+      "rowOrder": "topToBottom",
+      "seatOrder": "leftToRight",
+      "rows": [
+        {
+          "row": "1",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.841828,
+            0.452633
+          ],
+          "lineEnd": [
+            0.841928,
+            0.355035
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.157603,
+            0.355046
+          ],
+          "lineEnd": [
+            0.157687,
+            0.452872
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 101,
+          "seatEnd": 110,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.821878,
+            0.57612
+          ],
+          "lineEnd": [
+            0.848778,
+            0.482271
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 11,
+          "seatEnd": 20,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.151078,
+            0.482268
+          ],
+          "lineEnd": [
+            0.178352,
+            0.576378
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 91,
+          "seatEnd": 98,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.783026,
+            0.666726
+          ],
+          "lineEnd": [
+            0.822592,
+            0.599875
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 21,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.176944,
+            0.599987
+          ],
+          "lineEnd": [
+            0.216986,
+            0.667026
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 31,
+          "seatEnd": 45,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.2389,
+            0.690898
+          ],
+          "lineEnd": [
+            0.381017,
+            0.730212
+          ]
+        },
+        {
+          "row": "1",
+          "seatStart": 74,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.618797,
+            0.730563
+          ],
+          "lineEnd": [
+            0.761248,
+            0.691401
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.139791,
+            0.354946
+          ],
+          "lineEnd": [
+            0.139875,
+            0.452772
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.860033,
+            0.452967
+          ],
+          "lineEnd": [
+            0.860133,
+            0.355369
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 91,
+          "seatEnd": 98,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.798339,
+            0.675651
+          ],
+          "lineEnd": [
+            0.837905,
+            0.6088
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 21,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.161552,
+            0.608997
+          ],
+          "lineEnd": [
+            0.201688,
+            0.676334
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 31,
+          "seatEnd": 46,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.228491,
+            0.705807
+          ],
+          "lineEnd": [
+            0.379456,
+            0.747409
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 73,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.619496,
+            0.747771
+          ],
+          "lineEnd": [
+            0.77136,
+            0.705791
+          ]
+        },
+        {
+          "row": "2",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.399412,
+            0.749045
+          ],
+          "lineEnd": [
+            0.595862,
+            0.749195
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 1,
+          "seatEnd": 10,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.122426,
+            0.355246
+          ],
+          "lineEnd": [
+            0.12251,
+            0.453072
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 111,
+          "seatEnd": 120,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.877556,
+            0.452738
+          ],
+          "lineEnd": [
+            0.877656,
+            0.35514
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 91,
+          "seatEnd": 97,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.81344,
+            0.685156
+          ],
+          "lineEnd": [
+            0.848299,
+            0.62609
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 22,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.151491,
+            0.62646
+          ],
+          "lineEnd": [
+            0.186527,
+            0.685262
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 31,
+          "seatEnd": 47,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.218439,
+            0.720711
+          ],
+          "lineEnd": [
+            0.379289,
+            0.764614
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 72,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.62008,
+            0.765194
+          ],
+          "lineEnd": [
+            0.781448,
+            0.720946
+          ]
+        },
+        {
+          "row": "3",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.404354,
+            0.765463
+          ],
+          "lineEnd": [
+            0.600804,
+            0.765613
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 91,
+          "seatEnd": 94,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.828382,
+            0.694283
+          ],
+          "lineEnd": [
+            0.848153,
+            0.660619
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 25,
+          "seatEnd": 28,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.151551,
+            0.6609
+          ],
+          "lineEnd": [
+            0.171739,
+            0.694076
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 31,
+          "seatEnd": 48,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.208346,
+            0.735006
+          ],
+          "lineEnd": [
+            0.37874,
+            0.782003
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 71,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.620964,
+            0.7825
+          ],
+          "lineEnd": [
+            0.791172,
+            0.735561
+          ]
+        },
+        {
+          "row": "4",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.399502,
+            0.782706
+          ],
+          "lineEnd": [
+            0.595952,
+            0.782856
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 31,
+          "seatEnd": 48,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.198314,
+            0.749572
+          ],
+          "lineEnd": [
+            0.368708,
+            0.796569
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 71,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.630851,
+            0.797287
+          ],
+          "lineEnd": [
+            0.801059,
+            0.750348
+          ]
+        },
+        {
+          "row": "5",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.403965,
+            0.799711
+          ],
+          "lineEnd": [
+            0.600415,
+            0.799861
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 73,
+          "seatEnd": 88,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.659999,
+            0.806596
+          ],
+          "lineEnd": [
+            0.811417,
+            0.764508
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 31,
+          "seatEnd": 46,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.187811,
+            0.76465
+          ],
+          "lineEnd": [
+            0.338752,
+            0.806476
+          ]
+        },
+        {
+          "row": "6",
+          "seatStart": 51,
+          "seatEnd": 70,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.399284,
+            0.816453
+          ],
+          "lineEnd": [
+            0.595734,
+            0.816603
+          ]
+        },
+        {
+          "row": "7",
+          "seatStart": 54,
+          "seatEnd": 66,
+          "seatOrder": "leftToRight",
+          "lineStart": [
+            0.434036,
+            0.833439
+          ],
+          "lineEnd": [
+            0.560859,
+            0.833499
+          ]
+        }
+      ]
+    }
+  ],
+  "stageVariants": []
+}

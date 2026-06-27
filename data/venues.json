@@ -773,7 +773,10 @@
     "venueId": "kanadevia_hall",
     "capacity": 3000,
     "capacityType": "seated",
-    "capacityNote": "ホール客席数（参考）"
+    "capacityNote": "ホール客席数（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "愛媛県松山市道後町2丁目5-1",

@@ -367,7 +367,10 @@
     "venueId": "ariake_arena",
     "capacity": 15000,
     "capacityType": "max",
-    "capacityNote": "最大収容人数（参考）"
+    "capacityNote": "最大収容人数（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "東京都千代田区北の丸公園2-3",

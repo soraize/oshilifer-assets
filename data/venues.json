@@ -373,6 +373,23 @@
     }
   },
   {
+    "address": "東京都江東区有明3丁目3番8号 東京ドリームパーク1階",
+    "aliases": [
+      "SGC HALL ARIAKE",
+      "SGC Hall Ariake",
+      "SGCホール",
+      "SGC有明"
+    ],
+    "lat": 35.629051,
+    "lng": 139.787939,
+    "name": "SGCホール有明",
+    "prefecture": "東京都",
+    "venueId": "sgc_hall_ariake",
+    "capacity": 5306,
+    "capacityType": "max",
+    "capacityNote": "アリーナスタンディング＋固定席 最大収容（参考）"
+  },
+  {
     "address": "東京都千代田区北の丸公園2-3",
     "aliases": [
       "Nippon Budokan",

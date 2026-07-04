@@ -387,7 +387,10 @@
     "venueId": "sgc_hall_ariake",
     "capacity": 5306,
     "capacityType": "max",
-    "capacityNote": "アリーナスタンディング＋固定席 最大収容（参考）"
+    "capacityNote": "アリーナスタンディング＋固定席 最大収容（参考）",
+    "seatMap": {
+      "enabled": true
+    }
   },
   {
     "address": "東京都千代田区北の丸公園2-3",

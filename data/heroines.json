@@ -572,6 +572,22 @@
             "instagram": "https://www.instagram.com/coai_yoruami/",
             "tiktok": "https://www.tiktok.com/@coai_1023"
           }
+        },
+        {
+          "uuid": "44676B6B-02DC-4D4B-9D54-C65D88D2BAE9",
+          "masterId": "heroines_yakousei_amuse_inori_maria",
+          "name": "月祈まりあ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#51C664"
+          ],
+          "birthday": "02-14",
+          "sns": {
+            "twitter": "https://x.com/maria_yoruami",
+            "instagram": "https://www.instagram.com/maria_yoruami/",
+            "tiktok": "https://www.tiktok.com/@maria_yoruami"
+          }
         }
       ]
     },
@@ -1009,7 +1025,7 @@
           "masterId": "heroines_parallel_cider_miyana_moco",
           "name": "宮奈もこ",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FE5F69"
           ],
@@ -1370,7 +1386,7 @@
           "masterId": "heroines_zuttomotto_sakura_an",
           "name": "佐倉あん",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#7FFFD4"
           ],
@@ -1473,6 +1489,22 @@
           "birthday": null,
           "sns": {
             "twitter": "https://x.com/hinata_zuttomo",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E82FA432-7912-4C2B-8DA1-527684CB9A93",
+          "masterId": "heroines_heroines_kenkyuusei_hirose_rimu",
+          "name": "広瀬りむ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#7FFFD4"
+          ],
+          "birthday": "11-01",
+          "sns": {
+            "twitter": "https://x.com/rimu_heroines",
             "instagram": null,
             "tiktok": null
           }
@@ -2140,7 +2172,7 @@
           "masterId": "heroines_megafon_konomi_ren",
           "name": "好実れん",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FF69A8"
           ],
@@ -2703,6 +2735,38 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@rastscene_onpu"
           }
+        },
+        {
+          "uuid": "5AB9E560-45E8-48EB-B520-D19CC67AF4CE",
+          "masterId": "heroines_last_scene_ayano_mona",
+          "name": "綾乃もな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9633"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": null,
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F14CFF6C-6F44-4397-85F0-CE9BAE55DF5C",
+          "masterId": "heroines_last_scene_misora_yun",
+          "name": "水空ゆん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B8FBFF"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/LASTSCENE_yun",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@lastscene_yun"
+          }
         }
       ]
     },
@@ -2948,6 +3012,57 @@
             "twitter": "https://x.com/HARUKAECHO_RIN",
             "instagram": "https://www.instagram.com/__koakumachan/",
             "tiktok": "https://www.tiktok.com/@___koakumachan"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "EADA0F5F-7DA9-4331-ADCC-042202EB0E73",
+      "masterId": "heroines_nowstorage",
+      "name": "なう♡すとれーじ",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Now%E2%99%A1Storage",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/nowstorage_info",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@nowstorage_",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "AE6822C5-1DDD-4D5C-8ED4-92796620BEE3",
+          "masterId": "heroines_nowstorage_haruno_sera",
+          "name": "晴野せら",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FEA557"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/nowstorage_sera",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "28CC6EC2-97D0-4E1D-9716-1FA58D2A1BC2",
+          "masterId": "heroines_nowstorage_sonoda_manon",
+          "name": "園田まのん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B0101C"
+          ],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/nowstorage_mano",
+            "instagram": null,
+            "tiktok": null
           }
         }
       ]

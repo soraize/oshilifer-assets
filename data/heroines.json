@@ -120,7 +120,14 @@
             "twitter": "https://x.com/uni__ponkotsu",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@uni__ponkotsu"
-          }
+          },
+          "formerGroups": [
+            "PLUMAGE",
+            "OVERFLOW",
+            "#ピコリフ",
+            "クチナシ",
+            "KAMOがネギをしょってくるッ!!!"
+          ]
         },
         {
           "uuid": "7E4E553F-295D-4F76-B8AB-1EE44573D638",
@@ -137,7 +144,10 @@
             "twitter": "https://x.com/aporo_ponkotsu",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@aporo_ponkotsu"
-          }
+          },
+          "formerGroups": [
+            "CIDER GEM"
+          ]
         },
         {
           "uuid": "6FCC228A-408F-43FA-BB94-69BB75832C79",
@@ -209,7 +219,11 @@
             "twitter": "https://x.com/Nico_TENRIN",
             "instagram": "https://www.instagram.com/nico_tenrin/",
             "tiktok": "https://www.tiktok.com/@nico_tenrin"
-          }
+          },
+          "formerGroups": [
+            "Pimm's",
+            "パラレルサイダー"
+          ]
         },
         {
           "uuid": "EEBA2F64-8A3F-447A-903E-4C00ED823370",
@@ -260,7 +274,11 @@
             "twitter": "https://x.com/Ayan_TENRIN",
             "instagram": "https://www.instagram.com/_yanyangohan_/",
             "tiktok": "https://www.tiktok.com/@_yanyangohan_"
-          }
+          },
+          "formerGroups": [
+            "マボロシ可憐GeNE",
+            "幻.no"
+          ]
         },
         {
           "uuid": "76EFADB6-9943-4548-840C-5D812888A522",
@@ -294,7 +312,10 @@
             "twitter": "https://x.com/ageha_TENRIN",
             "instagram": "https://www.instagram.com/ageha.tenrin/",
             "tiktok": "https://www.tiktok.com/@ageha_tenrin"
-          }
+          },
+          "formerGroups": [
+            "SO.ON project TOKYO"
+          ]
         },
         {
           "uuid": "F9011B08-1B0F-4494-A0DB-1AE81E673C48",
@@ -349,7 +370,10 @@
             "twitter": "https://x.com/ice_icol",
             "instagram": "https://www.instagram.com/ice_icol/",
             "tiktok": "https://www.tiktok.com/@ice_icol"
-          }
+          },
+          "formerGroups": [
+            "YAMINABE"
+          ]
         },
         {
           "uuid": "34C1F355-A860-4EE2-BAA5-CEBF346A5396",
@@ -383,7 +407,11 @@
             "twitter": "https://x.com/iLiFE_riri",
             "instagram": "https://www.instagram.com/riri_ilife/",
             "tiktok": "https://www.tiktok.com/@kome_0519"
-          }
+          },
+          "formerGroups": [
+            "リンクSTAR's",
+            "ゆめいろH!L!T"
+          ]
         },
         {
           "uuid": "DDE0BC06-BAD2-409B-852E-A6AF42AB1400",
@@ -417,7 +445,10 @@
             "twitter": "https://x.com/iLiFE_fukumaru",
             "instagram": "https://www.instagram.com/ilife_usa/",
             "tiktok": "https://www.tiktok.com/@fukumarusa"
-          }
+          },
+          "formerGroups": [
+            "ZUTTOMOTTO"
+          ]
         },
         {
           "uuid": "66A83EF0-837B-47C7-B38D-7A37D0FDAAFE",
@@ -434,7 +465,10 @@
             "twitter": "https://x.com/iLiFE_karen",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "monogatari"
+          ]
         },
         {
           "uuid": "FA9EED94-003C-4469-8377-A8966A543519",
@@ -557,7 +591,10 @@
             "twitter": "https://x.com/shuru_yoruami",
             "instagram": "https://www.instagram.com/shuru_yoruami/",
             "tiktok": "https://www.tiktok.com/@shuru_yoruami"
-          }
+          },
+          "formerGroups": [
+            "SKE48"
+          ]
         },
         {
           "uuid": "BE6B0B3B-2A69-4885-8EB0-4297A50362F1",
@@ -574,7 +611,10 @@
             "instagram": "https://www.instagram.com/___42rina/",
             "tiktok": "https://www.tiktok.com/@___42rina"
           },
-          "joinDate": "2021-03-17"
+          "joinDate": "2021-03-17",
+          "formerGroups": [
+            "NMB48"
+          ]
         },
         {
           "uuid": "F182B56F-1213-4C1E-9356-24AAE8631337",
@@ -591,7 +631,10 @@
             "twitter": "https://x.com/furiru_yoruami",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@furiru_yoruami"
-          }
+          },
+          "formerGroups": [
+            "iLiFE!候補生"
+          ]
         },
         {
           "uuid": "A5337852-8F89-4D79-8C12-3F8756354E4A",
@@ -608,7 +651,11 @@
             "instagram": "https://www.instagram.com/coai_yoruami/",
             "tiktok": "https://www.tiktok.com/@coai_1023"
           },
-          "joinDate": "2021-03-17"
+          "joinDate": "2021-03-17",
+          "formerGroups": [
+            "ぜんぶ君のせいだ。",
+            "PEDIOPHOBIA"
+          ]
         },
         {
           "uuid": "44676B6B-02DC-4D4B-9D54-C65D88D2BAE9",
@@ -680,7 +727,11 @@
             "twitter": "https://x.com/colne_icol",
             "instagram": "https://www.instagram.com/colne_icol/",
             "tiktok": "https://www.tiktok.com/@colne_blkliliy"
-          }
+          },
+          "formerGroups": [
+            "YAMINABE",
+            "BLK LiLiY"
+          ]
         },
         {
           "uuid": "6134374E-0E53-4CE2-AE9A-2983EC81E35E",
@@ -714,7 +765,11 @@
             "instagram": "https://www.instagram.com/Piano_nonfic/",
             "tiktok": null
           },
-          "joinDate": "2021-04-05"
+          "joinDate": "2021-04-05",
+          "formerGroups": [
+            "KATA☆CHU",
+            "FES☆TIVE"
+          ]
         },
         {
           "uuid": "481C76E2-F011-4731-B031-2FEAE93E7370",
@@ -731,7 +786,10 @@
             "instagram": "https://www.instagram.com/touka_nonfic/",
             "tiktok": null
           },
-          "joinDate": "2021-04-05"
+          "joinDate": "2021-04-05",
+          "formerGroups": [
+            "ZOC"
+          ]
         },
         {
           "uuid": "8B010374-4BCB-4EEF-B29A-C0C0C77CB620",
@@ -748,7 +806,10 @@
             "twitter": "https://x.com/Marin_nonfic",
             "instagram": "https://www.instagram.com/marin_nonfic/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "NMB48"
+          ]
         },
         {
           "uuid": "FE4C78F9-C8B3-404D-AB43-C4EEAA7293A2",
@@ -765,7 +826,10 @@
             "twitter": "https://x.com/niina_nonfic",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@niina_nonfic"
-          }
+          },
+          "formerGroups": [
+            "東京CLEAR'S"
+          ]
         },
         {
           "uuid": "1CA96539-553F-44BD-A6B5-C2432F4D1A12",
@@ -782,7 +846,10 @@
             "twitter": "https://x.com/Amu_nonfic",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@Amu_nonfic"
-          }
+          },
+          "formerGroups": [
+            "monogatari"
+          ]
         },
         {
           "uuid": "520E458E-25FE-4D28-A6AA-E923E112D0E0",
@@ -904,7 +971,11 @@
             "twitter": "https://x.com/anninmirucalres",
             "instagram": "https://www.instagram.com/annin_calres/",
             "tiktok": "https://www.tiktok.com/@annin_calres"
-          }
+          },
+          "formerGroups": [
+            "PureGi",
+            "ガガピエロ"
+          ]
         },
         {
           "uuid": "4D6D4273-15B1-4E22-8170-0BDFDDDB3328",
@@ -976,7 +1047,10 @@
             "twitter": "https://x.com/mori_Ill",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@mori_ill"
-          }
+          },
+          "formerGroups": [
+            "iNTOYOU"
+          ]
         },
         {
           "uuid": "72537D52-DB56-496D-BD5A-9405C12638A0",
@@ -993,7 +1067,10 @@
             "instagram": "https://www.instagram.com/heav_en_ly/",
             "tiktok": "https://www.tiktok.com/@heav_en_ly"
           },
-          "joinDate": "2021-08-27"
+          "joinDate": "2021-08-27",
+          "formerGroups": [
+            "悲撃のヒロイン症候群"
+          ]
         },
         {
           "uuid": "BC9FBF2D-69DF-4ABF-8EE6-1212AC0515EE",
@@ -1027,7 +1104,10 @@
             "twitter": "https://x.com/kanau_Ill",
             "instagram": "https://www.instagram.com/kanau_twinpale/",
             "tiktok": "https://www.tiktok.com/@kanau_twinpale"
-          }
+          },
+          "formerGroups": [
+            "悲撃のヒロイン症候群"
+          ]
         }
       ],
       "formationDate": "2021-08-27",
@@ -1064,7 +1144,10 @@
             "twitter": "https://x.com/ice_icol",
             "instagram": "https://www.instagram.com/ice_icol/",
             "tiktok": "https://www.tiktok.com/@ice_icol"
-          }
+          },
+          "formerGroups": [
+            "YAMINABE"
+          ]
         },
         {
           "uuid": "C41FE8E8-CB6B-4BB3-9B1F-C433A4A49833",
@@ -1080,7 +1163,11 @@
             "twitter": "https://x.com/colne_icol",
             "instagram": "https://www.instagram.com/colne_icol/",
             "tiktok": "https://www.tiktok.com/@colne_blkliliy"
-          }
+          },
+          "formerGroups": [
+            "YAMINABE",
+            "BLK LiLiY"
+          ]
         }
       ],
       "formationDate": "2021-05-14",
@@ -1151,7 +1238,10 @@
             "twitter": "https://x.com/mion_parasai",
             "instagram": "https://www.instagram.com/mion_makemie/",
             "tiktok": "https://www.tiktok.com/@mion_makemie"
-          }
+          },
+          "formerGroups": [
+            "炭酸くろにくるっ"
+          ]
         },
         {
           "uuid": "497A9C1F-CE73-4241-8643-727A284821AB",
@@ -1168,7 +1258,10 @@
             "instagram": "https://www.instagram.com/manaka_makemie/",
             "tiktok": "https://www.tiktok.com/@manaka_makemie"
           },
-          "joinDate": "2022-05-14"
+          "joinDate": "2022-05-14",
+          "formerGroups": [
+            "妄愛グラビティ"
+          ]
         },
         {
           "uuid": "DF94D39B-DAC7-4369-9AF9-5EC9EA61C99F",
@@ -1257,7 +1350,10 @@
             "twitter": "https://x.com/kanau_Ill",
             "instagram": "https://www.instagram.com/kanau_twinpale/",
             "tiktok": "https://www.tiktok.com/@kanau_twinpale"
-          }
+          },
+          "formerGroups": [
+            "悲撃のヒロイン症候群"
+          ]
         },
         {
           "uuid": "72537D52-DB56-496D-BD5A-9405C12638A0",
@@ -1273,7 +1369,10 @@
             "twitter": "https://x.com/hime_Ill",
             "instagram": "https://www.instagram.com/heav_en_ly/",
             "tiktok": "https://www.tiktok.com/@heav_en_ly"
-          }
+          },
+          "formerGroups": [
+            "悲撃のヒロイン症候群"
+          ]
         },
         {
           "uuid": "A5337852-8F89-4D79-8C12-3F8756354E4A",
@@ -1290,7 +1389,11 @@
             "twitter": "https://x.com/coai_yoruami",
             "instagram": "https://www.instagram.com/coai_yoruami/",
             "tiktok": "https://www.tiktok.com/@coai_1023"
-          }
+          },
+          "formerGroups": [
+            "ぜんぶ君のせいだ。",
+            "PEDIOPHOBIA"
+          ]
         },
         {
           "uuid": "6134374E-0E53-4CE2-AE9A-2983EC81E35E",
@@ -1324,7 +1427,11 @@
             "twitter": "https://x.com/iLiFE_riri",
             "instagram": "https://www.instagram.com/riri_ilife/",
             "tiktok": "https://www.tiktok.com/@kome_0519"
-          }
+          },
+          "formerGroups": [
+            "リンクSTAR's",
+            "ゆめいろH!L!T"
+          ]
         }
       ],
       "formationDate": "2022-05-20",
@@ -1379,7 +1486,10 @@
             "twitter": "https://x.com/yamu_adamth",
             "instagram": "https://www.instagram.com/yamu_yayoi/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "悲撃のヒロイン症候群"
+          ]
         },
         {
           "uuid": "962BF4D8-EBF4-44FC-98B0-7C8AF3E97F52",
@@ -1395,7 +1505,12 @@
             "twitter": "https://x.com/yuna_adamth",
             "instagram": "https://www.instagram.com/yuna_adamth/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "SKE48",
+            "イロハサクラ",
+            "Culumi"
+          ]
         },
         {
           "uuid": "6FFC3A60-898B-4935-BE4A-443C37319BEE",
@@ -1411,7 +1526,11 @@
             "twitter": "https://x.com/rizu_adamth",
             "instagram": "https://www.instagram.com/rizu_adamth/",
             "tiktok": "https://www.tiktok.com/@rizu_blkliliy"
-          }
+          },
+          "formerGroups": [
+            "STRAHL",
+            "BLK LiLiY"
+          ]
         }
       ],
       "formationDate": "2022-09-24",
@@ -1500,7 +1619,11 @@
             "twitter": "https://x.com/mira_zuttomo",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@mira_zuttomo"
-          }
+          },
+          "formerGroups": [
+            "fairy☆dolls",
+            "よるもにゅ!"
+          ]
         },
         {
           "uuid": "2E2503BB-8215-456F-B631-67126F34CCB7",
@@ -1708,7 +1831,11 @@
             "twitter": "https://x.com/Mia_ladybaby",
             "instagram": "https://www.instagram.com/_reite_me/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "Season2",
+            "夜光性アミューズ"
+          ]
         },
         {
           "uuid": "D56215F6-6F20-423C-BDC3-D75A9631FB49",
@@ -1725,7 +1852,11 @@
             "twitter": "https://x.com/Kino_ladybaby",
             "instagram": "https://www.instagram.com/d0c_0b__oo/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "超電波バスターズ",
+            "mistress"
+          ]
         }
       ],
       "debutDate": "2023-12-01"
@@ -1762,7 +1893,10 @@
             "twitter": "https://x.com/aksb_arisa",
             "instagram": "https://www.instagram.com/achi_arisa/",
             "tiktok": "https://www.tiktok.com/@aksb_arisa"
-          }
+          },
+          "formerGroups": [
+            "link start"
+          ]
         },
         {
           "uuid": "3A7C8AA2-4311-442A-8AD6-3AE5D71A8E28",
@@ -1779,7 +1913,10 @@
             "twitter": "https://x.com/aksb_hotaru",
             "instagram": "https://www.instagram.com/amakawa_hotaru/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "chuLa"
+          ]
         },
         {
           "uuid": "F996DB99-EE96-4252-8B6C-6AECA05CC501",
@@ -1830,7 +1967,10 @@
             "twitter": "https://x.com/aksb_lun",
             "instagram": "https://www.instagram.com/aksb_lun/",
             "tiktok": "https://www.tiktok.com/@user1188608005482"
-          }
+          },
+          "formerGroups": [
+            "炭酸くろにくるっ"
+          ]
         },
         {
           "uuid": "465EF496-E061-426B-93CF-BD4EF39929F6",
@@ -1847,7 +1987,12 @@
             "twitter": "https://x.com/aksb_rana",
             "instagram": "https://www.instagram.com/yonsuchan/",
             "tiktok": "https://www.tiktok.com/@yonsuchan"
-          }
+          },
+          "formerGroups": [
+            "Le Siana",
+            "煌めき☆アンフォレント",
+            "モユルハル"
+          ]
         },
         {
           "uuid": "61A988FE-28C1-4467-BAFF-5CE7FFECAD67",
@@ -1900,7 +2045,12 @@
             "twitter": "https://x.com/hiyo_chula",
             "instagram": "https://www.instagram.com/hiyo_chula/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "アキシブproject",
+            "BLK LiLiY",
+            "ガガピエロ"
+          ]
         },
         {
           "uuid": "81DE74F8-36B0-48EE-9AF4-9B35581F4BCF",
@@ -1968,7 +2118,10 @@
             "twitter": "https://x.com/yuni_chuLa",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@yuni_heroines"
-          }
+          },
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
         },
         {
           "uuid": "44A24C91-9E0D-4E85-BF54-93674DAE2708",
@@ -2002,7 +2155,10 @@
             "twitter": "https://x.com/ringo__chuLa",
             "instagram": "https://www.instagram.com/ringo_chuLa/",
             "tiktok": "https://www.tiktok.com/@ringo_chuLa"
-          }
+          },
+          "formerGroups": [
+            "コムモア"
+          ]
         }
       ],
       "formationDate": "2017-05-07",
@@ -2108,7 +2264,10 @@
             "twitter": "https://x.com/para_yuzuriha",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@para_mikan"
-          }
+          },
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         },
         {
           "uuid": "D94DEEF5-DA94-42E0-95AE-E09688D131B4",
@@ -2176,7 +2335,10 @@
             "twitter": "https://x.com/para_hinazuki",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@para_hina"
-          }
+          },
+          "formerGroups": [
+            "アイコノクラズム"
+          ]
         }
       ],
       "formationDate": "2021-03-27",
@@ -2282,7 +2444,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@dreco_mimo"
           },
-          "joinDate": "2024-10-12"
+          "joinDate": "2024-10-12",
+          "formerGroups": [
+            "STU48"
+          ]
         },
         {
           "uuid": "C383145C-79A3-4667-BAFE-5A5CD6A0CD71",
@@ -2371,7 +2536,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_yuki"
           },
-          "joinDate": "2025-04-12"
+          "joinDate": "2025-04-12",
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
         },
         {
           "uuid": "AA70C4C2-6DFD-448A-8C49-07B7B3C32E81",
@@ -2405,7 +2573,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_kii"
           },
-          "joinDate": "2025-04-11"
+          "joinDate": "2025-04-11",
+          "formerGroups": [
+            "ナナランド"
+          ]
         },
         {
           "uuid": "E7CBAFBD-A973-4D1B-AC52-036A32284631",
@@ -2456,7 +2627,12 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_roko"
           },
-          "joinDate": "2025-04-10"
+          "joinDate": "2025-04-10",
+          "formerGroups": [
+            "キャンディzoo",
+            "RIOT BABY",
+            "LilyS/ash"
+          ]
         }
       ],
       "formationDate": "2025-04-06",
@@ -2494,7 +2670,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_kurara_"
           },
-          "joinDate": "2025-05-05"
+          "joinDate": "2025-05-05",
+          "formerGroups": [
+            "ぼくはまだしなない"
+          ]
         },
         {
           "uuid": "BA195DC8-CCB5-4028-A21D-E7825407D978",
@@ -2511,7 +2690,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_kono_"
           },
-          "joinDate": "2025-05-03"
+          "joinDate": "2025-05-03",
+          "formerGroups": [
+            "まかろんぱぁてぃ"
+          ]
         },
         {
           "uuid": "C412EA12-00D9-4C8C-B632-6AFDFECD5080",
@@ -2528,7 +2710,10 @@
             "twitter": "https://x.com/iON_menma_",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "夢現シンクレティズム"
+          ]
         },
         {
           "uuid": "2094D6CD-B518-4DFD-9A93-86C41B843142",
@@ -2562,7 +2747,10 @@
             "instagram": "https://www.instagram.com/yuri_heroines/",
             "tiktok": "https://www.tiktok.com/@yuri_heroines"
           },
-          "joinDate": "2025-05-01"
+          "joinDate": "2025-05-01",
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
         },
         {
           "uuid": "9FC42C11-AD28-4BD8-B4AB-128014482B5C",
@@ -2596,7 +2784,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@iON_peco_"
           },
-          "joinDate": "2025-05-02"
+          "joinDate": "2025-05-02",
+          "formerGroups": [
+            "iTRiP"
+          ]
         },
         {
           "uuid": "D429BBCC-874F-4CF9-92BD-23E264849AC8",
@@ -2647,7 +2838,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_rise"
           },
-          "joinDate": "2025-05-06"
+          "joinDate": "2025-05-06",
+          "formerGroups": [
+            "ZUTTOMOTTO"
+          ]
         }
       ],
       "formationDate": "2025-04-20",
@@ -2736,7 +2930,10 @@
             "instagram": "https://www.instagram.com/ai_pasclo/",
             "tiktok": "https://www.tiktok.com/@Pastel_ai_"
           },
-          "joinDate": "2025-07-31"
+          "joinDate": "2025-07-31",
+          "formerGroups": [
+            "かぷ♡ちゅーる"
+          ]
         },
         {
           "uuid": "C6703711-DE9F-40AE-ADD7-9CDA21B25ADE",
@@ -2842,7 +3039,12 @@
             "instagram": "https://www.instagram.com/ichikayasann/",
             "tiktok": "https://www.tiktok.com/@lastscene_ichi"
           },
-          "joinDate": "2025-12-15"
+          "joinDate": "2025-12-15",
+          "formerGroups": [
+            "#ペンタプリズム",
+            "ポスタルジア",
+            "ドラマチックレコード"
+          ]
         },
         {
           "uuid": "EA6B1365-F4CF-4E2E-B884-53BD8594B19E",
@@ -2876,7 +3078,10 @@
             "instagram": "https://www.instagram.com/mireneco3/",
             "tiktok": null
           },
-          "joinDate": "2025-12-21"
+          "joinDate": "2025-12-21",
+          "formerGroups": [
+            "アキシブproject"
+          ]
         },
         {
           "uuid": "21751A4F-9025-480A-8222-80332D629D56",
@@ -2893,7 +3098,10 @@
             "instagram": "https://www.instagram.com/_bakechiken/",
             "tiktok": "https://www.tiktok.com/@lastscene_amo"
           },
-          "joinDate": "2025-12-13"
+          "joinDate": "2025-12-13",
+          "formerGroups": [
+            "iLiFE!"
+          ]
         },
         {
           "uuid": "B29C9C43-6F6A-4721-B877-C61ACEF76090",
@@ -2910,7 +3118,10 @@
             "instagram": "https://www.instagram.com/mimi1002_/",
             "tiktok": "https://www.tiktok.com/@mimi__berry3"
           },
-          "joinDate": "2025-12-20"
+          "joinDate": "2025-12-20",
+          "formerGroups": [
+            "みらサプ!"
+          ]
         },
         {
           "uuid": "2A3D4E83-3EB3-4156-A976-E743005B877E",
@@ -2944,7 +3155,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@rastscene_onpu"
           },
-          "joinDate": "2025-12-14"
+          "joinDate": "2025-12-14",
+          "formerGroups": [
+            "iLiFE!候補生"
+          ]
         },
         {
           "uuid": "5AB9E560-45E8-48EB-B520-D19CC67AF4CE",
@@ -3016,7 +3230,17 @@
             "instagram": "https://www.instagram.com/FullCo_Cocoro/",
             "tiktok": "https://www.tiktok.com/@FullCo_Cocoro"
           },
-          "joinDate": "2026-02-18"
+          "joinDate": "2026-02-18",
+          "formerGroups": [
+            "ユリシス",
+            "UNiSON",
+            "ワンチャンアリーナ",
+            "BABY TO KISS",
+            "HOT DOG CAT",
+            "あまいものつめあわせ",
+            "イイトコドリ",
+            "ゆめみたいにかわいい"
+          ]
         },
         {
           "uuid": "4CEEDB37-D844-4F91-B472-D8D3A8DEECEC",
@@ -3050,7 +3274,10 @@
             "instagram": "https://www.instagram.com/FullCo_Mihane/",
             "tiktok": "https://www.tiktok.com/@FullCo_Mihane"
           },
-          "joinDate": "2026-02-23"
+          "joinDate": "2026-02-23",
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         },
         {
           "uuid": "E9A3DFD8-0361-4208-A3A4-673D1B74FCF2",
@@ -3067,7 +3294,10 @@
             "instagram": "https://www.instagram.com/FullCo_Rimika/",
             "tiktok": "https://www.tiktok.com/@FullCo_Rimika"
           },
-          "joinDate": "2026-02-24"
+          "joinDate": "2026-02-24",
+          "formerGroups": [
+            "HKT48"
+          ]
         },
         {
           "uuid": "C70599B9-F5DC-4B0E-9162-47472646DA46",
@@ -3084,7 +3314,10 @@
             "instagram": "https://www.instagram.com/FullCo_Maki/",
             "tiktok": "https://www.tiktok.com/@FullCo_Maki"
           },
-          "joinDate": "2026-02-22"
+          "joinDate": "2026-02-22",
+          "formerGroups": [
+            "ヒロインズ研究生大阪"
+          ]
         },
         {
           "uuid": "37D36D17-084B-4A6F-8D3D-84C030264C73",
@@ -3101,7 +3334,12 @@
             "instagram": "https://www.instagram.com/fullco_haruka/",
             "tiktok": "https://www.tiktok.com/@fullco_haruka"
           },
-          "joinDate": "2026-02-20"
+          "joinDate": "2026-02-20",
+          "formerGroups": [
+            "my fav",
+            "La Luce",
+            "リアン"
+          ]
         },
         {
           "uuid": "5E770FFA-E81C-4946-AEE9-0CEAC266FD1E",
@@ -3118,7 +3356,13 @@
             "instagram": "https://www.instagram.com/abe_nanami_/",
             "tiktok": null
           },
-          "joinDate": "2026-02-19"
+          "joinDate": "2026-02-19",
+          "formerGroups": [
+            "パクスプエラ",
+            "my fav",
+            "La Luce",
+            "リアン"
+          ]
         }
       ],
       "formationDate": "2026-02-15",
@@ -3156,7 +3400,10 @@
             "instagram": null,
             "tiktok": null
           },
-          "joinDate": "2026-04-13"
+          "joinDate": "2026-04-13",
+          "formerGroups": [
+            "SO.ON project NAGOYA"
+          ]
         },
         {
           "uuid": "F76D6715-BBB6-4D9B-8447-40DDF36B5E58",
@@ -3173,7 +3420,10 @@
             "instagram": "https://www.instagram.com/HARUKAECHO_KAE/",
             "tiktok": "https://www.tiktok.com/@kae_uo.ou"
           },
-          "joinDate": "2026-04-11"
+          "joinDate": "2026-04-11",
+          "formerGroups": [
+            "アキシブproject"
+          ]
         },
         {
           "uuid": "5D4FC864-B8DC-4D92-BBFE-258CA272041C",
@@ -3402,7 +3652,11 @@
             "twitter": "https://x.com/lemon_nanakoro",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@aiueooo0517"
-          }
+          },
+          "formerGroups": [
+            "Ruriiro no Ryu o Michibikishi Youjo",
+            "浪速猫"
+          ]
         },
         {
           "uuid": "2823225C-4A38-4DBA-A5B3-DC64CB516E20",
@@ -3419,7 +3673,11 @@
             "twitter": "https://x.com/nimo_nanakoro",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@nimo_nanakoro"
-          }
+          },
+          "formerGroups": [
+            "シェリ・シェリー",
+            "P-Loco"
+          ]
         },
         {
           "uuid": "79AE6981-776B-4F98-8C27-8B7D8B218580",
@@ -3508,7 +3766,10 @@
             "twitter": "https://x.com/tenran_misono",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@tenran_misono"
-          }
+          },
+          "formerGroups": [
+            "#かわいいだけでバズりたい"
+          ]
         },
         {
           "uuid": "2094D6CD-B518-4DFD-9A93-86C41B843142",
@@ -3542,7 +3803,10 @@
             "twitter": "https://x.com/tenran_azuki",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@tenran_azuki"
-          }
+          },
+          "formerGroups": [
+            "プリンセス物語"
+          ]
         },
         {
           "uuid": "FDAAB069-0CCF-4617-9224-BD0BF4F0FDD0",
@@ -3593,7 +3857,10 @@
             "twitter": "https://x.com/tenran_koyun",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@tenran_koyun"
-          }
+          },
+          "formerGroups": [
+            "SO.ON project NAGOYA"
+          ]
         },
         {
           "uuid": "54E5CECB-F13C-4A90-8A40-E3BB3774518B",
@@ -3610,7 +3877,10 @@
             "twitter": "https://x.com/tenran_momo",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@tenran_momo"
-          }
+          },
+          "formerGroups": [
+            "きっと大切だった"
+          ]
         }
       ],
       "formationDate": "2024-10-06",

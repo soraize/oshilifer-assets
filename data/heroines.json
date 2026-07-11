@@ -156,7 +156,9 @@
             "tiktok": "https://www.tiktok.com/@koma_ponkotsu"
           }
         }
-      ]
+      ],
+      "formationDate": "2019-08-16",
+      "debutDate": "2019-08-20"
     },
     {
       "uuid": "71F4243D-25B7-41EC-9913-134B951AFDB7",
@@ -311,7 +313,9 @@
             "tiktok": "https://www.tiktok.com/@alto_tenrin"
           }
         }
-      ]
+      ],
+      "formationDate": "2020-05-25",
+      "debutDate": "2020-07-21"
     },
     {
       "uuid": "D945933F-0F24-4D80-A590-3CE0C9E36B5F",
@@ -483,7 +487,9 @@
             "tiktok": "https://www.tiktok.com/@ilife_mini"
           }
         }
-      ]
+      ],
+      "formationDate": "2020-06-05",
+      "debutDate": "2020-07-19"
     },
     {
       "uuid": "AF8C352D-96A1-4065-B361-68FDBC23B540",
@@ -638,7 +644,9 @@
             "tiktok": "https://www.tiktok.com/@kyun_yoruami"
           }
         }
-      ]
+      ],
+      "formationDate": "2021-03-17",
+      "debutDate": "2021-04-17"
     },
     {
       "uuid": "4B1678DB-7ECD-4879-AEA9-E02E3806BE1B",
@@ -810,7 +818,9 @@
           },
           "joinDate": "2026-06-11"
         }
-      ]
+      ],
+      "formationDate": "2021-04-05",
+      "debutDate": "2021-05-05"
     },
     {
       "uuid": "288F957C-EB53-416C-B11F-43048B0C0C29",
@@ -930,7 +940,9 @@
             "tiktok": "https://www.tiktok.com/@mii_calres"
           }
         }
-      ]
+      ],
+      "formationDate": "2021-08-16",
+      "debutDate": "2021-09-03"
     },
     {
       "uuid": "E1CB7A6E-B2CA-467D-A069-B565841785C0",
@@ -1017,7 +1029,9 @@
             "tiktok": "https://www.tiktok.com/@kanau_twinpale"
           }
         }
-      ]
+      ],
+      "formationDate": "2021-08-27",
+      "debutDate": "2024-12-23"
     },
     {
       "uuid": "2037731D-F719-44A5-8D59-998E976B2900",
@@ -1068,7 +1082,9 @@
             "tiktok": "https://www.tiktok.com/@colne_blkliliy"
           }
         }
-      ]
+      ],
+      "formationDate": "2021-05-14",
+      "debutDate": "2021-06-05"
     },
     {
       "uuid": "42273599-4382-407C-8CF7-ABD0FFE6B0CA",
@@ -1205,7 +1221,9 @@
             "tiktok": null
           }
         }
-      ]
+      ],
+      "formationDate": "2022-05-22",
+      "debutDate": "2022-06-02"
     },
     {
       "uuid": "5B0A44A8-F989-4804-8467-E3559C9886CA",
@@ -1308,7 +1326,9 @@
             "tiktok": "https://www.tiktok.com/@kome_0519"
           }
         }
-      ]
+      ],
+      "formationDate": "2022-05-20",
+      "debutDate": "2022-06-28"
     },
     {
       "uuid": "C61E7AF8-D83E-4EFB-BB6F-B40DE5279D6E",
@@ -1393,7 +1413,9 @@
             "tiktok": "https://www.tiktok.com/@rizu_blkliliy"
           }
         }
-      ]
+      ],
+      "formationDate": "2022-09-24",
+      "debutDate": "2022-10-25"
     },
     {
       "uuid": "FE42AF8F-3964-4EDF-8D59-694285D79BA1",
@@ -1616,7 +1638,9 @@
           },
           "joinDate": "2026-07-07"
         }
-      ]
+      ],
+      "formationDate": "2023-02-04",
+      "debutDate": "2023-02-20"
     },
     {
       "uuid": "EDEF56B7-A5DF-4451-A925-6A999EB2AD6A",
@@ -1703,7 +1727,8 @@
             "tiktok": null
           }
         }
-      ]
+      ],
+      "debutDate": "2023-12-01"
     },
     {
       "uuid": "8A5E6E25-5C0F-423D-8FA2-09AB20E47874",
@@ -1979,7 +2004,9 @@
             "tiktok": "https://www.tiktok.com/@ringo_chuLa"
           }
         }
-      ]
+      ],
+      "formationDate": "2017-05-07",
+      "debutDate": "2017-05-07"
     },
     {
       "uuid": "0DC45F99-C4FE-4CFB-AE1D-8DA9457B2118",
@@ -2151,7 +2178,9 @@
             "tiktok": "https://www.tiktok.com/@para_hina"
           }
         }
-      ]
+      ],
+      "formationDate": "2021-03-27",
+      "debutDate": "2021-04-04"
     },
     {
       "uuid": "91F5FF41-8AD2-479B-967C-72A466D94F1D",
@@ -2289,7 +2318,9 @@
           },
           "joinDate": "2024-10-13"
         }
-      ]
+      ],
+      "formationDate": "2024-09-21",
+      "debutDate": "2024-11-26"
     },
     {
       "uuid": "4CABA5C6-77DD-4EDD-896D-B47C37F12DB4",
@@ -2427,7 +2458,9 @@
           },
           "joinDate": "2025-04-10"
         }
-      ]
+      ],
+      "formationDate": "2025-04-06",
+      "debutDate": "2025-04-27"
     },
     {
       "uuid": "89B311AB-1771-407B-B4D2-5D89D4C519F9",
@@ -2616,7 +2649,9 @@
           },
           "joinDate": "2025-05-06"
         }
-      ]
+      ],
+      "formationDate": "2025-04-20",
+      "debutDate": "2025-05-22"
     },
     {
       "uuid": "9202235A-5833-4715-81A5-04BD95BCE7A3",
@@ -2771,7 +2806,9 @@
           },
           "joinDate": "2025-07-30"
         }
-      ]
+      ],
+      "formationDate": "2025-07-27",
+      "debutDate": "2025-08-02"
     },
     {
       "uuid": "29414F8E-01F9-47CA-808D-059A8158B83B",
@@ -2943,7 +2980,9 @@
             "tiktok": "https://www.tiktok.com/@lastscene_yun"
           }
         }
-      ]
+      ],
+      "formationDate": "2025-12-13",
+      "debutDate": "2025-12-24"
     },
     {
       "uuid": "EC31020F-B5A1-433D-B46B-DDDD8FD4A7F2",
@@ -3081,7 +3120,9 @@
           },
           "joinDate": "2026-02-19"
         }
-      ]
+      ],
+      "formationDate": "2026-02-15",
+      "debutDate": "2026-02-27"
     },
     {
       "uuid": "45180824-29E1-403F-915F-C6984D995CE1",
@@ -3202,7 +3243,9 @@
           },
           "joinDate": "2026-04-15"
         }
-      ]
+      ],
+      "formationDate": "2026-04-09",
+      "debutDate": "2026-04-19"
     },
     {
       "uuid": "EADA0F5F-7DA9-4331-ADCC-042202EB0E73",
@@ -3289,7 +3332,9 @@
             "tiktok": "https://www.tiktok.com/@nowstorage_umya"
           }
         }
-      ]
+      ],
+      "formationDate": "2026-07-06",
+      "debutDate": "2026-07-13"
     },
     {
       "uuid": "F5713B52-FCFE-4364-B5C9-3E4FC7810F4B",
@@ -3427,7 +3472,9 @@
             "tiktok": "https://www.tiktok.com/@rikotantanmen"
           }
         }
-      ]
+      ],
+      "formationDate": "2024-06-14",
+      "debutDate": "2024-07-12"
     },
     {
       "uuid": "17A0ADE0-A32C-47DC-A657-0D33793E83E2",
@@ -3565,7 +3612,9 @@
             "tiktok": "https://www.tiktok.com/@tenran_momo"
           }
         }
-      ]
+      ],
+      "formationDate": "2024-10-06",
+      "debutDate": "2025-05-24"
     },
     {
       "uuid": "648F7C50-2E4D-4BFE-9950-8EDC91A6A0CA",
@@ -3783,7 +3832,9 @@
             "tiktok": null
           }
         }
-      ]
+      ],
+      "formationDate": "2023-10-16",
+      "debutDate": "2023-10-30"
     },
     {
       "uuid": "510495E5-C543-401B-9A87-81E0983D56EC",
@@ -3952,7 +4003,9 @@
             "tiktok": "https://www.tiktok.com/@konaho_heroines"
           }
         }
-      ]
+      ],
+      "formationDate": "2025-05-26",
+      "debutDate": "2025-06-25"
     }
   ]
 }

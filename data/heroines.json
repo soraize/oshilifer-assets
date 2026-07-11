@@ -240,7 +240,10 @@
             "twitter": "https://x.com/now_TENRIN",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@now_TENRIN"
-          }
+          },
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
         },
         {
           "uuid": "21E1ABDA-D693-4E00-8616-67D045463C6C",
@@ -257,7 +260,12 @@
             "twitter": "https://x.com/Amane_TENRIN",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@amane_tenrin"
-          }
+          },
+          "formerGroups": [
+            "YAMINABE",
+            "iLiFE!",
+            "BLK LiLiY"
+          ]
         },
         {
           "uuid": "8ED08D61-2EDF-448C-B9B8-30CD53A58078",
@@ -332,7 +340,10 @@
             "twitter": "https://x.com/Alto_TENRIN",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@alto_tenrin"
-          }
+          },
+          "formerGroups": [
+            "夢現シンクレティズム"
+          ]
         }
       ],
       "formationDate": "2020-05-25",
@@ -672,7 +683,10 @@
             "twitter": "https://x.com/maria_yoruami",
             "instagram": "https://www.instagram.com/maria_yoruami/",
             "tiktok": "https://www.tiktok.com/@maria_yoruami"
-          }
+          },
+          "formerGroups": [
+            "STU48"
+          ]
         },
         {
           "uuid": "3124BAC8-5EB8-4965-A8E1-536A25F1917B",
@@ -748,7 +762,10 @@
             "instagram": "https://www.instagram.com/haru_nonfic/",
             "tiktok": null
           },
-          "joinDate": "2021-04-05"
+          "joinDate": "2021-04-05",
+          "formerGroups": [
+            "monogatari"
+          ]
         },
         {
           "uuid": "619C4EF0-B76E-4444-AB51-C3978F82B29E",
@@ -1410,7 +1427,10 @@
             "twitter": "https://x.com/Haru_nonfic",
             "instagram": "https://www.instagram.com/haru_nonfic/",
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "monogatari"
+          ]
         },
         {
           "uuid": "14A60E13-2CCB-4903-B480-CDC4FDE54262",
@@ -1725,7 +1745,10 @@
             "twitter": "https://x.com/mitsuki_zuttomo",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "Angel♡Heart"
+          ]
         },
         {
           "uuid": "4950BD3B-165D-450D-8B04-201CA0B3E44A",
@@ -2213,7 +2236,10 @@
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@maru_heroines"
           },
-          "joinDate": "2026-04-24"
+          "joinDate": "2026-04-24",
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
         },
         {
           "uuid": "19927F9C-BEB5-489F-8D52-40F39AF13900",
@@ -2410,7 +2436,10 @@
             "twitter": "https://x.com/dreco_hayasaka",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@dreco_hayasaka"
-          }
+          },
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         },
         {
           "uuid": "976E6056-E910-4536-8727-B8B9F8EDEF7E",
@@ -3491,7 +3520,11 @@
             "instagram": "https://www.instagram.com/__koakumachan/",
             "tiktok": "https://www.tiktok.com/@___koakumachan"
           },
-          "joinDate": "2026-04-15"
+          "joinDate": "2026-04-15",
+          "formerGroups": [
+            "ZUTTOMOTTO",
+            "WT☆Egret"
+          ]
         }
       ],
       "formationDate": "2026-04-09",
@@ -3529,7 +3562,10 @@
             "instagram": null,
             "tiktok": null
           },
-          "joinDate": "2026-07-07"
+          "joinDate": "2026-07-07",
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         },
         {
           "uuid": "28CC6EC2-97D0-4E1D-9716-1FA58D2A1BC2",
@@ -3563,7 +3599,10 @@
             "twitter": "https://x.com/nowstorage_tsuk",
             "instagram": "https://www.instagram.com/blg_haru/",
             "tiktok": "https://www.tiktok.com/@nowstorage_tsuk"
-          }
+          },
+          "formerGroups": [
+            "Blueberry Girls"
+          ]
         },
         {
           "uuid": "7E69E928-979F-4527-8879-A33DC5C5D658",
@@ -3580,7 +3619,11 @@
             "twitter": "https://x.com/nowstorage_kiwami",
             "instagram": "https://www.instagram.com/nowstorage_umya/",
             "tiktok": "https://www.tiktok.com/@nowstorage_umya"
-          }
+          },
+          "formerGroups": [
+            "ChouChou Meteore",
+            "CAL&RES"
+          ]
         }
       ],
       "formationDate": "2026-07-06",
@@ -4008,7 +4051,10 @@
             "twitter": "https://x.com/china_heroines",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         },
         {
           "uuid": "394B99EF-58E7-4028-B4F5-A20DCA683296",
@@ -4055,7 +4101,10 @@
             "twitter": "https://x.com/pino_heroines",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         },
         {
           "uuid": "FFB822BD-CEB5-43E8-B663-CB78C4E82D93",

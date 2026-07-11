@@ -27,7 +27,7 @@
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
-            "#466FCB"
+            "#FFFFFF"
           ],
           "birthday": "03-14",
           "joinDate": "2026-04-18",
@@ -63,7 +63,7 @@
           "colorHex": [
             "#ED051E"
           ],
-          "birthday": null,
+          "birthday": "11-11",
           "joinDate": "2026-04-15",
           "sns": {
             "twitter": "https://x.com/ran_ponkotsu",
@@ -189,7 +189,8 @@
             "twitter": "https://x.com/Chacha_TENRIN",
             "instagram": "https://www.instagram.com/chacha_tenrin/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2020-05-25"
         },
         {
           "uuid": "E9F286C7-65D3-476D-A33F-63819386F495",
@@ -389,7 +390,7 @@
           "colorHex": [
             "#FF69A8"
           ],
-          "birthday": null,
+          "birthday": "10-06",
           "joinDate": "2026-05-27",
           "sns": {
             "twitter": "https://x.com/iLiFE_mew",
@@ -515,7 +516,8 @@
             "twitter": "https://x.com/futeko_yoruami",
             "instagram": "https://www.instagram.com/ftk__ms/",
             "tiktok": "https://www.tiktok.com/@ftk__ms"
-          }
+          },
+          "joinDate": "2021-03-17"
         },
         {
           "uuid": "2E67297E-FD10-462A-AB77-9E5EAE9A7926",
@@ -531,7 +533,8 @@
             "twitter": "https://x.com/mipo_yoruami",
             "instagram": "https://www.instagram.com/mipochan.jp/",
             "tiktok": "https://www.tiktok.com/@mipochan.jp"
-          }
+          },
+          "joinDate": "2021-03-17"
         },
         {
           "uuid": "3F42BFD4-3589-4C09-A4CF-56540836B5C0",
@@ -540,7 +543,7 @@
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
-            "#FF9EDB"
+            "#FF5CCD"
           ],
           "birthday": "09-21",
           "joinDate": "2025-04-12",
@@ -564,7 +567,8 @@
             "twitter": "https://x.com/rina_yoruami",
             "instagram": "https://www.instagram.com/___42rina/",
             "tiktok": "https://www.tiktok.com/@___42rina"
-          }
+          },
+          "joinDate": "2021-03-17"
         },
         {
           "uuid": "F182B56F-1213-4C1E-9356-24AAE8631337",
@@ -597,7 +601,8 @@
             "twitter": "https://x.com/coai_yoruami",
             "instagram": "https://www.instagram.com/coai_yoruami/",
             "tiktok": "https://www.tiktok.com/@coai_1023"
-          }
+          },
+          "joinDate": "2021-03-17"
         },
         {
           "uuid": "44676B6B-02DC-4D4B-9D54-C65D88D2BAE9",
@@ -614,6 +619,23 @@
             "twitter": "https://x.com/maria_yoruami",
             "instagram": "https://www.instagram.com/maria_yoruami/",
             "tiktok": "https://www.tiktok.com/@maria_yoruami"
+          }
+        },
+        {
+          "uuid": "3124BAC8-5EB8-4965-A8E1-536A25F1917B",
+          "masterId": "heroines_yakousei_amuse_kokoro_kyun",
+          "name": "心恋きゅん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFC5D3"
+          ],
+          "birthday": null,
+          "joinDate": "2026-07-10",
+          "sns": {
+            "twitter": "https://x.com/kyun_yoruami",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@kyun_yoruami"
           }
         }
       ]
@@ -666,7 +688,8 @@
             "twitter": "https://x.com/Haru_nonfic",
             "instagram": "https://www.instagram.com/haru_nonfic/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2021-04-05"
         },
         {
           "uuid": "619C4EF0-B76E-4444-AB51-C3978F82B29E",
@@ -682,7 +705,8 @@
             "twitter": "https://x.com/Piano_nonfic",
             "instagram": "https://www.instagram.com/Piano_nonfic/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2021-04-05"
         },
         {
           "uuid": "481C76E2-F011-4731-B031-2FEAE93E7370",
@@ -698,7 +722,8 @@
             "twitter": "https://x.com/Touka_nonfic",
             "instagram": "https://www.instagram.com/touka_nonfic/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2021-04-05"
         },
         {
           "uuid": "8B010374-4BCB-4EEF-B29A-C0C0C77CB620",
@@ -761,7 +786,7 @@
             "#FFB347"
           ],
           "birthday": "02-14",
-          "joinDate": "2026-04-18",
+          "joinDate": "2026-06-10",
           "sns": {
             "twitter": "https://x.com/Cocoa_nonfic",
             "instagram": null,
@@ -782,7 +807,8 @@
             "twitter": null,
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-06-11"
         }
       ]
     },
@@ -886,6 +912,23 @@
             "instagram": null,
             "tiktok": null
           }
+        },
+        {
+          "uuid": "A7E4BA16-83E2-45DA-B913-B41F0DFA9ECD",
+          "masterId": "heroines_calandres_miyamoto_mii",
+          "name": "宮本みい",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6CD1E5"
+          ],
+          "birthday": null,
+          "joinDate": "2026-07-10",
+          "sns": {
+            "twitter": "https://x.com/mii_calres",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@mii_calres"
+          }
         }
       ]
     },
@@ -937,7 +980,8 @@
             "twitter": "https://x.com/hime_Ill",
             "instagram": "https://www.instagram.com/heav_en_ly/",
             "tiktok": "https://www.tiktok.com/@heav_en_ly"
-          }
+          },
+          "joinDate": "2021-08-27"
         },
         {
           "uuid": "BC9FBF2D-69DF-4ABF-8EE6-1212AC0515EE",
@@ -1038,7 +1082,7 @@
         "website": null,
         "twitter": "https://x.com/parasai_info",
         "instagram": null,
-        "tiktok": null,
+        "tiktok": "https://www.tiktok.com/@parallelcider",
         "youtube": "https://www.youtube.com/@UC_dcyyEHfWU1Pa73piWaULQ"
       },
       "timeTreeURL": "https://timetreeapp.com/public_calendars/make_mie",
@@ -1107,7 +1151,8 @@
             "twitter": "https://x.com/manaka_parasai",
             "instagram": "https://www.instagram.com/manaka_makemie/",
             "tiktok": "https://www.tiktok.com/@manaka_makemie"
-          }
+          },
+          "joinDate": "2022-05-14"
         },
         {
           "uuid": "DF94D39B-DAC7-4369-9AF9-5EC9EA61C99F",
@@ -1296,7 +1341,8 @@
             "twitter": "https://x.com/ray_adamth",
             "instagram": "https://www.instagram.com/ray_adamth/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2022-10-05"
         },
         {
           "uuid": "887EFB73-AA01-4F69-BEE1-13BD51148CF7",
@@ -1441,14 +1487,15 @@
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
-            "#7FFFD4"
+            "#95E5A3"
           ],
           "birthday": "06-19",
           "sns": {
             "twitter": "https://x.com/an_zuttomo",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-04-25"
         },
         {
           "uuid": "3120DD14-299D-445B-8693-D5EDA513D9F4",
@@ -1476,7 +1523,7 @@
           "colorHex": [
             "#5DC970"
           ],
-          "birthday": null,
+          "birthday": "11-29",
           "joinDate": "2026-06-12",
           "sns": {
             "twitter": "https://x.com/yuzu_zuttomo",
@@ -1493,7 +1540,7 @@
           "colorHex": [
             "#FFCCEE"
           ],
-          "birthday": null,
+          "birthday": "05-07",
           "joinDate": "2026-06-13",
           "sns": {
             "twitter": "https://x.com/kurumi_zuttomo",
@@ -1510,7 +1557,7 @@
           "colorHex": [
             "#5CC9E5"
           ],
-          "birthday": null,
+          "birthday": "12-06",
           "joinDate": "2026-06-14",
           "sns": {
             "twitter": "https://x.com/hinano_zuttomo",
@@ -1544,7 +1591,7 @@
           "colorHex": [
             "#FBA35D"
           ],
-          "birthday": null,
+          "birthday": "07-25",
           "joinDate": "2026-06-16",
           "sns": {
             "twitter": "https://x.com/hinata_zuttomo",
@@ -1566,7 +1613,8 @@
             "twitter": "https://x.com/rimu_heroines",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-07-07"
         }
       ]
     },
@@ -1617,7 +1665,7 @@
           "joinDate": "2023-11-28",
           "sns": {
             "twitter": "https://x.com/Ei_ladybaby",
-            "instagram": null,
+            "instagram": "https://www.instagram.com/ei_ladybaby/",
             "tiktok": "https://www.tiktok.com/@ei_ladybaby"
           }
         },
@@ -1641,7 +1689,7 @@
         {
           "uuid": "D56215F6-6F20-423C-BDC3-D75A9631FB49",
           "masterId": "heroines_ladybaby_ochi_kino",
-          "name": "越智きの︎",
+          "name": "越智きの",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1981,7 +2029,8 @@
             "twitter": "https://x.com/maru_heroines",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@maru_heroines"
-          }
+          },
+          "joinDate": "2026-04-24"
         },
         {
           "uuid": "19927F9C-BEB5-489F-8D52-40F39AF13900",
@@ -2135,7 +2184,8 @@
             "twitter": "https://x.com/dreco_moyu",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@dreco_moyu"
-          }
+          },
+          "joinDate": "2024-10-16"
         },
         {
           "uuid": "04057C84-1BA5-42B3-A8BC-077F7D810802",
@@ -2202,7 +2252,8 @@
             "twitter": "https://x.com/dreco_mimo",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@dreco_mimo"
-          }
+          },
+          "joinDate": "2024-10-12"
         },
         {
           "uuid": "C383145C-79A3-4667-BAFE-5A5CD6A0CD71",
@@ -2235,7 +2286,8 @@
             "twitter": "https://x.com/dreco_rinoa",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@dreco_rinoa"
-          }
+          },
+          "joinDate": "2024-10-13"
         }
       ]
     },
@@ -2270,7 +2322,8 @@
             "twitter": "https://x.com/MEGAFON_ren",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_ren"
-          }
+          },
+          "joinDate": "2025-04-06"
         },
         {
           "uuid": "790AAF95-3DE7-41C3-8C5F-772306AE1DA5",
@@ -2286,7 +2339,8 @@
             "twitter": "https://x.com/MEGAFON_yuki",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_yuki"
-          }
+          },
+          "joinDate": "2025-04-12"
         },
         {
           "uuid": "AA70C4C2-6DFD-448A-8C49-07B7B3C32E81",
@@ -2302,7 +2356,8 @@
             "twitter": "https://x.com/MEGAFON_noka",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_koharu"
-          }
+          },
+          "joinDate": "2025-04-07"
         },
         {
           "uuid": "D5861BD4-45AF-4ED9-8AC9-465223491972",
@@ -2318,7 +2373,8 @@
             "twitter": "https://x.com/MEGAFON_kii",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_kii"
-          }
+          },
+          "joinDate": "2025-04-11"
         },
         {
           "uuid": "E7CBAFBD-A973-4D1B-AC52-036A32284631",
@@ -2334,7 +2390,8 @@
             "twitter": "https://x.com/MEGAFON_iroha",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_iroha"
-          }
+          },
+          "joinDate": "2025-04-09"
         },
         {
           "uuid": "D11C14FE-5328-47BA-AC9B-EBD01A4FC7BA",
@@ -2350,7 +2407,8 @@
             "twitter": "https://x.com/MEGAFON_ami",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_ami"
-          }
+          },
+          "joinDate": "2025-04-08"
         },
         {
           "uuid": "51EB413C-EB1C-4BB6-B7B2-453A915520E2",
@@ -2366,7 +2424,8 @@
             "twitter": "https://x.com/MEGAFON_roko",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@megafon_roko"
-          }
+          },
+          "joinDate": "2025-04-10"
         }
       ]
     },
@@ -2401,7 +2460,8 @@
             "twitter": "https://x.com/iON_kurara_",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_kurara_"
-          }
+          },
+          "joinDate": "2025-05-05"
         },
         {
           "uuid": "BA195DC8-CCB5-4028-A21D-E7825407D978",
@@ -2417,7 +2477,8 @@
             "twitter": "https://x.com/iON_kono_",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_kono_"
-          }
+          },
+          "joinDate": "2025-05-03"
         },
         {
           "uuid": "C412EA12-00D9-4C8C-B632-6AFDFECD5080",
@@ -2467,7 +2528,8 @@
             "twitter": "https://x.com/iON_yuri_",
             "instagram": "https://www.instagram.com/yuri_heroines/",
             "tiktok": "https://www.tiktok.com/@yuri_heroines"
-          }
+          },
+          "joinDate": "2025-05-01"
         },
         {
           "uuid": "9FC42C11-AD28-4BD8-B4AB-128014482B5C",
@@ -2483,7 +2545,8 @@
             "twitter": "https://x.com/iON_mugi",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_mugi"
-          }
+          },
+          "joinDate": "2025-05-04"
         },
         {
           "uuid": "998BCA2B-212F-462F-97E5-0A517BA5D296",
@@ -2499,7 +2562,8 @@
             "twitter": "https://x.com/iON_peco_",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@iON_peco_"
-          }
+          },
+          "joinDate": "2025-05-02"
         },
         {
           "uuid": "D429BBCC-874F-4CF9-92BD-23E264849AC8",
@@ -2549,7 +2613,8 @@
             "twitter": "https://x.com/ion_rise_",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@ion_rise"
-          }
+          },
+          "joinDate": "2025-05-06"
         }
       ]
     },
@@ -2584,12 +2649,13 @@
             "twitter": "https://x.com/Pastel_mitsu",
             "instagram": "https://www.instagram.com/pastel_mitsu/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-07-29"
         },
         {
           "uuid": "F3A4A7B3-7008-463C-AB46-4FE0B0F62ADC",
           "masterId": "heroines_pastel_closet_anzai_minori",
-          "name": "安齋みのり",
+          "name": "安斎みのり",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2600,7 +2666,8 @@
             "twitter": "https://x.com/Pastel_minori",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-07-31"
         },
         {
           "uuid": "B5A773E5-A342-4980-844D-16C792E7C831",
@@ -2616,7 +2683,8 @@
             "twitter": "https://x.com/Pastel_reia",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-07-28"
         },
         {
           "uuid": "8C33EC8D-B826-418A-9A98-8AA2C85B5D6B",
@@ -2632,7 +2700,8 @@
             "twitter": "https://x.com/Pastel__ai",
             "instagram": "https://www.instagram.com/ai_pasclo/",
             "tiktok": "https://www.tiktok.com/@Pastel_ai_"
-          }
+          },
+          "joinDate": "2025-07-31"
         },
         {
           "uuid": "C6703711-DE9F-40AE-ADD7-9CDA21B25ADE",
@@ -2648,7 +2717,8 @@
             "twitter": "https://x.com/Pastel_kaho",
             "instagram": "https://www.instagram.com/pastel_kaho/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-07-29"
         },
         {
           "uuid": "18F94D41-A23D-4E83-8266-1E7F704CF699",
@@ -2664,7 +2734,8 @@
             "twitter": "https://x.com/Pastel_sakuraa_",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@pastel_sakura"
-          }
+          },
+          "joinDate": "2025-07-28"
         },
         {
           "uuid": "7E3399AE-7EA5-48F1-8057-B6BCE455D117",
@@ -2680,7 +2751,8 @@
             "twitter": "https://x.com/Pastel_maika",
             "instagram": "https://www.instagram.com/pastel_maika/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-07-30"
         },
         {
           "uuid": "CF6AF40C-B5BF-4CCA-B929-AA27464864B4",
@@ -2696,7 +2768,8 @@
             "twitter": "https://x.com/Pastel_nonoka_",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@pastel_nonoka"
-          }
+          },
+          "joinDate": "2025-07-30"
         }
       ]
     },
@@ -2731,7 +2804,8 @@
             "twitter": "https://x.com/LASTSCENE_ichi",
             "instagram": "https://www.instagram.com/ichikayasann/",
             "tiktok": "https://www.tiktok.com/@lastscene_ichi"
-          }
+          },
+          "joinDate": "2025-12-15"
         },
         {
           "uuid": "EA6B1365-F4CF-4E2E-B884-53BD8594B19E",
@@ -2747,7 +2821,8 @@
             "twitter": "https://x.com/LASTSCENE_azusa",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@lastscene_azusa"
-          }
+          },
+          "joinDate": "2025-12-16"
         },
         {
           "uuid": "959527F1-9D5D-47C2-96DB-7F36B3948470",
@@ -2763,7 +2838,8 @@
             "twitter": "https://x.com/LASTSCENE_mire",
             "instagram": "https://www.instagram.com/mireneco3/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-12-21"
         },
         {
           "uuid": "21751A4F-9025-480A-8222-80332D629D56",
@@ -2779,7 +2855,8 @@
             "twitter": "https://x.com/LASTSCENE_Amo",
             "instagram": "https://www.instagram.com/_bakechiken/",
             "tiktok": "https://www.tiktok.com/@lastscene_amo"
-          }
+          },
+          "joinDate": "2025-12-13"
         },
         {
           "uuid": "B29C9C43-6F6A-4721-B877-C61ACEF76090",
@@ -2795,7 +2872,8 @@
             "twitter": "https://x.com/LASTSCENE_uyu",
             "instagram": "https://www.instagram.com/mimi1002_/",
             "tiktok": "https://www.tiktok.com/@mimi__berry3"
-          }
+          },
+          "joinDate": "2025-12-20"
         },
         {
           "uuid": "2A3D4E83-3EB3-4156-A976-E743005B877E",
@@ -2828,7 +2906,8 @@
             "twitter": "https://x.com/LASTSCENE_onpu",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@rastscene_onpu"
-          }
+          },
+          "joinDate": "2025-12-14"
         },
         {
           "uuid": "5AB9E560-45E8-48EB-B520-D19CC67AF4CE",
@@ -2844,7 +2923,8 @@
             "twitter": null,
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-06-27"
         },
         {
           "uuid": "F14CFF6C-6F44-4397-85F0-CE9BAE55DF5C",
@@ -2896,7 +2976,8 @@
             "twitter": "https://x.com/FullCo_Cocoro",
             "instagram": "https://www.instagram.com/FullCo_Cocoro/",
             "tiktok": "https://www.tiktok.com/@FullCo_Cocoro"
-          }
+          },
+          "joinDate": "2026-02-18"
         },
         {
           "uuid": "4CEEDB37-D844-4F91-B472-D8D3A8DEECEC",
@@ -2912,7 +2993,8 @@
             "twitter": "https://x.com/fullco__cona",
             "instagram": "https://www.instagram.com/fullco_cona/",
             "tiktok": "https://www.tiktok.com/@fullco_cona"
-          }
+          },
+          "joinDate": "2026-02-21"
         },
         {
           "uuid": "7D71D3B5-37EF-4E20-AEEA-C96E19BB6E38",
@@ -2928,7 +3010,8 @@
             "twitter": "https://x.com/FullCo_Mihane",
             "instagram": "https://www.instagram.com/FullCo_Mihane/",
             "tiktok": "https://www.tiktok.com/@FullCo_Mihane"
-          }
+          },
+          "joinDate": "2026-02-23"
         },
         {
           "uuid": "E9A3DFD8-0361-4208-A3A4-673D1B74FCF2",
@@ -2944,7 +3027,8 @@
             "twitter": "https://x.com/FullCo_Rimika",
             "instagram": "https://www.instagram.com/FullCo_Rimika/",
             "tiktok": "https://www.tiktok.com/@FullCo_Rimika"
-          }
+          },
+          "joinDate": "2026-02-24"
         },
         {
           "uuid": "C70599B9-F5DC-4B0E-9162-47472646DA46",
@@ -2960,7 +3044,8 @@
             "twitter": "https://x.com/FullCo_Maki",
             "instagram": "https://www.instagram.com/FullCo_Maki/",
             "tiktok": "https://www.tiktok.com/@FullCo_Maki"
-          }
+          },
+          "joinDate": "2026-02-22"
         },
         {
           "uuid": "37D36D17-084B-4A6F-8D3D-84C030264C73",
@@ -2976,7 +3061,8 @@
             "twitter": "https://x.com/fullco_haruka",
             "instagram": "https://www.instagram.com/fullco_haruka/",
             "tiktok": "https://www.tiktok.com/@fullco_haruka"
-          }
+          },
+          "joinDate": "2026-02-20"
         },
         {
           "uuid": "5E770FFA-E81C-4946-AEE9-0CEAC266FD1E",
@@ -2992,7 +3078,8 @@
             "twitter": "https://x.com/nana_lIIiEN",
             "instagram": "https://www.instagram.com/abe_nanami_/",
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-02-19"
         }
       ]
     },
@@ -3027,7 +3114,8 @@
             "twitter": "https://x.com/HARUKAECHO_UTA",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-04-13"
         },
         {
           "uuid": "F76D6715-BBB6-4D9B-8447-40DDF36B5E58",
@@ -3043,7 +3131,8 @@
             "twitter": "https://x.com/HARUKAECHO_KAE",
             "instagram": "https://www.instagram.com/HARUKAECHO_KAE/",
             "tiktok": "https://www.tiktok.com/@kae_uo.ou"
-          }
+          },
+          "joinDate": "2026-04-11"
         },
         {
           "uuid": "5D4FC864-B8DC-4D92-BBFE-258CA272041C",
@@ -3076,7 +3165,8 @@
             "twitter": "https://x.com/HARUKAECHO_YUI",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-04-14"
         },
         {
           "uuid": "08EF7E02-3706-4DD5-84E5-2E2FA9FAAB2C",
@@ -3092,7 +3182,8 @@
             "twitter": "https://x.com/HARUKAECHO_RURI",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-04-10"
         },
         {
           "uuid": "ABC991DA-43EC-4F5E-8019-F7FD17B8831D",
@@ -3108,7 +3199,8 @@
             "twitter": "https://x.com/HARUKAECHO_RIN",
             "instagram": "https://www.instagram.com/__koakumachan/",
             "tiktok": "https://www.tiktok.com/@___koakumachan"
-          }
+          },
+          "joinDate": "2026-04-15"
         }
       ]
     },
@@ -3127,7 +3219,7 @@
         "tiktok": "https://www.tiktok.com/@nowstorage_",
         "youtube": null
       },
-      "timeTreeURL": null,
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/nowstorage",
       "members": [
         {
           "uuid": "AE6822C5-1DDD-4D5C-8ED4-92796620BEE3",
@@ -3143,7 +3235,8 @@
             "twitter": "https://x.com/nowstorage_sera",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2026-07-07"
         },
         {
           "uuid": "28CC6EC2-97D0-4E1D-9716-1FA58D2A1BC2",
@@ -3158,7 +3251,42 @@
           "sns": {
             "twitter": "https://x.com/nowstorage_mano",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@nowstorage_mano"
+          },
+          "joinDate": "2026-07-08"
+        },
+        {
+          "uuid": "B1F31FE6-0CA4-45D6-86D5-C357EFB2380D",
+          "masterId": "heroines_nowstorage_shiraha_tsukushi",
+          "name": "白羽つくし",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "10-04",
+          "joinDate": "2026-07-09",
+          "sns": {
+            "twitter": "https://x.com/nowstorage_tsuk",
+            "instagram": "https://www.instagram.com/blg_haru/",
+            "tiktok": "https://www.tiktok.com/@nowstorage_tsuk"
+          }
+        },
+        {
+          "uuid": "7E69E928-979F-4527-8879-A33DC5C5D658",
+          "masterId": "heroines_nowstorage_umiya_kiwami",
+          "name": "羽宮きわみ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#5ACDA8"
+          ],
+          "birthday": "03-26",
+          "joinDate": "2026-07-10",
+          "sns": {
+            "twitter": "https://x.com/nowstorage_kiwami",
+            "instagram": "https://www.instagram.com/nowstorage_umya/",
+            "tiktok": "https://www.tiktok.com/@nowstorage_umya"
           }
         }
       ]
@@ -3228,7 +3356,7 @@
           "sns": {
             "twitter": "https://x.com/lemon_nanakoro",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@aiueooo0517"
           }
         },
         {
@@ -3245,7 +3373,7 @@
           "sns": {
             "twitter": "https://x.com/nimo_nanakoro",
             "instagram": null,
-            "tiktok": null
+            "tiktok": "https://www.tiktok.com/@nimo_nanakoro"
           }
         },
         {
@@ -3513,7 +3641,8 @@
             "twitter": "https://x.com/rimu_heroines",
             "instagram": null,
             "tiktok": null
-          }
+          },
+          "joinDate": "2025-04-19"
         },
         {
           "uuid": "E453195C-5589-4CC5-85E4-4EF4C7C9EE31",

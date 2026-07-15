@@ -3669,12 +3669,16 @@
             "#FDD74E"
           ],
           "birthday": "10-08",
-          "joinDate": null,
+          "joinDate": "2026-07-12",
           "sns": {
             "twitter": "https://x.com/nowsto_kohana",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@nowstorage_koha"
-          }
+          },
+          "formerGroups": [
+            "Secret School",
+            "Puzzle"
+          ]
         },
         {
           "uuid": "2D7F3209-DCC5-4DA7-AB0C-0247AA80C68D",
@@ -3686,12 +3690,15 @@
             "#B070E7"
           ],
           "birthday": "01-18",
-          "joinDate": null,
+          "joinDate": "2026-07-12",
           "sns": {
             "twitter": "https://x.com/nowsto_reno",
             "instagram": "https://www.instagram.com/reno_heroines/",
             "tiktok": "https://www.tiktok.com/@nowsto_reno"
-          }
+          },
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
         },
         {
           "uuid": "B01296DF-F2D9-4261-B8D8-1FCBDD4F6CA7",
@@ -3703,12 +3710,15 @@
             "#82D8FA"
           ],
           "birthday": "09-20",
-          "joinDate": null,
+          "joinDate": "2026-07-11",
           "sns": {
             "twitter": "https://x.com/nowstorage_pure",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@nowstorage_pure"
-          }
+          },
+          "formerGroups": [
+            "HEROINES SCHOOL"
+          ]
         }
       ],
       "formationDate": "2026-07-06",

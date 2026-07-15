@@ -697,7 +697,7 @@
           "colorHex": [
             "#FFC5D3"
           ],
-          "birthday": null,
+          "birthday": "12-19",
           "joinDate": "2026-07-10",
           "sns": {
             "twitter": "https://x.com/kyun_yoruami",
@@ -1026,6 +1026,40 @@
             "twitter": "https://x.com/mii_calres",
             "instagram": null,
             "tiktok": "https://www.tiktok.com/@mii_calres"
+          }
+        },
+        {
+          "uuid": "922D5878-F913-48DC-9BA6-0FA84C79B83F",
+          "masterId": "heroines_calandres_moegi_ririna",
+          "name": "萌木りりな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA8CB"
+          ],
+          "birthday": null,
+          "joinDate": "2026-07-11",
+          "sns": {
+            "twitter": "https://x.com/ririna_calres",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@ririna_calres"
+          }
+        },
+        {
+          "uuid": "017653CC-2472-4139-8F14-4D95B017863E",
+          "masterId": "heroines_calandres_fujimura_ayame",
+          "name": "藤邑あやめ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8D66D6"
+          ],
+          "birthday": null,
+          "joinDate": "2026-07-12",
+          "sns": {
+            "twitter": "https://x.com/ayame_calres",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@ayame_calres"
           }
         }
       ],
@@ -3215,7 +3249,7 @@
           "colorHex": [
             "#B8FBFF"
           ],
-          "birthday": null,
+          "birthday": "10-19",
           "joinDate": "2026-06-26",
           "sns": {
             "twitter": "https://x.com/LASTSCENE_yun",
@@ -3616,7 +3650,7 @@
           "birthday": "03-26",
           "joinDate": "2026-07-10",
           "sns": {
-            "twitter": "https://x.com/nowstorage_kiwami",
+            "twitter": "https://x.com/nowstorage_umya",
             "instagram": "https://www.instagram.com/nowstorage_umya/",
             "tiktok": "https://www.tiktok.com/@nowstorage_umya"
           },
@@ -3624,6 +3658,57 @@
             "ChouChou Meteore",
             "CAL&RES"
           ]
+        },
+        {
+          "uuid": "62369E2C-AABB-4093-ABE7-6170D2F1BC2C",
+          "masterId": "heroines_nowstorage_hoshi_kohana",
+          "name": "星心こはな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FDD74E"
+          ],
+          "birthday": "10-08",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nowsto_kohana",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@nowstorage_koha"
+          }
+        },
+        {
+          "uuid": "2D7F3209-DCC5-4DA7-AB0C-0247AA80C68D",
+          "masterId": "heroines_nowstorage_nagase_reno",
+          "name": "永瀬玲乃",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B070E7"
+          ],
+          "birthday": "01-18",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nowsto_reno",
+            "instagram": "https://www.instagram.com/reno_heroines/",
+            "tiktok": "https://www.tiktok.com/@nowsto_reno"
+          }
+        },
+        {
+          "uuid": "B01296DF-F2D9-4261-B8D8-1FCBDD4F6CA7",
+          "masterId": "heroines_nowstorage_yuishiro_pure",
+          "name": "結城ぴゅれ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#82D8FA"
+          ],
+          "birthday": "09-20",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nowstorage_pure",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@nowstorage_pure"
+          }
         }
       ],
       "formationDate": "2026-07-06",
@@ -3910,7 +3995,7 @@
           "masterId": "heroines_tenshinranman_toyota_momo",
           "name": "豊田もも",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FFC6D0"
           ],

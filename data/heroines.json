@@ -2696,6 +2696,26 @@
             "RIOT BABY",
             "LilyS/ash"
           ]
+        },
+        {
+          "uuid": "F182B56F-1213-4C1E-9356-24AAE8631337",
+          "masterId": "heroines_yakousei_amuse_kotone_furiru",
+          "name": "琴音ふりる",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FDE777"
+          ],
+          "birthday": "02-08",
+          "joinDate": "2026-07-26",
+          "sns": {
+            "twitter": "https://x.com/furiru_yoruami",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@furiru_yoruami"
+          },
+          "formerGroups": [
+            "iLiFE!候補生"
+          ]
         }
       ],
       "formationDate": "2025-04-06",
@@ -4420,6 +4440,146 @@
       ],
       "formationDate": "2025-05-26",
       "debutDate": "2025-06-25"
+    },
+    {
+      "uuid": "4722C7DE-CE62-49AE-9636-9FB20B120C58",
+      "masterId": "heroines_umekomachi",
+      "name": "ウメコマチ",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Umekomachi",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/umekomachi_idol",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@umekomachi_official",
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "5ABDCE25-B439-4717-8492-526B113651D4",
+          "masterId": "heroines_umekomachi_haruhi_non",
+          "name": "春日のん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#F77FBE"],
+          "birthday": null,
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/non_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@umekoma_non_"}
+        },
+        {
+          "uuid": "984C671D-A021-4047-BBD0-4788AEC8E68B",
+          "masterId": "heroines_umekomachi_matsugae_anko",
+          "name": "松ヶ枝あんこ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FF3A47"],
+          "birthday": "11-17",
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/anko__umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@umekoma_anko"}
+        },
+        {
+          "uuid": "81C3A374-6DBB-4A38-A450-82038DF191A3",
+          "masterId": "heroines_umekomachi_mentai_tarako",
+          "name": "明太たらこ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FF9844"],
+          "birthday": "07-05",
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/tarako_umeko_", "instagram": null, "tiktok": "https://www.tiktok.com/@tarako_umeko_"}
+        },
+        {
+          "uuid": "D195AC72-FEF7-4F9D-A346-D5A744BA6E4B",
+          "masterId": "heroines_umekomachi_hakanabe_mochu",
+          "name": "博鍋もちゅ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#64E0FF"],
+          "birthday": "11-20",
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/mochu_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@mochu_umeko"}
+        },
+        {
+          "uuid": "8748CAC9-A314-493E-B367-495854F2099E",
+          "masterId": "heroines_umekomachi_momochi_tsumugi",
+          "name": "百道つむぎ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FFFFFF"],
+          "birthday": null,
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/tsumugi_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@tsumugi_umeko"}
+        },
+        {
+          "uuid": "2AFF6B59-3047-40A2-8038-122FD6796759",
+          "masterId": "heroines_umekomachi_honjo_yukari",
+          "name": "本城ゆかり",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#AE44FF"],
+          "birthday": "05-05",
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/yukari_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@yukari_umeko"}
+        },
+        {
+          "uuid": "E47E4D3E-3186-42F3-9615-AB57F505E009",
+          "masterId": "heroines_umekomachi_wakataka_nozomi",
+          "name": "若鷹のぞみ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#24E63E"],
+          "birthday": null,
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/nozomi_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@nozomi_umeko"}
+        },
+        {
+          "uuid": "CECB3109-879D-444C-B056-E51BACE776C3",
+          "masterId": "heroines_umekomachi_kotoori_mon",
+          "name": "琴通もん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FFE62A"],
+          "birthday": null,
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/mon_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@mon_umekomachi"}
+        },
+        {
+          "uuid": "BC39DE70-C043-48FC-9CF1-86D8859F1951",
+          "masterId": "heroines_umekomachi_amaou_ichigo",
+          "name": "甘桜いちご",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FFC4E3"],
+          "birthday": null,
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/ichigo_umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@ichigo_umeko"}
+        },
+        {
+          "uuid": "273E7573-36CF-4102-8421-6FE2241F7D16",
+          "masterId": "heroines_umekomachi_deshima_minato",
+          "name": "出島みなと",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#3957FF"],
+          "birthday": "02-20",
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/minato_umeko", "instagram": null, "tiktok": null}
+        },
+        {
+          "uuid": "FB198BC8-E1D1-4C67-91AB-CD9B3A72EC9D",
+          "masterId": "heroines_umekomachi_chano_wakana",
+          "name": "茶乃わかな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#BEF551"],
+          "birthday": null,
+          "joinDate": "2026-08-03",
+          "sns": {"twitter": "https://x.com/wakana__umeko", "instagram": null, "tiktok": "https://www.tiktok.com/@wakana_umeko"}
+        }
+      ]
     }
   ]
 }

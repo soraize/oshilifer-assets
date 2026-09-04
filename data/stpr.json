@@ -5,6 +5,7 @@
     {
       "uuid": "3CEB6C93-BE70-41DD-B327-E1358FBE99A0",
       "masterId": "stpr_strawberryprince",
+      "appleMusicArtistId": "1434966362",
       "name": "すとぷり",
       "colorHex": [
         "#EF1740"
@@ -120,6 +121,7 @@
     {
       "uuid": "7ECEE9B7-DCEB-4B6C-8AED-9FBFA364EA2C",
       "masterId": "stpr_meteorites",
+      "appleMusicArtistId": "1770661301",
       "name": "めておら",
       "colorHex": [
         "#000000"
@@ -235,6 +237,7 @@
     {
       "uuid": "B0954565-42C7-4AEC-BE69-D65BEFE5105E",
       "masterId": "stpr_amptakcolors",
+      "appleMusicArtistId": "1671373790",
       "name": "AMPTAK",
       "colorHex": [
         "#D2D2D2"
@@ -350,6 +353,7 @@
     {
       "uuid": "5ADDC1E5-F80D-4220-B4AE-90B9DA1FD41E",
       "masterId": "stpr_knightx",
+      "appleMusicArtistId": "1828825783",
       "name": "騎士X",
       "colorHex": [
         "#4D4D4D"
@@ -433,6 +437,7 @@
     {
       "uuid": "07926EA0-7B97-4E92-92A7-E0692DFF41EA",
       "masterId": "stpr_sneakerstep",
+      "appleMusicArtistId": "1809920277",
       "name": "すにすて",
       "colorHex": [
         "#E9F8FB"
@@ -564,6 +569,7 @@
     {
       "uuid": "2CED86CA-C9E1-4D07-B81F-755B7CEFBD55",
       "masterId": "stpr_truelip",
+      "appleMusicArtistId": "1889453508",
       "name": "とぅるりぷ",
       "colorHex": [
         "#CC0000"

@@ -6,6 +6,7 @@
     {
       "uuid": "483B4C38-1D2D-418B-BF33-62B28A03C071",
       "masterId": "heroines_ponkotsu_konpo",
+      "appleMusicArtistId": "1500207594",
       "name": "ポンコツコンポ",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Ponkotsu_Konpo",
@@ -173,6 +174,7 @@
     {
       "uuid": "71F4243D-25B7-41EC-9913-134B951AFDB7",
       "masterId": "heroines_tenrin",
+      "appleMusicArtistId": "1630131711",
       "name": "TENRIN",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/TENRIN",
@@ -352,6 +354,7 @@
     {
       "uuid": "D945933F-0F24-4D80-A590-3CE0C9E36B5F",
       "masterId": "heroines_ilife",
+      "appleMusicArtistId": "1578837625",
       "name": "iLiFE!",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/ILiFE!",
@@ -539,6 +542,7 @@
     {
       "uuid": "AF8C352D-96A1-4065-B361-68FDBC23B540",
       "masterId": "heroines_yakousei_amuse",
+      "appleMusicArtistId": "1562073079",
       "name": "夜光性アミューズ",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Yakousei_Amuse",
@@ -712,6 +716,7 @@
     {
       "uuid": "4B1678DB-7ECD-4879-AEA9-E02E3806BE1B",
       "masterId": "heroines_nonfiction",
+      "appleMusicArtistId": "1562080702",
       "name": "のんふぃく！",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Non%C2%ACFiction",
@@ -1069,6 +1074,7 @@
     {
       "uuid": "E1CB7A6E-B2CA-467D-A069-B565841785C0",
       "masterId": "heroines_ill",
+      "appleMusicArtistId": "1816147264",
       "name": "Ill",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Ill",
@@ -1167,6 +1173,7 @@
     {
       "uuid": "2037731D-F719-44A5-8D59-998E976B2900",
       "masterId": "heroines_i_col",
+      "appleMusicArtistId": "1600447551",
       "name": "i-COL",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/I-COL",
@@ -1227,6 +1234,7 @@
     {
       "uuid": "42273599-4382-407C-8CF7-ABD0FFE6B0CA",
       "masterId": "heroines_parallel_cider",
+      "appleMusicArtistId": "1651341359",
       "name": "パラレルサイダー",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Parallel_Cider",
@@ -1372,6 +1380,7 @@
     {
       "uuid": "5B0A44A8-F989-4804-8467-E3559C9886CA",
       "masterId": "heroines_giltyxgilty",
+      "appleMusicArtistId": "1658246688",
       "name": "GILTY×GILTY",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/GILTY%C3%97GILTY",
@@ -1494,6 +1503,7 @@
     {
       "uuid": "C61E7AF8-D83E-4EFB-BB6F-B40DE5279D6E",
       "masterId": "heroines_adamlilith",
+      "appleMusicArtistId": "1766459006",
       "name": "AdamLilith",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/AdamLilith",
@@ -1593,6 +1603,7 @@
     {
       "uuid": "FE42AF8F-3964-4EDF-8D59-694285D79BA1",
       "masterId": "heroines_zuttomotto",
+      "appleMusicArtistId": "1796990536",
       "name": "ZUTTOMOTTO",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/ZUTTOMOTTO",
@@ -1825,6 +1836,7 @@
     {
       "uuid": "EDEF56B7-A5DF-4451-A925-6A999EB2AD6A",
       "masterId": "heroines_ladybaby",
+      "appleMusicArtistId": "1020167517",
       "name": "LADYBABY",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/LADYBABY",
@@ -1921,6 +1933,7 @@
     {
       "uuid": "8A5E6E25-5C0F-423D-8FA2-09AB20E47874",
       "masterId": "heroines_akishibu_project",
+      "appleMusicArtistId": "983878994",
       "name": "アキシブproject",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Akishibu_project",
@@ -2073,6 +2086,7 @@
     {
       "uuid": "7A172D67-062C-43C8-ABA4-C270D3E24C2A",
       "masterId": "heroines_chula",
+      "appleMusicArtistId": "1501118611",
       "name": "chuLa",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/ChuLa",
@@ -2224,6 +2238,7 @@
     {
       "uuid": "0DC45F99-C4FE-4CFB-AE1D-8DA9457B2118",
       "masterId": "heroines_paradeeq",
+      "appleMusicArtistId": "1572946910",
       "name": "パラディーク",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Paradeeq",
@@ -2407,6 +2422,7 @@
     {
       "uuid": "91F5FF41-8AD2-479B-967C-72A466D94F1D",
       "masterId": "heroines_dress_code",
+      "appleMusicArtistId": "1807709961",
       "name": "ドレスコード",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Dress_Code",
@@ -2553,6 +2569,7 @@
     {
       "uuid": "4CABA5C6-77DD-4EDD-896D-B47C37F12DB4",
       "masterId": "heroines_megafon",
+      "appleMusicArtistId": "1818044166",
       "name": "MEGAFON",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/MEGAFON",
@@ -2724,6 +2741,7 @@
     {
       "uuid": "89B311AB-1771-407B-B4D2-5D89D4C519F9",
       "masterId": "heroines_ion",
+      "appleMusicArtistId": "1833125541",
       "name": "iON!",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/ION!",
@@ -2933,6 +2951,7 @@
     {
       "uuid": "9202235A-5833-4715-81A5-04BD95BCE7A3",
       "masterId": "heroines_pastel_closet",
+      "appleMusicArtistId": "1859495764",
       "name": "Pastel Closet",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Pastel_Closet",
@@ -3093,6 +3112,7 @@
     {
       "uuid": "29414F8E-01F9-47CA-808D-059A8158B83B",
       "masterId": "heroines_last_scene",
+      "appleMusicArtistId": "6802580838",
       "name": "ラストシーン",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/LAST_SCENE_(HEROINES)",
@@ -3284,6 +3304,7 @@
     {
       "uuid": "EC31020F-B5A1-433D-B46B-DDDD8FD4A7F2",
       "masterId": "heroines_full_course",
+      "appleMusicArtistId": "497397516",
       "name": "フルコース",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Full_Course",
@@ -3454,6 +3475,7 @@
     {
       "uuid": "45180824-29E1-403F-915F-C6984D995CE1",
       "masterId": "heroines_haruka_echo",
+      "appleMusicArtistId": "1891916241",
       "name": "ハルカエコー",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/HARUKA_ECHO",
@@ -3747,6 +3769,7 @@
     {
       "uuid": "F5713B52-FCFE-4364-B5C9-3E4FC7810F4B",
       "masterId": "heroines_nanakorobi_yaoki",
+      "appleMusicArtistId": "1828894172",
       "name": "ナナコロビヤオキ",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Nanakorobi_Yaoki",
@@ -3895,6 +3918,7 @@
     {
       "uuid": "17A0ADE0-A32C-47DC-A657-0D33793E83E2",
       "masterId": "heroines_tenshinranman",
+      "appleMusicArtistId": "1813065680",
       "name": "テンシンランマン",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/Tenshinranman",

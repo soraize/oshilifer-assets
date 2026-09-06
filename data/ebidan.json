@@ -6,6 +6,7 @@
     {
       "uuid": "8919A061-26D5-539E-9899-0BF9D4E83A9E",
       "masterId": "ebidan_bullettrain",
+      "appleMusicArtistId": "847400135",
       "name": "超特急",
       "isActive": true,
       "profileURL": "https://bullettrain.jp/profile/",
@@ -162,6 +163,7 @@
     {
       "uuid": "5A3B38FB-491E-55B6-A38D-5BD599B8C33F",
       "masterId": "ebidan_milk",
+      "appleMusicArtistId": "1356706755",
       "name": "M!LK",
       "isActive": true,
       "profileURL": "https://sd-milk.com/profiles",
@@ -258,6 +260,7 @@
     {
       "uuid": "A01539A2-7AAB-5E16-9BE8-FCAD5B57CE30",
       "masterId": "ebidan_superdragon",
+      "appleMusicArtistId": "1111440450",
       "name": "SUPER★DRAGON",
       "isActive": true,
       "profileURL": "https://super-dragon.jp/biography/",
@@ -414,6 +417,7 @@
     {
       "uuid": "B901D7D7-69FD-5B54-BB3B-9CA5529628A9",
       "masterId": "ebidan_one_n_only",
+      "appleMusicArtistId": "1442049224",
       "name": "ONE N' ONLY",
       "isActive": true,
       "profileURL": "https://one-n-only.jp/profiles",
@@ -510,6 +514,7 @@
     {
       "uuid": "8F2A1E86-2E54-52B9-99B1-AF1BE44FF66B",
       "masterId": "ebidan_genjibu",
+      "appleMusicArtistId": "1479492327",
       "name": "原因は自分にある。",
       "isActive": true,
       "profileURL": "https://genjibu.jp/feature/profile",
@@ -636,6 +641,7 @@
     {
       "uuid": "BCB3F414-3F95-5713-81B8-C7936F79DF82",
       "masterId": "ebidan_buddiis",
+      "appleMusicArtistId": "1564679733",
       "name": "BUDDiiS",
       "isActive": true,
       "profileURL": "https://buddiis.com/profiles",

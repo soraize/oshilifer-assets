@@ -5,6 +5,7 @@
     {
       "uuid": "61A303D9-CD18-5863-B68E-E9A0257CA781",
       "masterId": "other_idols_task_have_fun",
+      "appleMusicArtistId": "1367071905",
       "name": "Task have Fun",
       "colorHex": null,
       "birthday": null,
@@ -74,6 +75,7 @@
     {
       "uuid": "0F305185-492E-5460-985E-98489A76CF9A",
       "masterId": "other_idols_jams_collection",
+      "appleMusicArtistId": "1577470076",
       "name": "Jams Collection",
       "colorHex": null,
       "birthday": null,
@@ -211,6 +213,7 @@
     {
       "uuid": "C0AAF64A-78DB-56E6-8F8F-984D3F3F988C",
       "masterId": "other_idols_peel_the_apple",
+      "appleMusicArtistId": "1587295078",
       "name": "Peel the Apple",
       "colorHex": null,
       "birthday": null,
@@ -348,6 +351,7 @@
     {
       "uuid": "5800B48B-B8C1-5EC7-9597-2B1700FCECD5",
       "masterId": "other_idols_fes_tive",
+      "appleMusicArtistId": "1015819951",
       "name": "FES☆TIVE",
       "colorHex": null,
       "birthday": null,
@@ -485,6 +489,7 @@
     {
       "uuid": "351BAB0E-4E22-587A-B186-C1BEB650901C",
       "masterId": "other_idols_appare",
+      "appleMusicArtistId": "1523215336",
       "name": "Appare!",
       "colorHex": null,
       "birthday": null,
@@ -656,6 +661,7 @@
     {
       "uuid": "5E1D76F8-34EC-5238-A855-23A9DC6677D2",
       "masterId": "other_idols_neo_japonism",
+      "appleMusicArtistId": "1393450111",
       "name": "NEO JAPONISM",
       "colorHex": null,
       "birthday": null,
@@ -734,6 +740,7 @@
     {
       "uuid": "25522D1A-EBE8-5C11-A12B-96EE76B0DED9",
       "masterId": "other_idols_devil_anthem",
+      "appleMusicArtistId": "1020556289",
       "name": "Devil ANTHEM.",
       "colorHex": null,
       "birthday": null,
@@ -842,6 +849,7 @@
     {
       "uuid": "F82B42B0-9CA1-531D-9C3A-2AC1B60C1B85",
       "masterId": "other_idols_title_mitei",
+      "appleMusicArtistId": "1511130527",
       "name": "タイトル未定",
       "colorHex": null,
       "birthday": null,
@@ -935,6 +943,7 @@
     {
       "uuid": "8DB1F5D0-2289-59EF-BF7E-B0897D2B64D0",
       "masterId": "other_idols_yosugala",
+      "appleMusicArtistId": "1635935364",
       "name": "yosugala",
       "colorHex": null,
       "birthday": null,
@@ -1013,6 +1022,7 @@
     {
       "uuid": "3A7B7A1D-A55F-5A5E-93D9-EC67CD89FD2B",
       "masterId": "other_idols_eisei_to_karatea",
+      "appleMusicArtistId": "1613489610",
       "name": "衛星とカラテア",
       "colorHex": null,
       "birthday": null,
@@ -1106,6 +1116,7 @@
     {
       "uuid": "CE02B8E5-689C-5086-BD74-2ABB9739B2F1",
       "masterId": "other_idols_nanimono",
+      "appleMusicArtistId": "1626773910",
       "name": "NANIMONO",
       "colorHex": null,
       "birthday": null,
@@ -1243,6 +1254,7 @@
     {
       "uuid": "924CA1B5-7B47-5CA5-9385-1C8664587B22",
       "masterId": "other_idols_sweet_alley",
+      "appleMusicArtistId": "1572616488",
       "name": "Sweet Alley",
       "colorHex": null,
       "birthday": null,
@@ -1397,6 +1409,7 @@
     {
       "uuid": "567DA070-01E7-573B-B264-EFC71E2178EE",
       "masterId": "other_idols_namidairo_no_keshigomu",
+      "appleMusicArtistId": "1712253850",
       "name": "なみだ色の消しごむ",
       "colorHex": null,
       "birthday": null,
@@ -1551,6 +1564,7 @@
     {
       "uuid": "5D14B4FB-AB7E-5B0C-B010-937E31A0EB7D",
       "masterId": "other_idols_rough_x_laugh",
+      "appleMusicArtistId": "1671101380",
       "name": "ラフ×ラフ",
       "colorHex": null,
       "birthday": null,

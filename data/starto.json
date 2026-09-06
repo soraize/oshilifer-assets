@@ -6,6 +6,7 @@
     {
       "uuid": "CF674D76-A5DC-5EBA-A443-809CAD7E0328",
       "masterId": "starto_20thcentury",
+      "appleMusicArtistId": "1624802454",
       "name": "20th Century",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/57/profile",
@@ -78,6 +79,7 @@
     {
       "uuid": "6F8D0D3A-172C-5E2F-8DC7-6D8AF6A8C0BA",
       "masterId": "starto_news",
+      "appleMusicArtistId": "1765474507",
       "name": "NEWS",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/12/profile",
@@ -150,6 +152,7 @@
     {
       "uuid": "A61C118B-FFFE-5A45-B7C8-7E6007965F77",
       "masterId": "starto_super_eight",
+      "appleMusicArtistId": "554091164",
       "name": "SUPER EIGHT",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/13/profile",
@@ -256,6 +259,7 @@
     {
       "uuid": "0D73A60C-8D92-59CE-A48F-314ED481C974",
       "masterId": "starto_hey_say_jump",
+      "appleMusicArtistId": "555230743",
       "name": "Hey! Say! JUMP",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/15/profile",
@@ -396,6 +400,7 @@
     {
       "uuid": "B71A4456-7305-5A77-9306-4C4904F47CEF",
       "masterId": "starto_kis_my_ft2",
+      "appleMusicArtistId": "1803998087",
       "name": "Kis-My-Ft2",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/17/profile",
@@ -519,6 +524,7 @@
     {
       "uuid": "53741959-4947-5515-A447-A5F60CA7E947",
       "masterId": "starto_timelesz",
+      "appleMusicArtistId": "1797624061",
       "name": "timelesz",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/24/profile",
@@ -676,6 +682,7 @@
     {
       "uuid": "9551C4C6-1B19-539F-8384-2B301FC9EABF",
       "masterId": "starto_abc_z",
+      "appleMusicArtistId": "1743009027",
       "name": "A.B.C-Z",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/26/profile",
@@ -765,6 +772,7 @@
     {
       "uuid": "A088B4A0-BF9F-59EC-9361-6B1BE37C172F",
       "masterId": "starto_west",
+      "appleMusicArtistId": "1835325063",
       "name": "WEST.",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/29/profile",
@@ -905,6 +913,7 @@
     {
       "uuid": "123B4AD3-C8CF-5892-BC7C-C8C9EE850F94",
       "masterId": "starto_sixtones",
+      "appleMusicArtistId": "1808322699",
       "name": "SixTONES",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/42/profile",
@@ -1028,6 +1037,7 @@
     {
       "uuid": "DFDE4DBB-456D-5A9F-9BEC-6AC51A5E8B33",
       "masterId": "starto_snow_man",
+      "appleMusicArtistId": "1772019148",
       "name": "Snow Man",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/43/profile",
@@ -1202,6 +1212,7 @@
     {
       "uuid": "244A946D-A1F9-5FA2-868B-883022003EBA",
       "masterId": "starto_naniwa_danshi",
+      "appleMusicArtistId": "1758080234",
       "name": "なにわ男子",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/56/profile",
@@ -1342,6 +1353,7 @@
     {
       "uuid": "35D60791-A511-5A5F-A2C1-86EA897FD2F8",
       "masterId": "starto_travis_japan",
+      "appleMusicArtistId": "1649344367",
       "name": "Travis Japan",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/60/profile",
@@ -1482,6 +1494,7 @@
     {
       "uuid": "99905C32-9FFE-5930-B287-E2D339A7C90A",
       "masterId": "starto_ae_group",
+      "appleMusicArtistId": "1877076596",
       "name": "Aぇ! group",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/157/profile",
@@ -1571,6 +1584,7 @@
     {
       "uuid": "70CA656B-FBC8-5C15-85F5-70C97D37F82B",
       "masterId": "starto_arashi",
+      "appleMusicArtistId": "548185047",
       "name": "嵐",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/10/profile",
@@ -1677,6 +1691,7 @@
     {
       "uuid": "15B99758-9467-5500-981A-4490E962EFF3",
       "masterId": "starto_king_prince",
+      "appleMusicArtistId": "1745727874",
       "name": "King ＆ Prince",
       "isActive": true,
       "profileURL": "https://starto.jp/s/p/artist/41/profile",

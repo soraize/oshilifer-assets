@@ -6,6 +6,7 @@
     {
       "uuid": "9426EF89-1CF1-5393-94B7-6B1ED7956ECC",
       "masterId": "avex_iris",
+      "appleMusicArtistId": "572793195",
       "name": "i☆Ris",
       "isActive": true,
       "profileURL": "https://iris.dive2ent.com/profile/",
@@ -102,6 +103,7 @@
     {
       "uuid": "D04E73A3-3091-5B25-B0BE-D94F76B4B758",
       "masterId": "avex_supergirls",
+      "appleMusicArtistId": "384604686",
       "name": "SUPER☆GiRLS",
       "isActive": true,
       "profileURL": "https://www.supergirls.jp/profile/",
@@ -243,6 +245,7 @@
     {
       "uuid": "062814E1-52FA-56A1-8D7F-7A949945AE62",
       "masterId": "avex_wasuta",
+      "appleMusicArtistId": "1103083981",
       "name": "わーすた",
       "isActive": true,
       "profileURL": "https://wa-suta.world/profile/",

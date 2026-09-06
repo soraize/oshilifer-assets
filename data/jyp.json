@@ -6,6 +6,7 @@
     {
       "uuid": "F11EED67-BF70-5BF2-A299-7A05A2B5DE71",
       "masterId": "jyp_niziu",
+      "appleMusicArtistId": "1519410581",
       "name": "NiziU",
       "isActive": true,
       "profileURL": "https://niziu.jype.com/Default/Profile",
@@ -162,6 +163,7 @@
     {
       "uuid": "31107C07-E474-5143-8FF7-E390E1456A75",
       "masterId": "jyp_nexz",
+      "appleMusicArtistId": "1719566463",
       "name": "NEXZ",
       "isActive": true,
       "profileURL": "https://nexz-official.com/profile/",

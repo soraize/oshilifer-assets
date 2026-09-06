@@ -6,6 +6,7 @@
     {
       "uuid": "FF912B99-7316-500B-AE15-362515CB682C",
       "masterId": "bmsg_befirst",
+      "appleMusicArtistId": "1579021180",
       "name": "BE:FIRST",
       "isActive": true,
       "profileURL": "https://bmsg.tokyo/artist/befirst/",
@@ -117,6 +118,7 @@
     {
       "uuid": "8CF47037-8B04-593D-80D1-3CEA6FEDA848",
       "masterId": "bmsg_mazzel",
+      "appleMusicArtistId": "1678109085",
       "name": "MAZZEL",
       "isActive": true,
       "profileURL": "https://bmsg.tokyo/artist/mazzel/",

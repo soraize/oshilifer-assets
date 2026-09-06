@@ -6,6 +6,7 @@
     {
       "uuid": "4835B40B-FF70-52D0-845E-B5FDE42DF068",
       "masterId": "ldh_exile",
+      "appleMusicArtistId": "74067869",
       "name": "EXILE",
       "isActive": true,
       "profileURL": "https://www.ldh.co.jp/management/exile/",
@@ -267,6 +268,7 @@
     {
       "uuid": "BFB6166D-1399-555D-BC7A-FAAF5596AF11",
       "masterId": "ldh_jsoulbrothers",
+      "appleMusicArtistId": "633832735",
       "name": "三代目 J SOUL BROTHERS",
       "isActive": true,
       "profileURL": "https://www.ldh.co.jp/management/jsoulbrothers/",
@@ -393,6 +395,7 @@
     {
       "uuid": "42108C99-CB5F-5909-82C7-23DE1054F039",
       "masterId": "ldh_generations",
+      "appleMusicArtistId": "591740317",
       "name": "GENERATIONS",
       "isActive": true,
       "profileURL": "https://www.ldh.co.jp/management/generations/",
@@ -504,6 +507,7 @@
     {
       "uuid": "C1E561B9-FFF1-58C4-A6DA-2556FEBC09E6",
       "masterId": "ldh_the_rampage",
+      "appleMusicArtistId": "1193836423",
       "name": "THE RAMPAGE",
       "isActive": true,
       "profileURL": "https://www.ldh.co.jp/management/the_rampage/",

@@ -6,6 +6,7 @@
     {
       "uuid": "3FA4E533-3E1A-52F7-BD8E-5A4550739B99",
       "masterId": "tobe_number_i",
+      "appleMusicArtistId": "1722044374",
       "name": "Number_i",
       "isActive": true,
       "profileURL": "https://tobe-official.jp/artists/number_i/biography",
@@ -72,6 +73,7 @@
     {
       "uuid": "232CAE20-141D-548C-B20B-B32B13B631F8",
       "masterId": "tobe_imp",
+      "appleMusicArtistId": "1701117672",
       "name": "IMP.",
       "isActive": true,
       "profileURL": "https://tobe-official.jp/artists/imp/biography",

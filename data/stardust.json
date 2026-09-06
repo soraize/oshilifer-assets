@@ -5,6 +5,7 @@
     {
       "uuid": "34BFBCA2-8FD5-5765-B588-730E3A3D9070",
       "masterId": "stardust_momoiro_clover_z",
+      "appleMusicArtistId": "448294481",
       "name": "ももいろクローバーZ",
       "colorHex": null,
       "birthday": null,
@@ -86,6 +87,7 @@
     {
       "uuid": "FB7E56A2-ACD2-5801-B716-9383F5CF2749",
       "masterId": "stardust_cho_tokimeki_sendenbu",
+      "appleMusicArtistId": "1512380754",
       "name": "超ときめき♡宣伝部",
       "colorHex": null,
       "birthday": null,
@@ -183,6 +185,7 @@
     {
       "uuid": "AD097F6F-58FE-52C4-8C50-C4F21230535B",
       "masterId": "stardust_shiritsu_ebisu_chugaku",
+      "appleMusicArtistId": "573956537",
       "name": "私立恵比寿中学",
       "colorHex": null,
       "birthday": null,
@@ -328,6 +331,7 @@
     {
       "uuid": "4B17D85F-1E1A-5874-833F-D798E7569314",
       "masterId": "stardust_iginari_tohokusan",
+      "appleMusicArtistId": "1586407152",
       "name": "いぎなり東北産",
       "colorHex": null,
       "birthday": null,
@@ -489,6 +493,7 @@
     {
       "uuid": "1F8D0E8B-A031-5E6B-803C-705440092ABB",
       "masterId": "stardust_batten_girls",
+      "appleMusicArtistId": "1100091749",
       "name": "ばってん少女隊",
       "colorHex": null,
       "birthday": null,

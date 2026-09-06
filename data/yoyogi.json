@@ -6,6 +6,7 @@
     {
       "uuid": "8471F8B7-655E-5DC1-977C-FD87274637E4",
       "masterId": "yoyogi_equal_love",
+      "appleMusicArtistId": "1273762750",
       "name": "=LOVE",
       "isActive": true,
       "profileURL": "https://equal-love.jp/feature/profile",
@@ -203,6 +204,7 @@
     {
       "uuid": "0FE3D956-3D37-5C16-BC92-50A1E32159EE",
       "masterId": "yoyogi_not_equal_me",
+      "appleMusicArtistId": "1477023494",
       "name": "≠ME",
       "isActive": true,
       "profileURL": "https://not-equal-me.jp/feature/profile",
@@ -439,6 +441,7 @@
     {
       "uuid": "26D33B5B-E0D2-56C8-8F3B-97506FF71BBF",
       "masterId": "yoyogi_nearly_equal_joy",
+      "appleMusicArtistId": "1631260593",
       "name": "≒JOY",
       "isActive": true,
       "profileURL": "https://nearly-equal-joy.jp/feature/profile",

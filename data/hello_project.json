@@ -5,6 +5,7 @@
     {
       "uuid": "0E7A04B2-0E58-4E95-8B1A-0930D3B4A001",
       "masterId": "hello_project_morning_musume_26",
+      "appleMusicArtistId": "6781644331",
       "name": "モーニング娘。'26",
       "colorHex": null,
       "birthday": null,
@@ -164,6 +165,7 @@
     {
       "uuid": "40F8A86D-48C6-4A11-B0D0-9F11C8E0A002",
       "masterId": "hello_project_angerme",
+      "appleMusicArtistId": "960147470",
       "name": "アンジュルム",
       "colorHex": null,
       "birthday": null,
@@ -325,6 +327,7 @@
     {
       "uuid": "9332F38C-1A08-4F40-9F9B-25DE2620A003",
       "masterId": "hello_project_juice_juice",
+      "appleMusicArtistId": "623197059",
       "name": "Juice=Juice",
       "colorHex": null,
       "birthday": null,
@@ -518,6 +521,7 @@
     {
       "uuid": "E0B6A66F-68AD-4C1A-9E89-484D32D8A004",
       "masterId": "hello_project_tsubaki_factory",
+      "appleMusicArtistId": "1063638045",
       "name": "つばきファクトリー",
       "colorHex": null,
       "birthday": null,
@@ -711,6 +715,7 @@
     {
       "uuid": "A0C0906A-4E98-44A4-8B20-EF076B6BA005",
       "masterId": "hello_project_beyooooonds",
+      "appleMusicArtistId": "1473212760",
       "name": "BEYOOOOONDS",
       "colorHex": null,
       "birthday": null,
@@ -872,6 +877,7 @@
     {
       "uuid": "A73E6D8A-6E24-468D-AF59-2D76B81EA006",
       "masterId": "hello_project_ocha_norma",
+      "appleMusicArtistId": "1601924387",
       "name": "OCHA NORMA",
       "colorHex": null,
       "birthday": null,
@@ -1017,6 +1023,7 @@
     {
       "uuid": "C4FA1B47-12BC-4BE0-9EF8-FEAF8A6EA007",
       "masterId": "hello_project_rose_chronicle",
+      "appleMusicArtistId": "1801105168",
       "name": "ロージークロニクル",
       "colorHex": null,
       "birthday": null,
@@ -1178,6 +1185,7 @@
     {
       "uuid": "80F8A86D-48C6-4A11-B0D0-9F11C8E0A008",
       "masterId": "hello_project_helloprokenshusei",
+      "appleMusicArtistId": "1836130973",
       "name": "ハロプロ研修生",
       "colorHex": null,
       "birthday": null,

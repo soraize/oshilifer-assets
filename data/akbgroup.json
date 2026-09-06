@@ -5,6 +5,7 @@
     {
       "uuid": "A7DA2FCB-DD32-5453-830F-79583D1B2A6F",
       "masterId": "akbgroup_akb48",
+      "appleMusicArtistId": "292706922",
       "name": "AKB48",
       "colorHex": null,
       "birthday": null,
@@ -872,6 +873,7 @@
     {
       "uuid": "CAFA7F81-F935-52A4-8089-DC4CC4C3F191",
       "masterId": "akbgroup_ske48",
+      "appleMusicArtistId": "449588039",
       "name": "SKE48",
       "colorHex": null,
       "birthday": null,
@@ -1788,6 +1790,7 @@
     {
       "uuid": "A009DE6E-E974-5CEA-AB95-3FBE77E48049",
       "masterId": "akbgroup_nmb48",
+      "appleMusicArtistId": "448260895",
       "name": "NMB48",
       "colorHex": null,
       "birthday": null,
@@ -2650,6 +2653,7 @@
     {
       "uuid": "EA84A32C-5B47-5335-8F18-BDB500B35234",
       "masterId": "akbgroup_hkt48",
+      "appleMusicArtistId": "583247983",
       "name": "HKT48",
       "colorHex": null,
       "birthday": null,
@@ -3346,6 +3350,7 @@
     {
       "uuid": "03E2A4D5-EBBD-524F-A7B9-1949B6F51A65",
       "masterId": "akbgroup_ngt48",
+      "appleMusicArtistId": "1086529352",
       "name": "NGT48",
       "colorHex": null,
       "birthday": null,
@@ -3836,6 +3841,7 @@
     {
       "uuid": "29B2A306-1539-5345-A2BB-F42A8C072ACF",
       "masterId": "akbgroup_stu48",
+      "appleMusicArtistId": "1234490758",
       "name": "STU48",
       "colorHex": null,
       "birthday": null,

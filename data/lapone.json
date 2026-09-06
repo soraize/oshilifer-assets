@@ -6,6 +6,7 @@
     {
       "uuid": "743FF795-3025-58C4-85ED-FE0F3395E71A",
       "masterId": "lapone_jo1",
+      "appleMusicArtistId": "1500272115",
       "name": "JO1",
       "isActive": true,
       "profileURL": "https://jo1.jp/feature/profile",
@@ -197,6 +198,7 @@
     {
       "uuid": "495FE743-FF1C-5CA2-968B-0ACFDECFCDBC",
       "masterId": "lapone_ini",
+      "appleMusicArtistId": "1587161346",
       "name": "INI",
       "isActive": true,
       "profileURL": "https://ini-official.com/feature/profile",
@@ -405,6 +407,7 @@
     {
       "uuid": "743F8653-8374-57A1-8FD2-C50815B20F1F",
       "masterId": "lapone_dxteen",
+      "appleMusicArtistId": "1674961337",
       "name": "DXTEEN",
       "isActive": true,
       "profileURL": "https://dxteen.com/feature/profile",
@@ -528,6 +531,7 @@
     {
       "uuid": "C70168AA-0E83-584D-BC29-0EFA6258B0A2",
       "masterId": "lapone_me_i",
+      "appleMusicArtistId": "1736570286",
       "name": "ME:I",
       "isActive": true,
       "profileURL": "https://me-i.jp/feature/profile",
@@ -668,6 +672,7 @@
     {
       "uuid": "782F43C1-BBE7-543A-A0C3-B10DDFCBF4AE",
       "masterId": "lapone_is_sue",
+      "appleMusicArtistId": "1745350121",
       "name": "IS:SUE",
       "isActive": true,
       "profileURL": "https://is-sue.jp/feature/profile",

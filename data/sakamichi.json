@@ -5,6 +5,7 @@
     {
       "uuid": "09D9C4BE-F505-5CFA-8E50-CBF578976A5D",
       "masterId": "sakamichi_nogizaka46",
+      "appleMusicArtistId": "571990937",
       "name": "乃木坂46",
       "colorHex": null,
       "birthday": null,
@@ -634,6 +635,7 @@
     {
       "uuid": "0C06838F-80C7-533F-8AF9-5E44D33B7BEC",
       "masterId": "sakamichi_sakurazaka46",
+      "appleMusicArtistId": "1541126420",
       "name": "櫻坂46",
       "colorHex": null,
       "birthday": null,
@@ -1209,6 +1211,7 @@
     {
       "uuid": "BD1A3584-A6F4-57C7-8135-F04DCFB1CF42",
       "masterId": "sakamichi_hinatazaka46",
+      "appleMusicArtistId": "1456116642",
       "name": "日向坂46",
       "colorHex": null,
       "birthday": null,

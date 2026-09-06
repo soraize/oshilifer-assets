@@ -5,6 +5,7 @@
     {
       "uuid": "288B919F-09B9-5434-B585-406299A48921",
       "masterId": "twin_planet_takane_no_nadeshiko",
+      "appleMusicArtistId": "1647482977",
       "name": "高嶺のなでしこ",
       "colorHex": null,
       "birthday": null,
@@ -167,6 +168,7 @@
     {
       "uuid": "66A684F2-8A75-53C7-AF7E-1E4C0554565B",
       "masterId": "twin_planet_karenna_ivory",
+      "appleMusicArtistId": "1598039391",
       "name": "可憐なアイボリー",
       "colorHex": null,
       "birthday": null,
@@ -361,6 +363,7 @@
     {
       "uuid": "671EA1AA-6D0B-5FA2-AFC4-99CD71A7FD88",
       "masterId": "twin_planet_dramatic_record",
+      "appleMusicArtistId": "1649452373",
       "name": "ドラマチックレコード",
       "colorHex": null,
       "birthday": null,

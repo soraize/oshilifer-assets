@@ -5,6 +5,7 @@
     {
       "uuid": "D11B1A3E-5F3F-41A6-A7F8-DCD285E8F131",
       "masterId": "kawaiilab_fruits_zipper",
+      "appleMusicArtistId": "1617607581",
       "name": "FRUITS ZIPPER",
       "colorHex": null,
       "birthday": null,
@@ -134,6 +135,7 @@
     {
       "uuid": "44C2B98B-16D0-4A26-A827-67F7F2737280",
       "masterId": "kawaiilab_candy_tune",
+      "appleMusicArtistId": "1671095780",
       "name": "CANDY TUNE",
       "colorHex": null,
       "birthday": null,
@@ -263,6 +265,7 @@
     {
       "uuid": "16CFC43C-FE51-4248-9B4C-EDA4D99E5524",
       "masterId": "kawaiilab_sweet_steady",
+      "appleMusicArtistId": "1729116371",
       "name": "SWEET STEADY",
       "colorHex": null,
       "birthday": null,
@@ -392,6 +395,7 @@
     {
       "uuid": "DAC80F8F-4326-42FF-B1C8-FAE8870F438B",
       "masterId": "kawaiilab_cutie_street",
+      "appleMusicArtistId": "1763185226",
       "name": "CUTIE STREET",
       "colorHex": null,
       "birthday": null,
@@ -537,6 +541,7 @@
     {
       "uuid": "EA09D35C-D3AD-4A3F-9862-BB7A27DD46D9",
       "masterId": "kawaiilab_morestar",
+      "appleMusicArtistId": "1855752654",
       "name": "MORE STAR",
       "colorHex": null,
       "birthday": null,

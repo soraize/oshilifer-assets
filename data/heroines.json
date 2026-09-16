@@ -4652,7 +4652,7 @@
         "twitter": "https://x.com/iMiN_official",
         "instagram": null,
         "tiktok": "https://www.tiktok.com/@imin_official",
-        "youtube": null
+        "youtube": "https://www.youtube.com/@iMiN-HEROINES"
       },
       "timeTreeURL": null,
       "members": [
@@ -4665,7 +4665,7 @@
           "colorHex": ["#B32BED"],
           "birthday": null,
           "joinDate": null,
-          "sns": {"twitter": "https://x.com/iMiN_furan", "instagram": null, "tiktok": "https://www.tiktok.com/@furan_ilife"}
+          "sns": {"twitter": "https://x.com/iMiN_furan", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_furan"}
         },
         {
           "uuid": "88F89763-0FE3-4A01-9E65-18A9609A47FF",
@@ -4722,6 +4722,17 @@
           "joinDate": "2026-09-10",
           "formerGroups": ["BiTE A SHOCK"],
           "sns": {"twitter": "https://x.com/iMiN__nemu", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_nemu"}
+        },
+        {
+          "uuid": "22197B93-0009-4E8B-A37B-FBE8D3CADE67",
+          "masterId": "heroines_imin_momono_nono",
+          "name": "桃乃のの",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#DD2690"],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {"twitter": "https://x.com/iMiN_nono", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_nono"}
         }
       ]
     }

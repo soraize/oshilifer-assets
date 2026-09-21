@@ -4666,6 +4666,7 @@
           "colorHex": ["#B32BED"],
           "birthday": null,
           "joinDate": "2026-09-05",
+          "debutDate": "2026-09-20",
           "sns": {"twitter": "https://x.com/iMiN_furan", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_furan"}
         },
         {
@@ -4677,6 +4678,7 @@
           "colorHex": ["#FFFFFF"],
           "birthday": null,
           "joinDate": "2026-09-06",
+          "debutDate": "2026-09-20",
           "sns": {"twitter": "https://x.com/iMiN_ive", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_ive"}
         },
         {
@@ -4688,6 +4690,7 @@
           "colorHex": ["#ED2B38"],
           "birthday": "07-15",
           "joinDate": null,
+          "debutDate": "2026-09-20",
           "formerGroups": ["Mirai Surprise"],
           "sns": {"twitter": "https://x.com/iMiN__latte", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_latte"}
         },
@@ -4700,6 +4703,7 @@
           "colorHex": ["#F5E345"],
           "birthday": null,
           "joinDate": null,
+          "debutDate": "2026-09-20",
           "sns": {"twitter": "https://x.com/iMiN_kirari", "instagram": null, "tiktok": null}
         },
         {
@@ -4711,6 +4715,7 @@
           "colorHex": ["#26C197"],
           "birthday": null,
           "joinDate": "2026-09-09",
+          "debutDate": "2026-09-20",
           "sns": {"twitter": "https://x.com/iMiN_aru", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_aru"}
         },
         {
@@ -4722,6 +4727,7 @@
           "colorHex": ["#3957FF"],
           "birthday": "06-30",
           "joinDate": "2026-09-10",
+          "debutDate": "2026-09-20",
           "formerGroups": ["BiTE A SHOCK"],
           "sns": {"twitter": "https://x.com/iMiN__nemu", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_nemu"}
         },
@@ -4734,9 +4740,12 @@
           "colorHex": ["#DD2690"],
           "birthday": null,
           "joinDate": "2026-09-11",
+          "debutDate": "2026-09-20",
           "sns": {"twitter": "https://x.com/iMiN_nono", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_nono"}
         }
-      ]
+      ],
+      "formationDate": "2026-09-03",
+      "debutDate": "2026-09-20"
     }
   ]
 }

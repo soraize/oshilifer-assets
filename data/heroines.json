@@ -4642,6 +4642,7 @@
     {
       "uuid": "6D6A3955-2ABA-407C-9F8A-C6AAF4F1C7E5",
       "masterId": "heroines_imin",
+      "appleMusicArtistId": "6813404051",
       "name": "iMiN!",
       "isActive": true,
       "profileURL": "https://jpop.fandom.com/wiki/IMiN!",
@@ -4664,7 +4665,7 @@
           "isGraduated": false,
           "colorHex": ["#B32BED"],
           "birthday": null,
-          "joinDate": null,
+          "joinDate": "2026-09-05",
           "sns": {"twitter": "https://x.com/iMiN_furan", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_furan"}
         },
         {
@@ -4675,7 +4676,7 @@
           "isGraduated": false,
           "colorHex": ["#FFFFFF"],
           "birthday": null,
-          "joinDate": null,
+          "joinDate": "2026-09-06",
           "sns": {"twitter": "https://x.com/iMiN_ive", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_ive"}
         },
         {
@@ -4687,6 +4688,7 @@
           "colorHex": ["#ED2B38"],
           "birthday": "07-15",
           "joinDate": null,
+          "formerGroups": ["Mirai Surprise"],
           "sns": {"twitter": "https://x.com/iMiN__latte", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_latte"}
         },
         {
@@ -4708,7 +4710,7 @@
           "isGraduated": false,
           "colorHex": ["#26C197"],
           "birthday": null,
-          "joinDate": null,
+          "joinDate": "2026-09-09",
           "sns": {"twitter": "https://x.com/iMiN_aru", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_aru"}
         },
         {
@@ -4731,7 +4733,7 @@
           "isGraduated": false,
           "colorHex": ["#DD2690"],
           "birthday": null,
-          "joinDate": null,
+          "joinDate": "2026-09-11",
           "sns": {"twitter": "https://x.com/iMiN_nono", "instagram": null, "tiktok": "https://www.tiktok.com/@imin_nono"}
         }
       ]

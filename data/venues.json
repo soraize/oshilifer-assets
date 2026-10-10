@@ -5507,5 +5507,23 @@
     "capacity": null,
     "capacityType": null,
     "capacityNote": null
+  },
+  {
+    "address": "東京都港区赤坂5丁目3-2 赤坂サカス内",
+    "aliases": [
+      "赤坂BLITZ",
+      "Akasaka BLITZ",
+      "Mynavi BLITZ Akasaka",
+      "マイナビブリッツ赤坂",
+      "赤坂ブリッツ"
+    ],
+    "lat": 35.67252,
+    "lng": 139.735274,
+    "name": "マイナビBLITZ赤坂",
+    "prefecture": "東京都",
+    "venueId": "mynavi_blitz_akasaka",
+    "capacity": 1298,
+    "capacityType": "standing",
+    "capacityNote": "スタンディング最大（参考）"
   }
 ]

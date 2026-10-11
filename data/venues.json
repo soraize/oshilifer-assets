@@ -4624,7 +4624,8 @@
     "lng": 139.701049,
     "name": "新宿BLAZE",
     "prefecture": "東京都",
-    "venueId": "shinjuku_blaze"
+    "venueId": "shinjuku_blaze",
+    "closedDate": "2024-07"
   },
   {
     "address": "東京都新宿区歌舞伎町1-12-9 タテハナビルB2F",
@@ -5524,6 +5525,41 @@
     "venueId": "mynavi_blitz_akasaka",
     "capacity": 1298,
     "capacityType": "standing",
-    "capacityNote": "スタンディング最大（参考）"
+    "capacityNote": "スタンディング最大（参考）",
+    "closedDate": "2020-09"
+  },
+  {
+    "address": "東京都新宿区高田馬場3-3-8 B1F",
+    "aliases": [
+      "AREA",
+      "Takadanobaba AREA",
+      "高田馬場エリア"
+    ],
+    "lat": 35.713629,
+    "lng": 139.701671,
+    "name": "高田馬場AREA",
+    "prefecture": "東京都",
+    "venueId": "takadanobaba_area",
+    "capacity": 400,
+    "capacityType": "standing",
+    "capacityNote": "スタンディング最大（参考）",
+    "closedDate": "2021-12"
+  },
+  {
+    "address": "東京都中野区中野4-1-1",
+    "aliases": [
+      "中野サンプラザホール",
+      "Nakano Sunplaza",
+      "全国勤労青少年会館"
+    ],
+    "lat": 35.7075,
+    "lng": 139.66472,
+    "name": "中野サンプラザ",
+    "prefecture": "東京都",
+    "venueId": "nakano_sunplaza",
+    "capacity": 2222,
+    "capacityType": "seated",
+    "capacityNote": "客席数（参考）",
+    "closedDate": "2023-07"
   }
 ]

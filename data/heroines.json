@@ -2834,23 +2834,6 @@
           ]
         },
         {
-          "uuid": "2094D6CD-B518-4DFD-9A93-86C41B843142",
-          "masterId": "heroines_ion_osu_kanon",
-          "name": "大須かのん",
-          "profileURL": null,
-          "isGraduated": false,
-          "colorHex": [
-            "#FFA2D7"
-          ],
-          "birthday": "03-27",
-          "joinDate": "2026-01-09",
-          "sns": {
-            "twitter": "https://x.com/tenran_kanon",
-            "instagram": null,
-            "tiktok": "https://www.tiktok.com/@tenran_kanon"
-          }
-        },
-        {
           "uuid": "37FC76BD-1E63-47CC-8305-9CC2C8621991",
           "masterId": "heroines_ion_uno_yuri",
           "name": "宇野ゆり",
@@ -2906,23 +2889,6 @@
           "formerGroups": [
             "iTRiP"
           ]
-        },
-        {
-          "uuid": "D429BBCC-874F-4CF9-92BD-23E264849AC8",
-          "masterId": "heroines_ion_maisen_ekubo",
-          "name": "苺川えくぼ",
-          "profileURL": null,
-          "isGraduated": false,
-          "colorHex": [
-            "#FF6BC3"
-          ],
-          "birthday": "04-24",
-          "joinDate": "2026-01-10",
-          "sns": {
-            "twitter": "https://x.com/ekubo_nanakoro",
-            "instagram": null,
-            "tiktok": null
-          }
         },
         {
           "uuid": "F0DD8C34-19C5-4721-A57D-908EFF70D34E",

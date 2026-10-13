@@ -2838,7 +2838,7 @@
           "masterId": "heroines_ion_osu_kanon",
           "name": "大須かのん",
           "profileURL": null,
-          "isGraduated": true,
+          "isGraduated": false,
           "colorHex": [
             "#FFA2D7"
           ],
@@ -2912,7 +2912,7 @@
           "masterId": "heroines_ion_maisen_ekubo",
           "name": "苺川えくぼ",
           "profileURL": null,
-          "isGraduated": true,
+          "isGraduated": false,
           "colorHex": [
             "#FF6BC3"
           ],

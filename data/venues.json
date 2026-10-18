@@ -5602,5 +5602,20 @@
     "name": "五反田BLAZE",
     "prefecture": "東京都",
     "venueId": "gotanda_blaze"
+  },
+  {
+    "address": "東京都豊島区池袋1丁目16-18 グランメゾンTJ B1",
+    "aliases": [
+      "池袋RED-ZONE ANERIS",
+      "RED-Zone ANERIS",
+      "RE:ANERIS",
+      "池袋アネリス",
+      "ANERIS"
+    ],
+    "lat": 35.737659,
+    "lng": 139.711365,
+    "name": "池袋RED-Zone ANERIS",
+    "prefecture": "東京都",
+    "venueId": "ikebukuro_red_zone_aneris"
   }
 ]

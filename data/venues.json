@@ -3332,7 +3332,9 @@
     "aliases": [
       "西川口Hearts",
       "HEARTS",
-      "Nishikawaguchi HEARTS"
+      "Nishikawaguchi HEARTS",
+      "Live House Hearts",
+      "西川口Live House Hearts"
     ],
     "lat": 35.815891,
     "lng": 139.707962,
@@ -4092,7 +4094,8 @@
     "aliases": [
       "Harevutai",
       "ハレヴタイ",
-      "Hareza池袋"
+      "Hareza池袋",
+      "harebutai"
     ],
     "lat": 35.7319,
     "lng": 139.7155,
@@ -5669,5 +5672,82 @@
     "name": "YOKOHAMA ReNY beta",
     "prefecture": "神奈川県",
     "venueId": "yokohama_reny_beta"
+  },
+  {
+    "address": "東京都杉並区高円寺南4丁目9-6 第三矢島ビル2F",
+    "aliases": [
+      "Green Apple",
+      "グリーンアップル",
+      "Green Apple Koenji",
+      "高円寺Green Apple"
+    ],
+    "lat": 35.703163,
+    "lng": 139.650742,
+    "name": "高円寺グリーンアップル",
+    "prefecture": "東京都",
+    "venueId": "koenji_green_apple"
+  },
+  {
+    "address": "神奈川県横浜市港北区新横浜3丁目10 横浜アリーナ1F",
+    "aliases": [
+      "strage",
+      "新横浜strage",
+      "starge",
+      "新横浜starge"
+    ],
+    "lat": 35.51228,
+    "lng": 139.620102,
+    "name": "新横浜strage",
+    "prefecture": "神奈川県",
+    "venueId": "shinyokohama_strage"
+  },
+  {
+    "address": "東京都渋谷区道玄坂1丁目17-6 プロスペクトB1F",
+    "aliases": [
+      "GUILTY",
+      "LIVE STAGE GUILTY",
+      "渋谷ギルティ",
+      "渋谷GUILTY"
+    ],
+    "lat": 35.656815,
+    "lng": 139.697159,
+    "name": "渋谷GUILTY",
+    "prefecture": "東京都",
+    "venueId": "shibuya_guilty"
+  },
+  {
+    "address": "東京都台東区東上野3丁目16-3 東宝ビルB1F",
+    "aliases": [
+      "音横丁",
+      "OTOYOKO",
+      "おとよこ",
+      "上野OTOYOKO"
+    ],
+    "lat": 35.710682,
+    "lng": 139.77774,
+    "name": "上野音横丁",
+    "prefecture": "東京都",
+    "venueId": "ueno_otoyokocho",
+    "capacity": 200,
+    "capacityType": "standing",
+    "capacityNote": "スタンディング最大（着席80）（参考）"
+  },
+  {
+    "address": "東京都豊島区巣鴨2丁目3-3 第二福島ビルB1",
+    "aliases": [
+      "LIVE HOUSE 獅子王",
+      "Live House獅子王",
+      "獅子王",
+      "巣鴨獅子王",
+      "巣鴨Live House獅子王"
+    ],
+    "lat": 35.734184,
+    "lng": 139.738647,
+    "name": "巣鴨Live House獅子王",
+    "prefecture": "東京都",
+    "venueId": "sugamo_shishiou",
+    "capacity": 220,
+    "capacityType": "max",
+    "capacityNote": "ライブハウス最大（参考。情報源で100〜220）"
   }
 ]

@@ -3995,7 +3995,8 @@
     "address": "東京都渋谷区宇田川町4-7 トウセン宇田川ビルB1F",
     "aliases": [
       "渋谷CHELSEA HOTEL",
-      "チェルシーホテル"
+      "チェルシーホテル",
+      "渋谷チェルシーホテル"
     ],
     "lat": 35.662481,
     "lng": 139.697895,
@@ -4268,7 +4269,8 @@
     "address": "東京都渋谷区宇田川町4-7 トウセン宇田川ビル1F",
     "aliases": [
       "スターラウンジ",
-      "Shibuya Star lounge"
+      "Shibuya Star lounge",
+      "渋谷スターラウンジ"
     ],
     "lat": 35.662481,
     "lng": 139.697895,
@@ -5635,5 +5637,37 @@
     "capacity": 780,
     "capacityType": "seated",
     "capacityNote": "ホール客席数（参考）"
+  },
+  {
+    "address": "神奈川県横浜市港北区新横浜3丁目10 横浜アリーナ1F",
+    "aliases": [
+      "新横浜NEW SIDE BEACH!!",
+      "NEW SIDE BEACH!!",
+      "NEW SIDE BEACH",
+      "新横浜ニューサイドビーチ",
+      "ニューサイドビーチ"
+    ],
+    "lat": 35.51228,
+    "lng": 139.620102,
+    "name": "新横浜NEW SIDE BEACH!!",
+    "prefecture": "神奈川県",
+    "venueId": "shinyokohama_new_side_beach",
+    "capacity": 200,
+    "capacityType": "max",
+    "capacityNote": "ライブハウス最大（参考）"
+  },
+  {
+    "address": "神奈川県横浜市中区真砂町4丁目43 木下商事ビル1F",
+    "aliases": [
+      "YOKOHAMA ReNY beta",
+      "横浜ReNY beta",
+      "ReNY beta",
+      "横浜ReNY"
+    ],
+    "lat": 35.445621,
+    "lng": 139.635223,
+    "name": "YOKOHAMA ReNY beta",
+    "prefecture": "神奈川県",
+    "venueId": "yokohama_reny_beta"
   }
 ]

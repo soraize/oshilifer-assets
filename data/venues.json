@@ -5617,5 +5617,23 @@
     "name": "池袋RED-Zone ANERIS",
     "prefecture": "東京都",
     "venueId": "ikebukuro_red_zone_aneris"
+  },
+  {
+    "address": "福岡県福岡市中央区渡辺通4丁目8-28 F・TスカラB2F",
+    "aliases": [
+      "トヨタスカラエスパシオホール",
+      "スカラエスパシオ",
+      "Scala Espacio",
+      "福岡トヨタホール スカラエスパシオ",
+      "福岡トヨタホール"
+    ],
+    "lat": 33.586559,
+    "lng": 130.402161,
+    "name": "福岡トヨタホール スカラエスパシオ",
+    "prefecture": "福岡県",
+    "venueId": "fukuoka_toyota_hall_scala_espacio",
+    "capacity": 780,
+    "capacityType": "seated",
+    "capacityNote": "ホール客席数（参考）"
   }
 ]

@@ -3154,7 +3154,7 @@
           "masterId": "heroines_last_scene_yuuki_azusa",
           "name": "優木あずさ",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FB6B6A"
           ],
@@ -3211,7 +3211,7 @@
           "masterId": "heroines_last_scene_miyase_uyu",
           "name": "宮瀬うゆ",
           "profileURL": null,
-          "isGraduated": false,
+          "isGraduated": true,
           "colorHex": [
             "#FF6AC1"
           ],

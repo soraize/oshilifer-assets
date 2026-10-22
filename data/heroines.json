@@ -4729,6 +4729,113 @@
       ],
       "formationDate": "2026-09-03",
       "debutDate": "2026-09-20"
+    },
+    {
+      "uuid": "AF0BFE74-DA4A-40B0-BB0A-6FD67E6A21CE",
+      "masterId": "heroines_gagapiero",
+      "appleMusicArtistId": "1716694943",
+      "name": "ガガピエロ",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/GAGAPIERO",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/GAGA_PIERO",
+        "instagram": "https://www.instagram.com/gagapiero/",
+        "tiktok": "https://www.tiktok.com/@gagapiero",
+        "youtube": "https://www.youtube.com/@gagapiero"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/gagapiero",
+      "members": [
+        {
+          "uuid": "4CE6C2D8-31CD-4BBD-AC5D-3CBA69F95D6B",
+          "masterId": "heroines_gagapiero_akitsuki_emu",
+          "name": "秋月えむ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#C763F0"],
+          "birthday": "09-01",
+          "joinDate": "2026-10-11",
+          "debutDate": "2026-10-27",
+          "formerGroups": ["ヒロインズ研究生"],
+          "sns": {"twitter": "https://x.com/emu_gagapiero", "instagram": null, "tiktok": "https://www.tiktok.com/@emu_heroines"}
+        },
+        {
+          "uuid": "037A5E50-FC1A-4404-A120-A73B5C3333B3",
+          "masterId": "heroines_gagapiero_hibiki_razu",
+          "name": "韻妃らず",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#3957FF"],
+          "birthday": null,
+          "joinDate": "2026-10-12",
+          "debutDate": "2026-10-27",
+          "sns": {"twitter": "https://x.com/gagapiero_razu", "instagram": null, "tiktok": null}
+        },
+        {
+          "uuid": "4A832BFA-9FEE-47A8-9D45-6E520A022A7E",
+          "masterId": "heroines_gagapiero_chigusa_chima",
+          "name": "千草ちま",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#3AF08C"],
+          "birthday": null,
+          "joinDate": "2026-10-13",
+          "debutDate": "2026-10-27",
+          "sns": {"twitter": "https://x.com/gagapiero_chima", "instagram": null, "tiktok": "https://www.tiktok.com/@gagapiero__chima"}
+        },
+        {
+          "uuid": "260ECB5C-1572-491F-AF5F-68C2233F6499",
+          "masterId": "heroines_gagapiero_tamashiro_mimi",
+          "name": "珠城みみ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FBFBFB"],
+          "birthday": null,
+          "joinDate": "2026-10-14",
+          "debutDate": "2026-10-27",
+          "sns": {"twitter": "https://x.com/gagapiero_mimi", "instagram": null, "tiktok": "https://www.tiktok.com/@gagapiero_mimi"}
+        },
+        {
+          "uuid": "437CB37F-C3B8-4637-B8DC-C3FBA3946C6D",
+          "masterId": "heroines_gagapiero_amagami_mero",
+          "name": "甘神めろ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FE2D88"],
+          "birthday": null,
+          "joinDate": "2026-10-15",
+          "debutDate": "2026-10-27",
+          "sns": {"twitter": "https://x.com/gagapiero_mero", "instagram": null, "tiktok": "https://www.tiktok.com/@gagapiero_mero"}
+        },
+        {
+          "uuid": "4B1F7690-A5EA-4307-A407-FBA5F19BD8BF",
+          "masterId": "heroines_gagapiero_fukamachi_akari",
+          "name": "深街あかり",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#F62C31"],
+          "birthday": null,
+          "joinDate": "2026-10-16",
+          "debutDate": "2026-10-27",
+          "sns": {"twitter": "https://x.com/gagapiero_akari", "instagram": null, "tiktok": "https://www.tiktok.com/@gagapiero_akari"}
+        },
+        {
+          "uuid": "180D7AC2-7D30-47A8-9CB7-4EF1740AE0D5",
+          "masterId": "heroines_gagapiero_mino_mariru",
+          "name": "澪祈まりる",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#78E2F5"],
+          "birthday": null,
+          "joinDate": "2026-10-18",
+          "debutDate": "2026-10-27",
+          "sns": {"twitter": "https://x.com/gagapiero_mino", "instagram": null, "tiktok": "https://www.tiktok.com/@gagapiero_mino"}
+        }
+      ],
+      "formationDate": null,
+      "debutDate": "2026-10-27"
     }
   ]
 }

@@ -1715,6 +1715,1618 @@
         }
       ],
       "profileURL": "https://roughlaugh-official.com/profile/"
+    },
+    {
+      "uuid": "0F338B6A-EF70-5AFA-B81A-2C5DD9342F3C",
+      "masterId": "other_idols_aproof",
+      "appleMusicArtistId": "1763771487",
+      "name": "Aproof",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Aproof",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/aproof_official",
+        "instagram": "https://www.instagram.com/aproof_official/",
+        "tiktok": "https://www.tiktok.com/@aproof0928",
+        "youtube": "https://www.youtube.com/@UC9TLVN9quDD3_ql9-ip0_Cg"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/aproof_schedule",
+      "members": [
+        {
+          "uuid": "6DA14E6A-0D88-5966-940A-6E852AEFFF30",
+          "masterId": "other_idols_aproof_nagase_kanon",
+          "name": "永瀬かのん",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "06-29",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/aproof_kanon",
+            "instagram": "https://www.instagram.com/kanon_nagase/",
+            "tiktok": "https://www.tiktok.com/@nonchan"
+          }
+        },
+        {
+          "uuid": "97927EDF-DD6A-5B73-AF18-799A65D343CB",
+          "masterId": "other_idols_aproof_sakuragi_himena",
+          "name": "桜木姫奈",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": "07-07",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/aproof_himena",
+            "instagram": "https://www.instagram.com/aproof_himena/",
+            "tiktok": "https://www.tiktok.com/@aproof_himena"
+          }
+        },
+        {
+          "uuid": "60E69028-C5A6-5E52-8650-DB5657186019",
+          "masterId": "other_idols_aproof_amamiya_anna",
+          "name": "雨宮あんな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "02-16",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/aproof_anna",
+            "instagram": "https://www.instagram.com/aproof_anna/",
+            "tiktok": "https://www.tiktok.com/@aproof_anna"
+          }
+        },
+        {
+          "uuid": "6DC8726A-2253-5F29-8327-F8EFA7DFE78F",
+          "masterId": "other_idols_aproof_hiyama_sora",
+          "name": "陽山そら",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "11-17",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/aproof_sora",
+            "instagram": "https://www.instagram.com/aproof_sora/",
+            "tiktok": "https://www.tiktok.com/@hiyama_maru"
+          }
+        },
+        {
+          "uuid": "53AC18C8-5D66-573D-A42D-4135C4668965",
+          "masterId": "other_idols_aproof_hoshina_suzu_aproof",
+          "name": "星奈すず",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": "10-05",
+          "joinDate": "2025-09-24",
+          "sns": {
+            "twitter": "https://x.com/aproof_suzu",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "D52EBA47-8BBF-5388-AA60-E25589D09BFD",
+      "masterId": "other_idols_chuu_cute",
+      "appleMusicArtistId": "1821655934",
+      "name": "Chuu♡Cute",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Chuu%E2%99%A1Cute",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/chuu_cute_",
+        "instagram": "https://www.instagram.com/chuucute.official/",
+        "tiktok": "https://www.tiktok.com/@chuucute_official",
+        "youtube": "https://www.youtube.com/@ChuuCute_official"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/chuu_cute_",
+      "members": [
+        {
+          "uuid": "F6DA78AC-00E6-5D4C-A4BC-CB97391FCA5C",
+          "masterId": "other_idols_chuu_cute_hashimoto_noi",
+          "name": "橋本乃依",
+          "profileURL": "https://chuu-cute.com/contents/menu/123961",
+          "isGraduated": false,
+          "colorHex": [
+            "#66E2A3"
+          ],
+          "birthday": "03-16",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/noi_chuucute",
+            "instagram": "https://www.instagram.com/noihashimoto_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FF550A6E-035E-5B4C-A6CD-A6AC57DA578C",
+          "masterId": "other_idols_chuu_cute_takahashi_haruka",
+          "name": "高橋遥花",
+          "profileURL": "https://chuu-cute.com/contents/menu/123961",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "11-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/Haruka_chuucute",
+            "instagram": "https://www.instagram.com/takahashi.haruka_official",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BEF73285-8DF3-5535-98FC-9291501A5268",
+          "masterId": "other_idols_chuu_cute_yoshida_nono",
+          "name": "吉田野乃",
+          "profileURL": "https://chuu-cute.com/contents/menu/123961",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-29",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nono_chuucute",
+            "instagram": "https://www.instagram.com/nono_chuucute",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6530235E-CA3D-57BA-B71D-C6AE4FB3253E",
+          "masterId": "other_idols_chuu_cute_ohmori_ami",
+          "name": "大森あみ",
+          "profileURL": "https://chuu-cute.com/contents/menu/123961",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "06-07",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ami_chuucute",
+            "instagram": "https://www.instagram.com/ami_06077",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "60FA5EBF-27C4-50E2-B022-D297F5CA571B",
+          "masterId": "other_idols_chuu_cute_matsumoto_reika",
+          "name": "松本麗花",
+          "profileURL": "https://chuu-cute.com/contents/menu/123961",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-03",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/reika_chuucute",
+            "instagram": "https://www.instagram.com/reika_chuucute",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "48D97209-80A0-5783-841E-8F726228302B",
+      "masterId": "other_idols_idol_college",
+      "appleMusicArtistId": "423522413",
+      "name": "アイドルカレッジ",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/IDOL_COLLEGE",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/ic_idolcollege",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "1985A0DF-A9BE-5004-A035-FAF120717B64",
+          "masterId": "other_idols_idol_college_konno_honoka",
+          "name": "今野穂乃花",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FA66B8"
+          ],
+          "birthday": "04-20",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_honotan",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5A836D6C-0181-524F-A352-D5250C6E2887",
+          "masterId": "other_idols_idol_college_wakabayashi_haruki",
+          "name": "若林春来",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#730FFF"
+          ],
+          "birthday": "04-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_haruki",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "015D9286-C68E-5701-A689-DF50A85242ED",
+          "masterId": "other_idols_idol_college_fujishiro_ririka",
+          "name": "藤代梨々花",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF90C1"
+          ],
+          "birthday": "01-30",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_riri130",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0FE7D254-D62B-5434-A113-0F50E6B39C9C",
+          "masterId": "other_idols_idol_college_minejima_kanon",
+          "name": "峯島叶夢",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF47A"
+          ],
+          "birthday": "05-31",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_kanon",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@ic_kanon"
+          }
+        },
+        {
+          "uuid": "44EFBD6B-F3AF-5D8B-9E61-B740AD99367D",
+          "masterId": "other_idols_idol_college_shimada_kotone",
+          "name": "島田詩音",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "06-30",
+          "joinDate": "2020-06-06",
+          "sns": {
+            "twitter": "https://x.com/ic_kotone",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C7636E40-CC06-5ACD-ACCB-518947C3F2A2",
+          "masterId": "other_idols_idol_college_mitsuya_maho",
+          "name": "三ツ矢真歩",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "05-01",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_maho",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "6F8ED91B-FFB5-57CE-8BA5-3BB521A51DD5",
+          "masterId": "other_idols_idol_college_ishizuka_shioka",
+          "name": "石塚汐花",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "07-03",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/shioka_ishizuka",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B09DFA4B-79F9-5BE3-8953-C69F8B00AF86",
+          "masterId": "other_idols_idol_college_takahashi_maika",
+          "name": "髙橋舞夏",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9C00"
+          ],
+          "birthday": "08-20",
+          "joinDate": "2025-07-03",
+          "sns": {
+            "twitter": "https://x.com/ic_maika",
+            "instagram": "https://www.instagram.com/haruka_mighty/",
+            "tiktok": "https://www.tiktok.com/@haruka_mighty"
+          }
+        },
+        {
+          "uuid": "AC9280C3-92A7-5B13-A008-635CE1C8ED1B",
+          "masterId": "other_idols_idol_college_nao_idol_college",
+          "name": "Nao",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FA66B8"
+          ],
+          "birthday": "06-27",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_itrip_nao",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3695F47E-61A5-5A12-82BF-88BAD043967C",
+          "masterId": "other_idols_idol_college_ishii_chizuru",
+          "name": "石井千鶴",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#94D3E9"
+          ],
+          "birthday": "04-22",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/chi_chan042",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "40B27CB2-6CF7-5EEE-BECB-ED3D5643C736",
+          "masterId": "other_idols_idol_college_shiga_noa",
+          "name": "志賀乃愛",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#9ACD32"
+          ],
+          "birthday": "07-26",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_noatan",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "ECBB807A-8300-5B91-9171-493A39118BE4",
+          "masterId": "other_idols_idol_college_ito_kanon",
+          "name": "伊藤歌音",
+          "profileURL": "https://idolcollege.com/member/",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-06",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ic_itonon",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3166C639-9A27-53B6-98EC-FE145605E69E",
+          "masterId": "other_idols_idol_college_kumasato_akari",
+          "name": "熊里あかり",
+          "profileURL": "https://idolcollege.com/member/",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-30",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/akr_kuma0930",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E57D7321-7351-54D1-ADD1-77BCD1177E9E",
+          "masterId": "other_idols_idol_college_miyagi_yukano",
+          "name": "宮城夕夏乃",
+          "profileURL": "https://idolcollege.com/member/",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "07-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/yunano_golf",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D2132983-4B06-5540-85A5-72B593F5CAAE",
+          "masterId": "other_idols_idol_college_niki_miuka",
+          "name": "仁木美羽佳",
+          "profileURL": "https://idolcollege.com/member/",
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "09-08",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/miukaaxi",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "4A7D3359-0050-51F4-9BA9-46DE42C6D333",
+      "masterId": "other_idols_ice_nuts",
+      "appleMusicArtistId": "1727465125",
+      "name": "あいすなっつ",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Ice_Nuts",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/ice_nuts_",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/icenuts",
+      "members": [
+        {
+          "uuid": "F05D38F0-99D0-5320-A568-5956A5F7EF6F",
+          "masterId": "other_idols_ice_nuts_swim_mint",
+          "name": "すいむみんと",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#66E2A3"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/mint_icenuts",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "0C9CB50B-D2B0-55D6-A3C9-8288091BBC69",
+          "masterId": "other_idols_ice_nuts_yumepirika",
+          "name": "ゆめぴりか",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/yumepi_icenuts",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "054662AD-C991-5C5A-B024-BBE1D64E09F1",
+          "masterId": "other_idols_ice_nuts_shiratamashu",
+          "name": "しらたましゅ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/mashu_icenuts_",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CF8229D8-3704-516F-91D6-56FBAF1FAFFC",
+          "masterId": "other_idols_ice_nuts_pachi_pachi_ramune",
+          "name": "ぱちぱちらむね",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#6FD3FF"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ramune_icenuts_",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B7A0AFF1-3810-5959-847D-0C52E1DE9BED",
+          "masterId": "other_idols_ice_nuts_tarurumano",
+          "name": "たるるまの",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/mano_icenuts",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A35B4FD1-1F26-5E12-8DFE-DA0157B06B2F",
+      "masterId": "other_idols_kira_mina",
+      "appleMusicArtistId": "6809434789",
+      "name": "KIRA:MINA",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/KIRA%3AMINA",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/kiramina_jp",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "E6745A1F-9183-58BE-A79E-D375C09B2CD0",
+          "masterId": "other_idols_kira_mina_ryco",
+          "name": "Ryco",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "04-14",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kiramina_Ryco",
+            "instagram": "https://www.instagram.com/ryco_hungry/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "C77BB019-2E94-5A2D-94CE-E2605CF945A9",
+          "masterId": "other_idols_kira_mina_kona",
+          "name": "Kona",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "11-21",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kiramina_Kona",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BD578A24-FFB8-5AC2-BF19-B83AB27C513A",
+          "masterId": "other_idols_kira_mina_tane",
+          "name": "Tane",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": "02-07",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kiramina_Tane",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@kiramina_tane"
+          }
+        },
+        {
+          "uuid": "78384932-E7A0-5869-A61A-A4621341728D",
+          "masterId": "other_idols_kira_mina_asari",
+          "name": "Asari",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kiramina_Asari",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3E7E2FC4-62CC-5EC4-8910-42402AECD1F6",
+          "masterId": "other_idols_kira_mina_aopong",
+          "name": "Aopong",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": null,
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kiramina_Aopong",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "56E5C3D4-3F0C-5FC7-AE5A-4F2050CF78A3",
+      "masterId": "other_idols_kamen_joshi",
+      "appleMusicArtistId": "926663174",
+      "name": "仮面女子",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Kamen_Joshi",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/AliceProject_mb",
+        "instagram": "https://www.instagram.com/kamenjoshi/",
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/kamenjoshi",
+      "members": [
+        {
+          "uuid": "A18218A7-29AB-5229-A883-CCAEA31AB504",
+          "masterId": "other_idols_kamen_joshi_morishita_mao",
+          "name": "森下舞桜",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "11-11",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/morishitamao",
+            "instagram": "https://www.instagram.com/morishita_mao/",
+            "tiktok": "https://www.tiktok.com/@morishita_mao"
+          }
+        },
+        {
+          "uuid": "35DD8651-28EC-504B-B803-EBD505FF089B",
+          "masterId": "other_idols_kamen_joshi_tsukino_moa",
+          "name": "月野もあ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#B57EDC"
+          ],
+          "birthday": "03-07",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/tsukinomoa_37",
+            "instagram": "https://www.instagram.com/moa_tsukino/",
+            "tiktok": "https://www.tiktok.com/@tsukinomoa_37"
+          }
+        },
+        {
+          "uuid": "D05D7841-3578-5461-AED9-9224A5196358",
+          "masterId": "other_idols_kamen_joshi_kojima_yuuka",
+          "name": "小島夕佳",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFB347"
+          ],
+          "birthday": "03-20",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/kojimayuukataso",
+            "instagram": "https://www.instagram.com/kojimayuukataso/",
+            "tiktok": "https://www.tiktok.com/@kojimayuukataso"
+          }
+        },
+        {
+          "uuid": "E5366453-5DCE-5849-87E4-076AD8E7AD03",
+          "masterId": "other_idols_kamen_joshi_igari_tomoka",
+          "name": "猪狩ともか",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": "12-09",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/igari_tomoka3",
+            "instagram": "https://www.instagram.com/igari_tomoka/",
+            "tiktok": "https://www.tiktok.com/@igari_tomoka"
+          }
+        },
+        {
+          "uuid": "7DB55A29-6380-5645-9D62-066A7556151E",
+          "masterId": "other_idols_kamen_joshi_suzumura_seri",
+          "name": "涼邑芹",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "08-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/suzumura_seri_",
+            "instagram": "https://www.instagram.com/seri_suzumura/",
+            "tiktok": "https://www.tiktok.com/@suzumuraseri"
+          }
+        },
+        {
+          "uuid": "F462F2A5-F337-5023-955A-F898D19BAED3",
+          "masterId": "other_idols_kamen_joshi_hinata_koharu",
+          "name": "陽向こはる",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": "07-29",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/hinatacoharuuu",
+            "instagram": "https://www.instagram.com/coharuhinata/",
+            "tiktok": "https://www.tiktok.com/@hinatacoharuuu"
+          }
+        },
+        {
+          "uuid": "D711AA25-9B25-51BF-A24C-2BF0C3C94A55",
+          "masterId": "other_idols_kamen_joshi_nonoa",
+          "name": "NONOA",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#66E2A3"
+          ],
+          "birthday": "04-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://twitter.com/nonoa_aoi45",
+            "instagram": "https://www.instagram.com/aoi_nonoa/",
+            "tiktok": "https://www.tiktok.com/@aoi_nonoa"
+          }
+        },
+        {
+          "uuid": "F934B62C-F637-5ED5-B63D-918815C24EEA",
+          "masterId": "other_idols_kamen_joshi_miyoshi_shino",
+          "name": "三吉織乃",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "07-02",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/shino_miyoshi",
+            "instagram": "https://www.instagram.com/miyoshi_shino",
+            "tiktok": "https://www.tiktok.com/@shino_miyoshi"
+          }
+        },
+        {
+          "uuid": "50040C6E-FB8F-5ECD-BF41-83C15ED90FFC",
+          "masterId": "other_idols_kamen_joshi_yukisaki_ui",
+          "name": "雪咲羽衣",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "10-22",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/yukisaki_ui",
+            "instagram": "https://www.instagram.com/yukisaki__ui",
+            "tiktok": "https://www.tiktok.com/@maborpshi"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "A2C01BD4-56A5-5266-B082-51B38E93D6BE",
+      "masterId": "other_idols_metarium",
+      "appleMusicArtistId": "1653355175",
+      "name": "metarium",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Metarium",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/metarium_info",
+        "instagram": "https://www.instagram.com/metarium_info/",
+        "tiktok": "https://www.tiktok.com/@metarium_info",
+        "youtube": "https://www.youtube.com/@UCd7XdAmWxHBlPWMpeVhLGZg"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "2C51C36E-BF19-5ABD-9011-7FBC3FB0636B",
+          "masterId": "other_idols_metarium_yurizono_emma",
+          "name": "百合園えま",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "11-27",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/meta_emma1127",
+            "instagram": "https://www.instagram.com/meta_emma1127/",
+            "tiktok": "https://www.tiktok.com/@echimayan"
+          }
+        },
+        {
+          "uuid": "2510E2C2-7D52-5857-AE02-1445287F8743",
+          "masterId": "other_idols_metarium_hoshimaru_nitto",
+          "name": "星丸にっと",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": "01-08",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/meta_nitto0108",
+            "instagram": "https://www.instagram.com/meta_nitto0108/",
+            "tiktok": "https://www.tiktok.com/@nitto__chan"
+          }
+        },
+        {
+          "uuid": "C0404762-F2D0-57A1-B81E-466D4EC3BFF3",
+          "masterId": "other_idols_metarium_momono_himeka",
+          "name": "桃乃ひめか",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9899"
+          ],
+          "birthday": "11-23",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/meta_himeka1123",
+            "instagram": "https://www.instagram.com/meta_himeka1123/",
+            "tiktok": "https://www.tiktok.com/@himeka_nyan"
+          }
+        },
+        {
+          "uuid": "F6D3C985-46E7-56B0-8560-3CA5DF6A8E36",
+          "masterId": "other_idols_metarium_anmin_pom",
+          "name": "安眠ぽむ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#ADD8E6"
+          ],
+          "birthday": "02-13",
+          "joinDate": "2023-10-25",
+          "sns": {
+            "twitter": "https://x.com/meta_pom0213",
+            "instagram": "https://www.instagram.com/pom_mao_/",
+            "tiktok": "https://www.tiktok.com/@pom_mao_hlbl"
+          }
+        },
+        {
+          "uuid": "93657B06-14BE-50A5-B93F-FB9E5B7BF161",
+          "masterId": "other_idols_metarium_otomiya_rana",
+          "name": "音宮らな",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "08-21",
+          "joinDate": "2023-10-25",
+          "sns": {
+            "twitter": "https://x.com/meta_rana0821",
+            "instagram": "https://www.instagram.com/__rananyan__/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F8DDD933-74EF-5619-AF2E-17E12041DF43",
+          "masterId": "other_idols_metarium_kikyo_toto",
+          "name": "桔梗とと",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#66E2A3"
+          ],
+          "birthday": "03-17",
+          "joinDate": "2026-04-04",
+          "sns": {
+            "twitter": "https://x.com/meta_toto0317",
+            "instagram": "https://www.instagram.com/kikyo_toto/",
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "80B4E35E-7A4C-5564-AF5E-F09A2AB068C3",
+      "masterId": "other_idols_lv_charm",
+      "appleMusicArtistId": "1878917768",
+      "name": "Lv.♡Charm",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Lv.%E2%99%A1Charm",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/lvcharmofficial",
+        "instagram": "https://www.instagram.com/lv.charm.official/",
+        "tiktok": "https://www.tiktok.com/@lv.charm",
+        "youtube": "https://www.youtube.com/@Lv.charmofficial"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/lvcharmofficial",
+      "members": [
+        {
+          "uuid": "AF41A68C-62DF-534E-9491-280108B73097",
+          "masterId": "other_idols_lv_charm_iwase_rana",
+          "name": "岩瀬蘭奈",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#BF72DD"
+          ],
+          "birthday": "08-01",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmrana",
+            "instagram": "https://www.instagram.com/lvcharmrana/",
+            "tiktok": "https://www.tiktok.com/@lvcharmrana"
+          }
+        },
+        {
+          "uuid": "8EBA9249-60D5-5E8F-A872-AB18BFA76A3E",
+          "masterId": "other_idols_lv_charm_inuzuka_aimi",
+          "name": "犬塚藍美",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#60B3F9"
+          ],
+          "birthday": "02-04",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmaimi",
+            "instagram": "https://www.instagram.com/lvcharmaimi/",
+            "tiktok": "https://www.tiktok.com/@lvcharmaimi"
+          }
+        },
+        {
+          "uuid": "61F38813-BF81-52BD-9DBC-D5A9F84BD282",
+          "masterId": "other_idols_lv_charm_ueki_mimi",
+          "name": "植木美々",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#C0F099"
+          ],
+          "birthday": "10-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmmimi",
+            "instagram": "https://www.instagram.com/lvcharmmimi/",
+            "tiktok": "https://www.tiktok.com/@lvcharmmimi"
+          }
+        },
+        {
+          "uuid": "8B512686-C876-5BFB-87E9-D98084E0A989",
+          "masterId": "other_idols_lv_charm_otsubo_karen",
+          "name": "大坪楓恋",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#E74841"
+          ],
+          "birthday": "11-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmkaren",
+            "instagram": "https://www.instagram.com/lvcharmkaren/",
+            "tiktok": "https://www.tiktok.com/@lvcharmkaren"
+          }
+        },
+        {
+          "uuid": "A8FE0564-9117-531F-AB2E-6BD84F4F0B2D",
+          "masterId": "other_idols_lv_charm_saito_mao",
+          "name": "斉藤まお",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#536DFC"
+          ],
+          "birthday": "06-10",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmmao",
+            "instagram": "https://www.instagram.com/lvcharmmao/",
+            "tiktok": "https://www.tiktok.com/@lvcharmmao"
+          }
+        },
+        {
+          "uuid": "89EAA656-028D-58E1-B225-DFEC60A8D2B3",
+          "masterId": "other_idols_lv_charm_sato_miyuu",
+          "name": "佐藤美優",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F8DF6E"
+          ],
+          "birthday": "12-24",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmmiyuu",
+            "instagram": "https://www.instagram.com/lvcharmmiyuu/",
+            "tiktok": "https://www.tiktok.com/@lvcharmmiyuu"
+          }
+        },
+        {
+          "uuid": "BAE08F27-288B-5AB4-9406-7295ED030CEB",
+          "masterId": "other_idols_lv_charm_furuse_nicoa",
+          "name": "古瀬にこあ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F4B3E7"
+          ],
+          "birthday": "07-01",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmnicoa",
+            "instagram": "https://www.instagram.com/lvcharmnicoa/",
+            "tiktok": "https://www.tiktok.com/@lvcharmnicoa"
+          }
+        },
+        {
+          "uuid": "85BCEE4B-EA06-5974-8CCE-91DD576251F1",
+          "masterId": "other_idols_lv_charm_yamamoto_miyabi",
+          "name": "山本雅",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "10-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmmiyabi",
+            "instagram": "https://www.instagram.com/lvcharmmiyabi/",
+            "tiktok": "https://www.tiktok.com/@lvcharmmiyabi"
+          }
+        },
+        {
+          "uuid": "63523926-AC74-57A0-AAC1-9CC1A2E8D22E",
+          "masterId": "other_idols_lv_charm_yoshida_choko",
+          "name": "吉田ちょこ",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#F0349E"
+          ],
+          "birthday": "02-09",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/lvcharmchoko",
+            "instagram": "https://www.instagram.com/lvcharmchoko/",
+            "tiktok": "https://www.tiktok.com/@lvcharmchoko"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8698CF08-D1D4-5461-8ECB-D128A2F510CB",
+      "masterId": "other_idols_setsunasou",
+      "appleMusicArtistId": "1805078735",
+      "name": "セツナソウ",
+      "isActive": true,
+      "profileURL": "https://setsunasou.com/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://setsunasou.com/",
+        "twitter": "https://x.com/setsunasou_2025",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/setsunasou",
+      "members": [
+        {
+          "uuid": "1CB34E45-1856-5F21-8166-E554D1BFBAAD",
+          "masterId": "other_idols_setsunasou_rinon_ayasa",
+          "name": "綾咲凛音",
+          "profileURL": "https://setsunasou.com/profile/rinon-ayasa/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": "05-23",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/rinon_setsuna",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "770A79EC-384D-5577-B284-10243FD6472E",
+          "masterId": "other_idols_setsunasou_toa_shibuya",
+          "name": "渋谷とあ",
+          "profileURL": "https://setsunasou.com/profile/toa-shibuya/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "03-20",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/toa_setsuna",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7690EB47-D7DB-5B4F-B899-A44743FA4015",
+          "masterId": "other_idols_setsunasou_hiyori_otowa",
+          "name": "音羽ひより",
+          "profileURL": "https://setsunasou.com/profile/hiyori-otowa/",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "07-08",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/hiyori_setsuna",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "31EB6855-1289-5466-8CD1-46526AFC451A",
+          "masterId": "other_idols_setsunasou_reona_yuuki",
+          "name": "結季れおな",
+          "profileURL": "https://setsunasou.com/profile/reona-yuuki/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": "03-02",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/reona_setsuna",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FDC270A8-4335-5320-8401-70F78D53FDB5",
+          "masterId": "other_idols_setsunasou_ena_sonoda",
+          "name": "苑田笑奈",
+          "profileURL": "https://setsunasou.com/profile/ena-sonoda/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFB347"
+          ],
+          "birthday": "06-06",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/sonoena_setsuna",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "A7625021-EB31-56F8-9198-1A29967BC86C",
+          "masterId": "other_idols_setsunasou_shiori_sagara",
+          "name": "相楽栞里",
+          "profileURL": "https://setsunasou.com/profile/shiori-sagara/",
+          "isGraduated": false,
+          "colorHex": [
+            "#66E2A3"
+          ],
+          "birthday": "12-13",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/shiori_setsuna",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "AE56670C-2584-5E4B-B81E-75A2FB3E7601",
+      "masterId": "other_idols_hateno",
+      "appleMusicArtistId": "1849361253",
+      "name": "HATENO",
+      "isActive": true,
+      "profileURL": "https://navi-idol.com/group/hateno-idol",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://hateno.co.jp/",
+        "twitter": "https://x.com/HATENO_info",
+        "instagram": "https://www.instagram.com/HATENO_info/",
+        "tiktok": "https://www.tiktok.com/@hateno_info",
+        "youtube": "https://www.youtube.com/@HATENO_info"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/hateno_info",
+      "members": [
+        {
+          "uuid": "2BC6F68C-7125-582A-9923-BCF08D6F1157",
+          "masterId": "other_idols_hateno_kano_sayaka",
+          "name": "夏乃さやか",
+          "profileURL": "https://navi-idol.com/idol/hatenosayaka1025",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "10-25",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/HATENO_KANOCHI",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "83BF6600-23DE-5769-94CD-D1A334F2FB9D",
+          "masterId": "other_idols_hateno_kirishima_kanoka",
+          "name": "桐嶋奏歌",
+          "profileURL": "https://navi-idol.com/idol/hatenokanoka1123",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "11-23",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/HATENO_KANOKA",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "35B4B85B-CE81-564A-A060-F76404F279AF",
+          "masterId": "other_idols_hateno_minami_fuuka",
+          "name": "美波ふうか",
+          "profileURL": "https://navi-idol.com/idol/hatenofuuka115",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFB347"
+          ],
+          "birthday": "11-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/HATENO_FUUKA",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3C58FC79-079D-527D-91E1-BBE2C8BFB1EF",
+          "masterId": "other_idols_hateno_umitsuki_yura",
+          "name": "海月ユラ",
+          "profileURL": "https://navi-idol.com/idol/hatenoyura1130",
+          "isGraduated": false,
+          "colorHex": [
+            "#6FD3FF"
+          ],
+          "birthday": "11-30",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/HATENO_YURA",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CD55AA80-9A64-559E-8764-E2EEF726AEE9",
+          "masterId": "other_idols_hateno_matsuoka_sara",
+          "name": "松岡咲良",
+          "profileURL": "https://navi-idol.com/idol/hatenosara126",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": "12-06",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/HATENO_SARA",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AE93E31A-32A0-5EB0-AB4D-4DF0F830EB0E",
+          "masterId": "other_idols_hateno_kaguya_akari",
+          "name": "輝夜あかり",
+          "profileURL": "https://navi-idol.com/idol/hatenoakari",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "11-30",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/HATENO_AKARI",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "CE7E6F63-CB6E-5B48-91C1-E29E363DE45C",
+      "masterId": "other_idols_hinaten",
+      "appleMusicArtistId": "6802528637",
+      "name": "ひなてん！",
+      "isActive": true,
+      "profileURL": "https://production-studio-hide-and-seek.com/group/hinaten/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/hinaten2026",
+        "instagram": null,
+        "tiktok": null,
+        "youtube": null
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/hinaten2026",
+      "members": [
+        {
+          "uuid": "4A7DDAD9-1B2F-5591-9190-2D10FB54E778",
+          "masterId": "other_idols_hinaten_marin_nano",
+          "name": "茉凜なの",
+          "profileURL": "https://production-studio-hide-and-seek.com/talent/nano-marin/",
+          "isGraduated": false,
+          "colorHex": [
+            "#66E2A3"
+          ],
+          "birthday": "04-11",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nano_hinaten",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@nano_hinaten"
+          }
+        },
+        {
+          "uuid": "91F9C2FE-212C-5FE1-85DF-5BFA2E727EBA",
+          "masterId": "other_idols_hinaten_hazuki_sui",
+          "name": "羽月澄依",
+          "profileURL": "https://production-studio-hide-and-seek.com/talent/sui-hazuki/",
+          "isGraduated": false,
+          "colorHex": [
+            "#B57EDC"
+          ],
+          "birthday": "11-18",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/sui_hinaten",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@sui_hinaten"
+          }
+        },
+        {
+          "uuid": "034D17B6-429F-5824-AD57-0E52E7E8FBC8",
+          "masterId": "other_idols_hinaten_hino_nico",
+          "name": "陽乃にこ",
+          "profileURL": "https://production-studio-hide-and-seek.com/talent/nico-hino/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "06-11",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nico_hinaten",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@nico_hinaten"
+          }
+        },
+        {
+          "uuid": "25226C52-5991-579D-BA10-2342458F58AA",
+          "masterId": "other_idols_hinaten_hanase_mikuru",
+          "name": "花瀬みくる",
+          "profileURL": "https://production-studio-hide-and-seek.com/talent/mikuru-hanase/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": "08-20",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/mikuru_hinaten",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@mikuru_hinaten"
+          }
+        },
+        {
+          "uuid": "CE7C6E93-1B38-5FA0-A52A-E822EAEF5BBA",
+          "masterId": "other_idols_hinaten_suzuno_miuna",
+          "name": "鈴野みうな",
+          "profileURL": "https://production-studio-hide-and-seek.com/talent/miuna-suzuno/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "02-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/miuna_hinaten",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@miuna_hinaten"
+          }
+        },
+        {
+          "uuid": "5D87EF4F-AAD1-5289-A093-60BF7BDD4748",
+          "masterId": "other_idols_hinaten_hotta_kokoa",
+          "name": "堀田心愛",
+          "profileURL": "https://production-studio-hide-and-seek.com/talent/kokoa-hotta/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": "04-21",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kokoa_hinaten",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@kokoa_hinaten"
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1148DAC4-569C-522A-8752-7AF0CA695DF7",
+      "masterId": "other_idols_chuya_gyakuten",
+      "appleMusicArtistId": "1726345062",
+      "name": "昼夜逆転",
+      "isActive": true,
+      "profileURL": "https://konome-music.com/group/chuya-gyakuten/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/cygt_official",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@cygt_official_",
+        "youtube": null
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/cygt_official",
+      "members": [
+        {
+          "uuid": "2078E706-4EB6-5926-93FD-43CC988079B1",
+          "masterId": "other_idols_chuya_gyakuten_uruma_aimu",
+          "name": "羽魔あいむ",
+          "profileURL": "https://konome-music.com/member/chuya-gyakuten-uruma-aimu/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "08-26",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/cygt_aimu",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "FC896F42-0DAB-5D47-96B0-4764B8B7D7B9",
+          "masterId": "other_idols_chuya_gyakuten_yumekana_ramu",
+          "name": "夢叶らむ",
+          "profileURL": "https://konome-music.com/member/chuya-gyakuten-yumekana-ramu/",
+          "isGraduated": false,
+          "colorHex": [
+            "#B57EDC"
+          ],
+          "birthday": "05-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/cygt_ram",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8184F1F4-2746-5901-B0A9-AF9490E7B094",
+          "masterId": "other_idols_chuya_gyakuten_himemiya_haruka",
+          "name": "姫宮はるか",
+          "profileURL": "https://konome-music.com/member/chuya-gyakuten-halca/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF9ECF"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/cygt_halca",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "93DEFDA7-8A15-581E-90A4-D7A0FCAB9BD3",
+          "masterId": "other_idols_chuya_gyakuten_nekone_momo",
+          "name": "猫音もも",
+          "profileURL": "https://konome-music.com/member/chuya-gyakuten-nekone-momo/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFF176"
+          ],
+          "birthday": "12-21",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/cygt__momo",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "47A21BCB-4648-5349-9857-D5674DCD63BA",
+          "masterId": "other_idols_chuya_gyakuten_kishimoto_nao",
+          "name": "岸本奈桜",
+          "profileURL": "https://konome-music.com/member/chuya-gyakuten-kishimoto-nao/",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "04-30",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/cygt_nao",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
     }
   ]
 }

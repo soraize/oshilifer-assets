@@ -411,6 +411,7 @@
           "uuid": "A1A5E0F5-6EDB-4C7A-9AF2-20C4CD7F1001",
           "masterId": "kawaiilab_cutie_street_furusawa_risa",
           "name": "古澤 里紗",
+          "mbti": "INFP",
           "isGraduated": false,
           "colorHex": [
             "#FFF176"
@@ -427,6 +428,7 @@
           "uuid": "4B7A4A42-3531-41B3-A86D-AB4672C71002",
           "masterId": "kawaiilab_cutie_street_sano_aika",
           "name": "佐野 愛花",
+          "mbti": "ESFJ",
           "isGraduated": false,
           "colorHex": [
             "#FF6B6B"
@@ -443,6 +445,7 @@
           "uuid": "3EB9E07B-3051-4B2B-B0F9-8C4BB6321003",
           "masterId": "kawaiilab_cutie_street_itakura_kana",
           "name": "板倉 可奈",
+          "mbti": "INFP",
           "isGraduated": false,
           "colorHex": [
             "#90EE90"
@@ -459,6 +462,7 @@
           "uuid": "C7C0F9E2-4F03-492A-BB88-526E0D6B1004",
           "masterId": "kawaiilab_cutie_street_masuda_ayano",
           "name": "増田 彩乃",
+          "mbti": "ISFP",
           "isGraduated": false,
           "colorHex": [
             "#4A90E2"
@@ -475,6 +479,7 @@
           "uuid": "8AFC744C-CF26-4A7B-9F84-B75439261005",
           "masterId": "kawaiilab_cutie_street_kawamoto_emiru",
           "name": "川本 笑瑠",
+          "mbti": "INFJ",
           "isGraduated": false,
           "colorHex": [
             "#FFB347"
@@ -491,6 +496,7 @@
           "uuid": "E0FA77D0-47D2-45B9-9AE8-DA480B421006",
           "masterId": "kawaiilab_cutie_street_umeda_miyu",
           "name": "梅田 みゆ",
+          "mbti": "ENFP",
           "isGraduated": false,
           "colorHex": [
             "#87CEFA"
@@ -507,6 +513,7 @@
           "uuid": "5EA11FE9-868F-4A86-AF29-CA3C60481007",
           "masterId": "kawaiilab_cutie_street_manabe_nagisa",
           "name": "真鍋 凪咲",
+          "mbti": "ISFJ",
           "isGraduated": false,
           "colorHex": [
             "#B57EDC"
@@ -523,6 +530,7 @@
           "uuid": "E23C304E-0D34-4E9A-893D-CE88DE5D1008",
           "masterId": "kawaiilab_cutie_street_sakuraba_haruka",
           "name": "桜庭 遥花",
+          "mbti": "INTP",
           "isGraduated": false,
           "colorHex": [
             "#FF9ECF"

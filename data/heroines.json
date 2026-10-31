@@ -25,6 +25,7 @@
           "uuid": "3A081363-E1C4-4E41-A5BD-4765D841AC4B",
           "masterId": "heroines_ponkotsu_konpo_showe29886time",
           "name": "ショー☆タイム",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -59,6 +60,7 @@
           "uuid": "32AC20B0-24B4-4F40-B721-27174DF92EC6",
           "masterId": "heroines_ponkotsu_konpo_ninomae_ran",
           "name": "一蘭",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -76,6 +78,7 @@
           "uuid": "1453135B-7DCC-4D98-A050-B47904452549",
           "masterId": "heroines_ponkotsu_konpo_yubari_meron",
           "name": "夕葉里めろん",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -93,6 +96,7 @@
           "uuid": "FA8BE285-088F-441F-8459-7F606FDA5833",
           "masterId": "heroines_ponkotsu_konpo_harenochi_ame",
           "name": "晴後あめ",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -110,6 +114,7 @@
           "uuid": "9E19AE8F-7315-4D66-BF09-6AB3D951B5D6",
           "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
           "name": "海苔巻うに",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -134,6 +139,7 @@
           "uuid": "7E4E553F-295D-4F76-B8AB-1EE44573D638",
           "masterId": "heroines_ponkotsu_konpo_amasugi_apollo",
           "name": "甘杉あぽろ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -154,6 +160,7 @@
           "uuid": "6FCC228A-408F-43FA-BB94-69BB75832C79",
           "masterId": "heroines_ponkotsu_konpo_akita_komachi",
           "name": "秋田こまち",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -193,6 +200,7 @@
           "uuid": "D910C67E-942E-4F79-8DE3-DBE24B3EF930",
           "masterId": "heroines_tenrin_no_more_chacha",
           "name": "のもあちゃちゃ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -210,6 +218,7 @@
           "uuid": "E9F286C7-65D3-476D-A33F-63819386F495",
           "masterId": "heroines_tenrin_nanase_nico",
           "name": "七瀬にこ",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -231,6 +240,7 @@
           "uuid": "EEBA2F64-8A3F-447A-903E-4C00ED823370",
           "masterId": "heroines_tenrin_tokino_now",
           "name": "刻乃なう",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -251,6 +261,7 @@
           "uuid": "21E1ABDA-D693-4E00-8616-67D045463C6C",
           "masterId": "heroines_tenrin_amane_yua",
           "name": "甘音ゆあ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -273,6 +284,7 @@
           "uuid": "8ED08D61-2EDF-448C-B9B8-30CD53A58078",
           "masterId": "heroines_tenrin_shirasu_ayan",
           "name": "白洲あやん",
+          "mbti": "INTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -294,6 +306,7 @@
           "uuid": "76EFADB6-9943-4548-840C-5D812888A522",
           "masterId": "heroines_tenrin_renge_urara",
           "name": "蓮花うらら",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -311,6 +324,7 @@
           "uuid": "BA76D022-FCB2-4DF9-9D64-909A00AFFE49",
           "masterId": "heroines_tenrin_kasumi_ageha",
           "name": "霞あげは",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -331,6 +345,7 @@
           "uuid": "F9011B08-1B0F-4494-A0DB-1AE81E673C48",
           "masterId": "heroines_tenrin_otose_alto",
           "name": "音瀬歩兎",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -373,6 +388,7 @@
           "uuid": "DD1CEF3E-97E8-490D-9AB2-AE53DABFEC79",
           "masterId": "heroines_ilife_aisu",
           "name": "あいす",
+          "mbti": "INTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -393,6 +409,7 @@
           "uuid": "34C1F355-A860-4EE2-BAA5-CEBF346A5396",
           "masterId": "heroines_ilife_koguma_mamu",
           "name": "小熊まむ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -410,6 +427,7 @@
           "uuid": "14A60E13-2CCB-4903-B480-CDC4FDE54262",
           "masterId": "heroines_ilife_konoka_riri",
           "name": "心花りり",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -431,6 +449,7 @@
           "uuid": "DDE0BC06-BAD2-409B-852E-A6AF42AB1400",
           "masterId": "heroines_ilife_mamori_mew",
           "name": "真守みゅう",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -448,6 +467,7 @@
           "uuid": "05877706-EA86-49CD-B9DA-5F91E0B629A3",
           "masterId": "heroines_ilife_fukumaru_usa",
           "name": "福丸うさ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -468,6 +488,7 @@
           "uuid": "66A83EF0-837B-47C7-B38D-7A37D0FDAAFE",
           "masterId": "heroines_ilife_sonata_karen",
           "name": "空詩かれん",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -488,6 +509,7 @@
           "uuid": "FA9EED94-003C-4469-8377-A8966A543519",
           "masterId": "heroines_ilife_sumire_miki",
           "name": "純嶺みき",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -505,6 +527,7 @@
           "uuid": "B83C70E2-79DF-4142-AFCA-EB2AB021BD33",
           "masterId": "heroines_ilife_wakaba_noa",
           "name": "若葉のあ",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -522,6 +545,7 @@
           "uuid": "AE5D8D9A-5882-4902-A14D-EBBCA6CE561C",
           "masterId": "heroines_ilife_kohane_mini",
           "name": "虹羽みに",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -561,6 +585,7 @@
           "uuid": "4FD760A5-5F3F-4A38-85D1-741AB7DE6963",
           "masterId": "heroines_yakousei_amuse_futeko",
           "name": "ふてこ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -578,6 +603,7 @@
           "uuid": "2E67297E-FD10-462A-AB77-9E5EAE9A7926",
           "masterId": "heroines_yakousei_amuse_kusumoto_miho",
           "name": "みぽたぽた",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -595,6 +621,7 @@
           "uuid": "3F42BFD4-3589-4C09-A4CF-56540836B5C0",
           "masterId": "heroines_yakousei_amuse_minamo_shuru",
           "name": "水萌しゅる",
+          "mbti": "ESTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -615,6 +642,7 @@
           "uuid": "BE6B0B3B-2A69-4885-8EB0-4297A50362F1",
           "masterId": "heroines_yakousei_amuse_kobayashi_rina",
           "name": "炎谷莉奈",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -635,6 +663,7 @@
           "uuid": "F182B56F-1213-4C1E-9356-24AAE8631337",
           "masterId": "heroines_yakousei_amuse_kotone_furiru",
           "name": "琴音ふりる",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -655,6 +684,7 @@
           "uuid": "A5337852-8F89-4D79-8C12-3F8756354E4A",
           "masterId": "heroines_yakousei_amuse_hakuu_coai",
           "name": "白空こあい",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -735,6 +765,7 @@
           "uuid": "C41FE8E8-CB6B-4BB3-9B1F-C433A4A49833",
           "masterId": "heroines_nonfiction_colne",
           "name": "こるね",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -756,6 +787,7 @@
           "uuid": "6134374E-0E53-4CE2-AE9A-2983EC81E35E",
           "masterId": "heroines_nonfiction_konose_haruka",
           "name": "恋星はるか",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -776,6 +808,7 @@
           "uuid": "619C4EF0-B76E-4444-AB51-C3978F82B29E",
           "masterId": "heroines_nonfiction_minase_piano",
           "name": "水瀬ぴあの",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -797,6 +830,7 @@
           "uuid": "481C76E2-F011-4731-B031-2FEAE93E7370",
           "masterId": "heroines_nonfiction_nagatsuki_touka",
           "name": "永月十華",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -817,6 +851,7 @@
           "uuid": "8B010374-4BCB-4EEF-B29A-C0C0C77CB620",
           "masterId": "heroines_nonfiction_aqua_marin",
           "name": "海まりん",
+          "mbti": "ISTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -837,6 +872,7 @@
           "uuid": "FE4C78F9-C8B3-404D-AB43-C4EEAA7293A2",
           "masterId": "heroines_nonfiction_miori_niina",
           "name": "澪織にいな",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -857,6 +893,7 @@
           "uuid": "1CA96539-553F-44BD-A6B5-C2432F4D1A12",
           "masterId": "heroines_nonfiction_kouzuki_amu",
           "name": "香月あむ",
+          "mbti": "INTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -877,6 +914,7 @@
           "uuid": "520E458E-25FE-4D28-A6AA-E923E112D0E0",
           "masterId": "heroines_nonfiction_koeda_cocoa",
           "name": "小枝ここあ",
+          "mbti": "ENTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -894,6 +932,7 @@
           "uuid": "086058B4-22D1-4855-81B4-56BD97F19314",
           "masterId": "heroines_nonfiction_sato_milk_nonc2acfiction",
           "name": "砂糖みるく",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -932,6 +971,7 @@
           "uuid": "75675BF2-18EF-42C7-A120-FA5D6E0B3CF9",
           "masterId": "heroines_calandres_kujo_asuna",
           "name": "九条あすな",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -949,6 +989,7 @@
           "uuid": "8FEC7ED8-200A-4370-8D31-246C2A0D19A1",
           "masterId": "heroines_calandres_yumeha_ruru",
           "name": "夢羽るる",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -966,6 +1007,7 @@
           "uuid": "1AF68DC4-DB64-484A-8DB0-D2A1DF0F28BB",
           "masterId": "heroines_calandres_asumi_maaya",
           "name": "明日実まあや",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1003,6 +1045,7 @@
           "uuid": "4D6D4273-15B1-4E22-8170-0BDFDDDB3328",
           "masterId": "heroines_calandres_lime_neo",
           "name": "来夢ねお",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1093,6 +1136,7 @@
           "uuid": "C517A4BF-92A1-4ED2-B3AA-5626EE3A1439",
           "masterId": "heroines_ill_mori_marimo",
           "name": "森緑藻",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1133,6 +1177,7 @@
           "uuid": "BC9FBF2D-69DF-4ABF-8EE6-1212AC0515EE",
           "masterId": "heroines_ill_shikino_shiki",
           "name": "紫ノ色",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1150,6 +1195,7 @@
           "uuid": "BC247E37-3242-42F7-BA56-FB9D2DDEA191",
           "masterId": "heroines_ill_aoi_kanau",
           "name": "蒼井叶",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1192,6 +1238,7 @@
           "uuid": "DD1CEF3E-97E8-490D-9AB2-AE53DABFEC79",
           "masterId": "heroines_ilife_aisu",
           "name": "あいす",
+          "mbti": "INTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1211,6 +1258,7 @@
           "uuid": "C41FE8E8-CB6B-4BB3-9B1F-C433A4A49833",
           "masterId": "heroines_nonfiction_colne",
           "name": "こるね",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1253,6 +1301,7 @@
           "uuid": "E9FA2183-3913-4704-AC49-A67D2D3CD0C5",
           "masterId": "heroines_parallel_cider_usami_ako",
           "name": "宇佐美あこ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1286,6 +1335,7 @@
           "uuid": "79E422DE-76C6-4239-BD8D-8A9C52B8E423",
           "masterId": "heroines_parallel_cider_kosaka_mion",
           "name": "小坂みおん",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1306,6 +1356,7 @@
           "uuid": "497A9C1F-CE73-4241-8643-727A284821AB",
           "masterId": "heroines_parallel_cider_yuuki_ai",
           "name": "小熊まな香",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1326,6 +1377,7 @@
           "uuid": "DF94D39B-DAC7-4369-9AF9-5EC9EA61C99F",
           "masterId": "heroines_parallel_cider_anon_yuno",
           "name": "彩音ゆの",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1343,6 +1395,7 @@
           "uuid": "2D409B02-5E02-4088-A825-5F4888A8D2B0",
           "masterId": "heroines_parallel_cider_hazuki_mitsuha",
           "name": "葉月みつは",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1360,6 +1413,7 @@
           "uuid": "17E99D94-8026-461E-AA0B-F7D243866E55",
           "masterId": "heroines_parallel_cider_segawa_natsuki",
           "name": "瀬川なつき",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1399,6 +1453,7 @@
           "uuid": "BC247E37-3242-42F7-BA56-FB9D2DDEA191",
           "masterId": "heroines_ill_aoi_kanau",
           "name": "蒼井叶",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1438,6 +1493,7 @@
           "uuid": "A5337852-8F89-4D79-8C12-3F8756354E4A",
           "masterId": "heroines_yakousei_amuse_hakuu_coai",
           "name": "白空こあい",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1459,6 +1515,7 @@
           "uuid": "6134374E-0E53-4CE2-AE9A-2983EC81E35E",
           "masterId": "heroines_nonfiction_konose_haruka",
           "name": "恋星はるか",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1479,6 +1536,7 @@
           "uuid": "14A60E13-2CCB-4903-B480-CDC4FDE54262",
           "masterId": "heroines_ilife_konoka_riri",
           "name": "心花りり",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1522,6 +1580,7 @@
           "uuid": "0659D035-14E8-4DE3-882B-6F1AD7A34295",
           "masterId": "heroines_adamlilith_miki_ray",
           "name": "三木零",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1539,6 +1598,7 @@
           "uuid": "887EFB73-AA01-4F69-BEE1-13BD51148CF7",
           "masterId": "heroines_adamlilith_yayoi_yamu",
           "name": "夜宵やむ",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1559,6 +1619,7 @@
           "uuid": "962BF4D8-EBF4-44FC-98B0-7C8AF3E97F52",
           "masterId": "heroines_adamlilith_miyako_yuna",
           "name": "都ユナ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1580,6 +1641,7 @@
           "uuid": "6FFC3A60-898B-4935-BE4A-443C37319BEE",
           "masterId": "heroines_adamlilith_otoha_rizu",
           "name": "響羽リズ",
+          "mbti": "ENTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1622,6 +1684,7 @@
           "uuid": "E0ABD37E-4C0D-49E4-8885-FFECF4FF043C",
           "masterId": "heroines_zuttomotto_shinomiya_elu",
           "name": "四宮える",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1639,6 +1702,7 @@
           "uuid": "689FC89E-3C22-42A9-BB76-D46E4E811CDB",
           "masterId": "heroines_zuttomotto_masora_seira",
           "name": "真空せいら",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1656,6 +1720,7 @@
           "uuid": "2A3D4E83-3EB3-4156-A976-E743005B877E",
           "masterId": "heroines_zuttomotto_shiina_suzu",
           "name": "椎名すず",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1673,6 +1738,7 @@
           "uuid": "EAB36112-D86B-45FD-8AF8-DA0AD3009EBA",
           "masterId": "heroines_zuttomotto_mochizuki_mira",
           "name": "望月みら",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1694,6 +1760,7 @@
           "uuid": "2E2503BB-8215-456F-B631-67126F34CCB7",
           "masterId": "heroines_zuttomotto_sakura_an",
           "name": "佐倉あん",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
@@ -1711,6 +1778,7 @@
           "uuid": "3120DD14-299D-445B-8693-D5EDA513D9F4",
           "masterId": "heroines_zuttomotto_aoba_waka",
           "name": "青羽わか",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1728,6 +1796,7 @@
           "uuid": "841E7FC3-60E3-42BC-BE4A-276ED75E2E92",
           "masterId": "heroines_zuttomotto_kobeni_yuzu",
           "name": "小紅ゆず",
+          "mbti": "INTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1745,6 +1814,7 @@
           "uuid": "175DA697-274E-455D-A33C-2044ABDCF92C",
           "masterId": "heroines_zuttomotto_shikimori_kurumi",
           "name": "式守くるみ",
+          "mbti": "ENTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1762,6 +1832,7 @@
           "uuid": "5AB432EE-D06A-4E42-B6F6-8F06288BF166",
           "masterId": "heroines_zuttomotto_kamiya_hinano",
           "name": "神谷ひなの",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1779,6 +1850,7 @@
           "uuid": "C24268F2-EA5A-487F-80BE-1B24715AB726",
           "masterId": "heroines_zuttomotto_mikumo_mitsuki",
           "name": "美雲みつき",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1799,6 +1871,7 @@
           "uuid": "4950BD3B-165D-450D-8B04-201CA0B3E44A",
           "masterId": "heroines_zuttomotto_manatsu_hinata",
           "name": "愛夏ひなた",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1855,6 +1928,7 @@
           "uuid": "50B59687-5387-4B98-A7E9-B3CA6B47C23E",
           "masterId": "heroines_ladybaby_kurusaki_sena",
           "name": "來崎せな",
+          "mbti": "ESTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1872,6 +1946,7 @@
           "uuid": "19659022-8D79-4848-987E-21DAA2261D4A",
           "masterId": "heroines_ladybaby_tsukimachi_ei",
           "name": "月街えい",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1889,6 +1964,7 @@
           "uuid": "932EBAC1-099B-4D36-B09F-7B328CD2E501",
           "masterId": "heroines_ladybaby_kanrei_mia",
           "name": "神黎ミア",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1910,6 +1986,7 @@
           "uuid": "D56215F6-6F20-423C-BDC3-D75A9631FB49",
           "masterId": "heroines_ladybaby_ochi_kino",
           "name": "越智きの",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1952,6 +2029,7 @@
           "uuid": "CF95802D-0BE3-46DB-A2D8-4DBEC02BF213",
           "masterId": "heroines_akishibu_project_yumesaki_arisa",
           "name": "夢咲ありさ",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1972,6 +2050,7 @@
           "uuid": "3A7C8AA2-4311-442A-8AD6-3AE5D71A8E28",
           "masterId": "heroines_akishibu_project_amakawa_hotaru",
           "name": "天川ほたる",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -1992,6 +2071,7 @@
           "uuid": "F996DB99-EE96-4252-8B6C-6AECA05CC501",
           "masterId": "heroines_akishibu_project_kisaragi_nana",
           "name": "如月なな",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2009,6 +2089,7 @@
           "uuid": "ECE1B618-44EF-422E-9B3A-19E9645D3EB7",
           "masterId": "heroines_akishibu_project_mikoto_manami",
           "name": "水琴まなみ",
+          "mbti": "ESFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2026,6 +2107,7 @@
           "uuid": "548D7837-5D2C-4A78-BA8B-0B0499144B79",
           "masterId": "heroines_akishibu_project_kiyomi_run",
           "name": "清見るん",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2046,6 +2128,7 @@
           "uuid": "465EF496-E061-426B-93CF-BD4EF39929F6",
           "masterId": "heroines_akishibu_project_matsui_rana",
           "name": "茉井良菜",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2068,6 +2151,7 @@
           "uuid": "61A988FE-28C1-4467-BAFF-5CE7FFECAD67",
           "masterId": "heroines_akishibu_project_aoi_fuu_akishibu_project",
           "name": "葵ふう",
+          "mbti": "INTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2105,6 +2189,7 @@
           "uuid": "B9B50951-F7F3-4589-926B-7531F1EB2495",
           "masterId": "heroines_chula_hamachi_hiyo",
           "name": "はまちひよ",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2127,6 +2212,7 @@
           "uuid": "81DE74F8-36B0-48EE-9AF4-9B35581F4BCF",
           "masterId": "heroines_chula_seno_tsubasa",
           "name": "世野つばさ",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2144,6 +2230,7 @@
           "uuid": "1112A30C-2551-4BAA-8BD0-21A3FB7EB91D",
           "masterId": "heroines_chula_kagami_mirano",
           "name": "明鏡みらの",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2161,6 +2248,7 @@
           "uuid": "D1CE404D-1A13-49A2-B91F-95D1A007CE69",
           "masterId": "heroines_chula_tsurara_rara",
           "name": "紫藤らら",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2178,6 +2266,7 @@
           "uuid": "51978757-4ABB-4C82-8230-66551384FF09",
           "masterId": "heroines_chula_mano_yuni",
           "name": "茉野ゆに",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2198,6 +2287,7 @@
           "uuid": "44A24C91-9E0D-4E85-BF54-93674DAE2708",
           "masterId": "heroines_chula_hisaki_mio",
           "name": "陽咲みお",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2215,6 +2305,7 @@
           "uuid": "B2A21302-F49C-498C-B84C-F23379D279CF",
           "masterId": "heroines_chula_ameiro_ringo",
           "name": "飴色りんご",
+          "mbti": "ESTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2257,6 +2348,7 @@
           "uuid": "8F86FADF-CDB0-4AB1-AFB4-D3E8C2197A77",
           "masterId": "heroines_paradeeq_araki_runo",
           "name": "新木るの",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2274,6 +2366,7 @@
           "uuid": "6CDB35C0-C579-4382-AE55-46BBA337D4E5",
           "masterId": "heroines_heroines_kenkyuusei_asahi_maru",
           "name": "朝日まる",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2294,6 +2387,7 @@
           "uuid": "19927F9C-BEB5-489F-8D52-40F39AF13900",
           "masterId": "heroines_paradeeq_kurusu_yuru",
           "name": "来栖ゆる",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2311,6 +2405,7 @@
           "uuid": "D09D3078-E1F2-48F1-887C-B048E063F4B4",
           "masterId": "heroines_paradeeq_ouzora_chuin",
           "name": "桜空ちゅいん",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2328,6 +2423,7 @@
           "uuid": "5C7FC1F7-5FEC-4EEA-ACE4-42ED5A4CFD07",
           "masterId": "heroines_paradeeq_yuzuriha_mikan",
           "name": "楪みかん",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2348,6 +2444,7 @@
           "uuid": "D94DEEF5-DA94-42E0-95AE-E09688D131B4",
           "masterId": "heroines_paradeeq_mizuno_mei",
           "name": "水野めい",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2365,6 +2462,7 @@
           "uuid": "93EB7C81-5994-47C9-A13D-7715F6E7E8EF",
           "masterId": "heroines_paradeeq_hamabe_shizuku",
           "name": "浜辺しずく",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2382,6 +2480,7 @@
           "uuid": "2C2F45B0-57A7-4F74-91E7-EEA8B48B023D",
           "masterId": "heroines_paradeeq_akarida_niji",
           "name": "灯田にじ",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2399,6 +2498,7 @@
           "uuid": "A7275542-7AB5-46A5-8A95-537836BA735B",
           "masterId": "heroines_paradeeq_hinazuki_hina",
           "name": "雛月ひな",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2441,6 +2541,7 @@
           "uuid": "E82B5E36-582B-4F97-A5BF-BBC989F5DE1A",
           "masterId": "heroines_dress_code_kosuzu_moyu",
           "name": "小鈴もゆ",
+          "mbti": "ESFJ",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
@@ -2458,6 +2559,7 @@
           "uuid": "04057C84-1BA5-42B3-A8BC-077F7D810802",
           "masterId": "heroines_dress_code_otogi_rilum",
           "name": "御伽りるむ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2475,6 +2577,7 @@
           "uuid": "B5AF29F3-63D5-469E-8E03-D7220592B56B",
           "masterId": "heroines_dress_code_hayasaka_wamu",
           "name": "早坂わむ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2495,6 +2598,7 @@
           "uuid": "976E6056-E910-4536-8727-B8B9F8EDEF7E",
           "masterId": "heroines_dress_code_tsukino_anon",
           "name": "月野あのん",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2512,6 +2616,7 @@
           "uuid": "6526C6C7-84B4-4549-BA25-714C585BACDF",
           "masterId": "heroines_dress_code_momomiya_mimo",
           "name": "百宮みも",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2532,6 +2637,7 @@
           "uuid": "C383145C-79A3-4667-BAFE-5A5CD6A0CD71",
           "masterId": "heroines_dress_code_yuine_chiyu",
           "name": "結音ちゆ",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
@@ -2566,6 +2672,7 @@
           "uuid": "6FCC228A-408F-43FA-BB94-69BB75832C79",
           "masterId": "heroines_ponkotsu_konpo_akita_komachi",
           "name": "秋田こまち",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2605,6 +2712,7 @@
           "uuid": "E49BF0D6-C3A1-4D1F-9C7C-E70C70361F43",
           "masterId": "heroines_megafon_konomi_ren",
           "name": "好実れん",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
@@ -2622,6 +2730,7 @@
           "uuid": "790AAF95-3DE7-41C3-8C5F-772306AE1DA5",
           "masterId": "heroines_megafon_miyashiro_yuki",
           "name": "宮代ゆき",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2642,6 +2751,7 @@
           "uuid": "AA70C4C2-6DFD-448A-8C49-07B7B3C32E81",
           "masterId": "heroines_megafon_koharu_noka",
           "name": "小晴のか",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2659,6 +2769,7 @@
           "uuid": "D5861BD4-45AF-4ED9-8AC9-465223491972",
           "masterId": "heroines_megafon_himari_kii",
           "name": "日陽きい",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2679,6 +2790,7 @@
           "uuid": "E7CBAFBD-A973-4D1B-AC52-036A32284631",
           "masterId": "heroines_megafon_ramune_iroha",
           "name": "明音いろは",
+          "mbti": "ENTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2696,6 +2808,7 @@
           "uuid": "D11C14FE-5328-47BA-AC9B-EBD01A4FC7BA",
           "masterId": "heroines_megafon_hoshino_ami_megafon",
           "name": "星野あみ",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2713,6 +2826,7 @@
           "uuid": "51EB413C-EB1C-4BB6-B7B2-453A915520E2",
           "masterId": "heroines_megafon_wakumo_roko",
           "name": "羽雲ろこ",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2735,6 +2849,7 @@
           "uuid": "F182B56F-1213-4C1E-9356-24AAE8631337",
           "masterId": "heroines_yakousei_amuse_kotone_furiru",
           "name": "琴音ふりる",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2777,6 +2892,7 @@
           "uuid": "2020798E-BF92-4BF3-B5AE-B02F7F379073",
           "masterId": "heroines_ion_kaguya_kurara",
           "name": "伽久耶くらら",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2797,6 +2913,7 @@
           "uuid": "BA195DC8-CCB5-4028-A21D-E7825407D978",
           "masterId": "heroines_ion_hakane_kono",
           "name": "儚寧この",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2817,6 +2934,7 @@
           "uuid": "C412EA12-00D9-4C8C-B632-6AFDFECD5080",
           "masterId": "heroines_ion_nakumo_menma",
           "name": "名雲めんま",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2837,6 +2955,7 @@
           "uuid": "37FC76BD-1E63-47CC-8305-9CC2C8621991",
           "masterId": "heroines_ion_uno_yuri",
           "name": "宇野ゆり",
+          "mbti": "ESTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2857,6 +2976,7 @@
           "uuid": "9FC42C11-AD28-4BD8-B4AB-128014482B5C",
           "masterId": "heroines_ion_kurisu_mugi",
           "name": "栗栖むぎ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2874,6 +2994,7 @@
           "uuid": "998BCA2B-212F-462F-97E5-0A517BA5D296",
           "masterId": "heroines_ion_hanamaru_peco",
           "name": "花丸ぺこ",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2894,6 +3015,7 @@
           "uuid": "F0DD8C34-19C5-4721-A57D-908EFF70D34E",
           "masterId": "heroines_ion_tomari_kuria",
           "name": "透明くりあ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2911,6 +3033,7 @@
           "uuid": "A184ADEF-16F8-41F9-A56D-23D5D04819B2",
           "masterId": "heroines_ion_suzumiya_rise",
           "name": "鈴都りせ",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2970,6 +3093,7 @@
           "uuid": "CF16CC6F-CDFE-4547-B79B-72904911175B",
           "masterId": "heroines_pastel_closet_nishina_mitsu",
           "name": "仁科美都",
+          "mbti": "INTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -2987,6 +3111,7 @@
           "uuid": "F3A4A7B3-7008-463C-AB46-4FE0B0F62ADC",
           "masterId": "heroines_pastel_closet_anzai_minori",
           "name": "安斎みのり",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3004,6 +3129,7 @@
           "uuid": "B5A773E5-A342-4980-844D-16C792E7C831",
           "masterId": "heroines_pastel_closet_yukino_reia",
           "name": "幸野れいあ",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3021,6 +3147,7 @@
           "uuid": "8C33EC8D-B826-418A-9A98-8AA2C85B5D6B",
           "masterId": "heroines_pastel_closet_kanno_ai",
           "name": "柑乃あい",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3041,6 +3168,7 @@
           "uuid": "C6703711-DE9F-40AE-ADD7-9CDA21B25ADE",
           "masterId": "heroines_pastel_closet_sumihara_kaho",
           "name": "澄原夏帆",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3058,6 +3186,7 @@
           "uuid": "18F94D41-A23D-4E83-8266-1E7F704CF699",
           "masterId": "heroines_pastel_closet_shinohara_sakura",
           "name": "篠原さくら",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3075,6 +3204,7 @@
           "uuid": "7E3399AE-7EA5-48F1-8057-B6BCE455D117",
           "masterId": "heroines_pastel_closet_hanaki_maika",
           "name": "花木舞花",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3092,6 +3222,7 @@
           "uuid": "CF6AF40C-B5BF-4CCA-B929-AA27464864B4",
           "masterId": "heroines_pastel_closet_hinaki_nonoka",
           "name": "雛城ののか",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3131,6 +3262,7 @@
           "uuid": "DE1E9412-0134-45B4-AE3C-6F543742E512",
           "masterId": "heroines_last_scene_yuzuki_ichika",
           "name": "佑月いちか",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3153,6 +3285,7 @@
           "uuid": "EA6B1365-F4CF-4E2E-B884-53BD8594B19E",
           "masterId": "heroines_last_scene_yuuki_azusa",
           "name": "優木あずさ",
+          "mbti": "ISTJ",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
@@ -3170,6 +3303,7 @@
           "uuid": "959527F1-9D5D-47C2-96DB-7F36B3948470",
           "masterId": "heroines_last_scene_koga_mirei",
           "name": "古賀みれい",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3190,6 +3324,7 @@
           "uuid": "21751A4F-9025-480A-8222-80332D629D56",
           "masterId": "heroines_last_scene_amo_shiori",
           "name": "天羽しおり",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3210,6 +3345,7 @@
           "uuid": "B29C9C43-6F6A-4721-B877-C61ACEF76090",
           "masterId": "heroines_last_scene_miyase_uyu",
           "name": "宮瀬うゆ",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [
@@ -3230,6 +3366,7 @@
           "uuid": "2A3D4E83-3EB3-4156-A976-E743005B877E",
           "masterId": "heroines_zuttomotto_shiina_suzu",
           "name": "椎名すず",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3267,6 +3404,7 @@
           "uuid": "5AB9E560-45E8-48EB-B520-D19CC67AF4CE",
           "masterId": "heroines_last_scene_ayano_mona",
           "name": "綾乃もな",
+          "mbti": "INTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3284,6 +3422,7 @@
           "uuid": "F14CFF6C-6F44-4397-85F0-CE9BAE55DF5C",
           "masterId": "heroines_last_scene_misora_yun",
           "name": "水空ゆん",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3323,6 +3462,7 @@
           "uuid": "04598C15-E4F0-49C2-BCD5-CABF492AF7B5",
           "masterId": "heroines_full_course_nakagawa_cocoro",
           "name": "中川心",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3350,6 +3490,7 @@
           "uuid": "4CEEDB37-D844-4F91-B472-D8D3A8DEECEC",
           "masterId": "heroines_full_course_konoha_cona",
           "name": "小葉こな",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3367,6 +3508,7 @@
           "uuid": "7D71D3B5-37EF-4E20-AEEA-C96E19BB6E38",
           "masterId": "heroines_full_course_osaki_mihane",
           "name": "桜咲みはね",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3387,6 +3529,7 @@
           "uuid": "E9A3DFD8-0361-4208-A3A4-673D1B74FCF2",
           "masterId": "heroines_full_course_mizukami_rimika",
           "name": "水上凜巳花",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3407,6 +3550,7 @@
           "uuid": "C70599B9-F5DC-4B0E-9162-47472646DA46",
           "masterId": "heroines_full_course_kaneshiro_maki",
           "name": "金城まき",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3427,6 +3571,7 @@
           "uuid": "37D36D17-084B-4A6F-8D3D-84C030264C73",
           "masterId": "heroines_full_course_suzuki_haruka",
           "name": "鈴木遥夏",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3449,6 +3594,7 @@
           "uuid": "5E770FFA-E81C-4946-AEE9-0CEAC266FD1E",
           "masterId": "heroines_full_course_abe_nanami",
           "name": "阿部菜々実",
+          "mbti": "INFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3494,6 +3640,7 @@
           "uuid": "0154356D-FB17-40DF-9251-1CD72CD8D627",
           "masterId": "heroines_haruka_echo_tokiwa_uta",
           "name": "常盤うた",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3514,6 +3661,7 @@
           "uuid": "F76D6715-BBB6-4D9B-8447-40DDF36B5E58",
           "masterId": "heroines_haruka_echo_hirasawa_kae",
           "name": "平沢かえ",
+          "mbti": "ESFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3534,6 +3682,7 @@
           "uuid": "5D4FC864-B8DC-4D92-BBFE-258CA272041C",
           "masterId": "heroines_haruka_echo_kannagi_mifuyu",
           "name": "神凪みふゆ",
+          "mbti": "ESTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3551,6 +3700,7 @@
           "uuid": "65915287-7376-485E-B334-DC42186DC009",
           "masterId": "heroines_haruka_echo_ashina_yui",
           "name": "芦名ゆい",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3568,6 +3718,7 @@
           "uuid": "08EF7E02-3706-4DD5-84E5-2E2FA9FAAB2C",
           "masterId": "heroines_haruka_echo_amamiya_ruri",
           "name": "雨宮るり",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3585,6 +3736,7 @@
           "uuid": "ABC991DA-43EC-4F5E-8019-F7FD17B8831D",
           "masterId": "heroines_haruka_echo_kousaka_rin",
           "name": "高坂りん",
+          "mbti": "ENFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3788,6 +3940,7 @@
           "uuid": "EFFDD88A-C3C5-4087-A229-CA0E67FBD294",
           "masterId": "heroines_nanakorobi_yaoki_utage_tenka",
           "name": "歌花てんか",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3805,6 +3958,7 @@
           "uuid": "77E152BF-4409-4D61-A9D1-37364B041AFD",
           "masterId": "heroines_nanakorobi_yaoki_mizuta_mari_heroines",
           "name": "水田茉莉",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3822,6 +3976,7 @@
           "uuid": "60C66EA2-5D4A-44DB-8E69-BEF459DE3107",
           "masterId": "heroines_nanakorobi_yaoki_setouchi_lemon",
           "name": "瀬戸内れもん",
+          "mbti": "INTJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3843,6 +3998,7 @@
           "uuid": "2823225C-4A38-4DBA-A5B3-DC64CB516E20",
           "masterId": "heroines_nanakorobi_yaoki_kumanomi_nimo",
           "name": "熊ノ実にも",
+          "mbti": "ISTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3864,6 +4020,7 @@
           "uuid": "79AE6981-776B-4F98-8C27-8B7D8B218580",
           "masterId": "heroines_nanakorobi_yaoki_eeno_nina",
           "name": "笑乃にな",
+          "mbti": "ENFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3881,6 +4038,7 @@
           "uuid": "D429BBCC-874F-4CF9-92BD-23E264849AC8",
           "masterId": "heroines_ion_maisen_ekubo",
           "name": "苺川えくぼ",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3898,6 +4056,7 @@
           "uuid": "E742B26D-EC90-472D-8670-33959F0C3BDB",
           "masterId": "heroines_nanakorobi_yaoki_hanna_riko",
           "name": "阪菜りこ",
+          "mbti": "INTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3954,6 +4113,7 @@
           "uuid": "6FB33DF0-DF42-4AC0-9733-8A3799AB32A9",
           "masterId": "heroines_tenshinranman_misono_sora",
           "name": "味園そら",
+          "mbti": "ISFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3974,6 +4134,7 @@
           "uuid": "2094D6CD-B518-4DFD-9A93-86C41B843142",
           "masterId": "heroines_ion_osu_kanon",
           "name": "大須かのん",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -3991,6 +4152,7 @@
           "uuid": "0C5CB0FA-A04F-4688-B994-F58EE9C127F2",
           "masterId": "heroines_tenshinranman_ogura_azuki",
           "name": "小倉あずき",
+          "mbti": "ENTP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -4011,6 +4173,7 @@
           "uuid": "FDAAB069-0CCF-4617-9224-BD0BF4F0FDD0",
           "masterId": "heroines_tenshinranman_ebihara_ten_heroines",
           "name": "海老原てん",
+          "mbti": "ISFJ",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -4028,6 +4191,7 @@
           "uuid": "0491C27F-E80F-47CB-875F-CF10A8E4792F",
           "masterId": "heroines_tenshinranman_kotone_una",
           "name": "琴音うな",
+          "mbti": "INFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -4045,6 +4209,7 @@
           "uuid": "92D99B89-C9F3-4B2F-B25F-C0BC9F7DF00B",
           "masterId": "heroines_tenshinranman_oda_koyun",
           "name": "織田こゆん",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": false,
           "colorHex": [
@@ -4065,6 +4230,7 @@
           "uuid": "54E5CECB-F13C-4A90-8A40-E3BB3774518B",
           "masterId": "heroines_tenshinranman_toyota_momo",
           "name": "豊田もも",
+          "mbti": "ESFP",
           "profileURL": null,
           "isGraduated": true,
           "colorHex": [

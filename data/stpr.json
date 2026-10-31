@@ -38,6 +38,7 @@
           "uuid": "3E5B4F4A-4DA2-4F61-9ED7-6EAC9B119002",
           "masterId": "stpr_strawberryprince_satomi",
           "name": "さとみ",
+          "mbti": "ENTJ",
           "isGraduated": false,
           "colorHex": [
             "#F96FA6"
@@ -54,6 +55,7 @@
           "uuid": "9D442F7C-7E95-4E37-9A61-8E8D0BFA9003",
           "masterId": "stpr_strawberryprince_root",
           "name": "るぅと",
+          "mbti": "INFJ",
           "isGraduated": false,
           "colorHex": [
             "#FABB28"
@@ -70,6 +72,7 @@
           "uuid": "C8A1A50E-233C-4A6C-8D17-2BFA435B9004",
           "masterId": "stpr_strawberryprince_colon",
           "name": "ころん",
+          "mbti": "ESFP",
           "isGraduated": false,
           "colorHex": [
             "#249CF4"
@@ -86,6 +89,7 @@
           "uuid": "E2C7F2D1-6D7A-45C5-96DA-4FC2F58F9005",
           "masterId": "stpr_strawberryprince_rinu",
           "name": "莉犬",
+          "mbti": "ENFP",
           "isGraduated": false,
           "colorHex": [
             "#E8002C"
@@ -102,6 +106,7 @@
           "uuid": "7B3D5A9F-5A4D-4B28-BA7B-7A1D14E29006",
           "masterId": "stpr_strawberryprince_jel",
           "name": "ジェル",
+          "mbti": "INFP",
           "isGraduated": false,
           "colorHex": [
             "#FF914E"
@@ -254,6 +259,7 @@
           "uuid": "3D4B2A91-0D89-4D8A-9B63-CB8D7A450001",
           "masterId": "stpr_amptakcolors_akkii",
           "name": "あっきぃ",
+          "mbti": "ESFP",
           "isGraduated": false,
           "colorHex": [
             "#FFDB00"
@@ -270,6 +276,7 @@
           "uuid": "7E0A8F56-2B7C-4E7B-A2D5-1A9E3F620002",
           "masterId": "stpr_amptakcolors_mazeta",
           "name": "まぜ太",
+          "mbti": "ENTP",
           "isGraduated": false,
           "colorHex": [
             "#8C3BFF"
@@ -286,6 +293,7 @@
           "uuid": "9B1C6D44-5E8A-4C9F-8B14-2F7D5A330003",
           "masterId": "stpr_amptakcolors_pretz",
           "name": "ぷりっつ",
+          "mbti": "ISTP",
           "isGraduated": false,
           "colorHex": [
             "#80E233"
@@ -302,6 +310,7 @@
           "uuid": "4F7D2E88-6A31-4F0A-9E76-3C2B5D190004",
           "masterId": "stpr_amptakcolors_tigusakun",
           "name": "ちぐさくん",
+          "mbti": "ENFP",
           "isGraduated": false,
           "colorHex": [
             "#14A2DB"
@@ -318,6 +327,7 @@
           "uuid": "AF2E5941-8C67-4B2A-8D1F-4E7B6C280005",
           "masterId": "stpr_amptakcolors_atto",
           "name": "あっと",
+          "mbti": "INTP",
           "isGraduated": false,
           "colorHex": [
             "#F93C28"
@@ -334,6 +344,7 @@
           "uuid": "C6A7D811-3F52-4E6D-91B8-5D4A2E770006",
           "masterId": "stpr_amptakcolors_ketcha",
           "name": "けちゃ",
+          "mbti": "INFJ",
           "isGraduated": false,
           "colorHex": [
             "#FF86CC"
@@ -454,6 +465,7 @@
           "uuid": "6D2E0E4A-6F8F-4D32-A6F1-0A5F6B710001",
           "masterId": "stpr_sneakerstep_nishiki",
           "name": "にしき",
+          "mbti": "ISTJ",
           "isGraduated": false,
           "colorHex": [
             "#EAEAEA"
@@ -470,6 +482,7 @@
           "uuid": "B3A5F94C-6D6E-4A9D-9E73-7C48A5320002",
           "masterId": "stpr_sneakerstep_rao",
           "name": "らお",
+          "mbti": "ISTP",
           "isGraduated": false,
           "colorHex": [
             "#CC0000"
@@ -486,6 +499,7 @@
           "uuid": "D9A1C7BE-1A7D-4A06-8B89-2F1A4C930003",
           "masterId": "stpr_sneakerstep_daiquiri",
           "name": "だいきり",
+          "mbti": "ENFJ",
           "isGraduated": false,
           "colorHex": [
             "#FFD700"
@@ -502,6 +516,7 @@
           "uuid": "8F41B6E9-9B8A-48E1-9F92-4A8627C40004",
           "masterId": "stpr_sneakerstep_tachibana",
           "name": "たちばな",
+          "mbti": "ISTP",
           "isGraduated": false,
           "colorHex": [
             "#384B9B"
@@ -518,6 +533,7 @@
           "uuid": "1E8A9C73-4D2B-46CF-9D53-6F81A2050005",
           "masterId": "stpr_sneakerstep_yutakun",
           "name": "ゆたくん",
+          "mbti": "INFJ",
           "isGraduated": false,
           "colorHex": [
             "#92D3FF"
@@ -534,6 +550,7 @@
           "uuid": "C2F74D91-3A70-4D8D-B3C8-7A96D1E60006",
           "masterId": "stpr_sneakerstep_yanato",
           "name": "やなと",
+          "mbti": "ENFP",
           "isGraduated": false,
           "colorHex": [
             "#FFF352"
@@ -550,6 +567,7 @@
           "uuid": "F5B823A7-8A11-4D2D-A548-9B02D3470007",
           "masterId": "stpr_sneakerstep_osadei",
           "name": "おさでい",
+          "mbti": "ENTP",
           "isGraduated": false,
           "colorHex": [
             "#1FE1FA"
@@ -586,6 +604,7 @@
           "uuid": "2E9A0D4C-1A93-4D6E-9B88-73B9C7011001",
           "masterId": "stpr_truelip_soara",
           "name": "そあら",
+          "mbti": "ENFP",
           "isGraduated": false,
           "colorHex": [
             "#A7D3FA"
@@ -650,6 +669,7 @@
           "uuid": "A4C5F1B8-3E71-45C7-8E6D-12E0B7AD1005",
           "masterId": "stpr_truelip_monokuro",
           "name": "ものくろ",
+          "mbti": "ENTJ",
           "isGraduated": false,
           "colorHex": [
             "#EDEEF0"

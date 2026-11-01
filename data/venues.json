@@ -5749,5 +5749,22 @@
     "capacity": 220,
     "capacityType": "max",
     "capacityNote": "ライブハウス最大（参考。情報源で100〜220）"
+  },
+  {
+    "address": "東京都渋谷区宇田川町9-5",
+    "aliases": [
+      "渋谷LOVEZ",
+      "LOVEZ",
+      "ラブズ",
+      "Shibuya LOVEZ"
+    ],
+    "lat": 35.663025,
+    "lng": 139.696213,
+    "name": "Shibuya LOVEZ",
+    "prefecture": "東京都",
+    "venueId": "shibuya_lovez",
+    "capacity": 2000,
+    "capacityType": "standing",
+    "capacityNote": "スタンディング目安（参考）"
   }
 ]

@@ -2323,6 +2323,25 @@
           "formerGroups": [
             "コムモア"
           ]
+        },
+        {
+          "uuid": "97C5073E-E0AD-4B4E-B016-71FC12A2401C",
+          "masterId": "heroines_chula_shirokami_level",
+          "name": "白神れべる",
+          "mbti": "ISFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": null,
+          "joinDate": "2026-11-03",
+          "debutDate": "2026-11-06",
+          "sns": {
+            "twitter": "https://x.com/level_chuLa",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@level_chula"
+          }
         }
       ],
       "formationDate": "2017-05-07",

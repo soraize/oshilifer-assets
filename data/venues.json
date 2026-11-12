@@ -2421,11 +2421,13 @@
     "aliases": [
       "リキッドルーム",
       "Liquidroom Ebisu",
-      "LIQUIDROOM Ebisu"
+      "LIQUIDROOM Ebisu",
+      "LIQUIDROOM",
+      "恵比寿リキッドルーム"
     ],
     "lat": 35.649142,
     "lng": 139.710646,
-    "name": "LIQUIDROOM",
+    "name": "恵比寿LIQUIDROOM",
     "prefecture": "東京都",
     "venueId": "liquidroom",
     "capacity": 900,
@@ -2526,11 +2528,13 @@
       "渋谷クラブクアトロ",
       "クラブクアトロ",
       "Club Quattro",
-      "渋谷CLUB QUATTRO"
+      "SHIBUYA CLUB QUATTRO",
+      "クワトロ",
+      "渋谷クワトロ"
     ],
     "lat": 35.660986,
     "lng": 139.697567,
-    "name": "SHIBUYA CLUB QUATTRO",
+    "name": "渋谷CLUB QUATTRO",
     "prefecture": "東京都",
     "venueId": "shibuya_club_quattro",
     "capacity": 800,
@@ -4222,11 +4226,12 @@
     "address": "東京都渋谷区道玄坂2-29-5 渋谷プライム6F",
     "aliases": [
       "PLEASURE PLEASURE",
-      "渋谷プレジャープレジャー"
+      "渋谷プレジャープレジャー",
+      "SHIBUYA PLEASURE PLEASURE"
     ],
     "lat": 35.659504,
     "lng": 139.698281,
-    "name": "SHIBUYA PLEASURE PLEASURE",
+    "name": "渋谷PLEASURE PLEASURE",
     "prefecture": "東京都",
     "venueId": "shibuya_pleasure_pleasure"
   },
@@ -4488,11 +4493,12 @@
     "aliases": [
       "恵比寿ガーデンホール",
       "The Garden Hall",
-      "EBISU The Garden Hall"
+      "EBISU The Garden Hall",
+      "恵比寿ザ・ガーデンホール"
     ],
     "lat": 35.641665,
     "lng": 139.713767,
-    "name": "恵比寿ザ・ガーデンホール",
+    "name": "恵比寿The Garden Hall",
     "prefecture": "東京都",
     "venueId": "ebisu_garden_hall"
   },

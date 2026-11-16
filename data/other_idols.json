@@ -3785,6 +3785,94 @@
           }
         }
       ]
+    },
+    {
+      "uuid": "4FB0B39C-EFAB-5B37-B366-AEB395FA9337",
+      "masterId": "other_idols_little_blue",
+      "appleMusicArtistId": "1834075650",
+      "name": "LITTLE*BLUE",
+      "isActive": true,
+      "profileURL": "https://littleblue.info/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://littleblue.info/",
+        "twitter": "https://x.com/LittleBlue_SPK",
+        "instagram": "https://www.instagram.com/littleblue_spk/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@LITTLEBLUE-official"
+      },
+      "timeTreeURL": "https://timetr.ee/p/littleblue",
+      "members": [
+        {
+          "uuid": "6B296118-4D50-540A-957C-383AC563037D",
+          "masterId": "other_idols_little_blue_aco",
+          "name": "ACO",
+          "profileURL": "https://x.com/ACO__LB",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD700"
+          ],
+          "birthday": "11-06",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ACO__LB",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "EBF25E00-4006-55A2-9A6B-41867B6431B0",
+          "masterId": "other_idols_little_blue_eimy",
+          "name": "EIMY",
+          "profileURL": "https://x.com/EIMY__LB",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "06-02",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/EIMY__LB",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "CFB44562-ED6B-584E-AC6E-7737F4876923",
+          "masterId": "other_idols_little_blue_niina",
+          "name": "NIINA",
+          "profileURL": "https://x.com/NIINA__LB",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/NIINA__LB",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "299C4E47-C55F-54F1-90D5-E10646F4C1BB",
+          "masterId": "other_idols_little_blue_sayu",
+          "name": "SAYU",
+          "profileURL": "https://x.com/SAYU__LB",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "02-02",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/SAYU__LB",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
     }
   ]
 }

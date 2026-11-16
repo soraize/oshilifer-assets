@@ -3327,6 +3327,113 @@
           }
         }
       ]
+    },
+    {
+      "uuid": "304E03BB-78BD-5076-BD08-E4CC9646F233",
+      "masterId": "other_idols_bybbit",
+      "appleMusicArtistId": "1590310239",
+      "name": "BYBBiT",
+      "isActive": true,
+      "profileURL": "https://tsuima-bybbit.com/member/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://tsuima-bybbit.com/",
+        "twitter": "https://x.com/BYBBiT_STAFF",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@bybbit_staff",
+        "youtube": "https://youtube.com/@bybbit"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "75EE8026-7605-597C-822D-919EF4F62BAC",
+          "masterId": "other_idols_bybbit_takeuchi_rion",
+          "name": "竹内りおん",
+          "profileURL": "https://tsuima-bybbit.com/member/34/",
+          "isGraduated": false,
+          "colorHex": [
+            "#90EE90"
+          ],
+          "birthday": "10-14",
+          "joinDate": "2021-03-21",
+          "sns": {
+            "twitter": "https://x.com/rion_bybbit",
+            "instagram": "https://www.instagram.com/rion_bybbit/",
+            "tiktok": "https://www.tiktok.com/@rion_bybbit"
+          }
+        },
+        {
+          "uuid": "6D9E678B-E82E-5DA7-B3E9-DA26C6FE45F6",
+          "masterId": "other_idols_bybbit_mizuki_rino",
+          "name": "美月りの",
+          "profileURL": "https://tsuima-bybbit.com/member/41/",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "02-08",
+          "joinDate": "2024-06-12",
+          "sns": {
+            "twitter": "https://x.com/rino_bybbit",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@rinodayo8"
+          }
+        },
+        {
+          "uuid": "ADB4DDB1-A822-5D50-9BA4-D2B10FECBDA6",
+          "masterId": "other_idols_bybbit_asahina_roko",
+          "name": "朝比奈ろこ",
+          "profileURL": "https://tsuima-bybbit.com/member/76/",
+          "isGraduated": false,
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "11-23",
+          "joinDate": "2026-01-22",
+          "sns": {
+            "twitter": "https://x.com/roko_bybbit",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@kuro_3c"
+          }
+        },
+        {
+          "uuid": "7CECA034-7DB0-5501-817F-1988D798DA7E",
+          "masterId": "other_idols_bybbit_sato_yumeka",
+          "name": "佐藤ゆめか",
+          "profileURL": "https://tsuima-bybbit.com/member/75/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "12-27",
+          "joinDate": "2026-01-22",
+          "sns": {
+            "twitter": "https://x.com/yumeka_bybbit",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@yumeka_bybbit"
+          }
+        },
+        {
+          "uuid": "09327891-7139-51BF-BE15-AEEB3E8B0541",
+          "masterId": "other_idols_bybbit_hasumi_ria",
+          "name": "羽純りあ",
+          "profileURL": "https://tsuima-bybbit.com/member/201/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "11-28",
+          "joinDate": "2026-10-24",
+          "sns": {
+            "twitter": "https://x.com/ria_bybbit",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ],
+      "formationDate": "2021-03-21",
+      "debutDate": "2021-03-28"
     }
   ]
 }

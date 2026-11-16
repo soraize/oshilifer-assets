@@ -3575,6 +3575,94 @@
       ],
       "formationDate": "2025-12-06",
       "debutDate": "2025-12-06"
+    },
+    {
+      "uuid": "A95EB6F2-CFE7-5316-BEA8-179D0ED4B4D6",
+      "masterId": "other_idols_pirka_dolce",
+      "appleMusicArtistId": null,
+      "name": "Pirka_Dolce",
+      "isActive": true,
+      "profileURL": "https://www.aloss.co.jp/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://www.aloss.co.jp/idol",
+        "twitter": "https://x.com/Pirka_Dolce",
+        "instagram": "https://www.instagram.com/pirka_dolce_official/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCm9xJN6d63guuG6e6OdYWfA"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "45430CF1-DA25-57EB-8DD7-8D3E0B949C3E",
+          "masterId": "other_idols_pirka_dolce_moa",
+          "name": "もあ",
+          "profileURL": "https://www.aloss.co.jp/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "02-02",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/Moa_Piridoru",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9112BF11-6544-58C0-9249-355C4BF2772F",
+          "masterId": "other_idols_pirka_dolce_yuzuki",
+          "name": "ゆづき",
+          "profileURL": "https://www.aloss.co.jp/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#8ED1FC"
+          ],
+          "birthday": "06-13",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/Yuzuki_piridoru",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "BDA50A8E-6683-57DC-9326-9420734AAA68",
+          "masterId": "other_idols_pirka_dolce_miru",
+          "name": "みる",
+          "profileURL": "https://www.aloss.co.jp/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD700"
+          ],
+          "birthday": "08-14",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/Miru_Piridoru",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "AC6CDA68-C0AB-5A33-B392-3F11ED383F8B",
+          "masterId": "other_idols_pirka_dolce_moka",
+          "name": "もか",
+          "profileURL": "https://www.aloss.co.jp/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#98FF98"
+          ],
+          "birthday": "12-27",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/Moka_Piridoru",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ]
     }
   ]
 }

@@ -3873,6 +3873,112 @@
           }
         }
       ]
+    },
+    {
+      "uuid": "7F77B47F-06A1-5892-8C4F-A1765C948774",
+      "masterId": "other_idols_wonder_white",
+      "appleMusicArtistId": "1786713298",
+      "name": "WONDER*WHITE",
+      "isActive": true,
+      "profileURL": "https://wonderwhite.net/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://wonderwhite.net/",
+        "twitter": "https://x.com/WonderWhite_SPK",
+        "instagram": "https://www.instagram.com/wonderwhite_spk/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UCho66z4qFrcU3zHdumnGdmQ"
+      },
+      "timeTreeURL": "https://timetr.ee/pc/wonderwhite",
+      "members": [
+        {
+          "uuid": "98AF0652-1072-51A6-99BD-593F29C514C8",
+          "masterId": "other_idols_wonder_white_arisu",
+          "name": "ARISU",
+          "profileURL": "https://wonderwhite.net/profile/arisu/",
+          "isGraduated": false,
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "04-25",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ARISU___WW",
+            "instagram": "https://www.instagram.com/arisu_ww",
+            "tiktok": "https://www.tiktok.com/@arisu___ww"
+          }
+        },
+        {
+          "uuid": "6E20A6A1-9440-56FB-B1D5-86CE03FB077C",
+          "masterId": "other_idols_wonder_white_sora",
+          "name": "SORA",
+          "profileURL": "https://wonderwhite.net/profile/sora/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "04-01",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/SORA__WW_",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "B9574DEF-8D9A-59AB-B136-D6F591B587C6",
+          "masterId": "other_idols_wonder_white_kei",
+          "name": "KEI",
+          "profileURL": "https://wonderwhite.net/profile/kei/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "09-09",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/KEI__WW_",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "258FFF6B-E783-5D3B-B5FE-D65AE2774813",
+          "masterId": "other_idols_wonder_white_uii",
+          "name": "UII",
+          "profileURL": "https://wonderwhite.net/profile/uii/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "09-26",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/UII___WW",
+            "instagram": "https://www.instagram.com/uii__mo",
+            "tiktok": "https://www.tiktok.com/@uii__mo"
+          }
+        },
+        {
+          "uuid": "A8D856E0-754B-5174-A7B6-4F7504E41176",
+          "masterId": "other_idols_wonder_white_marika",
+          "name": "MARIKA",
+          "profileURL": "https://wonderwhite.net/profile/marika/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "02-15",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/MARIKA___WW",
+            "instagram": "https://www.instagram.com/marika_wonderwhite",
+            "tiktok": "https://www.tiktok.com/@marika_ww215"
+          }
+        }
+      ],
+      "debutDate": "2023-01-21"
     }
   ]
 }

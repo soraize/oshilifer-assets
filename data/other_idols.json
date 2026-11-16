@@ -3434,6 +3434,147 @@
       ],
       "formationDate": "2021-03-21",
       "debutDate": "2021-03-28"
+    },
+    {
+      "uuid": "C2BEFDA9-54C4-5EF0-B260-58D90EB4A271",
+      "masterId": "other_idols_noonico",
+      "appleMusicArtistId": "1871824074",
+      "name": "NooNico",
+      "isActive": true,
+      "profileURL": "https://x.com/noonico_1206",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/noonico_1206",
+        "instagram": "https://www.instagram.com/noonico.idol/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/@noonico"
+      },
+      "timeTreeURL": "https://timetr.ee/p/noonico",
+      "members": [
+        {
+          "uuid": "18F7731D-2753-5C37-BD77-765DE2B84908",
+          "masterId": "other_idols_noonico_kotonoha_mahiro",
+          "name": "琴ノ葉真葵",
+          "profileURL": "https://x.com/noonico_mah",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "11-09",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/noonico_mah",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "863D78CF-6227-5739-9364-CA2DBC31A455",
+          "masterId": "other_idols_noonico_minase_minami",
+          "name": "水瀬美波",
+          "profileURL": "https://x.com/noonico_minami",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/noonico_minami",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "8A644EBD-540F-5AA6-9572-CC0F48407F03",
+          "masterId": "other_idols_noonico_hinaki_sereka",
+          "name": "雛姫せれか",
+          "profileURL": "https://x.com/noonico_sereka",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "11-19",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/noonico_sereka",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@noonico_sereka"
+          }
+        },
+        {
+          "uuid": "47A1AA60-6E48-5B59-854C-E6D0893638FA",
+          "masterId": "other_idols_noonico_amamiya_uyu",
+          "name": "天宮うゆ",
+          "profileURL": "https://x.com/noonico_uyou",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/noonico_uyou",
+            "instagram": "https://www.instagram.com/noonico_uyou/",
+            "tiktok": "https://www.tiktok.com/@noonico_uyou"
+          }
+        },
+        {
+          "uuid": "F316A0B4-FD43-5EC9-9EA9-0258370E24FA",
+          "masterId": "other_idols_noonico_tamaki_yura",
+          "name": "環ゆら",
+          "profileURL": "https://x.com/noonico_yura",
+          "isGraduated": false,
+          "colorHex": [
+            "#90EE90"
+          ],
+          "birthday": null,
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/noonico_yura",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "1E90F633-6BB5-5477-B130-A419FD7F6FBD",
+          "masterId": "other_idols_noonico_hano_anna",
+          "name": "羽乃あんな",
+          "profileURL": "https://x.com/noonico_anna",
+          "isGraduated": false,
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": null,
+          "joinDate": "2026-06-20",
+          "sns": {
+            "twitter": "https://x.com/noonico_anna",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "3A97D1ED-4FC3-58F2-B50B-1E8F16B80F3B",
+          "masterId": "other_idols_noonico_morohoshi_rune",
+          "name": "諸星瑠音",
+          "profileURL": "https://x.com/noonico_rune",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFD700"
+          ],
+          "birthday": null,
+          "joinDate": "2026-12-07",
+          "sns": {
+            "twitter": "https://x.com/noonico_rune",
+            "instagram": null,
+            "tiktok": null
+          }
+        }
+      ],
+      "formationDate": "2025-12-06",
+      "debutDate": "2025-12-06"
     }
   ]
 }

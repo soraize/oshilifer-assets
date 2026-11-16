@@ -3663,6 +3663,128 @@
           }
         }
       ]
+    },
+    {
+      "uuid": "11B0ECCF-2C0A-53C0-BB51-5B04FC26A9A1",
+      "masterId": "other_idols_candys",
+      "appleMusicArtistId": "1574269328",
+      "name": "CANDYS",
+      "isActive": true,
+      "profileURL": "https://candys-idol.com/profile/",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://candys-idol.com/",
+        "twitter": "https://x.com/candys_idol",
+        "instagram": "https://www.instagram.com/idol.candys/",
+        "tiktok": null,
+        "youtube": "https://www.youtube.com/channel/UC4a2WS82JyLf1WL6IRZv1ig"
+      },
+      "timeTreeURL": null,
+      "members": [
+        {
+          "uuid": "14515E93-4D48-5C1C-B101-AB8E6B2293FB",
+          "masterId": "other_idols_candys_bambi",
+          "name": "Bambi",
+          "profileURL": "https://candys-idol.com/member/bambi/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FFA500"
+          ],
+          "birthday": "09-29",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/ank__mochi",
+            "instagram": "https://www.instagram.com/ank__mochi/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "7AACA4A3-5EEE-5063-BEE1-B591A5EEF511",
+          "masterId": "other_idols_candys_juri",
+          "name": "Juri",
+          "profileURL": "https://candys-idol.com/member/juri/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "06-23",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/juri_choco",
+            "instagram": "https://www.instagram.com/juri_choco_/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "9827CD17-AB9E-585D-ABDF-90D41E242FB6",
+          "masterId": "other_idols_candys_kimie",
+          "name": "Kimie",
+          "profileURL": "https://candys-idol.com/member/kimie/",
+          "isGraduated": false,
+          "colorHex": [
+            "#8ED1FC"
+          ],
+          "birthday": "09-27",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kimie_candys",
+            "instagram": "https://www.instagram.com/kimie_candys",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "5746E347-5FA5-504F-92C9-4D081FC3BE48",
+          "masterId": "other_idols_candys_sou",
+          "name": "Sou",
+          "profileURL": "https://candys-idol.com/member/sou/",
+          "isGraduated": false,
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "09-05",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/anytimeinbed",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "D86BACF6-2843-5DD5-A25C-B2161658D175",
+          "masterId": "other_idols_candys_nanoha",
+          "name": "Nanoha",
+          "profileURL": "https://candys-idol.com/member/nanoha/",
+          "isGraduated": false,
+          "colorHex": [
+            "#3CB371"
+          ],
+          "birthday": "03-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/nanoha_candys",
+            "instagram": null,
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "871E25D3-E1C9-5A92-9FD5-89CF1C98F0B0",
+          "masterId": "other_idols_candys_marin",
+          "name": "Marin",
+          "profileURL": "https://candys-idol.com/member/marin/",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "07-24",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/marin0724_stn",
+            "instagram": "https://www.instagram.com/marin0724_stn",
+            "tiktok": null
+          }
+        }
+      ]
     }
   ]
 }

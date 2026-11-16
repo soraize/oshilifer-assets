@@ -5772,5 +5772,21 @@
     "capacity": 2000,
     "capacityType": "standing",
     "capacityNote": "スタンディング目安（参考）"
+  },
+  {
+    "address": "東京都世田谷区北沢2-26-25 アーロム下北沢B1",
+    "aliases": [
+      "DY CUBE",
+      "ディーワイキューブ",
+      "下北沢DY CUBE"
+    ],
+    "lat": 35.661938,
+    "lng": 139.666563,
+    "name": "下北沢 DY CUBE",
+    "prefecture": "東京都",
+    "venueId": "shimokitazawa_dy_cube",
+    "capacity": 60,
+    "capacityType": "standing",
+    "capacityNote": "スタンディング目安（参考）。着席は40席（公式フロアガイド）"
   }
 ]

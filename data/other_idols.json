@@ -3979,6 +3979,94 @@
         }
       ],
       "debutDate": "2023-01-21"
+    },
+    {
+      "uuid": "5A8481FA-0028-5AE8-9644-4338D334C9CF",
+      "masterId": "other_idols_seven_senses",
+      "appleMusicArtistId": "1868007741",
+      "name": "SEVEN SENSES",
+      "isActive": true,
+      "profileURL": "https://www.sevensenses-7.com/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": "https://www.sevensenses-7.com/",
+        "twitter": "https://x.com/SEVENSENSES_W",
+        "instagram": "https://www.instagram.com/sevensenses_official",
+        "tiktok": "https://www.tiktok.com/@sevensenses_official",
+        "youtube": "https://www.youtube.com/channel/UCiKcsVfr7WXXIozAjaV0HEQ"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/sevensenses",
+      "members": [
+        {
+          "uuid": "F4FA846E-FD20-574D-B1ED-65C2093F3DC7",
+          "masterId": "other_idols_seven_senses_kannazuki_patra",
+          "name": "神無月パトラ",
+          "profileURL": "https://www.sevensenses-7.com/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "10-29",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/patra_7ss",
+            "instagram": "https://www.instagram.com/patra_7ss/",
+            "tiktok": "https://www.tiktok.com/@patra_7ss"
+          }
+        },
+        {
+          "uuid": "D25E4F79-A7B1-55C5-8D91-C38ADD53EBC2",
+          "masterId": "other_idols_seven_senses_minazuki_kotoha",
+          "name": "水無月琴華",
+          "profileURL": "https://www.sevensenses-7.com/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "05-28",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/kotoha_7ss",
+            "instagram": "https://www.instagram.com/kotoha_7ss/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "E507A59C-C78A-5DE0-BA9C-559CC55BC343",
+          "masterId": "other_idols_seven_senses_kisaragi_raia",
+          "name": "如月蕾愛",
+          "profileURL": "https://www.sevensenses-7.com/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#0000FF"
+          ],
+          "birthday": "03-30",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/raia_7ss",
+            "instagram": "https://www.instagram.com/raia_7ss/",
+            "tiktok": "https://www.tiktok.com/@raia_7ss"
+          }
+        },
+        {
+          "uuid": "478B2070-A88A-5BA8-9471-A1987F234A54",
+          "masterId": "other_idols_seven_senses_satsuki_lune",
+          "name": "皐月るね",
+          "profileURL": "https://www.sevensenses-7.com/profile",
+          "isGraduated": false,
+          "colorHex": [
+            "#8000FF"
+          ],
+          "birthday": "05-03",
+          "joinDate": null,
+          "sns": {
+            "twitter": "https://x.com/Lune_7ss",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@lune_7ss"
+          }
+        }
+      ]
     }
   ]
 }

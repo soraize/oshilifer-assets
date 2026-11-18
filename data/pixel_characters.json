@@ -82,6 +82,14 @@
       "width": 324,
       "height": 652,
       "bytes": 61495
+    },
+    {
+      "masterId": "heroines_ion_hakane_kono",
+      "file": "images/pixel/heroines_ion_hakane_kono.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 56325
     }
   ]
 }

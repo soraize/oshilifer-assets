@@ -154,6 +154,54 @@
       "width": 324,
       "height": 652,
       "bytes": 64566
+    },
+    {
+      "masterId": "heroines_megafon_koharu_noka",
+      "file": "images/pixel/heroines_megafon_koharu_noka.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 58829
+    },
+    {
+      "masterId": "heroines_megafon_himari_kii",
+      "file": "images/pixel/heroines_megafon_himari_kii.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 55175
+    },
+    {
+      "masterId": "heroines_megafon_hoshino_ami_megafon",
+      "file": "images/pixel/heroines_megafon_hoshino_ami_megafon.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 53908
+    },
+    {
+      "masterId": "heroines_megafon_ramune_iroha",
+      "file": "images/pixel/heroines_megafon_ramune_iroha.png",
+      "heightCm": 154.3,
+      "width": 324,
+      "height": 652,
+      "bytes": 47275
+    },
+    {
+      "masterId": "heroines_megafon_wakumo_roko",
+      "file": "images/pixel/heroines_megafon_wakumo_roko.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 50854
+    },
+    {
+      "masterId": "heroines_megafon_miyashiro_yuki",
+      "file": "images/pixel/heroines_megafon_miyashiro_yuki.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 51307
     }
   ]
 }

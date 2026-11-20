@@ -249,7 +249,7 @@
       "heightCm": 161,
       "width": 324,
       "height": 652,
-      "bytes": 60862
+      "bytes": 60433
     },
     {
       "masterId": "heroines_imin_yukise_ive",
@@ -257,7 +257,7 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 56213
+      "bytes": 51508
     },
     {
       "masterId": "heroines_imin_momono_nono",
@@ -265,7 +265,7 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 75319
+      "bytes": 64969
     },
     {
       "masterId": "heroines_imin_hanasaki_furan",
@@ -273,7 +273,7 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 63010
+      "bytes": 53587
     },
     {
       "masterId": "heroines_imin_izumi_nemu",
@@ -281,7 +281,7 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 69390
+      "bytes": 59039
     },
     {
       "masterId": "heroines_imin_mikaze_aru",
@@ -289,7 +289,7 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 53006
+      "bytes": 53123
     },
     {
       "masterId": "heroines_imin_natsuzora_kirari",
@@ -297,7 +297,71 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 60700
+      "bytes": 55370
+    },
+    {
+      "masterId": "heroines_pastel_closet_nishina_mitsu",
+      "file": "images/pixel/heroines_pastel_closet_nishina_mitsu.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 51316
+    },
+    {
+      "masterId": "heroines_pastel_closet_anzai_minori",
+      "file": "images/pixel/heroines_pastel_closet_anzai_minori.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 50144
+    },
+    {
+      "masterId": "heroines_pastel_closet_yukino_reia",
+      "file": "images/pixel/heroines_pastel_closet_yukino_reia.png",
+      "heightCm": 168,
+      "width": 324,
+      "height": 652,
+      "bytes": 49423
+    },
+    {
+      "masterId": "heroines_pastel_closet_kanno_ai",
+      "file": "images/pixel/heroines_pastel_closet_kanno_ai.png",
+      "heightCm": 163.1,
+      "width": 324,
+      "height": 652,
+      "bytes": 60231
+    },
+    {
+      "masterId": "heroines_pastel_closet_sumihara_kaho",
+      "file": "images/pixel/heroines_pastel_closet_sumihara_kaho.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 49247
+    },
+    {
+      "masterId": "heroines_pastel_closet_shinohara_sakura",
+      "file": "images/pixel/heroines_pastel_closet_shinohara_sakura.png",
+      "heightCm": 160.7,
+      "width": 324,
+      "height": 652,
+      "bytes": 59412
+    },
+    {
+      "masterId": "heroines_pastel_closet_hanaki_maika",
+      "file": "images/pixel/heroines_pastel_closet_hanaki_maika.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 61291
+    },
+    {
+      "masterId": "heroines_pastel_closet_hinaki_nonoka",
+      "file": "images/pixel/heroines_pastel_closet_hinaki_nonoka.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 54915
     }
   ]
 }

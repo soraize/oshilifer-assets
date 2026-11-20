@@ -340,14 +340,6 @@
       "bytes": 60699
     },
     {
-      "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
-      "file": "images/pixel/heroines_ponkotsu_konpo_norimaki_uni.png",
-      "heightCm": 156,
-      "width": 324,
-      "height": 652,
-      "bytes": 55977
-    },
-    {
       "masterId": "heroines_ion_hakane_kono",
       "file": "images/pixel/heroines_ion_hakane_kono.png",
       "heightCm": 155,
@@ -466,6 +458,62 @@
       "width": 324,
       "height": 652,
       "bytes": 59760
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_akita_komachi",
+      "file": "images/pixel/heroines_ponkotsu_konpo_akita_komachi.png",
+      "heightCm": 146.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 49353
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_ninomae_ran",
+      "file": "images/pixel/heroines_ponkotsu_konpo_ninomae_ran.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 62720
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_showe29886time",
+      "file": "images/pixel/heroines_ponkotsu_konpo_showe29886time.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 56148
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_amasugi_apollo",
+      "file": "images/pixel/heroines_ponkotsu_konpo_amasugi_apollo.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 48303
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_yubari_meron",
+      "file": "images/pixel/heroines_ponkotsu_konpo_yubari_meron.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 50817
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_harenochi_ame",
+      "file": "images/pixel/heroines_ponkotsu_konpo_harenochi_ame.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 53693
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
+      "file": "images/pixel/heroines_ponkotsu_konpo_norimaki_uni.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 55168
     }
   ]
 }

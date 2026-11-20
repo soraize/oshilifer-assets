@@ -514,6 +514,62 @@
       "width": 324,
       "height": 652,
       "bytes": 55168
+    },
+    {
+      "masterId": "heroines_chula_kagami_mirano",
+      "file": "images/pixel/heroines_chula_kagami_mirano.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 58575
+    },
+    {
+      "masterId": "heroines_chula_shirokami_level",
+      "file": "images/pixel/heroines_chula_shirokami_level.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 63529
+    },
+    {
+      "masterId": "heroines_chula_seno_tsubasa",
+      "file": "images/pixel/heroines_chula_seno_tsubasa.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 47529
+    },
+    {
+      "masterId": "heroines_chula_hisaki_mio",
+      "file": "images/pixel/heroines_chula_hisaki_mio.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 61417
+    },
+    {
+      "masterId": "heroines_chula_tsurara_rara",
+      "file": "images/pixel/heroines_chula_tsurara_rara.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 55705
+    },
+    {
+      "masterId": "heroines_chula_mano_yuni",
+      "file": "images/pixel/heroines_chula_mano_yuni.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 50163
+    },
+    {
+      "masterId": "heroines_chula_ameiro_ringo",
+      "file": "images/pixel/heroines_chula_ameiro_ringo.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 60363
     }
   ]
 }

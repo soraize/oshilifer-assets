@@ -90,6 +90,70 @@
       "width": 324,
       "height": 652,
       "bytes": 56325
+    },
+    {
+      "masterId": "heroines_ion_kaguya_kurara",
+      "file": "images/pixel/heroines_ion_kaguya_kurara.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 60168
+    },
+    {
+      "masterId": "heroines_ion_kurisu_mugi",
+      "file": "images/pixel/heroines_ion_kurisu_mugi.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 57887
+    },
+    {
+      "masterId": "heroines_ion_hanamaru_peco",
+      "file": "images/pixel/heroines_ion_hanamaru_peco.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 65219
+    },
+    {
+      "masterId": "heroines_ion_kohina_little",
+      "file": "images/pixel/heroines_ion_kohina_little.png",
+      "heightCm": 146,
+      "width": 324,
+      "height": 652,
+      "bytes": 58440
+    },
+    {
+      "masterId": "heroines_ion_suzumiya_rise",
+      "file": "images/pixel/heroines_ion_suzumiya_rise.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 62950
+    },
+    {
+      "masterId": "heroines_ion_nakumo_menma",
+      "file": "images/pixel/heroines_ion_nakumo_menma.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 63837
+    },
+    {
+      "masterId": "heroines_ion_uno_yuri",
+      "file": "images/pixel/heroines_ion_uno_yuri.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 64287
+    },
+    {
+      "masterId": "heroines_ion_tomari_kuria",
+      "file": "images/pixel/heroines_ion_tomari_kuria.png",
+      "heightCm": 170,
+      "width": 324,
+      "height": 652,
+      "bytes": 64566
     }
   ]
 }

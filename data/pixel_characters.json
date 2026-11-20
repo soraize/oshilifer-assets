@@ -4,14 +4,6 @@
   "footInset": 15,
   "characters": [
     {
-      "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
-      "file": "images/pixel/heroines_ponkotsu_konpo_norimaki_uni.png",
-      "heightCm": 156,
-      "width": 324,
-      "height": 652,
-      "bytes": 61495
-    },
-    {
       "masterId": "heroines_ion_hakane_kono",
       "file": "images/pixel/heroines_ion_hakane_kono.png",
       "heightCm": 155,
@@ -362,6 +354,14 @@
       "width": 324,
       "height": 652,
       "bytes": 60699
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
+      "file": "images/pixel/heroines_ponkotsu_konpo_norimaki_uni.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 55977
     }
   ]
 }

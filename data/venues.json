@@ -4174,13 +4174,13 @@
   {
     "address": "東京都新宿区西新宿6-5-1 アイランドホール 2F",
     "aliases": [
-      "新宿ReNY",
+      "ReNY",
       "ReNY Shinjuku",
       "Shinjuku ReNY"
     ],
     "lat": 35.693177,
     "lng": 139.693166,
-    "name": "ReNY",
+    "name": "新宿ReNY",
     "prefecture": "東京都",
     "venueId": "shinjuku_reeny"
   },

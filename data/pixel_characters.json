@@ -242,6 +242,62 @@
       "width": 324,
       "height": 652,
       "bytes": 52266
+    },
+    {
+      "masterId": "heroines_imin_akane_latte",
+      "file": "images/pixel/heroines_imin_akane_latte.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 60862
+    },
+    {
+      "masterId": "heroines_imin_yukise_ive",
+      "file": "images/pixel/heroines_imin_yukise_ive.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 56213
+    },
+    {
+      "masterId": "heroines_imin_momono_nono",
+      "file": "images/pixel/heroines_imin_momono_nono.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 75319
+    },
+    {
+      "masterId": "heroines_imin_hanasaki_furan",
+      "file": "images/pixel/heroines_imin_hanasaki_furan.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 63010
+    },
+    {
+      "masterId": "heroines_imin_izumi_nemu",
+      "file": "images/pixel/heroines_imin_izumi_nemu.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 69390
+    },
+    {
+      "masterId": "heroines_imin_mikaze_aru",
+      "file": "images/pixel/heroines_imin_mikaze_aru.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 53006
+    },
+    {
+      "masterId": "heroines_imin_natsuzora_kirari",
+      "file": "images/pixel/heroines_imin_natsuzora_kirari.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 60700
     }
   ]
 }

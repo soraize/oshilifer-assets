@@ -434,6 +434,38 @@
       "width": 324,
       "height": 652,
       "bytes": 62439
+    },
+    {
+      "masterId": "heroines_dress_code_momomiya_mimo",
+      "file": "images/pixel/heroines_dress_code_momomiya_mimo.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 62497
+    },
+    {
+      "masterId": "heroines_dress_code_otogi_rilum",
+      "file": "images/pixel/heroines_dress_code_otogi_rilum.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 56500
+    },
+    {
+      "masterId": "heroines_dress_code_hayasaka_wamu",
+      "file": "images/pixel/heroines_dress_code_hayasaka_wamu.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 50626
+    },
+    {
+      "masterId": "heroines_dress_code_tsukino_anon",
+      "file": "images/pixel/heroines_dress_code_tsukino_anon.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 59760
     }
   ]
 }

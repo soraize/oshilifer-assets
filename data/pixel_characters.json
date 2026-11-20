@@ -202,6 +202,46 @@
       "width": 324,
       "height": 652,
       "bytes": 51307
+    },
+    {
+      "masterId": "heroines_last_scene_koga_mirei",
+      "file": "images/pixel/heroines_last_scene_koga_mirei.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 59397
+    },
+    {
+      "masterId": "heroines_last_scene_yuzuki_ichika",
+      "file": "images/pixel/heroines_last_scene_yuzuki_ichika.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 58666
+    },
+    {
+      "masterId": "heroines_last_scene_amo_shiori",
+      "file": "images/pixel/heroines_last_scene_amo_shiori.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 56815
+    },
+    {
+      "masterId": "heroines_last_scene_ayano_mona",
+      "file": "images/pixel/heroines_last_scene_ayano_mona.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 50843
+    },
+    {
+      "masterId": "heroines_last_scene_misora_yun",
+      "file": "images/pixel/heroines_last_scene_misora_yun.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 52266
     }
   ]
 }

@@ -4,14 +4,6 @@
   "footInset": 15,
   "characters": [
     {
-      "masterId": "heroines_ion_hakane_kono",
-      "file": "images/pixel/heroines_ion_hakane_kono.png",
-      "heightCm": 155,
-      "width": 324,
-      "height": 652,
-      "bytes": 56325
-    },
-    {
       "masterId": "heroines_ion_kaguya_kurara",
       "file": "images/pixel/heroines_ion_kaguya_kurara.png",
       "heightCm": 156,
@@ -26,14 +18,6 @@
       "width": 324,
       "height": 652,
       "bytes": 57887
-    },
-    {
-      "masterId": "heroines_ion_hanamaru_peco",
-      "file": "images/pixel/heroines_ion_hanamaru_peco.png",
-      "heightCm": 156,
-      "width": 324,
-      "height": 652,
-      "bytes": 65219
     },
     {
       "masterId": "heroines_ion_kohina_little",
@@ -362,6 +346,22 @@
       "width": 324,
       "height": 652,
       "bytes": 55977
+    },
+    {
+      "masterId": "heroines_ion_hakane_kono",
+      "file": "images/pixel/heroines_ion_hakane_kono.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 53971
+    },
+    {
+      "masterId": "heroines_ion_hanamaru_peco",
+      "file": "images/pixel/heroines_ion_hanamaru_peco.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 59694
     }
   ]
 }

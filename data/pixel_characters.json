@@ -362,6 +362,78 @@
       "width": 324,
       "height": 652,
       "bytes": 59694
+    },
+    {
+      "masterId": "heroines_nonfiction_aqua_marin",
+      "file": "images/pixel/heroines_nonfiction_aqua_marin.png",
+      "heightCm": 156.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 66432
+    },
+    {
+      "masterId": "heroines_nonfiction_kouzuki_amu",
+      "file": "images/pixel/heroines_nonfiction_kouzuki_amu.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 58079
+    },
+    {
+      "masterId": "heroines_nonfiction_sato_milk_nonc2acfiction",
+      "file": "images/pixel/heroines_nonfiction_sato_milk_nonc2acfiction.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 66674
+    },
+    {
+      "masterId": "heroines_nonfiction_miori_niina",
+      "file": "images/pixel/heroines_nonfiction_miori_niina.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 64319
+    },
+    {
+      "masterId": "heroines_nonfiction_nagatsuki_touka",
+      "file": "images/pixel/heroines_nonfiction_nagatsuki_touka.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 56852
+    },
+    {
+      "masterId": "heroines_nonfiction_colne",
+      "file": "images/pixel/heroines_nonfiction_colne.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 62146
+    },
+    {
+      "masterId": "heroines_nonfiction_koeda_cocoa",
+      "file": "images/pixel/heroines_nonfiction_koeda_cocoa.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 60271
+    },
+    {
+      "masterId": "heroines_nonfiction_konose_haruka",
+      "file": "images/pixel/heroines_nonfiction_konose_haruka.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 69997
+    },
+    {
+      "masterId": "heroines_nonfiction_minase_piano",
+      "file": "images/pixel/heroines_nonfiction_minase_piano.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 62439
     }
   ]
 }

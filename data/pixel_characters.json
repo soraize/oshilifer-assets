@@ -570,6 +570,70 @@
       "width": 324,
       "height": 652,
       "bytes": 60363
+    },
+    {
+      "masterId": "heroines_paradeeq_yuzuriha_mikan",
+      "file": "images/pixel/heroines_paradeeq_yuzuriha_mikan.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 58289
+    },
+    {
+      "masterId": "heroines_paradeeq_araki_runo",
+      "file": "images/pixel/heroines_paradeeq_araki_runo.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 56230
+    },
+    {
+      "masterId": "heroines_paradeeq_kurusu_yuru",
+      "file": "images/pixel/heroines_paradeeq_kurusu_yuru.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 58319
+    },
+    {
+      "masterId": "heroines_paradeeq_hinazuki_hina",
+      "file": "images/pixel/heroines_paradeeq_hinazuki_hina.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 52296
+    },
+    {
+      "masterId": "heroines_paradeeq_mizuno_mei",
+      "file": "images/pixel/heroines_paradeeq_mizuno_mei.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 59910
+    },
+    {
+      "masterId": "heroines_paradeeq_akarida_niji",
+      "file": "images/pixel/heroines_paradeeq_akarida_niji.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 53991
+    },
+    {
+      "masterId": "heroines_paradeeq_hamabe_shizuku",
+      "file": "images/pixel/heroines_paradeeq_hamabe_shizuku.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 61098
+    },
+    {
+      "masterId": "heroines_paradeeq_ouzora_chuin",
+      "file": "images/pixel/heroines_paradeeq_ouzora_chuin.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 57511
     }
   ]
 }

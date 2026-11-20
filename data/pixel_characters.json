@@ -4,78 +4,6 @@
   "footInset": 15,
   "characters": [
     {
-      "masterId": "heroines_ilife_aisu",
-      "file": "images/pixel/heroines_ilife_aisu.png",
-      "heightCm": 151,
-      "width": 324,
-      "height": 652,
-      "bytes": 59836
-    },
-    {
-      "masterId": "heroines_ilife_fukumaru_usa",
-      "file": "images/pixel/heroines_ilife_fukumaru_usa.png",
-      "heightCm": 159,
-      "width": 324,
-      "height": 652,
-      "bytes": 69640
-    },
-    {
-      "masterId": "heroines_ilife_koguma_mamu",
-      "file": "images/pixel/heroines_ilife_koguma_mamu.png",
-      "heightCm": 166,
-      "width": 324,
-      "height": 652,
-      "bytes": 79226
-    },
-    {
-      "masterId": "heroines_ilife_kohane_mini",
-      "file": "images/pixel/heroines_ilife_kohane_mini.png",
-      "heightCm": 152,
-      "width": 324,
-      "height": 652,
-      "bytes": 58248
-    },
-    {
-      "masterId": "heroines_ilife_konoka_riri",
-      "file": "images/pixel/heroines_ilife_konoka_riri.png",
-      "heightCm": 156,
-      "width": 324,
-      "height": 652,
-      "bytes": 63874
-    },
-    {
-      "masterId": "heroines_ilife_mamori_mew",
-      "file": "images/pixel/heroines_ilife_mamori_mew.png",
-      "heightCm": 162,
-      "width": 324,
-      "height": 652,
-      "bytes": 76340
-    },
-    {
-      "masterId": "heroines_ilife_sonata_karen",
-      "file": "images/pixel/heroines_ilife_sonata_karen.png",
-      "heightCm": 155,
-      "width": 324,
-      "height": 652,
-      "bytes": 65712
-    },
-    {
-      "masterId": "heroines_ilife_sumire_miki",
-      "file": "images/pixel/heroines_ilife_sumire_miki.png",
-      "heightCm": 164,
-      "width": 324,
-      "height": 652,
-      "bytes": 68679
-    },
-    {
-      "masterId": "heroines_ilife_wakaba_noa",
-      "file": "images/pixel/heroines_ilife_wakaba_noa.png",
-      "heightCm": 164,
-      "width": 324,
-      "height": 652,
-      "bytes": 68605
-    },
-    {
       "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
       "file": "images/pixel/heroines_ponkotsu_konpo_norimaki_uni.png",
       "heightCm": 156,
@@ -362,6 +290,78 @@
       "width": 324,
       "height": 652,
       "bytes": 46601
+    },
+    {
+      "masterId": "heroines_ilife_aisu",
+      "file": "images/pixel/heroines_ilife_aisu.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 53530
+    },
+    {
+      "masterId": "heroines_ilife_fukumaru_usa",
+      "file": "images/pixel/heroines_ilife_fukumaru_usa.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 60740
+    },
+    {
+      "masterId": "heroines_ilife_koguma_mamu",
+      "file": "images/pixel/heroines_ilife_koguma_mamu.png",
+      "heightCm": 166,
+      "width": 324,
+      "height": 652,
+      "bytes": 65385
+    },
+    {
+      "masterId": "heroines_ilife_kohane_mini",
+      "file": "images/pixel/heroines_ilife_kohane_mini.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 52168
+    },
+    {
+      "masterId": "heroines_ilife_konoka_riri",
+      "file": "images/pixel/heroines_ilife_konoka_riri.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 55331
+    },
+    {
+      "masterId": "heroines_ilife_mamori_mew",
+      "file": "images/pixel/heroines_ilife_mamori_mew.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 65706
+    },
+    {
+      "masterId": "heroines_ilife_sonata_karen",
+      "file": "images/pixel/heroines_ilife_sonata_karen.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 61366
+    },
+    {
+      "masterId": "heroines_ilife_sumire_miki",
+      "file": "images/pixel/heroines_ilife_sumire_miki.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 58578
+    },
+    {
+      "masterId": "heroines_ilife_wakaba_noa",
+      "file": "images/pixel/heroines_ilife_wakaba_noa.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 60699
     }
   ]
 }

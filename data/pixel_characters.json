@@ -698,6 +698,54 @@
       "width": 324,
       "height": 652,
       "bytes": 51016
+    },
+    {
+      "masterId": "heroines_ion_osu_kanon",
+      "file": "images/pixel/heroines_ion_osu_kanon.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 59362
+    },
+    {
+      "masterId": "heroines_tenshinranman_kotone_una",
+      "file": "images/pixel/heroines_tenshinranman_kotone_una.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 52203
+    },
+    {
+      "masterId": "heroines_tenshinranman_oda_koyun",
+      "file": "images/pixel/heroines_tenshinranman_oda_koyun.png",
+      "heightCm": 148.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 55836
+    },
+    {
+      "masterId": "heroines_tenshinranman_ogura_azuki",
+      "file": "images/pixel/heroines_tenshinranman_ogura_azuki.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 66593
+    },
+    {
+      "masterId": "heroines_tenshinranman_misono_sora",
+      "file": "images/pixel/heroines_tenshinranman_misono_sora.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 52455
+    },
+    {
+      "masterId": "heroines_tenshinranman_ebihara_ten_heroines",
+      "file": "images/pixel/heroines_tenshinranman_ebihara_ten_heroines.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 56600
     }
   ]
 }

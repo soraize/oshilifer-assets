@@ -1066,6 +1066,62 @@
       "width": 324,
       "height": 652,
       "bytes": 58376
+    },
+    {
+      "masterId": "heroines_calandres_yumeha_ruru",
+      "file": "images/pixel/heroines_calandres_yumeha_ruru.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 55099
+    },
+    {
+      "masterId": "heroines_calandres_lime_neo",
+      "file": "images/pixel/heroines_calandres_lime_neo.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 50196
+    },
+    {
+      "masterId": "heroines_calandres_moegi_ririna",
+      "file": "images/pixel/heroines_calandres_moegi_ririna.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 58346
+    },
+    {
+      "masterId": "heroines_calandres_kujo_asuna",
+      "file": "images/pixel/heroines_calandres_kujo_asuna.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 56001
+    },
+    {
+      "masterId": "heroines_calandres_fujimura_ayame",
+      "file": "images/pixel/heroines_calandres_fujimura_ayame.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 50095
+    },
+    {
+      "masterId": "heroines_calandres_asumi_maaya",
+      "file": "images/pixel/heroines_calandres_asumi_maaya.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 51107
+    },
+    {
+      "masterId": "heroines_calandres_miyamoto_mii",
+      "file": "images/pixel/heroines_calandres_miyamoto_mii.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 62707
     }
   ]
 }

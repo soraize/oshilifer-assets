@@ -1234,6 +1234,38 @@
       "width": 324,
       "height": 652,
       "bytes": 52228
+    },
+    {
+      "masterId": "heroines_adamlilith_miyako_yuna",
+      "file": "images/pixel/heroines_adamlilith_miyako_yuna.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 65437
+    },
+    {
+      "masterId": "heroines_adamlilith_otoha_rizu",
+      "file": "images/pixel/heroines_adamlilith_otoha_rizu.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 52505
+    },
+    {
+      "masterId": "heroines_adamlilith_yayoi_yamu",
+      "file": "images/pixel/heroines_adamlilith_yayoi_yamu.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 63987
+    },
+    {
+      "masterId": "heroines_adamlilith_miki_ray",
+      "file": "images/pixel/heroines_adamlilith_miki_ray.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 56144
     }
   ]
 }

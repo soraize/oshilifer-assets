@@ -746,6 +746,46 @@
       "width": 324,
       "height": 652,
       "bytes": 56600
+    },
+    {
+      "masterId": "heroines_haruka_echo_hirasawa_kae",
+      "file": "images/pixel/heroines_haruka_echo_hirasawa_kae.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 45284
+    },
+    {
+      "masterId": "heroines_haruka_echo_kousaka_rin",
+      "file": "images/pixel/heroines_haruka_echo_kousaka_rin.png",
+      "heightCm": 156.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 42053
+    },
+    {
+      "masterId": "heroines_haruka_echo_kannagi_mifuyu",
+      "file": "images/pixel/heroines_haruka_echo_kannagi_mifuyu.png",
+      "heightCm": 154.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 37832
+    },
+    {
+      "masterId": "heroines_haruka_echo_tokiwa_uta",
+      "file": "images/pixel/heroines_haruka_echo_tokiwa_uta.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 40864
+    },
+    {
+      "masterId": "heroines_haruka_echo_amamiya_ruri",
+      "file": "images/pixel/heroines_haruka_echo_amamiya_ruri.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 43906
     }
   ]
 }

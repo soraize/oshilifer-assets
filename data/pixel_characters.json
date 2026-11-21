@@ -1322,6 +1322,38 @@
       "width": 324,
       "height": 652,
       "bytes": 58113
+    },
+    {
+      "masterId": "heroines_ill_shirayuki_himeno",
+      "file": "images/pixel/heroines_ill_shirayuki_himeno.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 56472
+    },
+    {
+      "masterId": "heroines_ill_mori_marimo",
+      "file": "images/pixel/heroines_ill_mori_marimo.png",
+      "heightCm": 168,
+      "width": 324,
+      "height": 652,
+      "bytes": 50296
+    },
+    {
+      "masterId": "heroines_ill_shikino_shiki",
+      "file": "images/pixel/heroines_ill_shikino_shiki.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 52906
+    },
+    {
+      "masterId": "heroines_ill_aoi_kanau",
+      "file": "images/pixel/heroines_ill_aoi_kanau.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 46240
     }
   ]
 }

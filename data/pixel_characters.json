@@ -874,6 +874,62 @@
       "width": 324,
       "height": 652,
       "bytes": 47897
+    },
+    {
+      "masterId": "heroines_full_course_abe_nanami",
+      "file": "images/pixel/heroines_full_course_abe_nanami.png",
+      "heightCm": 171,
+      "width": 324,
+      "height": 652,
+      "bytes": 43643
+    },
+    {
+      "masterId": "heroines_full_course_suzuki_haruka",
+      "file": "images/pixel/heroines_full_course_suzuki_haruka.png",
+      "heightCm": 165,
+      "width": 324,
+      "height": 652,
+      "bytes": 43517
+    },
+    {
+      "masterId": "heroines_full_course_mizukami_rimika",
+      "file": "images/pixel/heroines_full_course_mizukami_rimika.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 52839
+    },
+    {
+      "masterId": "heroines_full_course_kaneshiro_maki",
+      "file": "images/pixel/heroines_full_course_kaneshiro_maki.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 45981
+    },
+    {
+      "masterId": "heroines_full_course_osaki_mihane",
+      "file": "images/pixel/heroines_full_course_osaki_mihane.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 47153
+    },
+    {
+      "masterId": "heroines_full_course_konoha_cona",
+      "file": "images/pixel/heroines_full_course_konoha_cona.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 45952
+    },
+    {
+      "masterId": "heroines_full_course_nakagawa_cocoro",
+      "file": "images/pixel/heroines_full_course_nakagawa_cocoro.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 45541
     }
   ]
 }

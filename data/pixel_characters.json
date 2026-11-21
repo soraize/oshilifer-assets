@@ -786,6 +786,94 @@
       "width": 324,
       "height": 652,
       "bytes": 43906
+    },
+    {
+      "masterId": "heroines_umekomachi_mentai_tarako",
+      "file": "images/pixel/heroines_umekomachi_mentai_tarako.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 69617
+    },
+    {
+      "masterId": "heroines_umekomachi_deshima_minato",
+      "file": "images/pixel/heroines_umekomachi_deshima_minato.png",
+      "heightCm": 165,
+      "width": 324,
+      "height": 652,
+      "bytes": 46531
+    },
+    {
+      "masterId": "heroines_umekomachi_momochi_tsumugi",
+      "file": "images/pixel/heroines_umekomachi_momochi_tsumugi.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 56306
+    },
+    {
+      "masterId": "heroines_umekomachi_amaou_ichigo",
+      "file": "images/pixel/heroines_umekomachi_amaou_ichigo.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 60952
+    },
+    {
+      "masterId": "heroines_umekomachi_chano_wakana",
+      "file": "images/pixel/heroines_umekomachi_chano_wakana.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 52980
+    },
+    {
+      "masterId": "heroines_umekomachi_honjo_yukari",
+      "file": "images/pixel/heroines_umekomachi_honjo_yukari.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 48551
+    },
+    {
+      "masterId": "heroines_umekomachi_matsugae_anko",
+      "file": "images/pixel/heroines_umekomachi_matsugae_anko.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 58363
+    },
+    {
+      "masterId": "heroines_umekomachi_wakataka_nozomi",
+      "file": "images/pixel/heroines_umekomachi_wakataka_nozomi.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 51636
+    },
+    {
+      "masterId": "heroines_umekomachi_hakanabe_mochu",
+      "file": "images/pixel/heroines_umekomachi_hakanabe_mochu.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 49453
+    },
+    {
+      "masterId": "heroines_umekomachi_kotoori_mon",
+      "file": "images/pixel/heroines_umekomachi_kotoori_mon.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 58687
+    },
+    {
+      "masterId": "heroines_umekomachi_haruhi_non",
+      "file": "images/pixel/heroines_umekomachi_haruhi_non.png",
+      "heightCm": 146,
+      "width": 324,
+      "height": 652,
+      "bytes": 47897
     }
   ]
 }

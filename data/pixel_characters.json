@@ -1266,6 +1266,62 @@
       "width": 324,
       "height": 652,
       "bytes": 56144
+    },
+    {
+      "masterId": "heroines_gagapiero_amagami_mero",
+      "file": "images/pixel/heroines_gagapiero_amagami_mero.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 68224
+    },
+    {
+      "masterId": "heroines_gagapiero_chigusa_chima",
+      "file": "images/pixel/heroines_gagapiero_chigusa_chima.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 44298
+    },
+    {
+      "masterId": "heroines_gagapiero_hibiki_razu",
+      "file": "images/pixel/heroines_gagapiero_hibiki_razu.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 47333
+    },
+    {
+      "masterId": "heroines_gagapiero_tamashiro_mimi",
+      "file": "images/pixel/heroines_gagapiero_tamashiro_mimi.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 56394
+    },
+    {
+      "masterId": "heroines_gagapiero_fukamachi_akari",
+      "file": "images/pixel/heroines_gagapiero_fukamachi_akari.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 44536
+    },
+    {
+      "masterId": "heroines_gagapiero_mino_mariru",
+      "file": "images/pixel/heroines_gagapiero_mino_mariru.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 49150
+    },
+    {
+      "masterId": "heroines_gagapiero_akitsuki_emu",
+      "file": "images/pixel/heroines_gagapiero_akitsuki_emu.png",
+      "heightCm": 170,
+      "width": 324,
+      "height": 652,
+      "bytes": 58113
     }
   ]
 }

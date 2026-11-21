@@ -9,7 +9,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 60168
+      "bytes": 60168,
+      "name": "伽久耶くらら",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_kurisu_mugi",
@@ -17,7 +20,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 57887
+      "bytes": 57887,
+      "name": "栗栖むぎ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_kohina_little",
@@ -25,7 +31,10 @@
       "heightCm": 146,
       "width": 324,
       "height": 652,
-      "bytes": 58440
+      "bytes": 58440,
+      "name": "小雛りとる",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_suzumiya_rise",
@@ -33,7 +42,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 62950
+      "bytes": 62950,
+      "name": "鈴都りせ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_nakumo_menma",
@@ -41,7 +53,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 63837
+      "bytes": 63837,
+      "name": "名雲めんま",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_uno_yuri",
@@ -49,7 +64,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 64287
+      "bytes": 64287,
+      "name": "宇野ゆり",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_tomari_kuria",
@@ -57,7 +75,10 @@
       "heightCm": 170,
       "width": 324,
       "height": 652,
-      "bytes": 64566
+      "bytes": 64566,
+      "name": "透明くりあ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_imin_akane_latte",
@@ -65,7 +86,10 @@
       "heightCm": 161,
       "width": 324,
       "height": 652,
-      "bytes": 60433
+      "bytes": 60433,
+      "name": "紅音らて",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_imin_yukise_ive",
@@ -73,7 +97,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 51508
+      "bytes": 51508,
+      "name": "雪聖いぶ",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_imin_momono_nono",
@@ -81,7 +108,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 64969
+      "bytes": 64969,
+      "name": "桃乃のの",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_imin_hanasaki_furan",
@@ -89,7 +119,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 53587
+      "bytes": 53587,
+      "name": "華咲ふらん",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_imin_izumi_nemu",
@@ -97,7 +130,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 59039
+      "bytes": 59039,
+      "name": "和泉ねむ",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_imin_mikaze_aru",
@@ -105,7 +141,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 53123
+      "bytes": 53123,
+      "name": "美風ある",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_imin_natsuzora_kirari",
@@ -113,7 +152,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 55370
+      "bytes": 55370,
+      "name": "夏空きらり",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     },
     {
       "masterId": "heroines_pastel_closet_nishina_mitsu",
@@ -121,7 +163,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 51316
+      "bytes": 51316,
+      "name": "仁科美都",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_anzai_minori",
@@ -129,7 +174,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 50144
+      "bytes": 50144,
+      "name": "安斎みのり",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_yukino_reia",
@@ -137,7 +185,10 @@
       "heightCm": 168,
       "width": 324,
       "height": 652,
-      "bytes": 49423
+      "bytes": 49423,
+      "name": "幸野れいあ",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_kanno_ai",
@@ -145,7 +196,10 @@
       "heightCm": 163.1,
       "width": 324,
       "height": 652,
-      "bytes": 60231
+      "bytes": 60231,
+      "name": "柑乃あい",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_sumihara_kaho",
@@ -153,7 +207,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 49247
+      "bytes": 49247,
+      "name": "澄原夏帆",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_shinohara_sakura",
@@ -161,7 +218,10 @@
       "heightCm": 160.7,
       "width": 324,
       "height": 652,
-      "bytes": 59412
+      "bytes": 59412,
+      "name": "篠原さくら",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_hanaki_maika",
@@ -169,7 +229,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 61291
+      "bytes": 61291,
+      "name": "花木舞花",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_pastel_closet_hinaki_nonoka",
@@ -177,7 +240,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 54915
+      "bytes": 54915,
+      "name": "雛城ののか",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     },
     {
       "masterId": "heroines_megafon_koharu_noka",
@@ -185,7 +251,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 53957
+      "bytes": 53957,
+      "name": "小晴のか",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     },
     {
       "masterId": "heroines_megafon_himari_kii",
@@ -193,7 +262,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 52788
+      "bytes": 52788,
+      "name": "日陽きい",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     },
     {
       "masterId": "heroines_megafon_hoshino_ami_megafon",
@@ -201,7 +273,10 @@
       "heightCm": 150,
       "width": 324,
       "height": 652,
-      "bytes": 50195
+      "bytes": 50195,
+      "name": "星野あみ",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     },
     {
       "masterId": "heroines_megafon_ramune_iroha",
@@ -209,7 +284,10 @@
       "heightCm": 154.3,
       "width": 324,
       "height": 652,
-      "bytes": 46244
+      "bytes": 46244,
+      "name": "明音いろは",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     },
     {
       "masterId": "heroines_megafon_wakumo_roko",
@@ -217,7 +295,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 47360
+      "bytes": 47360,
+      "name": "羽雲ろこ",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     },
     {
       "masterId": "heroines_megafon_miyashiro_yuki",
@@ -225,7 +306,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 50012
+      "bytes": 50012,
+      "name": "宮代ゆき",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     },
     {
       "masterId": "heroines_last_scene_koga_mirei",
@@ -233,7 +317,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 56100
+      "bytes": 56100,
+      "name": "古賀みれい",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
     },
     {
       "masterId": "heroines_last_scene_yuzuki_ichika",
@@ -241,7 +328,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 52405
+      "bytes": 52405,
+      "name": "佑月いちか",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
     },
     {
       "masterId": "heroines_last_scene_amo_shiori",
@@ -249,7 +339,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 52734
+      "bytes": 52734,
+      "name": "天羽しおり",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
     },
     {
       "masterId": "heroines_last_scene_ayano_mona",
@@ -257,7 +350,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 45834
+      "bytes": 45834,
+      "name": "綾乃もな",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
     },
     {
       "masterId": "heroines_last_scene_misora_yun",
@@ -265,7 +361,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 46601
+      "bytes": 46601,
+      "name": "水空ゆん",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
     },
     {
       "masterId": "heroines_ilife_aisu",
@@ -273,7 +372,10 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 53530
+      "bytes": 53530,
+      "name": "あいす",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_fukumaru_usa",
@@ -281,7 +383,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 60740
+      "bytes": 60740,
+      "name": "福丸うさ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_koguma_mamu",
@@ -289,7 +394,10 @@
       "heightCm": 166,
       "width": 324,
       "height": 652,
-      "bytes": 65385
+      "bytes": 65385,
+      "name": "小熊まむ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_kohane_mini",
@@ -297,7 +405,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 52168
+      "bytes": 52168,
+      "name": "虹羽みに",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_konoka_riri",
@@ -305,7 +416,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 55331
+      "bytes": 55331,
+      "name": "心花りり",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_mamori_mew",
@@ -313,7 +427,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 65706
+      "bytes": 65706,
+      "name": "真守みゅう",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_sonata_karen",
@@ -321,7 +438,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 61366
+      "bytes": 61366,
+      "name": "空詩かれん",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_sumire_miki",
@@ -329,7 +449,10 @@
       "heightCm": 164,
       "width": 324,
       "height": 652,
-      "bytes": 58578
+      "bytes": 58578,
+      "name": "純嶺みき",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ilife_wakaba_noa",
@@ -337,7 +460,10 @@
       "heightCm": 164,
       "width": 324,
       "height": 652,
-      "bytes": 60699
+      "bytes": 60699,
+      "name": "若葉のあ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     },
     {
       "masterId": "heroines_ion_hakane_kono",
@@ -345,7 +471,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 53971
+      "bytes": 53971,
+      "name": "儚寧この",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_ion_hanamaru_peco",
@@ -353,7 +482,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 59694
+      "bytes": 59694,
+      "name": "花丸ぺこ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     },
     {
       "masterId": "heroines_nonfiction_aqua_marin",
@@ -361,7 +493,10 @@
       "heightCm": 156.5,
       "width": 324,
       "height": 652,
-      "bytes": 66432
+      "bytes": 66432,
+      "name": "海まりん",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_kouzuki_amu",
@@ -369,7 +504,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 58079
+      "bytes": 58079,
+      "name": "香月あむ",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_sato_milk_nonc2acfiction",
@@ -377,7 +515,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 66674
+      "bytes": 66674,
+      "name": "砂糖みるく",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_miori_niina",
@@ -385,7 +526,10 @@
       "heightCm": 164,
       "width": 324,
       "height": 652,
-      "bytes": 64319
+      "bytes": 64319,
+      "name": "澪織にいな",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_nagatsuki_touka",
@@ -393,7 +537,10 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 56852
+      "bytes": 56852,
+      "name": "永月十華",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_colne",
@@ -401,7 +548,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 62146
+      "bytes": 62146,
+      "name": "こるね",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_koeda_cocoa",
@@ -409,7 +559,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 60271
+      "bytes": 60271,
+      "name": "小枝ここあ",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_konose_haruka",
@@ -417,7 +570,10 @@
       "heightCm": 148,
       "width": 324,
       "height": 652,
-      "bytes": 69997
+      "bytes": 69997,
+      "name": "恋星はるか",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_nonfiction_minase_piano",
@@ -425,7 +581,10 @@
       "heightCm": 161,
       "width": 324,
       "height": 652,
-      "bytes": 62439
+      "bytes": 62439,
+      "name": "水瀬ぴあの",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     },
     {
       "masterId": "heroines_dress_code_momomiya_mimo",
@@ -433,7 +592,10 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 62497
+      "bytes": 62497,
+      "name": "百宮みも",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
     },
     {
       "masterId": "heroines_dress_code_otogi_rilum",
@@ -441,7 +603,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 56500
+      "bytes": 56500,
+      "name": "御伽りるむ",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
     },
     {
       "masterId": "heroines_dress_code_hayasaka_wamu",
@@ -449,7 +614,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 50626
+      "bytes": 50626,
+      "name": "早坂わむ",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
     },
     {
       "masterId": "heroines_dress_code_tsukino_anon",
@@ -457,7 +625,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 59760
+      "bytes": 59760,
+      "name": "月野あのん",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_akita_komachi",
@@ -465,7 +636,10 @@
       "heightCm": 146.5,
       "width": 324,
       "height": 652,
-      "bytes": 49353
+      "bytes": 49353,
+      "name": "秋田こまち",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_ninomae_ran",
@@ -473,7 +647,10 @@
       "heightCm": 150,
       "width": 324,
       "height": 652,
-      "bytes": 62720
+      "bytes": 62720,
+      "name": "一蘭",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_showe29886time",
@@ -481,7 +658,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 56148
+      "bytes": 56148,
+      "name": "ショー☆タイム",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_amasugi_apollo",
@@ -489,7 +669,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 48303
+      "bytes": 48303,
+      "name": "甘杉あぽろ",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_yubari_meron",
@@ -497,7 +680,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 50817
+      "bytes": 50817,
+      "name": "夕葉里めろん",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_harenochi_ame",
@@ -505,7 +691,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 53693
+      "bytes": 53693,
+      "name": "晴後あめ",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_ponkotsu_konpo_norimaki_uni",
@@ -513,7 +702,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 55168
+      "bytes": 55168,
+      "name": "海苔巻うに",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     },
     {
       "masterId": "heroines_chula_kagami_mirano",
@@ -521,7 +713,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 58575
+      "bytes": 58575,
+      "name": "明鏡みらの",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_chula_shirokami_level",
@@ -529,7 +724,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 63529
+      "bytes": 63529,
+      "name": "白神れべる",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_chula_seno_tsubasa",
@@ -537,7 +735,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 47529
+      "bytes": 47529,
+      "name": "世野つばさ",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_chula_hisaki_mio",
@@ -545,7 +746,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 61417
+      "bytes": 61417,
+      "name": "陽咲みお",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_chula_tsurara_rara",
@@ -553,7 +757,10 @@
       "heightCm": 164,
       "width": 324,
       "height": 652,
-      "bytes": 55705
+      "bytes": 55705,
+      "name": "紫藤らら",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_chula_mano_yuni",
@@ -561,7 +768,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 50163
+      "bytes": 50163,
+      "name": "茉野ゆに",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_chula_ameiro_ringo",
@@ -569,7 +779,10 @@
       "heightCm": 148,
       "width": 324,
       "height": 652,
-      "bytes": 60363
+      "bytes": 60363,
+      "name": "飴色りんご",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     },
     {
       "masterId": "heroines_paradeeq_yuzuriha_mikan",
@@ -577,7 +790,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 58289
+      "bytes": 58289,
+      "name": "楪みかん",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_araki_runo",
@@ -585,7 +801,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 56230
+      "bytes": 56230,
+      "name": "新木るの",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_kurusu_yuru",
@@ -593,7 +812,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 58319
+      "bytes": 58319,
+      "name": "来栖ゆる",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_hinazuki_hina",
@@ -601,7 +823,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 52296
+      "bytes": 52296,
+      "name": "雛月ひな",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_mizuno_mei",
@@ -609,7 +834,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 59910
+      "bytes": 59910,
+      "name": "水野めい",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_akarida_niji",
@@ -617,7 +845,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 53991
+      "bytes": 53991,
+      "name": "灯田にじ",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_hamabe_shizuku",
@@ -625,7 +856,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 61098
+      "bytes": 61098,
+      "name": "浜辺しずく",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_paradeeq_ouzora_chuin",
@@ -633,7 +867,10 @@
       "heightCm": 148,
       "width": 324,
       "height": 652,
-      "bytes": 57511
+      "bytes": 57511,
+      "name": "桜空ちゅいん",
+      "groupId": "heroines_paradeeq",
+      "groupName": "パラディーク"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_kumanomi_nimo",
@@ -641,7 +878,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 44202
+      "bytes": 44202,
+      "name": "熊ノ実にも",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_nagai_shiina",
@@ -649,7 +889,10 @@
       "heightCm": 148,
       "width": 324,
       "height": 652,
-      "bytes": 50557
+      "bytes": 50557,
+      "name": "長居しいな",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_eeno_nina",
@@ -657,7 +900,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 52489
+      "bytes": 52489,
+      "name": "笑乃にな",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_hanna_riko",
@@ -665,7 +911,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 54785
+      "bytes": 54785,
+      "name": "阪菜りこ",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_ion_maisen_ekubo",
@@ -673,7 +922,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 52503
+      "bytes": 52503,
+      "name": "苺川えくぼ",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_mizuta_mari_heroines",
@@ -681,7 +933,10 @@
       "heightCm": 167,
       "width": 324,
       "height": 652,
-      "bytes": 47482
+      "bytes": 47482,
+      "name": "水田茉莉",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_utage_tenka",
@@ -689,7 +944,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 53859
+      "bytes": 53859,
+      "name": "歌花てんか",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_nanakorobi_yaoki_setouchi_lemon",
@@ -697,7 +955,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 51016
+      "bytes": 51016,
+      "name": "瀬戸内れもん",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     },
     {
       "masterId": "heroines_ion_osu_kanon",
@@ -705,7 +966,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 59362
+      "bytes": 59362,
+      "name": "大須かのん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     },
     {
       "masterId": "heroines_tenshinranman_kotone_una",
@@ -713,7 +977,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 52203
+      "bytes": 52203,
+      "name": "琴音うな",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     },
     {
       "masterId": "heroines_tenshinranman_oda_koyun",
@@ -721,7 +988,10 @@
       "heightCm": 148.5,
       "width": 324,
       "height": 652,
-      "bytes": 55836
+      "bytes": 55836,
+      "name": "織田こゆん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     },
     {
       "masterId": "heroines_tenshinranman_ogura_azuki",
@@ -729,7 +999,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 66593
+      "bytes": 66593,
+      "name": "小倉あずき",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     },
     {
       "masterId": "heroines_tenshinranman_misono_sora",
@@ -737,7 +1010,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 52455
+      "bytes": 52455,
+      "name": "味園そら",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     },
     {
       "masterId": "heroines_tenshinranman_ebihara_ten_heroines",
@@ -745,7 +1021,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 56600
+      "bytes": 56600,
+      "name": "海老原てん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     },
     {
       "masterId": "heroines_haruka_echo_hirasawa_kae",
@@ -753,7 +1032,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 45284
+      "bytes": 45284,
+      "name": "平沢かえ",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
     },
     {
       "masterId": "heroines_haruka_echo_kousaka_rin",
@@ -761,7 +1043,10 @@
       "heightCm": 156.5,
       "width": 324,
       "height": 652,
-      "bytes": 42053
+      "bytes": 42053,
+      "name": "高坂りん",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
     },
     {
       "masterId": "heroines_haruka_echo_kannagi_mifuyu",
@@ -769,7 +1054,10 @@
       "heightCm": 154.5,
       "width": 324,
       "height": 652,
-      "bytes": 37832
+      "bytes": 37832,
+      "name": "神凪みふゆ",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
     },
     {
       "masterId": "heroines_haruka_echo_tokiwa_uta",
@@ -777,7 +1065,10 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 40864
+      "bytes": 40864,
+      "name": "常盤うた",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
     },
     {
       "masterId": "heroines_haruka_echo_amamiya_ruri",
@@ -785,7 +1076,10 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 43906
+      "bytes": 43906,
+      "name": "雨宮るり",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
     },
     {
       "masterId": "heroines_umekomachi_mentai_tarako",
@@ -793,7 +1087,10 @@
       "heightCm": 167,
       "width": 324,
       "height": 652,
-      "bytes": 69617
+      "bytes": 69617,
+      "name": "明太たらこ",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_deshima_minato",
@@ -801,7 +1098,10 @@
       "heightCm": 165,
       "width": 324,
       "height": 652,
-      "bytes": 46531
+      "bytes": 46531,
+      "name": "出島みなと",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_momochi_tsumugi",
@@ -809,7 +1109,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 56306
+      "bytes": 56306,
+      "name": "百道つむぎ",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_amaou_ichigo",
@@ -817,7 +1120,10 @@
       "heightCm": 161,
       "width": 324,
       "height": 652,
-      "bytes": 60952
+      "bytes": 60952,
+      "name": "甘桜いちご",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_chano_wakana",
@@ -825,7 +1131,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 52980
+      "bytes": 52980,
+      "name": "茶乃わかな",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_honjo_yukari",
@@ -833,7 +1142,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 48551
+      "bytes": 48551,
+      "name": "本城ゆかり",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_matsugae_anko",
@@ -841,7 +1153,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 58363
+      "bytes": 58363,
+      "name": "松ヶ枝あんこ",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_wakataka_nozomi",
@@ -849,7 +1164,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 51636
+      "bytes": 51636,
+      "name": "若鷹のぞみ",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_hakanabe_mochu",
@@ -857,7 +1175,10 @@
       "heightCm": 150,
       "width": 324,
       "height": 652,
-      "bytes": 49453
+      "bytes": 49453,
+      "name": "博鍋もちゅ",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_kotoori_mon",
@@ -865,7 +1186,10 @@
       "heightCm": 148,
       "width": 324,
       "height": 652,
-      "bytes": 58687
+      "bytes": 58687,
+      "name": "琴通もん",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_umekomachi_haruhi_non",
@@ -873,7 +1197,10 @@
       "heightCm": 146,
       "width": 324,
       "height": 652,
-      "bytes": 47897
+      "bytes": 47897,
+      "name": "春日のん",
+      "groupId": "heroines_umekomachi",
+      "groupName": "ウメコマチ"
     },
     {
       "masterId": "heroines_full_course_abe_nanami",
@@ -881,7 +1208,10 @@
       "heightCm": 171,
       "width": 324,
       "height": 652,
-      "bytes": 43643
+      "bytes": 43643,
+      "name": "阿部菜々実",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_full_course_suzuki_haruka",
@@ -889,7 +1219,10 @@
       "heightCm": 165,
       "width": 324,
       "height": 652,
-      "bytes": 43517
+      "bytes": 43517,
+      "name": "鈴木遥夏",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_full_course_mizukami_rimika",
@@ -897,7 +1230,10 @@
       "heightCm": 161,
       "width": 324,
       "height": 652,
-      "bytes": 52839
+      "bytes": 52839,
+      "name": "水上凜巳花",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_full_course_kaneshiro_maki",
@@ -905,7 +1241,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 45981
+      "bytes": 45981,
+      "name": "金城まき",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_full_course_osaki_mihane",
@@ -913,7 +1252,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 47153
+      "bytes": 47153,
+      "name": "桜咲みはね",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_full_course_konoha_cona",
@@ -921,7 +1263,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 45952
+      "bytes": 45952,
+      "name": "小葉こな",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_full_course_nakagawa_cocoro",
@@ -929,7 +1274,10 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 45541
+      "bytes": 45541,
+      "name": "中川心",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     },
     {
       "masterId": "heroines_nowstorage_nagase_reno",
@@ -937,7 +1285,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 57953
+      "bytes": 57953,
+      "name": "永瀬玲乃",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     },
     {
       "masterId": "heroines_nowstorage_sonoda_manon",
@@ -945,7 +1296,10 @@
       "heightCm": 164,
       "width": 324,
       "height": 652,
-      "bytes": 61226
+      "bytes": 61226,
+      "name": "園田まのん",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     },
     {
       "masterId": "heroines_nowstorage_hoshi_kohana",
@@ -953,7 +1307,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 49891
+      "bytes": 49891,
+      "name": "星心こはな",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     },
     {
       "masterId": "heroines_nowstorage_umiya_kiwami",
@@ -961,7 +1318,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 55341
+      "bytes": 55341,
+      "name": "羽宮きわみ",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     },
     {
       "masterId": "heroines_nowstorage_yuishiro_pure",
@@ -969,7 +1329,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 59870
+      "bytes": 59870,
+      "name": "結城ぴゅれ",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     },
     {
       "masterId": "heroines_nowstorage_haruno_sera",
@@ -977,7 +1340,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 66998
+      "bytes": 66998,
+      "name": "晴野せら",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     },
     {
       "masterId": "heroines_ladybaby_ochi_kino",
@@ -985,7 +1351,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 56740
+      "bytes": 56740,
+      "name": "越智きの",
+      "groupId": "heroines_ladybaby",
+      "groupName": "LADYBABY"
     },
     {
       "masterId": "heroines_ladybaby_kurusaki_sena",
@@ -993,7 +1362,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 51005
+      "bytes": 51005,
+      "name": "來崎せな",
+      "groupId": "heroines_ladybaby",
+      "groupName": "LADYBABY"
     },
     {
       "masterId": "heroines_ladybaby_tsukimachi_ei",
@@ -1001,7 +1373,10 @@
       "heightCm": 173,
       "width": 324,
       "height": 652,
-      "bytes": 47264
+      "bytes": 47264,
+      "name": "月街えい",
+      "groupId": "heroines_ladybaby",
+      "groupName": "LADYBABY"
     },
     {
       "masterId": "heroines_ladybaby_kanrei_mia",
@@ -1009,7 +1384,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 46834
+      "bytes": 46834,
+      "name": "神黎ミア",
+      "groupId": "heroines_ladybaby",
+      "groupName": "LADYBABY"
     },
     {
       "masterId": "heroines_akishibu_project_amakawa_hotaru",
@@ -1017,7 +1395,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 56475
+      "bytes": 56475,
+      "name": "天川ほたる",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_akishibu_project_kiyomi_run",
@@ -1025,7 +1406,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 64350
+      "bytes": 64350,
+      "name": "清見るん",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_akishibu_project_mikoto_manami",
@@ -1033,7 +1417,10 @@
       "heightCm": 168,
       "width": 324,
       "height": 652,
-      "bytes": 59057
+      "bytes": 59057,
+      "name": "水琴まなみ",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_akishibu_project_aoi_fuu_akishibu_project",
@@ -1041,7 +1428,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 53704
+      "bytes": 53704,
+      "name": "葵ふう",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_akishibu_project_matsui_rana",
@@ -1049,7 +1439,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 60922
+      "bytes": 60922,
+      "name": "茉井良菜",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_akishibu_project_kisaragi_nana",
@@ -1057,7 +1450,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 66537
+      "bytes": 66537,
+      "name": "如月なな",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_akishibu_project_yumesaki_arisa",
@@ -1065,7 +1461,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 58376
+      "bytes": 58376,
+      "name": "夢咲ありさ",
+      "groupId": "heroines_akishibu_project",
+      "groupName": "アキシブproject"
     },
     {
       "masterId": "heroines_calandres_yumeha_ruru",
@@ -1073,7 +1472,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 55099
+      "bytes": 55099,
+      "name": "夢羽るる",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_calandres_lime_neo",
@@ -1081,7 +1483,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 50196
+      "bytes": 50196,
+      "name": "来夢ねお",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_calandres_moegi_ririna",
@@ -1089,7 +1494,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 58346
+      "bytes": 58346,
+      "name": "萌木りりな",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_calandres_kujo_asuna",
@@ -1097,7 +1505,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 56001
+      "bytes": 56001,
+      "name": "九条あすな",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_calandres_fujimura_ayame",
@@ -1105,7 +1516,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 50095
+      "bytes": 50095,
+      "name": "藤邑あやめ",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_calandres_asumi_maaya",
@@ -1113,7 +1527,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 51107
+      "bytes": 51107,
+      "name": "明日実まあや",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_calandres_miyamoto_mii",
@@ -1121,7 +1538,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 62707
+      "bytes": 62707,
+      "name": "宮本みい",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     },
     {
       "masterId": "heroines_parallel_cider_anon_yuno",
@@ -1129,7 +1549,10 @@
       "heightCm": 146,
       "width": 324,
       "height": 652,
-      "bytes": 55651
+      "bytes": 55651,
+      "name": "彩音ゆの",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     },
     {
       "masterId": "heroines_parallel_cider_usami_ako",
@@ -1137,7 +1560,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 48002
+      "bytes": 48002,
+      "name": "宇佐美あこ",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     },
     {
       "masterId": "heroines_parallel_cider_segawa_natsuki",
@@ -1145,7 +1571,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 47843
+      "bytes": 47843,
+      "name": "瀬川なつき",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     },
     {
       "masterId": "heroines_parallel_cider_hazuki_mitsuha",
@@ -1153,7 +1582,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 47622
+      "bytes": 47622,
+      "name": "葉月みつは",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     },
     {
       "masterId": "heroines_parallel_cider_yuuki_ai",
@@ -1161,7 +1593,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 55624
+      "bytes": 55624,
+      "name": "小熊まな香",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     },
     {
       "masterId": "heroines_parallel_cider_kosaka_mion",
@@ -1169,7 +1604,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 58224
+      "bytes": 58224,
+      "name": "小坂みおん",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     },
     {
       "masterId": "heroines_tenrin_otose_alto",
@@ -1177,7 +1615,10 @@
       "heightCm": 170,
       "width": 324,
       "height": 652,
-      "bytes": 57594
+      "bytes": 57594,
+      "name": "音瀬歩兎",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_tokino_now",
@@ -1185,7 +1626,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 52466
+      "bytes": 52466,
+      "name": "刻乃なう",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_kasumi_ageha",
@@ -1193,7 +1637,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 53877
+      "bytes": 53877,
+      "name": "霞あげは",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_renge_urara",
@@ -1201,7 +1648,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 51221
+      "bytes": 51221,
+      "name": "蓮花うらら",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_nanase_nico",
@@ -1209,7 +1659,10 @@
       "heightCm": 153,
       "width": 324,
       "height": 652,
-      "bytes": 49204
+      "bytes": 49204,
+      "name": "七瀬にこ",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_shirasu_ayan",
@@ -1217,7 +1670,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 54104
+      "bytes": 54104,
+      "name": "白洲あやん",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_no_more_chacha",
@@ -1225,7 +1681,10 @@
       "heightCm": 154,
       "width": 324,
       "height": 652,
-      "bytes": 60972
+      "bytes": 60972,
+      "name": "のもあちゃちゃ",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_tenrin_amane_yua",
@@ -1233,7 +1692,10 @@
       "heightCm": 163,
       "width": 324,
       "height": 652,
-      "bytes": 52228
+      "bytes": 52228,
+      "name": "甘音ゆあ",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     },
     {
       "masterId": "heroines_adamlilith_miyako_yuna",
@@ -1241,7 +1703,10 @@
       "heightCm": 167,
       "width": 324,
       "height": 652,
-      "bytes": 65437
+      "bytes": 65437,
+      "name": "都ユナ",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
     },
     {
       "masterId": "heroines_adamlilith_otoha_rizu",
@@ -1249,7 +1714,10 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 52505
+      "bytes": 52505,
+      "name": "響羽リズ",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
     },
     {
       "masterId": "heroines_adamlilith_yayoi_yamu",
@@ -1257,7 +1725,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 63987
+      "bytes": 63987,
+      "name": "夜宵やむ",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
     },
     {
       "masterId": "heroines_adamlilith_miki_ray",
@@ -1265,7 +1736,10 @@
       "heightCm": 160,
       "width": 324,
       "height": 652,
-      "bytes": 56144
+      "bytes": 56144,
+      "name": "三木零",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
     },
     {
       "masterId": "heroines_gagapiero_amagami_mero",
@@ -1273,7 +1747,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 68224
+      "bytes": 68224,
+      "name": "甘神めろ",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_gagapiero_chigusa_chima",
@@ -1281,7 +1758,10 @@
       "heightCm": 158,
       "width": 324,
       "height": 652,
-      "bytes": 44298
+      "bytes": 44298,
+      "name": "千草ちま",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_gagapiero_hibiki_razu",
@@ -1289,7 +1769,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 47333
+      "bytes": 47333,
+      "name": "韻妃らず",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_gagapiero_tamashiro_mimi",
@@ -1297,7 +1780,10 @@
       "heightCm": 157,
       "width": 324,
       "height": 652,
-      "bytes": 56394
+      "bytes": 56394,
+      "name": "珠城みみ",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_gagapiero_fukamachi_akari",
@@ -1305,7 +1791,10 @@
       "heightCm": 155,
       "width": 324,
       "height": 652,
-      "bytes": 44536
+      "bytes": 44536,
+      "name": "深街あかり",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_gagapiero_mino_mariru",
@@ -1313,7 +1802,10 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 49150
+      "bytes": 49150,
+      "name": "澪祈まりる",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_gagapiero_akitsuki_emu",
@@ -1321,7 +1813,10 @@
       "heightCm": 170,
       "width": 324,
       "height": 652,
-      "bytes": 58113
+      "bytes": 58113,
+      "name": "秋月えむ",
+      "groupId": "heroines_gagapiero",
+      "groupName": "ガガピエロ"
     },
     {
       "masterId": "heroines_ill_shirayuki_himeno",
@@ -1329,7 +1824,10 @@
       "heightCm": 167,
       "width": 324,
       "height": 652,
-      "bytes": 56472
+      "bytes": 56472,
+      "name": "白雪姫乃",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
     },
     {
       "masterId": "heroines_ill_mori_marimo",
@@ -1337,7 +1835,10 @@
       "heightCm": 168,
       "width": 324,
       "height": 652,
-      "bytes": 50296
+      "bytes": 50296,
+      "name": "森緑藻",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
     },
     {
       "masterId": "heroines_ill_shikino_shiki",
@@ -1345,7 +1846,10 @@
       "heightCm": 159,
       "width": 324,
       "height": 652,
-      "bytes": 52906
+      "bytes": 52906,
+      "name": "紫ノ色",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
     },
     {
       "masterId": "heroines_ill_aoi_kanau",
@@ -1353,7 +1857,10 @@
       "heightCm": 162,
       "width": 324,
       "height": 652,
-      "bytes": 46240
+      "bytes": 46240,
+      "name": "蒼井叶",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
     }
   ]
 }

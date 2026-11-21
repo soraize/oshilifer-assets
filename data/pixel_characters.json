@@ -1122,6 +1122,54 @@
       "width": 324,
       "height": 652,
       "bytes": 62707
+    },
+    {
+      "masterId": "heroines_parallel_cider_anon_yuno",
+      "file": "images/pixel/heroines_parallel_cider_anon_yuno.png",
+      "heightCm": 146,
+      "width": 324,
+      "height": 652,
+      "bytes": 55651
+    },
+    {
+      "masterId": "heroines_parallel_cider_usami_ako",
+      "file": "images/pixel/heroines_parallel_cider_usami_ako.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 48002
+    },
+    {
+      "masterId": "heroines_parallel_cider_segawa_natsuki",
+      "file": "images/pixel/heroines_parallel_cider_segawa_natsuki.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 47843
+    },
+    {
+      "masterId": "heroines_parallel_cider_hazuki_mitsuha",
+      "file": "images/pixel/heroines_parallel_cider_hazuki_mitsuha.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 47622
+    },
+    {
+      "masterId": "heroines_parallel_cider_yuuki_ai",
+      "file": "images/pixel/heroines_parallel_cider_yuuki_ai.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 55624
+    },
+    {
+      "masterId": "heroines_parallel_cider_kosaka_mion",
+      "file": "images/pixel/heroines_parallel_cider_kosaka_mion.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 58224
     }
   ]
 }

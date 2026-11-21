@@ -978,6 +978,38 @@
       "width": 324,
       "height": 652,
       "bytes": 66998
+    },
+    {
+      "masterId": "heroines_ladybaby_ochi_kino",
+      "file": "images/pixel/heroines_ladybaby_ochi_kino.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 56740
+    },
+    {
+      "masterId": "heroines_ladybaby_kurusaki_sena",
+      "file": "images/pixel/heroines_ladybaby_kurusaki_sena.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 51005
+    },
+    {
+      "masterId": "heroines_ladybaby_tsukimachi_ei",
+      "file": "images/pixel/heroines_ladybaby_tsukimachi_ei.png",
+      "heightCm": 173,
+      "width": 324,
+      "height": 652,
+      "bytes": 47264
+    },
+    {
+      "masterId": "heroines_ladybaby_kanrei_mia",
+      "file": "images/pixel/heroines_ladybaby_kanrei_mia.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 46834
     }
   ]
 }

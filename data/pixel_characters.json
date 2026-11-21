@@ -634,6 +634,70 @@
       "width": 324,
       "height": 652,
       "bytes": 57511
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_kumanomi_nimo",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_kumanomi_nimo.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 44202
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_nagai_shiina",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_nagai_shiina.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 50557
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_eeno_nina",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_eeno_nina.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 52489
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_hanna_riko",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_hanna_riko.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 54785
+    },
+    {
+      "masterId": "heroines_ion_maisen_ekubo",
+      "file": "images/pixel/heroines_ion_maisen_ekubo.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 52503
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_mizuta_mari_heroines",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_mizuta_mari_heroines.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 47482
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_utage_tenka",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_utage_tenka.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 53859
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_setouchi_lemon",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_setouchi_lemon.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 51016
     }
   ]
 }

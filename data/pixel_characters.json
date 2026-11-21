@@ -1861,6 +1861,94 @@
       "name": "蒼井叶",
       "groupId": "heroines_ill",
       "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_futeko",
+      "file": "images/pixel/heroines_yakousei_amuse_futeko.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 46725,
+      "name": "ふてこ",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_minamo_shuru",
+      "file": "images/pixel/heroines_yakousei_amuse_minamo_shuru.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 57406,
+      "name": "水萌しゅる",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_inori_maria",
+      "file": "images/pixel/heroines_yakousei_amuse_inori_maria.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 49202,
+      "name": "月祈まりあ",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kotone_furiru",
+      "file": "images/pixel/heroines_yakousei_amuse_kotone_furiru.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 51187,
+      "name": "琴音ふりる",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kusumoto_miho",
+      "file": "images/pixel/heroines_yakousei_amuse_kusumoto_miho.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 55539,
+      "name": "みぽたぽた",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_hakuu_coai",
+      "file": "images/pixel/heroines_yakousei_amuse_hakuu_coai.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 64142,
+      "name": "白空こあい",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kobayashi_rina",
+      "file": "images/pixel/heroines_yakousei_amuse_kobayashi_rina.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 58837,
+      "name": "炎谷莉奈",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kokoro_kyun",
+      "file": "images/pixel/heroines_yakousei_amuse_kokoro_kyun.png",
+      "heightCm": 165,
+      "width": 324,
+      "height": 652,
+      "bytes": 58705,
+      "name": "心恋きゅん",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
     }
   ]
 }

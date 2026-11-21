@@ -1170,6 +1170,70 @@
       "width": 324,
       "height": 652,
       "bytes": 58224
+    },
+    {
+      "masterId": "heroines_tenrin_otose_alto",
+      "file": "images/pixel/heroines_tenrin_otose_alto.png",
+      "heightCm": 170,
+      "width": 324,
+      "height": 652,
+      "bytes": 57594
+    },
+    {
+      "masterId": "heroines_tenrin_tokino_now",
+      "file": "images/pixel/heroines_tenrin_tokino_now.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 52466
+    },
+    {
+      "masterId": "heroines_tenrin_kasumi_ageha",
+      "file": "images/pixel/heroines_tenrin_kasumi_ageha.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 53877
+    },
+    {
+      "masterId": "heroines_tenrin_renge_urara",
+      "file": "images/pixel/heroines_tenrin_renge_urara.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 51221
+    },
+    {
+      "masterId": "heroines_tenrin_nanase_nico",
+      "file": "images/pixel/heroines_tenrin_nanase_nico.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 49204
+    },
+    {
+      "masterId": "heroines_tenrin_shirasu_ayan",
+      "file": "images/pixel/heroines_tenrin_shirasu_ayan.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 54104
+    },
+    {
+      "masterId": "heroines_tenrin_no_more_chacha",
+      "file": "images/pixel/heroines_tenrin_no_more_chacha.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 60972
+    },
+    {
+      "masterId": "heroines_tenrin_amane_yua",
+      "file": "images/pixel/heroines_tenrin_amane_yua.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 52228
     }
   ]
 }

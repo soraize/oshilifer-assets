@@ -930,6 +930,54 @@
       "width": 324,
       "height": 652,
       "bytes": 45541
+    },
+    {
+      "masterId": "heroines_nowstorage_nagase_reno",
+      "file": "images/pixel/heroines_nowstorage_nagase_reno.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 57953
+    },
+    {
+      "masterId": "heroines_nowstorage_sonoda_manon",
+      "file": "images/pixel/heroines_nowstorage_sonoda_manon.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 61226
+    },
+    {
+      "masterId": "heroines_nowstorage_hoshi_kohana",
+      "file": "images/pixel/heroines_nowstorage_hoshi_kohana.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 49891
+    },
+    {
+      "masterId": "heroines_nowstorage_umiya_kiwami",
+      "file": "images/pixel/heroines_nowstorage_umiya_kiwami.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 55341
+    },
+    {
+      "masterId": "heroines_nowstorage_yuishiro_pure",
+      "file": "images/pixel/heroines_nowstorage_yuishiro_pure.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 59870
+    },
+    {
+      "masterId": "heroines_nowstorage_haruno_sera",
+      "file": "images/pixel/heroines_nowstorage_haruno_sera.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 66998
     }
   ]
 }

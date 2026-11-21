@@ -1010,6 +1010,62 @@
       "width": 324,
       "height": 652,
       "bytes": 46834
+    },
+    {
+      "masterId": "heroines_akishibu_project_amakawa_hotaru",
+      "file": "images/pixel/heroines_akishibu_project_amakawa_hotaru.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 56475
+    },
+    {
+      "masterId": "heroines_akishibu_project_kiyomi_run",
+      "file": "images/pixel/heroines_akishibu_project_kiyomi_run.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 64350
+    },
+    {
+      "masterId": "heroines_akishibu_project_mikoto_manami",
+      "file": "images/pixel/heroines_akishibu_project_mikoto_manami.png",
+      "heightCm": 168,
+      "width": 324,
+      "height": 652,
+      "bytes": 59057
+    },
+    {
+      "masterId": "heroines_akishibu_project_aoi_fuu_akishibu_project",
+      "file": "images/pixel/heroines_akishibu_project_aoi_fuu_akishibu_project.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 53704
+    },
+    {
+      "masterId": "heroines_akishibu_project_matsui_rana",
+      "file": "images/pixel/heroines_akishibu_project_matsui_rana.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 60922
+    },
+    {
+      "masterId": "heroines_akishibu_project_kisaragi_nana",
+      "file": "images/pixel/heroines_akishibu_project_kisaragi_nana.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 66537
+    },
+    {
+      "masterId": "heroines_akishibu_project_yumesaki_arisa",
+      "file": "images/pixel/heroines_akishibu_project_yumesaki_arisa.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 58376
     }
   ]
 }

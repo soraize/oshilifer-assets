@@ -2389,6 +2389,17 @@
       "name": "心咲みらい",
       "groupId": "heroines_unfil",
       "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_chula_hamachi_hiyo",
+      "file": "images/pixel/heroines_chula_hamachi_hiyo.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 38920,
+      "name": "はまちひよ",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     }
   ]
 }

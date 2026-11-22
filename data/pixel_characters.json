@@ -2059,6 +2059,149 @@
       "name": "望月みら",
       "groupId": "heroines_zuttomotto",
       "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_enokawa_coco",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_enokawa_coco.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 51378,
+      "name": "可愛川ここ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_arima_neon",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_arima_neon.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 60681,
+      "name": "有舞ねおん",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_koume_chiro",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_koume_chiro.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 46292,
+      "name": "小梅ちろ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_narukami_vivi",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_narukami_vivi.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 57154,
+      "name": "鳴雷びび",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_aisaka_merumu",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_aisaka_merumu.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 53254,
+      "name": "逢坂めるむ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_konami_koyu",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_konami_koyu.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 51353,
+      "name": "小菜実こゆ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_shiratori_china",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_shiratori_china.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 63836,
+      "name": "白鳥ちな",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_meno_riria",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_meno_riria.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 48349,
+      "name": "芽野りりあ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_shiraishi_ayu",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_shiraishi_ayu.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 49306,
+      "name": "白石あゆ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_ayase_meme",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_ayase_meme.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 59330,
+      "name": "綾瀬めめ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_hanamori_pino",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_hanamori_pino.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 52046,
+      "name": "花森ぴの",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_hirose_rimu",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_hirose_rimu.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 51301,
+      "name": "広瀬りむ",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_yano_himari",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_yano_himari.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 60175,
+      "name": "矢乃ひまり",
+      "groupId": "heroines_heroines_kenkyuusei",
+      "groupName": "ヒロインズ研究生"
     }
   ]
 }

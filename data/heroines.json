@@ -2384,27 +2384,6 @@
           }
         },
         {
-          "uuid": "6CDB35C0-C579-4382-AE55-46BBA337D4E5",
-          "masterId": "heroines_heroines_kenkyuusei_asahi_maru",
-          "name": "朝日まる",
-          "mbti": "INFP",
-          "profileURL": null,
-          "isGraduated": false,
-          "colorHex": [
-            "#0000FF"
-          ],
-          "birthday": "11-08",
-          "sns": {
-            "twitter": "https://x.com/maru_heroines",
-            "instagram": null,
-            "tiktok": "https://www.tiktok.com/@maru_heroines"
-          },
-          "joinDate": "2026-04-24",
-          "formerGroups": [
-            "ヒロインズ研究生"
-          ]
-        },
-        {
           "uuid": "19927F9C-BEB5-489F-8D52-40F39AF13900",
           "masterId": "heroines_paradeeq_kurusu_yuru",
           "name": "来栖ゆる",
@@ -5052,6 +5031,147 @@
       ],
       "formationDate": "2023-01-14",
       "debutDate": "2023-01-31"
+    },
+    {
+      "uuid": "74D477E3-6D18-495B-A5B9-9A2A61BB8AA1",
+      "masterId": "heroines_unfil",
+      "name": "あんふぃる！",
+      "isActive": true,
+      "profileURL": "https://jpop.fandom.com/wiki/Unfilter!",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "website": null,
+        "twitter": "https://x.com/unfil_idol",
+        "instagram": null,
+        "tiktok": "https://www.tiktok.com/@unfil_idol",
+        "youtube": null
+      },
+      "members": [
+        {
+          "uuid": "DA9F04EF-AE5E-49C2-8588-283974EF6243",
+          "masterId": "heroines_unfil_tateshiro_rui",
+          "name": "館城るい",
+          "mbti": "ENFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#8A2BE2"],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/Rui_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@rui_unfil"
+          },
+          "joinDate": "2026-11-15"
+        },
+        {
+          "uuid": "948EACD2-DCE7-4DA7-8402-6775D1F13304",
+          "masterId": "heroines_unfil_menegi_nayu",
+          "name": "愛葱なゆ",
+          "mbti": "ENFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#00B050"],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/Nayu_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@nayu_unfil"
+          },
+          "joinDate": "2026-11-16"
+        },
+        {
+          "uuid": "2EC56A24-1999-4048-958F-78982EDDA112",
+          "masterId": "heroines_unfil_kanmochi_mieru",
+          "name": "甘餅みえる",
+          "mbti": null,
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FFFFFF"],
+          "birthday": "09-11",
+          "sns": {
+            "twitter": "https://x.com/Mieru_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@mieru_unfil"
+          },
+          "joinDate": "2026-11-17",
+          "formerGroups": [
+            "Zero Project",
+            "Polalight"
+          ]
+        },
+        {
+          "uuid": "54BA7706-A565-4221-966F-A520E870EEE2",
+          "masterId": "heroines_unfil_sutera_karin",
+          "name": "星鈴かりん",
+          "mbti": "ESFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FFE53D"],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/Karin_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@karin_unfil"
+          },
+          "joinDate": "2026-11-18"
+        },
+        {
+          "uuid": "FAA8270B-AE7B-4B21-B502-0214353A140A",
+          "masterId": "heroines_unfil_usagi_meyu",
+          "name": "兎嬉めゆ",
+          "mbti": "ESFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#FF69B4"],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/Meyu_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@meyu_unfil"
+          },
+          "joinDate": "2026-11-19"
+        },
+        {
+          "uuid": "05AD9707-0FAC-4178-A831-6A57C6BE6E4B",
+          "masterId": "heroines_unfil_konosaki_mirai",
+          "name": "心咲みらい",
+          "mbti": "ENFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": ["#1E90FF"],
+          "birthday": null,
+          "sns": {
+            "twitter": "https://x.com/Mirai_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@mirai_unfil"
+          },
+          "joinDate": "2026-11-20"
+        },
+        {
+          "uuid": "6CDB35C0-C579-4382-AE55-46BBA337D4E5",
+          "masterId": "heroines_unfil_asahi_maru",
+          "name": "朝日まる",
+          "mbti": "INFP",
+          "profileURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "11-08",
+          "sns": {
+            "twitter": "https://x.com/Asahi_unfil",
+            "instagram": null,
+            "tiktok": "https://www.tiktok.com/@maru_unfil"
+          },
+          "joinDate": "2026-11-21",
+          "formerGroups": [
+            "ヒロインズ研究生"
+          ]
+        }
+      ],
+      "formationDate": "2026-11-14",
+      "debutDate": "2026-11-25"
     }
   ]
 }

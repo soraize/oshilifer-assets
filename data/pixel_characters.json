@@ -2598,6 +2598,17 @@
       "name": "若葉のあ",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_aisu__4",
+      "file": "images/pixel/heroines_ilife_aisu__4.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 59426,
+      "name": "あいす",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

@@ -2312,6 +2312,83 @@
       "name": "桃谷りの",
       "groupId": "heroines_heroines_kenkyuusei_osaka",
       "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_unfil_usagi_meyu",
+      "file": "images/pixel/heroines_unfil_usagi_meyu.png",
+      "heightCm": 165,
+      "width": 324,
+      "height": 652,
+      "bytes": 52022,
+      "name": "兎嬉めゆ",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_unfil_sutera_karin",
+      "file": "images/pixel/heroines_unfil_sutera_karin.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 49932,
+      "name": "星鈴かりん",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_unfil_kanmochi_mieru",
+      "file": "images/pixel/heroines_unfil_kanmochi_mieru.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 45381,
+      "name": "甘餅みえる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_unfil_menegi_nayu",
+      "file": "images/pixel/heroines_unfil_menegi_nayu.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 48702,
+      "name": "愛葱なゆ",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_unfil_tateshiro_rui",
+      "file": "images/pixel/heroines_unfil_tateshiro_rui.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 51338,
+      "name": "館城るい",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_asahi_maru",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_asahi_maru.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 44266,
+      "name": "朝日まる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_unfil_konosaki_mirai",
+      "file": "images/pixel/heroines_unfil_konosaki_mirai.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 49181,
+      "name": "心咲みらい",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
     }
   ]
 }

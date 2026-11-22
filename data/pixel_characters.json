@@ -2202,6 +2202,116 @@
       "name": "矢乃ひまり",
       "groupId": "heroines_heroines_kenkyuusei",
       "groupName": "ヒロインズ研究生"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_fuwa_fuwari",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_fuwa_fuwari.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 55330,
+      "name": "不破ふわり",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_kohanai_hao",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_kohanai_hao.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 40234,
+      "name": "小花衣はお",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_kitahama_sofuto",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_kitahama_sofuto.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 45870,
+      "name": "北浜そふと",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_yasuragi_ito",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_yasuragi_ito.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 44316,
+      "name": "安良城いと",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_emado_rii",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_emado_rii.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 38734,
+      "name": "笑門りい",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_chidori_moe",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_chidori_moe.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 45146,
+      "name": "千鳥もえ",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_shiomi_rau",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_shiomi_rau.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 43231,
+      "name": "汐見らう",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_midousuji_piko",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_midousuji_piko.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 45912,
+      "name": "御堂筋ぴこ",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_shikano_konaho",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_shikano_konaho.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 46462,
+      "name": "鹿野こなほ",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_osaka_momotani_rino",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_osaka_momotani_rino.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 45320,
+      "name": "桃谷りの",
+      "groupId": "heroines_heroines_kenkyuusei_osaka",
+      "groupName": "ヒロインズ研究生大阪"
     }
   ]
 }

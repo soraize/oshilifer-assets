@@ -2499,6 +2499,105 @@
       "name": "若葉のあ",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_aisu__3",
+      "file": "images/pixel/heroines_ilife_aisu__3.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 50151,
+      "name": "あいす",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_fukumaru_usa__3",
+      "file": "images/pixel/heroines_ilife_fukumaru_usa__3.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 49746,
+      "name": "福丸うさ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_koguma_mamu__3",
+      "file": "images/pixel/heroines_ilife_koguma_mamu__3.png",
+      "heightCm": 166,
+      "width": 324,
+      "height": 652,
+      "bytes": 51443,
+      "name": "小熊まむ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_kohane_mini__3",
+      "file": "images/pixel/heroines_ilife_kohane_mini__3.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 46315,
+      "name": "虹羽みに",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_konoka_riri__3",
+      "file": "images/pixel/heroines_ilife_konoka_riri__3.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 50059,
+      "name": "心花りり",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_mamori_mew__3",
+      "file": "images/pixel/heroines_ilife_mamori_mew__3.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 55203,
+      "name": "真守みゅう",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_sonata_karen__3",
+      "file": "images/pixel/heroines_ilife_sonata_karen__3.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 43872,
+      "name": "空詩かれん",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_sumire_miki__3",
+      "file": "images/pixel/heroines_ilife_sumire_miki__3.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 42931,
+      "name": "純嶺みき",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_wakaba_noa__3",
+      "file": "images/pixel/heroines_ilife_wakaba_noa__3.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 49142,
+      "name": "若葉のあ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

@@ -1949,6 +1949,116 @@
       "name": "心恋きゅん",
       "groupId": "heroines_yakousei_amuse",
       "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_zuttomotto_kobeni_yuzu",
+      "file": "images/pixel/heroines_zuttomotto_kobeni_yuzu.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 45393,
+      "name": "小紅ゆず",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_manatsu_hinata",
+      "file": "images/pixel/heroines_zuttomotto_manatsu_hinata.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 44264,
+      "name": "愛夏ひなた",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_shiina_suzu",
+      "file": "images/pixel/heroines_zuttomotto_shiina_suzu.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 47993,
+      "name": "椎名すず",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_aoba_waka",
+      "file": "images/pixel/heroines_zuttomotto_aoba_waka.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 46182,
+      "name": "青羽わか",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_mikumo_mitsuki",
+      "file": "images/pixel/heroines_zuttomotto_mikumo_mitsuki.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 44621,
+      "name": "美雲みつき",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_kamiya_hinano",
+      "file": "images/pixel/heroines_zuttomotto_kamiya_hinano.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 46980,
+      "name": "神谷ひなの",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_masora_seira",
+      "file": "images/pixel/heroines_zuttomotto_masora_seira.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 45280,
+      "name": "真空せいら",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_shikimori_kurumi",
+      "file": "images/pixel/heroines_zuttomotto_shikimori_kurumi.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 43098,
+      "name": "式守くるみ",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_shinomiya_elu",
+      "file": "images/pixel/heroines_zuttomotto_shinomiya_elu.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 45346,
+      "name": "四宮える",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_zuttomotto_mochizuki_mira",
+      "file": "images/pixel/heroines_zuttomotto_mochizuki_mira.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 47688,
+      "name": "望月みら",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
     }
   ]
 }

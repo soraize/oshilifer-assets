@@ -962,6 +962,112 @@
           }
         }
       ]
+    },
+    {
+      "uuid": "79414810-8789-4815-9A21-58C2F3707BF7",
+      "masterId": "jpop_rock_dennou_himeca",
+      "appleMusicArtistId": "1601777415",
+      "name": "電脳ヒメカ",
+      "isActive": true,
+      "profileURL": "https://dennou-himeca.com/profile",
+      "colorHex": null,
+      "birthday": null,
+      "sns": {
+        "twitter": "https://x.com/dennou_himeca",
+        "instagram": "https://www.instagram.com/dennou_himeca/",
+        "tiktok": "https://www.tiktok.com/@dennou_himeca"
+      },
+      "timeTreeURL": "https://timetreeapp.com/public_calendars/dennou_himeca",
+      "timeTreeLabel": null,
+      "scheduleURL": "https://dennou-himeca.com/schedule/schedule/",
+      "members": [
+        {
+          "uuid": "6265A00F-E1C1-4DAC-A327-13774BD72DE9",
+          "masterId": "jpop_rock_dennou_himeca_gaku",
+          "name": "楽",
+          "profileURL": "https://dennou-himeca.com/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF0000"
+          ],
+          "birthday": "03-24",
+          "sns": {
+            "twitter": "https://x.com/dennou_gaku",
+            "instagram": "https://www.instagram.com/gakuun0324/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "DCE0ED63-8EA5-4BEE-9C77-77FF254BF2F8",
+          "masterId": "jpop_rock_dennou_himeca_meno",
+          "name": "毒牙メノ",
+          "profileURL": "https://dennou-himeca.com/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#8A2BE2"
+          ],
+          "birthday": "02-18",
+          "sns": {
+            "twitter": "https://x.com/dennou_meno",
+            "instagram": "https://www.instagram.com/dennou_meno/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "05FE64F9-AD9E-47E1-A0B8-28F1DB4B2416",
+          "masterId": "jpop_rock_dennou_himeca_aoi",
+          "name": "越路屋 葵",
+          "profileURL": "https://dennou-himeca.com/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#1E90FF"
+          ],
+          "birthday": "11-11",
+          "sns": {
+            "twitter": "https://x.com/dennou_aoi",
+            "instagram": "https://www.instagram.com/dennou_aoi/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "2E3108D1-D29B-4F25-8DC3-A2CFFE90E1F5",
+          "masterId": "jpop_rock_dennou_himeca_urara",
+          "name": "うらら",
+          "profileURL": "https://dennou-himeca.com/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FF69B4"
+          ],
+          "birthday": "02-10",
+          "sns": {
+            "twitter": "https://x.com/dennou_urara",
+            "instagram": "https://www.instagram.com/drum_urara/",
+            "tiktok": null
+          }
+        },
+        {
+          "uuid": "F167DE2D-CF5D-429E-BE7E-0629A6439DC3",
+          "masterId": "jpop_rock_dennou_himeca_naochi",
+          "name": "NAOCHI",
+          "profileURL": "https://dennou-himeca.com/profile",
+          "scheduleURL": null,
+          "isGraduated": false,
+          "colorHex": [
+            "#FFFFFF"
+          ],
+          "birthday": "04-01",
+          "sns": {
+            "twitter": "https://x.com/dennou_naochi",
+            "instagram": "https://www.instagram.com/naoyn9215/",
+            "tiktok": null
+          }
+        }
+      ],
+      "formationDate": "2022-10-26"
     }
   ]
 }

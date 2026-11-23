@@ -53,7 +53,7 @@
       "heightCm": 156,
       "width": 324,
       "height": 652,
-      "bytes": 57036,
+      "bytes": 57330,
       "name": "名雲めんま",
       "groupId": "heroines_ion",
       "groupName": "iON!"
@@ -3420,6 +3420,72 @@
       "width": 324,
       "height": 652,
       "bytes": 47280,
+      "name": "栗栖むぎ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_uno_yuri__4",
+      "file": "images/pixel/heroines_ion_uno_yuri__4.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 51389,
+      "name": "宇野ゆり",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_hanamaru_peco__4",
+      "file": "images/pixel/heroines_ion_hanamaru_peco__4.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 55109,
+      "name": "花丸ぺこ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_hakane_kono__4",
+      "file": "images/pixel/heroines_ion_hakane_kono__4.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 54313,
+      "name": "儚寧この",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_kaguya_kurara__4",
+      "file": "images/pixel/heroines_ion_kaguya_kurara__4.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 46650,
+      "name": "伽久耶くらら",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_suzumiya_rise__4",
+      "file": "images/pixel/heroines_ion_suzumiya_rise__4.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 52794,
+      "name": "鈴都りせ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_kurisu_mugi__4",
+      "file": "images/pixel/heroines_ion_kurisu_mugi__4.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 47271,
       "name": "栗栖むぎ",
       "groupId": "heroines_ion",
       "groupName": "iON!"

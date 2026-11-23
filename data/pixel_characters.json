@@ -3126,6 +3126,50 @@
       "name": "心花りり",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_nonfiction_konose_haruka__101",
+      "file": "images/pixel/heroines_nonfiction_konose_haruka__101.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 46253,
+      "name": "恋星はるか",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_konose_haruka__102",
+      "file": "images/pixel/heroines_nonfiction_konose_haruka__102.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 51057,
+      "name": "恋星はるか",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_konose_haruka__103",
+      "file": "images/pixel/heroines_nonfiction_konose_haruka__103.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 52634,
+      "name": "恋星はるか",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_colne__100",
+      "file": "images/pixel/heroines_nonfiction_colne__100.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 51863,
+      "name": "こるね",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     }
   ]
 }

@@ -3225,6 +3225,17 @@
       "name": "心花りり",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_nonfiction_colne__101",
+      "file": "images/pixel/heroines_nonfiction_colne__101.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 46840,
+      "name": "こるね",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     }
   ]
 }

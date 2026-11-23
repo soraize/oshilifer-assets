@@ -3236,6 +3236,105 @@
       "name": "こるね",
       "groupId": "heroines_nonfiction",
       "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_ion_uno_yuri__2",
+      "file": "images/pixel/heroines_ion_uno_yuri__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 47579,
+      "name": "宇野ゆり",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_kohina_little__2",
+      "file": "images/pixel/heroines_ion_kohina_little__2.png",
+      "heightCm": 146,
+      "width": 324,
+      "height": 652,
+      "bytes": 44183,
+      "name": "小雛りとる",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_tomari_kuria__2",
+      "file": "images/pixel/heroines_ion_tomari_kuria__2.png",
+      "heightCm": 170,
+      "width": 324,
+      "height": 652,
+      "bytes": 47251,
+      "name": "透明くりあ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_hanamaru_peco__2",
+      "file": "images/pixel/heroines_ion_hanamaru_peco__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 52763,
+      "name": "花丸ぺこ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_hakane_kono__2",
+      "file": "images/pixel/heroines_ion_hakane_kono__2.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 41985,
+      "name": "儚寧この",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_kaguya_kurara__2",
+      "file": "images/pixel/heroines_ion_kaguya_kurara__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 43492,
+      "name": "伽久耶くらら",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_nakumo_menma__2",
+      "file": "images/pixel/heroines_ion_nakumo_menma__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 41286,
+      "name": "名雲めんま",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_suzumiya_rise__2",
+      "file": "images/pixel/heroines_ion_suzumiya_rise__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 43890,
+      "name": "鈴都りせ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_kurisu_mugi__2",
+      "file": "images/pixel/heroines_ion_kurisu_mugi__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 45874,
+      "name": "栗栖むぎ",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     }
   ]
 }

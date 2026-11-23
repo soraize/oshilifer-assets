@@ -31,7 +31,7 @@
       "heightCm": 146,
       "width": 324,
       "height": 652,
-      "bytes": 51244,
+      "bytes": 44183,
       "name": "小雛りとる",
       "groupId": "heroines_ion",
       "groupName": "iON!"
@@ -3245,17 +3245,6 @@
       "height": 652,
       "bytes": 47579,
       "name": "宇野ゆり",
-      "groupId": "heroines_ion",
-      "groupName": "iON!"
-    },
-    {
-      "masterId": "heroines_ion_kohina_little__2",
-      "file": "images/pixel/heroines_ion_kohina_little__2.png",
-      "heightCm": 146,
-      "width": 324,
-      "height": 652,
-      "bytes": 44183,
-      "name": "小雛りとる",
       "groupId": "heroines_ion",
       "groupName": "iON!"
     },

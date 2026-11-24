@@ -3863,6 +3863,83 @@
       "name": "古賀みれい",
       "groupId": "heroines_last_scene",
       "groupName": "ラストシーン"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_norimaki_uni__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_norimaki_uni__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 48350,
+      "name": "海苔巻うに",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_yubari_meron__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_yubari_meron__2.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 50595,
+      "name": "夕葉里めろん",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_showe29886time__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_showe29886time__2.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 56240,
+      "name": "ショー☆タイム",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_harenochi_ame__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_harenochi_ame__2.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 42605,
+      "name": "晴後あめ",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_amasugi_apollo__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_amasugi_apollo__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 51457,
+      "name": "甘杉あぽろ",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_ninomae_ran__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_ninomae_ran__2.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 41839,
+      "name": "一蘭",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_akita_komachi__2",
+      "file": "images/pixel/heroines_ponkotsu_konpo_akita_komachi__2.png",
+      "heightCm": 146.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 50428,
+      "name": "秋田こまち",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     }
   ]
 }

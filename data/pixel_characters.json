@@ -4116,6 +4116,83 @@
       "name": "柑乃あい",
       "groupId": "heroines_pastel_closet",
       "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_futeko__2",
+      "file": "images/pixel/heroines_yakousei_amuse_futeko__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 44823,
+      "name": "ふてこ",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kobayashi_rina__2",
+      "file": "images/pixel/heroines_yakousei_amuse_kobayashi_rina__2.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 46891,
+      "name": "炎谷莉奈",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kusumoto_miho__2",
+      "file": "images/pixel/heroines_yakousei_amuse_kusumoto_miho__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 41606,
+      "name": "みぽたぽた",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kotone_furiru__2",
+      "file": "images/pixel/heroines_yakousei_amuse_kotone_furiru__2.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 45156,
+      "name": "琴音ふりる",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_hakuu_coai__2",
+      "file": "images/pixel/heroines_yakousei_amuse_hakuu_coai__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 59452,
+      "name": "白空こあい",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_kotone_furiru__100",
+      "file": "images/pixel/heroines_yakousei_amuse_kotone_furiru__100.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 44894,
+      "name": "琴音ふりる",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_yakousei_amuse_minamo_shuru__2",
+      "file": "images/pixel/heroines_yakousei_amuse_minamo_shuru__2.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 48488,
+      "name": "水萌しゅる",
+      "groupId": "heroines_yakousei_amuse",
+      "groupName": "夜光性アミューズ"
     }
   ]
 }

@@ -3632,6 +3632,72 @@
       "name": "栗栖むぎ",
       "groupId": "heroines_ion",
       "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_megafon_wakumo_roko__2",
+      "file": "images/pixel/heroines_megafon_wakumo_roko__2.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 45325,
+      "name": "羽雲ろこ",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_ramune_iroha__2",
+      "file": "images/pixel/heroines_megafon_ramune_iroha__2.png",
+      "heightCm": 154.3,
+      "width": 324,
+      "height": 652,
+      "bytes": 42903,
+      "name": "明音いろは",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_koharu_noka__2",
+      "file": "images/pixel/heroines_megafon_koharu_noka__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 43363,
+      "name": "小晴のか",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_hoshino_ami_megafon__2",
+      "file": "images/pixel/heroines_megafon_hoshino_ami_megafon__2.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 44422,
+      "name": "星野あみ",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_miyashiro_yuki__2",
+      "file": "images/pixel/heroines_megafon_miyashiro_yuki__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 45763,
+      "name": "宮代ゆき",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_himari_kii__2",
+      "file": "images/pixel/heroines_megafon_himari_kii__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 47400,
+      "name": "日陽きい",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     }
   ]
 }

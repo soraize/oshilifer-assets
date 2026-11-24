@@ -3830,6 +3830,39 @@
       "name": "日陽きい",
       "groupId": "heroines_megafon",
       "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_last_scene_yuzuki_ichika__2",
+      "file": "images/pixel/heroines_last_scene_yuzuki_ichika__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 42284,
+      "name": "佑月いちか",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
+    },
+    {
+      "masterId": "heroines_last_scene_amo_shiori__2",
+      "file": "images/pixel/heroines_last_scene_amo_shiori__2.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 45184,
+      "name": "天羽しおり",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
+    },
+    {
+      "masterId": "heroines_last_scene_koga_mirei__2",
+      "file": "images/pixel/heroines_last_scene_koga_mirei__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 42131,
+      "name": "古賀みれい",
+      "groupId": "heroines_last_scene",
+      "groupName": "ラストシーン"
     }
   ]
 }

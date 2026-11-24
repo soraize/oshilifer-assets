@@ -3940,6 +3940,83 @@
       "name": "秋田こまち",
       "groupId": "heroines_ponkotsu_konpo",
       "groupName": "ポンコツコンポ"
+    },
+    {
+      "masterId": "heroines_nonfiction_kouzuki_amu__2",
+      "file": "images/pixel/heroines_nonfiction_kouzuki_amu__2.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 48306,
+      "name": "香月あむ",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_colne__2",
+      "file": "images/pixel/heroines_nonfiction_colne__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 39790,
+      "name": "こるね",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_nagatsuki_touka__2",
+      "file": "images/pixel/heroines_nonfiction_nagatsuki_touka__2.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 42058,
+      "name": "永月十華",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_miori_niina__2",
+      "file": "images/pixel/heroines_nonfiction_miori_niina__2.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 43440,
+      "name": "澪織にいな",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_konose_haruka__2",
+      "file": "images/pixel/heroines_nonfiction_konose_haruka__2.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 42126,
+      "name": "恋星はるか",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_minase_piano__2",
+      "file": "images/pixel/heroines_nonfiction_minase_piano__2.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 44534,
+      "name": "水瀬ぴあの",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_nonfiction_aqua_marin__2",
+      "file": "images/pixel/heroines_nonfiction_aqua_marin__2.png",
+      "heightCm": 156.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 41880,
+      "name": "海まりん",
+      "groupId": "heroines_nonfiction",
+      "groupName": "のんふぃく！"
     }
   ]
 }

@@ -3764,6 +3764,72 @@
       "name": "日陽きい",
       "groupId": "heroines_megafon",
       "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_wakumo_roko__4",
+      "file": "images/pixel/heroines_megafon_wakumo_roko__4.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 39272,
+      "name": "羽雲ろこ",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_ramune_iroha__4",
+      "file": "images/pixel/heroines_megafon_ramune_iroha__4.png",
+      "heightCm": 154.3,
+      "width": 324,
+      "height": 652,
+      "bytes": 38612,
+      "name": "明音いろは",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_koharu_noka__4",
+      "file": "images/pixel/heroines_megafon_koharu_noka__4.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 47090,
+      "name": "小晴のか",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_hoshino_ami_megafon__4",
+      "file": "images/pixel/heroines_megafon_hoshino_ami_megafon__4.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 35428,
+      "name": "星野あみ",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_miyashiro_yuki__4",
+      "file": "images/pixel/heroines_megafon_miyashiro_yuki__4.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 42184,
+      "name": "宮代ゆき",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_megafon_himari_kii__4",
+      "file": "images/pixel/heroines_megafon_himari_kii__4.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 42550,
+      "name": "日陽きい",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     }
   ]
 }

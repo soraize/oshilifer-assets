@@ -4017,6 +4017,17 @@
       "name": "海まりん",
       "groupId": "heroines_nonfiction",
       "groupName": "のんふぃく！"
+    },
+    {
+      "masterId": "heroines_ilife_konoka_riri__100",
+      "file": "images/pixel/heroines_ilife_konoka_riri__100.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 52110,
+      "name": "心花りり",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

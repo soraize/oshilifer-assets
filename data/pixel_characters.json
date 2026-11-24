@@ -4028,6 +4028,94 @@
       "name": "心花りり",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_pastel_closet_yukino_reia__2",
+      "file": "images/pixel/heroines_pastel_closet_yukino_reia__2.png",
+      "heightCm": 168,
+      "width": 324,
+      "height": 652,
+      "bytes": 44836,
+      "name": "幸野れいあ",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_nishina_mitsu__2",
+      "file": "images/pixel/heroines_pastel_closet_nishina_mitsu__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 48717,
+      "name": "仁科美都",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_shinohara_sakura__2",
+      "file": "images/pixel/heroines_pastel_closet_shinohara_sakura__2.png",
+      "heightCm": 160.7,
+      "width": 324,
+      "height": 652,
+      "bytes": 41327,
+      "name": "篠原さくら",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_anzai_minori__2",
+      "file": "images/pixel/heroines_pastel_closet_anzai_minori__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 36043,
+      "name": "安斎みのり",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_hanaki_maika__2",
+      "file": "images/pixel/heroines_pastel_closet_hanaki_maika__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 43302,
+      "name": "花木舞花",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_hinaki_nonoka__2",
+      "file": "images/pixel/heroines_pastel_closet_hinaki_nonoka__2.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 48018,
+      "name": "雛城ののか",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_sumihara_kaho__2",
+      "file": "images/pixel/heroines_pastel_closet_sumihara_kaho__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 44571,
+      "name": "澄原夏帆",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
+    },
+    {
+      "masterId": "heroines_pastel_closet_kanno_ai__2",
+      "file": "images/pixel/heroines_pastel_closet_kanno_ai__2.png",
+      "heightCm": 163.1,
+      "width": 324,
+      "height": 652,
+      "bytes": 43584,
+      "name": "柑乃あい",
+      "groupId": "heroines_pastel_closet",
+      "groupName": "Pastel Closet"
     }
   ]
 }

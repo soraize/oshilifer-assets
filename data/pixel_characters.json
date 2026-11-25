@@ -4402,6 +4402,61 @@
       "name": "響羽リズ",
       "groupId": "heroines_adamlilith",
       "groupName": "AdamLilith"
+    },
+    {
+      "masterId": "heroines_tenrin_kasumi_ageha__2",
+      "file": "images/pixel/heroines_tenrin_kasumi_ageha__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 55469,
+      "name": "霞あげは",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
+    },
+    {
+      "masterId": "heroines_tenrin_shirasu_ayan__2",
+      "file": "images/pixel/heroines_tenrin_shirasu_ayan__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 52676,
+      "name": "白洲あやん",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
+    },
+    {
+      "masterId": "heroines_tenrin_renge_urara__2",
+      "file": "images/pixel/heroines_tenrin_renge_urara__2.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 59924,
+      "name": "蓮花うらら",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
+    },
+    {
+      "masterId": "heroines_tenrin_no_more_chacha__2",
+      "file": "images/pixel/heroines_tenrin_no_more_chacha__2.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 49907,
+      "name": "のもあちゃちゃ",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
+    },
+    {
+      "masterId": "heroines_tenrin_nanase_nico__2",
+      "file": "images/pixel/heroines_tenrin_nanase_nico__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 45858,
+      "name": "七瀬にこ",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     }
   ]
 }

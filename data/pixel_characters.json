@@ -4193,6 +4193,39 @@
       "name": "水萌しゅる",
       "groupId": "heroines_yakousei_amuse",
       "groupName": "夜光性アミューズ"
+    },
+    {
+      "masterId": "heroines_ill_shikino_shiki__2",
+      "file": "images/pixel/heroines_ill_shikino_shiki__2.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 44922,
+      "name": "紫ノ色",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_ill_aoi_kanau__2",
+      "file": "images/pixel/heroines_ill_aoi_kanau__2.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 48761,
+      "name": "蒼井叶",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_ill_shirayuki_himeno__2",
+      "file": "images/pixel/heroines_ill_shirayuki_himeno__2.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 49284,
+      "name": "白雪姫乃",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
     }
   ]
 }

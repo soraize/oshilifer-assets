@@ -4490,6 +4490,50 @@
       "name": "百宮みも",
       "groupId": "heroines_dress_code",
       "groupName": "ドレスコード"
+    },
+    {
+      "masterId": "heroines_dress_code_momomiya_mimo__4",
+      "file": "images/pixel/heroines_dress_code_momomiya_mimo__4.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 41806,
+      "name": "百宮みも",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
+    },
+    {
+      "masterId": "heroines_dress_code_otogi_rilum__3",
+      "file": "images/pixel/heroines_dress_code_otogi_rilum__3.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 46169,
+      "name": "御伽りるむ",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
+    },
+    {
+      "masterId": "heroines_dress_code_hayasaka_wamu__2",
+      "file": "images/pixel/heroines_dress_code_hayasaka_wamu__2.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 50164,
+      "name": "早坂わむ",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
+    },
+    {
+      "masterId": "heroines_dress_code_tsukino_anon__2",
+      "file": "images/pixel/heroines_dress_code_tsukino_anon__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 53121,
+      "name": "月野あのん",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
     }
   ]
 }

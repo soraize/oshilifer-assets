@@ -4534,6 +4534,61 @@
       "name": "月野あのん",
       "groupId": "heroines_dress_code",
       "groupName": "ドレスコード"
+    },
+    {
+      "masterId": "heroines_parallel_cider_usami_ako__2",
+      "file": "images/pixel/heroines_parallel_cider_usami_ako__2.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 43808,
+      "name": "宇佐美あこ",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
+    },
+    {
+      "masterId": "heroines_parallel_cider_yuuki_ai__2",
+      "file": "images/pixel/heroines_parallel_cider_yuuki_ai__2.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 42282,
+      "name": "小熊まな香",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
+    },
+    {
+      "masterId": "heroines_parallel_cider_kosaka_mion__2",
+      "file": "images/pixel/heroines_parallel_cider_kosaka_mion__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 50971,
+      "name": "小坂みおん",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
+    },
+    {
+      "masterId": "heroines_parallel_cider_hazuki_mitsuha__2",
+      "file": "images/pixel/heroines_parallel_cider_hazuki_mitsuha__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 42119,
+      "name": "葉月みつは",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
+    },
+    {
+      "masterId": "heroines_parallel_cider_anon_yuno__2",
+      "file": "images/pixel/heroines_parallel_cider_anon_yuno__2.png",
+      "heightCm": 146,
+      "width": 324,
+      "height": 652,
+      "bytes": 40642,
+      "name": "彩音ゆの",
+      "groupId": "heroines_parallel_cider",
+      "groupName": "パラレルサイダー"
     }
   ]
 }

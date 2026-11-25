@@ -4589,6 +4589,72 @@
       "name": "彩音ゆの",
       "groupId": "heroines_parallel_cider",
       "groupName": "パラレルサイダー"
+    },
+    {
+      "masterId": "heroines_chula_kagami_mirano__2",
+      "file": "images/pixel/heroines_chula_kagami_mirano__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 47075,
+      "name": "明鏡みらの",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_chula_hisaki_mio__2",
+      "file": "images/pixel/heroines_chula_hisaki_mio__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 42086,
+      "name": "陽咲みお",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_chula_ameiro_ringo__2",
+      "file": "images/pixel/heroines_chula_ameiro_ringo__2.png",
+      "heightCm": 148,
+      "width": 324,
+      "height": 652,
+      "bytes": 43219,
+      "name": "飴色りんご",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_chula_mano_yuni__2",
+      "file": "images/pixel/heroines_chula_mano_yuni__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 39443,
+      "name": "茉野ゆに",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_chula_tsurara_rara__2",
+      "file": "images/pixel/heroines_chula_tsurara_rara__2.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 45929,
+      "name": "紫藤らら",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_chula_seno_tsubasa__2",
+      "file": "images/pixel/heroines_chula_seno_tsubasa__2.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 40152,
+      "name": "世野つばさ",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     }
   ]
 }

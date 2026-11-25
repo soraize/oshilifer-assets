@@ -4226,6 +4226,50 @@
       "name": "白雪姫乃",
       "groupId": "heroines_ill",
       "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_ill_mori_marimo__2",
+      "file": "images/pixel/heroines_ill_mori_marimo__2.png",
+      "heightCm": 168,
+      "width": 324,
+      "height": 652,
+      "bytes": 45846,
+      "name": "森緑藻",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_ill_aoi_kanau__3",
+      "file": "images/pixel/heroines_ill_aoi_kanau__3.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 48705,
+      "name": "蒼井叶",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_ill_shirayuki_himeno__3",
+      "file": "images/pixel/heroines_ill_shirayuki_himeno__3.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 45876,
+      "name": "白雪姫乃",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
+    },
+    {
+      "masterId": "heroines_ill_shikino_shiki__3",
+      "file": "images/pixel/heroines_ill_shikino_shiki__3.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 41295,
+      "name": "紫ノ色",
+      "groupId": "heroines_ill",
+      "groupName": "Ill"
     }
   ]
 }

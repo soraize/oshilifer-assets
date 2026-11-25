@@ -4358,6 +4358,50 @@
       "name": "響羽リズ",
       "groupId": "heroines_adamlilith",
       "groupName": "AdamLilith"
+    },
+    {
+      "masterId": "heroines_adamlilith_miki_ray__3",
+      "file": "images/pixel/heroines_adamlilith_miki_ray__3.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 55603,
+      "name": "三木零",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
+    },
+    {
+      "masterId": "heroines_adamlilith_yayoi_yamu__3",
+      "file": "images/pixel/heroines_adamlilith_yayoi_yamu__3.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 55346,
+      "name": "夜宵やむ",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
+    },
+    {
+      "masterId": "heroines_adamlilith_miyako_yuna__3",
+      "file": "images/pixel/heroines_adamlilith_miyako_yuna__3.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 47396,
+      "name": "都ユナ",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
+    },
+    {
+      "masterId": "heroines_adamlilith_otoha_rizu__3",
+      "file": "images/pixel/heroines_adamlilith_otoha_rizu__3.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 53428,
+      "name": "響羽リズ",
+      "groupId": "heroines_adamlilith",
+      "groupName": "AdamLilith"
     }
   ]
 }

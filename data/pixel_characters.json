@@ -4655,6 +4655,83 @@
       "name": "世野つばさ",
       "groupId": "heroines_chula",
       "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_imin_mikaze_aru__2",
+      "file": "images/pixel/heroines_imin_mikaze_aru__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 45770,
+      "name": "美風ある",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_imin_yukise_ive__2",
+      "file": "images/pixel/heroines_imin_yukise_ive__2.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 49438,
+      "name": "雪聖いぶ",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_imin_natsuzora_kirari__2",
+      "file": "images/pixel/heroines_imin_natsuzora_kirari__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 47504,
+      "name": "夏空きらり",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_imin_izumi_nemu__2",
+      "file": "images/pixel/heroines_imin_izumi_nemu__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 45479,
+      "name": "和泉ねむ",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_imin_hanasaki_furan__2",
+      "file": "images/pixel/heroines_imin_hanasaki_furan__2.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 49618,
+      "name": "華咲ふらん",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_imin_akane_latte__2",
+      "file": "images/pixel/heroines_imin_akane_latte__2.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 47011,
+      "name": "紅音らて",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_imin_momono_nono__2",
+      "file": "images/pixel/heroines_imin_momono_nono__2.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 48033,
+      "name": "桃乃のの",
+      "groupId": "heroines_imin",
+      "groupName": "iMiN!"
     }
   ]
 }

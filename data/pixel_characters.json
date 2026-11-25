@@ -4457,6 +4457,28 @@
       "name": "七瀬にこ",
       "groupId": "heroines_tenrin",
       "groupName": "TENRIN"
+    },
+    {
+      "masterId": "heroines_dress_code_momomiya_mimo__2",
+      "file": "images/pixel/heroines_dress_code_momomiya_mimo__2.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 50602,
+      "name": "百宮みも",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
+    },
+    {
+      "masterId": "heroines_dress_code_otogi_rilum__2",
+      "file": "images/pixel/heroines_dress_code_otogi_rilum__2.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 50674,
+      "name": "御伽りるむ",
+      "groupId": "heroines_dress_code",
+      "groupName": "ドレスコード"
     }
   ]
 }

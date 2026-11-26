@@ -5348,6 +5348,28 @@
       "name": "茉野ゆに",
       "groupId": "heroines_chula",
       "groupName": "chuLa"
+    },
+    {
+      "masterId": "heroines_zuttomotto_shiina_suzu__100",
+      "file": "images/pixel/heroines_zuttomotto_shiina_suzu__100.png",
+      "heightCm": 150,
+      "width": 324,
+      "height": 652,
+      "bytes": 42481,
+      "name": "椎名すず",
+      "groupId": "heroines_zuttomotto",
+      "groupName": "ZUTTOMOTTO"
+    },
+    {
+      "masterId": "heroines_ponkotsu_konpo_akita_komachi__100",
+      "file": "images/pixel/heroines_ponkotsu_konpo_akita_komachi__100.png",
+      "heightCm": 146.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 45062,
+      "name": "秋田こまち",
+      "groupId": "heroines_ponkotsu_konpo",
+      "groupName": "ポンコツコンポ"
     }
   ]
 }

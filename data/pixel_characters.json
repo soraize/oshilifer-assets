@@ -4919,6 +4919,72 @@
       "name": "琴音うな",
       "groupId": "heroines_tenshinranman",
       "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_tenshinranman_oda_koyun__3",
+      "file": "images/pixel/heroines_tenshinranman_oda_koyun__3.png",
+      "heightCm": 148.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 50476,
+      "name": "織田こゆん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_tenshinranman_ogura_azuki__3",
+      "file": "images/pixel/heroines_tenshinranman_ogura_azuki__3.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 42026,
+      "name": "小倉あずき",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_tenshinranman_ebihara_ten_heroines__3",
+      "file": "images/pixel/heroines_tenshinranman_ebihara_ten_heroines__3.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 48961,
+      "name": "海老原てん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_ion_osu_kanon__2",
+      "file": "images/pixel/heroines_ion_osu_kanon__2.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 49279,
+      "name": "大須かのん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_tenshinranman_misono_sora__3",
+      "file": "images/pixel/heroines_tenshinranman_misono_sora__3.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 41198,
+      "name": "味園そら",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_tenshinranman_kotone_una__3",
+      "file": "images/pixel/heroines_tenshinranman_kotone_una__3.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 51041,
+      "name": "琴音うな",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     }
   ]
 }

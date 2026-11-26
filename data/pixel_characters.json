@@ -5293,6 +5293,28 @@
       "name": "秋月えむ",
       "groupId": "heroines_gagapiero",
       "groupName": "ガガピエロ"
+    },
+    {
+      "masterId": "heroines_ion_uno_yuri__100",
+      "file": "images/pixel/heroines_ion_uno_yuri__100.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 33489,
+      "name": "宇野ゆり",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_ion_uno_yuri__101",
+      "file": "images/pixel/heroines_ion_uno_yuri__101.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 37094,
+      "name": "宇野ゆり",
+      "groupId": "heroines_ion",
+      "groupName": "iON!"
     }
   ]
 }

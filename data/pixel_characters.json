@@ -5150,6 +5150,50 @@
       "name": "夢羽るる",
       "groupId": "heroines_calandres",
       "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_asumi_maaya__3",
+      "file": "images/pixel/heroines_calandres_asumi_maaya__3.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 45705,
+      "name": "明日実まあや",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_yumeha_ruru__3",
+      "file": "images/pixel/heroines_calandres_yumeha_ruru__3.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 48225,
+      "name": "夢羽るる",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_kujo_asuna__3",
+      "file": "images/pixel/heroines_calandres_kujo_asuna__3.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 47550,
+      "name": "九条あすな",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_lime_neo__3",
+      "file": "images/pixel/heroines_calandres_lime_neo__3.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 42460,
+      "name": "来夢ねお",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     }
   ]
 }

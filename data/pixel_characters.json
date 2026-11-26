@@ -5326,6 +5326,28 @@
       "name": "宮代ゆき",
       "groupId": "heroines_megafon",
       "groupName": "MEGAFON"
+    },
+    {
+      "masterId": "heroines_nowstorage_nagase_reno__100",
+      "file": "images/pixel/heroines_nowstorage_nagase_reno__100.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 44986,
+      "name": "永瀬玲乃",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
+    },
+    {
+      "masterId": "heroines_chula_mano_yuni__100",
+      "file": "images/pixel/heroines_chula_mano_yuni__100.png",
+      "heightCm": 153,
+      "width": 324,
+      "height": 652,
+      "bytes": 37700,
+      "name": "茉野ゆに",
+      "groupId": "heroines_chula",
+      "groupName": "chuLa"
     }
   ]
 }

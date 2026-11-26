@@ -5205,6 +5205,28 @@
       "name": "羽宮きわみ",
       "groupId": "heroines_nowstorage",
       "groupName": "なう♡すとれーじ"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_asahi_maru__100",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_asahi_maru__100.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 53798,
+      "name": "朝日まる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_asahi_maru__101",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_asahi_maru__101.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 44406,
+      "name": "朝日まる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
     }
   ]
 }

@@ -5260,6 +5260,28 @@
       "name": "朝日まる",
       "groupId": "heroines_unfil",
       "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_tenrin_tokino_now__100",
+      "file": "images/pixel/heroines_tenrin_tokino_now__100.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 47753,
+      "name": "刻乃なう",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
+    },
+    {
+      "masterId": "heroines_tenrin_tokino_now__101",
+      "file": "images/pixel/heroines_tenrin_tokino_now__101.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 35217,
+      "name": "刻乃なう",
+      "groupId": "heroines_tenrin",
+      "groupName": "TENRIN"
     }
   ]
 }

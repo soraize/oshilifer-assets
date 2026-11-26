@@ -5106,6 +5106,50 @@
       "name": "苺川えくぼ",
       "groupId": "heroines_nanakorobi_yaoki",
       "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_calandres_kujo_asuna__2",
+      "file": "images/pixel/heroines_calandres_kujo_asuna__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 48131,
+      "name": "九条あすな",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_lime_neo__2",
+      "file": "images/pixel/heroines_calandres_lime_neo__2.png",
+      "heightCm": 156,
+      "width": 324,
+      "height": 652,
+      "bytes": 49035,
+      "name": "来夢ねお",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_asumi_maaya__2",
+      "file": "images/pixel/heroines_calandres_asumi_maaya__2.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 42136,
+      "name": "明日実まあや",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_calandres_yumeha_ruru__2",
+      "file": "images/pixel/heroines_calandres_yumeha_ruru__2.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 45690,
+      "name": "夢羽るる",
+      "groupId": "heroines_calandres",
+      "groupName": "CAL&RES"
     }
   ]
 }

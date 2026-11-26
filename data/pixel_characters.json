@@ -4985,6 +4985,28 @@
       "name": "琴音うな",
       "groupId": "heroines_tenshinranman",
       "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_ion_osu_kanon__100",
+      "file": "images/pixel/heroines_ion_osu_kanon__100.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 48704,
+      "name": "大須かのん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_ion_osu_kanon__101",
+      "file": "images/pixel/heroines_ion_osu_kanon__101.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 48940,
+      "name": "大須かのん",
+      "groupId": "heroines_tenshinranman",
+      "groupName": "テンシンランマン"
     }
   ]
 }

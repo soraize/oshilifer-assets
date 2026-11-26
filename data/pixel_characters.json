@@ -5194,6 +5194,17 @@
       "name": "来夢ねお",
       "groupId": "heroines_calandres",
       "groupName": "CAL&RES"
+    },
+    {
+      "masterId": "heroines_nowstorage_umiya_kiwami__100",
+      "file": "images/pixel/heroines_nowstorage_umiya_kiwami__100.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 51246,
+      "name": "羽宮きわみ",
+      "groupId": "heroines_nowstorage",
+      "groupName": "なう♡すとれーじ"
     }
   ]
 }

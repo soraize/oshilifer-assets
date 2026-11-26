@@ -5238,6 +5238,28 @@
       "name": "朝日まる",
       "groupId": "heroines_unfil",
       "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_asahi_maru__103",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_asahi_maru__103.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 50811,
+      "name": "朝日まる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_asahi_maru__104",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_asahi_maru__104.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 43175,
+      "name": "朝日まる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
     }
   ]
 }

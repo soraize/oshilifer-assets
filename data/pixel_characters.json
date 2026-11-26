@@ -5315,6 +5315,17 @@
       "name": "宇野ゆり",
       "groupId": "heroines_ion",
       "groupName": "iON!"
+    },
+    {
+      "masterId": "heroines_megafon_miyashiro_yuki__100",
+      "file": "images/pixel/heroines_megafon_miyashiro_yuki__100.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 39009,
+      "name": "宮代ゆき",
+      "groupId": "heroines_megafon",
+      "groupName": "MEGAFON"
     }
   ]
 }

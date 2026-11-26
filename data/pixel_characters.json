@@ -5227,6 +5227,17 @@
       "name": "朝日まる",
       "groupId": "heroines_unfil",
       "groupName": "あんふぃる！"
+    },
+    {
+      "masterId": "heroines_heroines_kenkyuusei_asahi_maru__102",
+      "file": "images/pixel/heroines_heroines_kenkyuusei_asahi_maru__102.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 50471,
+      "name": "朝日まる",
+      "groupId": "heroines_unfil",
+      "groupName": "あんふぃる！"
     }
   ]
 }

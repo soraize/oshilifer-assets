@@ -5007,6 +5007,83 @@
       "name": "大須かのん",
       "groupId": "heroines_tenshinranman",
       "groupName": "テンシンランマン"
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_mizuta_mari_heroines__2",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_mizuta_mari_heroines__2.png",
+      "heightCm": 167,
+      "width": 324,
+      "height": 652,
+      "bytes": 45247,
+      "name": "水田茉莉",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_kumanomi_nimo__2",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_kumanomi_nimo__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 50050,
+      "name": "熊ノ実にも",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_ion_maisen_ekubo__2",
+      "file": "images/pixel/heroines_ion_maisen_ekubo__2.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 44132,
+      "name": "苺川えくぼ",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_hanna_riko__2",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_hanna_riko__2.png",
+      "heightCm": 158,
+      "width": 324,
+      "height": 652,
+      "bytes": 56174,
+      "name": "阪菜りこ",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_eeno_nina__2",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_eeno_nina__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 45329,
+      "name": "笑乃にな",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_utage_tenka__2",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_utage_tenka__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 47636,
+      "name": "歌花てんか",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_nanakorobi_yaoki_setouchi_lemon__2",
+      "file": "images/pixel/heroines_nanakorobi_yaoki_setouchi_lemon__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 39903,
+      "name": "瀬戸内れもん",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     }
   ]
 }

@@ -4787,6 +4787,83 @@
       "name": "雨宮るり",
       "groupId": "heroines_haruka_echo",
       "groupName": "ハルカエコー"
+    },
+    {
+      "masterId": "heroines_full_course_nakagawa_cocoro__2",
+      "file": "images/pixel/heroines_full_course_nakagawa_cocoro__2.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 44826,
+      "name": "中川心",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
+    },
+    {
+      "masterId": "heroines_full_course_konoha_cona__2",
+      "file": "images/pixel/heroines_full_course_konoha_cona__2.png",
+      "heightCm": 154,
+      "width": 324,
+      "height": 652,
+      "bytes": 44482,
+      "name": "小葉こな",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
+    },
+    {
+      "masterId": "heroines_full_course_abe_nanami__2",
+      "file": "images/pixel/heroines_full_course_abe_nanami__2.png",
+      "heightCm": 171,
+      "width": 324,
+      "height": 652,
+      "bytes": 45430,
+      "name": "阿部菜々実",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
+    },
+    {
+      "masterId": "heroines_full_course_suzuki_haruka__2",
+      "file": "images/pixel/heroines_full_course_suzuki_haruka__2.png",
+      "heightCm": 165,
+      "width": 324,
+      "height": 652,
+      "bytes": 48821,
+      "name": "鈴木遥夏",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
+    },
+    {
+      "masterId": "heroines_full_course_kaneshiro_maki__2",
+      "file": "images/pixel/heroines_full_course_kaneshiro_maki__2.png",
+      "heightCm": 160,
+      "width": 324,
+      "height": 652,
+      "bytes": 51548,
+      "name": "金城まき",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
+    },
+    {
+      "masterId": "heroines_full_course_osaki_mihane__2",
+      "file": "images/pixel/heroines_full_course_osaki_mihane__2.png",
+      "heightCm": 157,
+      "width": 324,
+      "height": 652,
+      "bytes": 45612,
+      "name": "桜咲みはね",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
+    },
+    {
+      "masterId": "heroines_full_course_mizukami_rimika__2",
+      "file": "images/pixel/heroines_full_course_mizukami_rimika__2.png",
+      "heightCm": 161,
+      "width": 324,
+      "height": 652,
+      "bytes": 59033,
+      "name": "水上凜巳花",
+      "groupId": "heroines_full_course",
+      "groupName": "フルコース"
     }
   ]
 }

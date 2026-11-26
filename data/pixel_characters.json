@@ -5084,6 +5084,28 @@
       "name": "瀬戸内れもん",
       "groupId": "heroines_nanakorobi_yaoki",
       "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_ion_maisen_ekubo__100",
+      "file": "images/pixel/heroines_ion_maisen_ekubo__100.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 56116,
+      "name": "苺川えくぼ",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
+    },
+    {
+      "masterId": "heroines_ion_maisen_ekubo__101",
+      "file": "images/pixel/heroines_ion_maisen_ekubo__101.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 45365,
+      "name": "苺川えくぼ",
+      "groupId": "heroines_nanakorobi_yaoki",
+      "groupName": "ナナコロビヤオキ"
     }
   ]
 }

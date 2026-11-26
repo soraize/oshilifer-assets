@@ -1043,7 +1043,7 @@
       "heightCm": 156.5,
       "width": 324,
       "height": 652,
-      "bytes": 35174,
+      "bytes": 33064,
       "name": "高坂りん",
       "groupId": "heroines_haruka_echo",
       "groupName": "ハルカエコー"
@@ -1054,7 +1054,7 @@
       "heightCm": 154.5,
       "width": 324,
       "height": 652,
-      "bytes": 33364,
+      "bytes": 30997,
       "name": "神凪みふゆ",
       "groupId": "heroines_haruka_echo",
       "groupName": "ハルカエコー"
@@ -1065,7 +1065,7 @@
       "heightCm": 152,
       "width": 324,
       "height": 652,
-      "bytes": 33877,
+      "bytes": 31794,
       "name": "常盤うた",
       "groupId": "heroines_haruka_echo",
       "groupName": "ハルカエコー"
@@ -1076,7 +1076,7 @@
       "heightCm": 151,
       "width": 324,
       "height": 652,
-      "bytes": 34226,
+      "bytes": 32470,
       "name": "雨宮るり",
       "groupId": "heroines_haruka_echo",
       "groupName": "ハルカエコー"
@@ -4732,6 +4732,61 @@
       "name": "桃乃のの",
       "groupId": "heroines_imin",
       "groupName": "iMiN!"
+    },
+    {
+      "masterId": "heroines_haruka_echo_tokiwa_uta__2",
+      "file": "images/pixel/heroines_haruka_echo_tokiwa_uta__2.png",
+      "heightCm": 152,
+      "width": 324,
+      "height": 652,
+      "bytes": 32176,
+      "name": "常盤うた",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
+    },
+    {
+      "masterId": "heroines_haruka_echo_hirasawa_kae__2",
+      "file": "images/pixel/heroines_haruka_echo_hirasawa_kae__2.png",
+      "heightCm": 163,
+      "width": 324,
+      "height": 652,
+      "bytes": 41905,
+      "name": "平沢かえ",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
+    },
+    {
+      "masterId": "heroines_haruka_echo_kannagi_mifuyu__2",
+      "file": "images/pixel/heroines_haruka_echo_kannagi_mifuyu__2.png",
+      "heightCm": 154.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 35781,
+      "name": "神凪みふゆ",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
+    },
+    {
+      "masterId": "heroines_haruka_echo_kousaka_rin__2",
+      "file": "images/pixel/heroines_haruka_echo_kousaka_rin__2.png",
+      "heightCm": 156.5,
+      "width": 324,
+      "height": 652,
+      "bytes": 34291,
+      "name": "高坂りん",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
+    },
+    {
+      "masterId": "heroines_haruka_echo_amamiya_ruri__2",
+      "file": "images/pixel/heroines_haruka_echo_amamiya_ruri__2.png",
+      "heightCm": 151,
+      "width": 324,
+      "height": 652,
+      "bytes": 33673,
+      "name": "雨宮るり",
+      "groupId": "heroines_haruka_echo",
+      "groupName": "ハルカエコー"
     }
   ]
 }

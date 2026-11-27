@@ -5436,6 +5436,17 @@
       "name": "空詩かれん",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_mamori_mew__100",
+      "file": "images/pixel/heroines_ilife_mamori_mew__100.png",
+      "heightCm": 162,
+      "width": 324,
+      "height": 652,
+      "bytes": 57824,
+      "name": "真守みゅう",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

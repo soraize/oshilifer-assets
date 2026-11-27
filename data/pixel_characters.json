@@ -5414,6 +5414,17 @@
       "name": "福丸うさ",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_sumire_miki__100",
+      "file": "images/pixel/heroines_ilife_sumire_miki__100.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 59833,
+      "name": "純嶺みき",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

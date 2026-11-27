@@ -5403,6 +5403,17 @@
       "name": "若葉のあ",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_fukumaru_usa__100",
+      "file": "images/pixel/heroines_ilife_fukumaru_usa__100.png",
+      "heightCm": 159,
+      "width": 324,
+      "height": 652,
+      "bytes": 47965,
+      "name": "福丸うさ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

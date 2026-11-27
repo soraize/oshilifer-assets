@@ -5425,6 +5425,17 @@
       "name": "純嶺みき",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_sonata_karen__100",
+      "file": "images/pixel/heroines_ilife_sonata_karen__100.png",
+      "heightCm": 155,
+      "width": 324,
+      "height": 652,
+      "bytes": 59056,
+      "name": "空詩かれん",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }

@@ -5392,6 +5392,17 @@
       "name": "虹羽みに",
       "groupId": "heroines_ilife",
       "groupName": "iLiFE!"
+    },
+    {
+      "masterId": "heroines_ilife_wakaba_noa__100",
+      "file": "images/pixel/heroines_ilife_wakaba_noa__100.png",
+      "heightCm": 164,
+      "width": 324,
+      "height": 652,
+      "bytes": 72022,
+      "name": "若葉のあ",
+      "groupId": "heroines_ilife",
+      "groupName": "iLiFE!"
     }
   ]
 }
